@@ -1,0 +1,538 @@
+[
+ {
+  "lesson": 11,
+  "title": "Hallo! Kus sa oled? (phone call assembled from the speech bubbles in ex. 11)",
+  "text_et": "A: Hallo! Kus sa oled?\nB: Londonis.\nA: Oi, kui tore! Kuidas ilm on?\nB: Õudne!\nA: Kui palju sooja on?\nB: 1,3 kraadi.\nA: Kas tuult on?\nB: Jaa, puhub põhjatuul, 2 m/s.\nA: Kas vihma sajab?\nB: Jah.\nA: Nii õudne! Tule ruttu koju!",
+  "text_en": "A: Hello! Where are you?\nB: In London.\nA: Oh, how nice! What's the weather like?\nB: Awful!\nA: How warm is it?\nB: 1.3 degrees.\nA: Is there any wind?\nB: Yeah, a north wind is blowing, 2 m/s.\nA: Is it raining?\nB: Yes.\nA: How awful! Come home quickly!",
+  "questions": [
+   {
+    "q": "Kus on B?",
+    "options": [
+     "Tallinnas",
+     "Londonis",
+     "Pärnus",
+     "Tartus"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kuidas ilm Londonis on?",
+    "options": [
+     "ilus",
+     "hea",
+     "õudne",
+     "soe"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kui palju sooja on?",
+    "options": [
+     "13 kraadi",
+     "1,3 kraadi",
+     "3 kraadi",
+     "2 kraadi"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis tuul puhub?",
+    "options": [
+     "lõunatuul",
+     "idatuul",
+     "põhjatuul",
+     "läänetuul"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kas Londonis sajab vihma?",
+    "options": [
+     "Jah, sajab küll.",
+     "Ei, ei saja."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mida ütleb A lõpus?",
+    "options": [
+     "Tule ruttu koju!",
+     "Head reisi!",
+     "Nägemist!",
+     "Head isu!"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "lesson": 11,
+  "title": "Ilmateade (forecast written for the app on the workbook's ex. 8 template; the workbook's own forecasts are audio-only)",
+  "text_et": "Homme on taevas pilves. Hommikul sajab vihma, pärastlõunal sajab lörtsi. Puhub loodetuul 5–10 meetrit sekundis. Lääne-Eestis on õhtul torm. Õhutemperatuur on +1 … +4 kraadi.\nÜlehomme on taevas selge ja päike paistab. Vihma ei saja. Puhub lõunatuul 2–5 meetrit sekundis. Sooja on 6 … 8 kraadi.",
+  "text_en": "Tomorrow the sky will be overcast. In the morning it will rain, in the afternoon there will be sleet. A northwest wind will blow at 5–10 metres per second. In Western Estonia there will be a storm in the evening. The air temperature will be +1 to +4 degrees.\nThe day after tomorrow the sky will be clear and the sun will shine. It won't rain. A south wind will blow at 2–5 metres per second. It will be 6 to 8 degrees above zero.",
+  "questions": [
+   {
+    "q": "Missugune on homme taevas?",
+    "options": [
+     "selge",
+     "pilves",
+     "sinine",
+     "päikesepaisteline"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis sajab homme pärastlõunal?",
+    "options": [
+     "vihma",
+     "lund",
+     "lörtsi",
+     "rahet"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis tuul homme puhub?",
+    "options": [
+     "loodetuul",
+     "kirdetuul",
+     "lõunatuul",
+     "idatuul"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kus on homme õhtul torm?",
+    "options": [
+     "Ida-Eestis",
+     "Lääne-Eestis",
+     "Tartus",
+     "Narvas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas ülehomme sajab vihma?",
+    "options": [
+     "Jah, sajab küll.",
+     "Ei, ei saja."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitu kraadi on ülehomme sooja?",
+    "options": [
+     "1–4 kraadi",
+     "2–5 kraadi",
+     "6–8 kraadi",
+     "5–10 kraadi"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 12,
+  "title": "Triinu päev (listening dialogue, ex. 3 and 6; gaps reconstructed from the action lists in ex. 4, 5 and 7)",
+  "text_et": "Paul: Mida sa hommikul teed?\nTriinu: Hm. Hommikul ma magan muidugi.\nPaul: Mis kell sa ärkad?\nTriinu: Umbes kell üheksa.\nPaul: Ja mida sa siis teed?\nTriinu: Tõusen üles. Siis teen kohvi ja joon kohvi ja söön kaks küpsist.\nPaul: Ja mida sa siis teed?\nTriinu: Siis käin duši all ja pesen hambaid.\nPaul: Ja mida sa pärast seda teed?\nTriinu: Pärast seda ma loen uudiseid internetist ja istun natuke Facebookis.\nPaul: Ja mida sa siis teed?\nTriinu: Panen riidesse. Lähen bussipeatusesse ja sõidan bussiga tööle. Ja nüüd olen tööl, joon natuke kohvi ja hakkan töötama.\nPaul: Mis kellani sa täna töötad?\nTriinu: Umbes kella viieni.\nPaul: Ja mida sa õhtul teed?\nTriinu: No esmaspäeviti olen alati karate trennis, teisipäeviti ja neljapäeviti käin esperanto keele kursusel, kolmapäeviti käin karaokebaaris, reedeti...\nPaul: Kas sa mõnikord kodus ka oled?\nTriinu: Jaa, reede õhtul olen alati kodus! Vaatan Netflixist märulifilme!",
+  "text_en": "Paul: What do you do in the morning?\nTriinu: Hm. In the morning I sleep, of course.\nPaul: What time do you wake up?\nTriinu: At about nine.\nPaul: And what do you do then?\nTriinu: I get up. Then I make coffee and drink coffee and eat two biscuits.\nPaul: And what do you do then?\nTriinu: Then I take a shower and brush my teeth.\nPaul: And what do you do after that?\nTriinu: After that I read the news on the internet and spend a little time on Facebook.\nPaul: And what do you do then?\nTriinu: I get dressed. I go to the bus stop and take the bus to work. And now I'm at work, I drink a little coffee and start working.\nPaul: Until what time are you working today?\nTriinu: Until about five.\nPaul: And what do you do in the evening?\nTriinu: Well, on Mondays I'm always at karate training, on Tuesdays and Thursdays I go to an Esperanto course, on Wednesdays I go to a karaoke bar, on Fridays...\nPaul: Are you ever at home too?\nTriinu: Yeah, on Friday evening I'm always at home! I watch action films on Netflix!",
+  "questions": [
+   {
+    "q": "Mis kell Triinu ärkab?",
+    "options": [
+     "kell kaheksa",
+     "umbes kell üheksa",
+     "kell kümme",
+     "kell viis"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitu küpsist Triinu sööb?",
+    "options": [
+     "üks",
+     "kaks",
+     "kolm",
+     "neli"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kuidas Triinu tööle sõidab?",
+    "options": [
+     "autoga",
+     "rongiga",
+     "bussiga",
+     "jalgrattaga"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis kellani Triinu täna töötab?",
+    "options": [
+     "kella neljani",
+     "umbes kella viieni",
+     "kella kuueni",
+     "kella üheksani"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kus on Triinu esmaspäeviti õhtul?",
+    "options": [
+     "karaokebaaris",
+     "karate trennis",
+     "esperanto keele kursusel",
+     "kodus"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida Triinu reede õhtul teeb?",
+    "options": [
+     "käib karaokebaaris",
+     "on kodus ja vaatab märulifilme",
+     "käib trennis",
+     "on tööl"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 12,
+  "title": "Romeo tavaline nädal (Romeo's calendar, ex. 12)",
+  "text_et": "ESMASPÄEV, 20. APRILL: 10.00 trenn; 13.00 lõuna Piretiga; 17.00 itaalia keele kursus\nTEISIPÄEV, 21. APRILL: 10.00 koosolek; 13.00 lõuna Tiinaga\nKOLMAPÄEV, 22. APRILL: 13.00 lõuna Andrusega; 17.00 trenn\nNELJAPÄEV, 23. APRILL: 13.00 lõuna Kristiga; 14.00 koosolek Skype'is\nREEDE, 24. APRILL: 13.00 lõuna Kauriga; 17.00 itaalia keele kursus\nLAUPÄEV, 25. APRILL: 12.00 jalgpall; 13.00 lõuna Kristiinaga\nPÜHAPÄEV, 26. APRILL: 13.00 lõuna tädi Maaliga; 15.00 solaarium ja massaaž Martini juures\n\nESMASPÄEV, 27. APRILL: 10.00 trenn; 13.00 lõuna Katriniga; 17.00 itaalia keele kursus\nTEISIPÄEV, 28. APRILL: 10.00 koosolek; 13.00 lõuna Heliga\nKOLMAPÄEV, 29. APRILL: 13.00 lõuna Moonikaga; 17.00 trenn\nNELJAPÄEV, 30. APRILL: 13.00 lõuna Sveniga\nREEDE, 1. MAI: 13.00 lõuna Külliga; 17.00 itaalia keele kursus (jääb ära)\nLAUPÄEV, 2. MAI: 12.00 jalgpall; 13.00 lõuna Arturiga; 22.00 NB! Lennujaama! Marleen tuleb Saksamaalt koju\nPÜHAPÄEV, 3. MAI: Marleeniga muuseumi, teatrisse, restorani, spaasse",
+  "text_en": "MONDAY, 20 APRIL: 10.00 training; 13.00 lunch with Piret; 17.00 Italian course\nTUESDAY, 21 APRIL: 10.00 meeting; 13.00 lunch with Tiina\nWEDNESDAY, 22 APRIL: 13.00 lunch with Andrus; 17.00 training\nTHURSDAY, 23 APRIL: 13.00 lunch with Kristi; 14.00 meeting on Skype\nFRIDAY, 24 APRIL: 13.00 lunch with Kaur; 17.00 Italian course\nSATURDAY, 25 APRIL: 12.00 football; 13.00 lunch with Kristiina\nSUNDAY, 26 APRIL: 13.00 lunch with Aunt Maali; 15.00 solarium and massage at Martin's\n\nMONDAY, 27 APRIL: 10.00 training; 13.00 lunch with Katrin; 17.00 Italian course\nTUESDAY, 28 APRIL: 10.00 meeting; 13.00 lunch with Heli\nWEDNESDAY, 29 APRIL: 13.00 lunch with Moonika; 17.00 training\nTHURSDAY, 30 APRIL: 13.00 lunch with Sven\nFRIDAY, 1 MAY: 13.00 lunch with Külli; 17.00 Italian course (cancelled)\nSATURDAY, 2 MAY: 12.00 football; 13.00 lunch with Artur; 22.00 NB! To the airport! Marleen is coming home from Germany\nSUNDAY, 3 MAY: with Marleen to the museum, theatre, restaurant, spa",
+  "questions": [
+   {
+    "q": "Mis kell Romeo tavaliselt lõunat sööb?",
+    "options": [
+     "kell 10",
+     "kell 12",
+     "kell 13",
+     "kell 17"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mitu korda nädalas käib Romeo trennis?",
+    "options": [
+     "üks kord",
+     "kaks korda",
+     "kolm korda",
+     "iga päev"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Millal käib Romeo itaalia keele kursusel?",
+    "options": [
+     "esmaspäeviti ja reedeti",
+     "teisipäeviti ja neljapäeviti",
+     "kolmapäeviti",
+     "laupäeviti"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mida Romeo laupäeviti kell 12 teeb?",
+    "options": [
+     "käib koosolekul",
+     "mängib jalgpalli",
+     "käib trennis",
+     "sööb lõunat"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis juhtub reedel, 1. mail?",
+    "options": [
+     "Itaalia keele kursus jääb ära.",
+     "Romeo läheb lennujaama.",
+     "Romeo mängib jalgpalli.",
+     "Romeo käib solaariumis."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kust tuleb Marleen koju?",
+    "options": [
+     "Itaaliast",
+     "Soomest",
+     "Saksamaalt",
+     "Rootsist"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 13,
+  "title": "Tule mulle külla! (listening dialogue, ex. 2; day, tram number and stop question filled from context, may differ from the audio)",
+  "text_et": "Paul: Tule mulle nädalavahetusel külla!\nTriinu: Hea meelega! Mis päeval?\nPaul: No tule näiteks pühapäeval!\nTriinu: Hästi! Mis kell?\nPaul: Kell üksteist.\nTriinu: Nii vara?\nPaul: Jah, mu ema teeb pannkooke.\nTriinu: Olgu, tulen!\nPaul: Tule trammiga number neli!\nTriinu: Hästi! Mis peatus?\nPaul: Peatuse nimi on Moosi. Minu maja on trammipeatuse vastas.\nTriinu: Selge! Mis ma kaasa võtan?\nPaul: Midagi pole vaja. Kõik on olemas.\nTriinu: Näeme siis pühapäeval!\nPaul: Jah!",
+  "text_en": "Paul: Come and visit me at the weekend!\nTriinu: With pleasure! What day?\nPaul: Well, come on Sunday, for example!\nTriinu: Fine! What time?\nPaul: At eleven.\nTriinu: So early?\nPaul: Yes, my mother is making pancakes.\nTriinu: OK, I'll come!\nPaul: Take tram number four!\nTriinu: Fine! Which stop?\nPaul: The name of the stop is Moosi. My house is opposite the tram stop.\nTriinu: Got it! What shall I bring?\nPaul: Nothing is needed. We have everything.\nTriinu: See you on Sunday then!\nPaul: Yes!",
+  "questions": [
+   {
+    "q": "Kes kutsub külla?",
+    "options": [
+     "Triinu",
+     "Paul",
+     "Pauli ema",
+     "Eva"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis kell kutsub Paul Triinu külla?",
+    "options": [
+     "kell 9",
+     "kell 11",
+     "kell 13",
+     "kell 19"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kes teeb pannkooke?",
+    "options": [
+     "Paul",
+     "Triinu",
+     "Pauli ema",
+     "Pauli isa"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis on peatuse nimi?",
+    "options": [
+     "Mesi",
+     "Moosi",
+     "Kesklinn",
+     "Pannkoogi"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kus on Pauli maja?",
+    "options": [
+     "trammipeatuse vastas",
+     "kaubamaja kõrval",
+     "kesklinnas",
+     "ülikooli lähedal"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kas Paulil on midagi vaja?",
+    "options": [
+     "Jah, pudel veini.",
+     "Ei, kõik on olemas.",
+     "Jah, purk moosi.",
+     "Jah, karp šokolaadi."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 13,
+  "title": "Kahjuks ma ei saa (listening dialogue, ex. 5; gaps filled from context, may differ from the audio)",
+  "text_et": "Triinu: Tule mulle reedel külla!\nPaul: Miks?\nTriinu: Me mängime õhtul lauamänge. Eva ja Eduard tulevad ka.\nPaul: Kahjuks ma ei saa. Aga aitäh kutse eest!\nTriinu: Oi, kahju! Mis sa siis õhtul teed?\nPaul: Ee... Mul on vaja kassi pesta.\nTriinu: Mida? Kassi?\nPaul: Nojah.\nTriinu: Aga järgmisel nädalal?\nPaul: Võib-olla järgmisel nädalal kolmapäeval?\nTriinu: Jaa, see oleks tore!",
+  "text_en": "Triinu: Come and visit me on Friday!\nPaul: Why?\nTriinu: We're playing board games in the evening. Eva and Eduard are coming too.\nPaul: Unfortunately I can't. But thanks for the invitation!\nTriinu: Oh, what a pity! What are you doing in the evening then?\nPaul: Er... I need to wash the cat.\nTriinu: What? The cat?\nPaul: Well, yes.\nTriinu: What about next week?\nPaul: Maybe next week on Wednesday?\nTriinu: Yes, that would be nice!",
+  "questions": [
+   {
+    "q": "Miks Triinu Pauli külla kutsub?",
+    "options": [
+     "Neil on pidu.",
+     "Nad mängivad lauamänge.",
+     "Triinu teeb pannkooke.",
+     "Triinul on sünnipäev."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kes veel külla tulevad?",
+    "options": [
+     "Eva ja Eduard",
+     "Anna ja Jüri",
+     "Pauli ema",
+     "Romeo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kas Paul läheb reedel külla?",
+    "options": [
+     "Jah, läheb.",
+     "Ei, ta ei saa."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida Paulil on vaja õhtul teha?",
+    "options": [
+     "kassi pesta",
+     "nõusid pesta",
+     "tuba koristada",
+     "filmi vaadata"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Millal Paul võib-olla külla läheb?",
+    "options": [
+     "homme",
+     "järgmisel nädalal kolmapäeval",
+     "laupäeval",
+     "pühapäeval"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida Triinu lõpus ütleb?",
+    "options": [
+     "See oleks tore!",
+     "Oi, kahju!",
+     "Nägemist!",
+     "Head isu!"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "lesson": 14,
+  "title": "Minu nädal: kodused tööd (text written for the app from the chores table in ex. 7)",
+  "text_et": "Esmaspäeval pean autot parandama ja prügi sorteerima. Mul on vaja ka eesti keelt õppida.\nTeisipäeval pean kööki koristama ja pesu triikima. Mul on vaja ka kassi pesta.\nKolmapäeval pean aknaid pesema ja süüa tegema. Mul on vaja ka koeraga jalutada.\nNeljapäeval pean autot pesema ja prügi välja viima. Köögis on vaja remonti teha.\nReedel pean tuba koristama ja asju sorteerima. Vannitoas on vaja remonti teha.\nLaupäeval pean vannituba koristama ja jalgratast parandama. Mul on vaja ka pesu pesta.\nPühapäeval pean WC-d koristama ja nõusid pesema. Mul on vaja ka poes käia.\nMulle ei meeldi kodused tööd!",
+  "text_en": "On Monday I have to repair the car and sort the rubbish. I also need to study Estonian.\nOn Tuesday I have to clean the kitchen and iron the laundry. I also need to wash the cat.\nOn Wednesday I have to wash the windows and cook. I also need to walk the dog.\nOn Thursday I have to wash the car and take out the rubbish. The kitchen needs renovating.\nOn Friday I have to tidy the room and sort things. The bathroom needs renovating.\nOn Saturday I have to clean the bathroom and fix the bicycle. I also need to do the laundry.\nOn Sunday I have to clean the toilet and wash the dishes. I also need to go to the shop.\nI don't like housework!",
+  "questions": [
+   {
+    "q": "Millal pean autot parandama?",
+    "options": [
+     "esmaspäeval",
+     "teisipäeval",
+     "neljapäeval",
+     "laupäeval"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mida pean kolmapäeval tegema?",
+    "options": [
+     "aknaid pesema ja süüa tegema",
+     "autot pesema",
+     "tuba koristama",
+     "pesu triikima"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Millal on vaja köögis remonti teha?",
+    "options": [
+     "teisipäeval",
+     "neljapäeval",
+     "reedel",
+     "pühapäeval"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida on vaja pühapäeval teha?",
+    "options": [
+     "poes käia",
+     "kassi pesta",
+     "eesti keelt õppida",
+     "autot parandada"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Millal pean jalgratast parandama?",
+    "options": [
+     "reedel",
+     "laupäeval",
+     "pühapäeval",
+     "esmaspäeval"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas mulle meeldivad kodused tööd?",
+    "options": [
+     "Jah, meeldivad küll.",
+     "Ei, ei meeldi."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 15,
+  "title": "Lähen ... (text written for the app from the situations in ex. 8)",
+  "text_et": "On laupäeva õhtu, lähen ööklubisse. Lähen ööklubisse mustade teksade ja valge T-särgiga.\nOn neljapäeva õhtu, lähen teatrisse. Lähen teatrisse halli ülikonna ja valge särgiga. Mul on ka triibuline lips.\nOn veebruar, olen Eestis, lähen metsa. Lähen metsa sooja jope, triibuliste kinnaste ja pruunide saabastega.\nOn juuli, olen Pärnus, lähen randa. Lähen randa kirjude ujumisriiete ja kollaste plätudega. Mul on ka roosad prillid.",
+  "text_en": "It's Saturday evening, I'm going to a nightclub. I'm going to the nightclub in black jeans and a white T-shirt.\nIt's Thursday evening, I'm going to the theatre. I'm going to the theatre in a grey suit and a white shirt. I also have a striped tie.\nIt's February, I'm in Estonia, I'm going to the forest. I'm going to the forest in a warm jacket, striped gloves and brown boots.\nIt's July, I'm in Pärnu, I'm going to the beach. I'm going to the beach in colourful swimwear and yellow flip-flops. I also have pink glasses.",
+  "questions": [
+   {
+    "q": "Kuhu ma lähen laupäeva õhtul?",
+    "options": [
+     "teatrisse",
+     "ööklubisse",
+     "metsa",
+     "randa"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Millega ma lähen teatrisse?",
+    "options": [
+     "halli ülikonna ja valge särgiga",
+     "mustade teksadega",
+     "kollaste plätudega",
+     "hallide dressidega"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mis jalanõud mul metsas on?",
+    "options": [
+     "kollased plätud",
+     "pruunid saapad",
+     "valged tossud",
+     "rohelised kingad"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Millal ma lähen randa?",
+    "options": [
+     "veebruaris",
+     "juulis",
+     "laupäeva õhtul",
+     "neljapäeva õhtul"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis prillid mul rannas on?",
+    "options": [
+     "roosad",
+     "mustad",
+     "sinised",
+     "hallid"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Missugune lips mul teatris on?",
+    "options": [
+     "punane",
+     "triibuline",
+     "täpiline",
+     "ruuduline"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

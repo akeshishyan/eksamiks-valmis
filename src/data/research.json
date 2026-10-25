@@ -1,0 +1,732 @@
+{
+ "exam": {
+  "date_note": "Next A2 exam per harno.ee: Saturday 07.11.2026, start 10:00 sharp (late arrivals not admitted; arrive 15-20 min early). Written part first (one sitting, ~1h50), speaking starts 15-20 min after the written part, candidates called in list order (can mean a long wait).",
+  "parts": [
+   {
+    "name_et": "Kirjutamine",
+    "name_en": "Writing",
+    "order": 1,
+    "minutes": 30,
+    "points": 20,
+    "tasks": [
+     "Task 1 (esimene ülesanne): 'Andmete kirjutamine visiitkaardilt' - turn a business card into full sentences answering 4 prompts. Person card: Kellena ta töötab? Kus ta töötab? Millal ta töötab? Kuidas saab temaga kontakti? Institution card: Mis asutus see on? Kus see asub? Mida seal teha saab? Kuidas saab kontakti? Minimum 25 words.",
+     "Task 2 (teine ülesanne), one of: (A) 'Teade (sõnum, kutse)' - a note/short message/invitation covering 3 bullet points, e.g. you found a friend's wallet: where, what it looks like, how they get it back; or (B) 'Kirjeldus etteantud teemal' / loovtekst - short description on a given topic covering 3 keyword prompts, e.g. 'Minu nädalavahetus' (Kus käite? Mida teete? Kellega kohtute?) or 'Minu tööpäev' (koht? aeg? tegevused?). Minimum 30 words.",
+     "Assessment (Harno sooritusnäidis): task is well done if the text is on topic, of the right length, covers ALL given content points (sisupunktid/märksõnad) and the reader can understand what you mean. A2 texts may contain spelling and basic grammar mistakes as long as they don't (or only occasionally) hinder understanding; sentences joined with simple 'ja' are acceptable.",
+     "Write legibly in handwritten letters (kirjatähed) with a black/blue pen; pencil or pen-over-pencil invalidates the work; no correction fluid/tape; cross out whole words to correct."
+    ],
+    "tips": [
+     "Count words: aim for 35-45 words in task 1 and 40-60 in task 2 - under the minimum costs points, a little over is safe.",
+     "Answer every bullet point with at least one full sentence; use the bullet as a skeleton (one bullet = 1-2 sentences).",
+     "For the business card: convert abbreviations into words - E-K = esmaspäevast kolmapäevani, L = laupäeval, 11-18 = kella üheteistkümnest kuueni (or kella 11-st 18-ni). Use 'Ta töötab fotograafina' (essive -na), 'Ta töötab fotostuudios ...', 'Temaga saab kontakti e-posti teel / telefonil ...'.",
+     "For the message: open with a greeting, close with a sign-off and name; for the description use simple present tense and 'Ma ...' sentences.",
+     "Reuse words from the prompt (they are spelled correctly for you) rather than inventing risky vocabulary.",
+     "Spend ~10 min on task 1 and ~15 min on task 2, leaving 5 min to re-read for verb endings (ma -n, sa -d, ta -b, me -me, te -te, nad -vad).",
+     "Write the draft on scratch paper only if time allows - drafts are not graded."
+    ]
+   },
+   {
+    "name_et": "Kuulamine",
+    "name_en": "Listening",
+    "order": 2,
+    "minutes": 30,
+    "points": 20,
+    "tasks": [
+     "4 tasks, 25 questions in the 2026 consultation booklet; every recording is played TWICE, with a pause beforehand to read the questions.",
+     "Task 1: 7 questions - short monologues (~20-30 s each), pick one of 3 pictures/numbers/words (e.g. speed limit, how many times a day to take medicine, train departure time 20.05/20.15/20.25, grams of cheese).",
+     "Task 2: 6 true/false (õige/vale) statements about a dialogue of ~2 min (e.g. 'Uus kodu').",
+     "Task 3: 6 questions answered with 1-2 words or a number, monologue ~1-1.5 min (e.g. ferry announcement 'Laevareis': how many hours, what can you eat, what time the children's show starts).",
+     "Task 4: 6 matching items, dialogue ~2-2.5 min (e.g. weekdays matched to activities A-K, two options left over)."
+    ],
+    "tips": [
+     "Use the pre-listening pause to underline question words (Kui palju? Mis kell? Mitu korda?) and predict the word type you need (number, time, food, place).",
+     "Drill numbers, clock times, weekdays, months, prices and grams - they carry many points in task 1 and 3.",
+     "First listening: answer what you can; second listening: confirm and fill gaps. Never leave a blank - guess.",
+     "In task 3 the spelling does not need to be perfect if the word is recognisable; numbers may be written as digits (the answer key accepts '13', 'kell 13', 'kolmteist') (spelling tolerance unverified).",
+     "Watch for distractors: speakers often mention a wrong option first and then correct it ('ei, mitte kolmapäeval, vaid neljapäeval').",
+     "Choose a seat close to the speaker/audio player if seating is free (ERR test-taker tip, B1 exam).",
+     "Write multiple-choice letters as clear CAPITALS; marking two answers = wrong."
+    ]
+   },
+   {
+    "name_et": "Lugemine",
+    "name_en": "Reading",
+    "order": 3,
+    "minutes": 50,
+    "points": 20,
+    "tasks": [
+     "5 tasks, 30 questions in the 2026 consultation booklet.",
+     "Task 1: 6 questions - everyday phrases/politeness formulas; pick the right reply of 3 (e.g. 'Kuidas sul läheb?' -> 'Pole viga.'; 'Mul sündis eile tütar.' -> 'Palju õnne!'; 'Mul on praegu palju tööd.' -> 'Jõudu!').",
+     "Task 2: 3 short texts (~60 words each, A/B/C) and 6 statements - match each statement to a text.",
+     "Task 3: 5 signs/notices (e.g. 'Libe põrand!', 'Tasuta sissepääs!', 'Tee on suletud!') matched to explanations A-I, two left over.",
+     "Task 4: ~150-word text, 5 three-option multiple-choice questions (e.g. 'Tiina üürib korteri').",
+     "Task 5: personal letter ~100 words with 8 gaps (cloze), 3 word options each - tests grammar and collocations (e.g. 'jäin haigeks', 'kõrge palavik')."
+    ],
+    "tips": [
+     "Do task 1 and 3 fast (they are phrase/sign recognition) and bank time for tasks 2, 4 and 5.",
+     "Learn the fixed politeness reactions: Palju õnne! / Jõudu! / Pole viga / Pole tänu väärt / Head aega! / Jätku leiba! / Terviseks! / Kahju!",
+     "In matching tasks, cross off used options; in task 2 a statement often paraphrases a sentence with synonyms (tasuta = ei pea maksma, soodne = odav).",
+     "In the cloze (task 5) read the whole sentence before choosing; check fixed expressions: haigeks jääma, palavik on kõrge, arsti juurde minema, kodus voodis lamama.",
+     "Reading is the longest section (50 min) and you may leave early - use spare time to re-check, especially negations (ei, mitte, keelatud).",
+     "Transfer answers clearly; no blanks."
+    ]
+   },
+   {
+    "name_et": "Rääkimine",
+    "name_en": "Speaking",
+    "order": 4,
+    "minutes": 15,
+    "points": 20,
+    "tasks": [
+     "Intro: examiner leads a short warm-up - introduce yourself and answer a few general questions (name, where you live, work, family, hobbies).",
+     "Task 1, part I (~6-7 min total for task 1): each candidate describes ONE picture; both pictures are on the same topic but differ (sample topic 'Pere ja sugulased': family reading in bed / family meal outdoors).",
+     "Task 1, part II: the examiner picks questions from a topic sheet (teemaleht) and you answer them, e.g. Kas te elate üksinda või koos perega? Kui suur on teie pere? Mida te koos perega nädalavahetusel teete? Kui sageli te oma sugulastega kohtute?",
+     "Task 2 (~5-6 min): idea card (ideekaart) with keywords and pictures. One candidate asks the partner topic-related questions, the partner answers; then roles swap with a new card. Sample cards: 'SÖÖK - Küsige oma kaaslaselt, mida ta sööb ja millal' (kerge eine / soe toit / magustoit); 'IGAPÄEVANE ELU - Küsige ... mida ta oma igapäevases elus teeb ja kui tihti' (kaupluses / teenindusasutuses / tervisekeskuses).",
+     "Recorded; each candidate scored independently by two raters."
+    ],
+    "tips": [
+     "Prepare a 45-60 s memorised self-introduction (name, origin, how long in Estonia, where you live, job, family, hobby, why learning Estonian).",
+     "Picture description formula: Pildil on ... (who) -> Nad on ... (where: köögis, aias, toas) -> Nad ... (what they do: söövad, loevad, naeravad) -> Ilm/aeg ... -> Minu arvates ... (feeling/opinion) -> link to yourself ('Minu pere ka ...'). Aim for 6-8 sentences.",
+     "Answer in full sentences and add one extra detail (because/when): 'Jah, ma elan koos perega, sest ...'. One-word answers score low.",
+     "Task 2 is about ASKING: drill question words (Mis? Mida? Kes? Kus? Kuhu? Kust? Millal? Kui tihti? Kui palju? Miks? Kellega? Kas ...?) and ask one question per picture on the card, using 'teie/sa' forms correctly ('Mida sa hommikul sööd?', 'Kui tihti sa käid juuksuris?').",
+     "React to your partner's answers ('Aa, huvitav!', 'Mina ka.', 'Tõesti?') - interaction counts.",
+     "If you don't understand, ask: 'Vabandust, kas te saaksite korrata?' - asking is better than silence.",
+     "Don't over-extend; if the examiner moves on, stop (ERR test-taker tip). Speak slowly and clearly; it is recorded.",
+     "With an odd number of candidates the examiner may act as your partner."
+    ]
+   }
+  ],
+  "total_points": 80,
+  "pass_rule": "Pass = at least 60% of the total, i.e. 48/80 points, AND no single skill may score 0 (no other per-part minimum). Per-skill bands shown on the certificate: 0% and 1-49% = does not meet requirements; 50-59% nõrk (weak); 60-75% rahuldav; 76-90% hea; 91-100% väga hea. Each part is worth 20 points (the 25 listening and 30 reading items are presumably converted to 20 points - conversion method (unverified)).",
+  "allowed": "No aids: dictionaries, textbooks, phones, smartwatches, any watch (must be removed), headphones are forbidden. Bring a valid ID card, passport or residence permit (driving licence NOT accepted). Write with black or blue ink/ballpoint pen only - no pencil, no erasable or glitter ink, no correction tape; multiple-choice answers in clear capital letters. Scratch paper (mustand) is provided but not graded. Toilet only escorted, between booklet 1 and 2 of the written part.",
+  "speaking_format": "Pairs: one examiner (eksamineerija) + two candidates; odd number -> one candidate with the examiner. ~15 minutes total: introductory chat, Task 1 (picture description + answering examiner's topic questions, ~6-7 min), Task 2 (asking/answering questions with an idea card, roles swap, ~5-6 min). Recorded; two independent raters. No preparation time is mentioned officially.",
+  "topics": [
+   "isikuandmed (personal information)",
+   "maja ja kodu (house and home)",
+   "ümbruskond (surroundings/neighbourhood)",
+   "igapäevaelu (daily life)",
+   "vaba aeg ja meelelahutus (free time and entertainment)",
+   "reisimine (travel)",
+   "suhted teiste inimestega (relationships, family, relatives)",
+   "tervis ja kehahooldus (health and body care)",
+   "haridus (education)",
+   "sisseostude tegemine (shopping)",
+   "söök ja jook (food and drink)",
+   "teenused (services)",
+   "kohad (places)",
+   "keel (language)",
+   "ilm (weather)"
+  ],
+  "results_and_retakes": "Exam is free of charge. Results within 40 days (by e-mail/letter, EIS, eesti.ee; not by phone). Certificate is electronic only. Appeal within 30 days. If you score below 45% or skip without valid reason, you must wait 6 months before retaking; you can cancel registration up to 4 working days before without penalty. Exams are held quarterly; you can only register for an exam whose registration is open, and not before previous results are published."
+ },
+ "strategy": [
+  {
+   "title": "Know the pass maths",
+   "tip": "You need 48/80 overall, no zero part. Writing and speaking are the most 'trainable' in 12 days with templates - secure ~14-16/20 there, so listening/reading only need ~9-10/20 each."
+  },
+  {
+   "title": "Cover every content point",
+   "tip": "Harno's writing criteria reward relevance, length and covering all given keywords. A short, simple text that answers every bullet beats a long, fancy text that skips one."
+  },
+  {
+   "title": "Respect minimum word counts",
+   "tip": "25 words (business card) and 30 words (message/description) are minimums - count them. Target ~40 and ~50."
+  },
+  {
+   "title": "Template the business card task",
+   "tip": "It is formulaic: '[Nimi] töötab [amet]-na. Ta töötab [koht]-s, mis asub [aadress]. Ta töötab esmaspäevast reedeni kella ... kuni ... Temaga saab kontakti telefoni või e-posti teel: ...' Practise with 5-6 different cards."
+  },
+  {
+   "title": "Use the exam's own words",
+   "tip": "Prompts and pictures give you correctly spelled vocabulary - recycle it in your answer."
+  },
+  {
+   "title": "Simple grammar, done right",
+   "tip": "Use present tense, short SVO sentences, and connectors ja/aga/sest/siis/kui. Check verb endings and that the subject matches the verb (A2 raters note these as typical errors)."
+  },
+  {
+   "title": "Listening: read first, listen twice",
+   "tip": "Use pauses to read questions and predict answers; first play = answer, second play = verify. Never leave blanks."
+  },
+  {
+   "title": "Numbers and time are free points",
+   "tip": "Drill numbers 1-1000, prices, grams, clock times (kell pool kaks = 1:30!), weekdays and months - Estonian 'pool kaks' means half past one."
+  },
+  {
+   "title": "Reading: bank time",
+   "tip": "50 minutes is generous. Do the phrase and sign tasks quickly, spend time on the 150-word text and the cloze letter, then re-check negations."
+  },
+  {
+   "title": "Speaking: prepare chunks, not scripts",
+   "tip": "Memorise a self-intro, a picture-description frame, and 2-3 sentences about each of the 15 topics. Speak in full sentences, add 'sest ...' to extend."
+  },
+  {
+   "title": "Speaking task 2 is about asking",
+   "tip": "Practise forming questions from keywords on picture cards (food, daily life, shopping, services, health). Ask, listen, react, ask a follow-up."
+  },
+  {
+   "title": "Never stay silent",
+   "tip": "Use fillers and repair phrases ('Hmm, las ma mõtlen...', 'Kuidas seda öelda...', 'Kas te saaksite korrata?'). Silence is what loses points."
+  },
+  {
+   "title": "Exam-day logistics",
+   "tip": "Arrive 15-20 min before 10:00 (late = not admitted). Bring ID card/passport/residence permit, 2-3 blue/black pens, water and a snack - speaking may be hours later. Remove watch, phone off."
+  },
+  {
+   "title": "Use the official materials",
+   "tip": "Do the full Harno konsultatsioonivihik + MP3 under timed conditions; it is a mini mock exam with an answer key (page 'Ülesannete vastused')."
+  },
+  {
+   "title": "Handwriting matters",
+   "tip": "Unclear letters count as errors; write in clear handwritten letters, cross out whole words neatly, no correction tape."
+  }
+ ],
+ "phrase_bank": {
+  "letter_openings": [
+   {
+    "et": "Tere, Mari!",
+    "en": "Hi, Mari! (informal)"
+   },
+   {
+    "et": "Hei, Kalle!",
+    "en": "Hey, Kalle! (very informal)"
+   },
+   {
+    "et": "Kallis Anna!",
+    "en": "Dear Anna!"
+   },
+   {
+    "et": "Lugupeetud härra Tamm!",
+    "en": "Dear Mr Tamm (formal)"
+   },
+   {
+    "et": "Lugupeetud proua Kask!",
+    "en": "Dear Mrs Kask (formal)"
+   },
+   {
+    "et": "Head kolleegid!",
+    "en": "Dear colleagues"
+   },
+   {
+    "et": "Kirjutan sulle, sest ...",
+    "en": "I'm writing to you because ..."
+   },
+   {
+    "et": "Tahan sind kutsuda ...",
+    "en": "I want to invite you ..."
+   },
+   {
+    "et": "Aitäh kirja eest!",
+    "en": "Thanks for the letter!"
+   }
+  ],
+  "letter_closings": [
+   {
+    "et": "Kohtumiseni!",
+    "en": "See you!"
+   },
+   {
+    "et": "Näeme!",
+    "en": "See you!"
+   },
+   {
+    "et": "Head päeva!",
+    "en": "Have a nice day!"
+   },
+   {
+    "et": "Parimate soovidega, [nimi]",
+    "en": "Best wishes, [name]"
+   },
+   {
+    "et": "Lugupidamisega, ...",
+    "en": "Respectfully / Yours sincerely (formal)"
+   },
+   {
+    "et": "Tervitades, ...",
+    "en": "Greetings / Regards"
+   },
+   {
+    "et": "Kallistusi!",
+    "en": "Hugs!"
+   },
+   {
+    "et": "Ootan vastust!",
+    "en": "I'm waiting for your reply!"
+   },
+   {
+    "et": "Helista mulle!",
+    "en": "Call me!"
+   },
+   {
+    "et": "Ole tubli!",
+    "en": "Take care! (used in the official sample letter)"
+   }
+  ],
+  "speaking_fillers": [
+   {
+    "et": "Hmm, las ma mõtlen ...",
+    "en": "Hmm, let me think ..."
+   },
+   {
+    "et": "Noh ...",
+    "en": "Well ..."
+   },
+   {
+    "et": "Tähendab ...",
+    "en": "I mean ..."
+   },
+   {
+    "et": "Kuidas seda öelda ...",
+    "en": "How to say it ..."
+   },
+   {
+    "et": "Ma arvan, et ...",
+    "en": "I think that ..."
+   },
+   {
+    "et": "Tavaliselt ...",
+    "en": "Usually ..."
+   },
+   {
+    "et": "Näiteks ...",
+    "en": "For example ..."
+   },
+   {
+    "et": "Pildil on ...",
+    "en": "In the picture there is/are ..."
+   },
+   {
+    "et": "Pildi keskel / vasakul / paremal ...",
+    "en": "In the middle / on the left / on the right of the picture ..."
+   },
+   {
+    "et": "Tundub, et nad ...",
+    "en": "It seems that they ..."
+   },
+   {
+    "et": "Aa, huvitav!",
+    "en": "Oh, interesting!"
+   },
+   {
+    "et": "Mina ka.",
+    "en": "Me too."
+   },
+   {
+    "et": "Tõesti?",
+    "en": "Really?"
+   }
+  ],
+  "asking_for_help": [
+   {
+    "et": "Vabandust, ma ei saanud aru.",
+    "en": "Sorry, I didn't understand."
+   },
+   {
+    "et": "Kas te saaksite korrata?",
+    "en": "Could you repeat?"
+   },
+   {
+    "et": "Palun korrake.",
+    "en": "Please repeat."
+   },
+   {
+    "et": "Kas te saaksite aeglasemalt rääkida?",
+    "en": "Could you speak more slowly?"
+   },
+   {
+    "et": "Mida see sõna tähendab?",
+    "en": "What does this word mean?"
+   },
+   {
+    "et": "Ma ei tea, kuidas seda eesti keeles öelda.",
+    "en": "I don't know how to say this in Estonian."
+   },
+   {
+    "et": "Kas te mõtlete, et ...?",
+    "en": "Do you mean that ...?"
+   },
+   {
+    "et": "Kas ma võin alustada?",
+    "en": "May I start?"
+   }
+  ],
+  "opinions": [
+   {
+    "et": "Minu arvates ...",
+    "en": "In my opinion ..."
+   },
+   {
+    "et": "Ma arvan, et ...",
+    "en": "I think that ..."
+   },
+   {
+    "et": "Mulle meeldib ..., sest ...",
+    "en": "I like ..., because ..."
+   },
+   {
+    "et": "Mulle ei meeldi ...",
+    "en": "I don't like ..."
+   },
+   {
+    "et": "Mulle meeldib rohkem ...",
+    "en": "I prefer ..."
+   },
+   {
+    "et": "See on hea / huvitav / tore / igav.",
+    "en": "It's good / interesting / nice / boring."
+   },
+   {
+    "et": "Ma olen nõus.",
+    "en": "I agree."
+   },
+   {
+    "et": "Ma ei ole nõus.",
+    "en": "I don't agree."
+   },
+   {
+    "et": "Minu jaoks on oluline ...",
+    "en": "For me ... is important."
+   }
+  ],
+  "connectors": [
+   {
+    "et": "ja",
+    "en": "and"
+   },
+   {
+    "et": "aga",
+    "en": "but"
+   },
+   {
+    "et": "sest / kuna",
+    "en": "because"
+   },
+   {
+    "et": "siis",
+    "en": "then"
+   },
+   {
+    "et": "pärast seda",
+    "en": "after that"
+   },
+   {
+    "et": "kõigepealt",
+    "en": "first of all"
+   },
+   {
+    "et": "lõpuks",
+    "en": "finally"
+   },
+   {
+    "et": "kui",
+    "en": "when / if"
+   },
+   {
+    "et": "et",
+    "en": "that"
+   },
+   {
+    "et": "või",
+    "en": "or"
+   },
+   {
+    "et": "ka",
+    "en": "also"
+   },
+   {
+    "et": "näiteks",
+    "en": "for example"
+   },
+   {
+    "et": "seepärast",
+    "en": "therefore"
+   },
+   {
+    "et": "tavaliselt",
+    "en": "usually"
+   },
+   {
+    "et": "vahel / mõnikord",
+    "en": "sometimes"
+   },
+   {
+    "et": "tihti / sageli",
+    "en": "often"
+   }
+  ]
+ },
+ "twelve_day_plan": [
+  {
+   "day": 1,
+   "focus": "Diagnose with the official mock",
+   "tasks": [
+    "Do the Harno A2 konsultatsioonivihik listening (MP3) + reading timed (30 + 50 min) and check with the answer key",
+    "Write both writing tasks from the booklet (30 min) and count words",
+    "Note weak areas; read the A2 page on harno.ee (structure, topics)"
+   ]
+  },
+  {
+   "day": 2,
+   "focus": "Writing task 1 (business card) + numbers/time",
+   "tasks": [
+    "Learn the business-card template; write 3 cards (person + institution), >=35 words each",
+    "Drill weekdays (E T K N R L P), months, clock times, phone numbers, addresses",
+    "Keeleklikk: lessons on numbers/time"
+   ]
+  },
+  {
+   "day": 3,
+   "focus": "Speaking intro + topics 1-5",
+   "tasks": [
+    "Write and memorise a 60-s self-introduction; record yourself",
+    "Prepare 3-4 sentences each: isikuandmed, maja ja kodu, ümbruskond, igapäevaelu, vaba aeg",
+    "Listening: official task 1 sample + MP3"
+   ]
+  },
+  {
+   "day": 4,
+   "focus": "Writing task 2 (message/invitation)",
+   "tasks": [
+    "Memorise opening/closing formulas",
+    "Write 3 messages: invitation to birthday, cancelling a meeting, found item / borrowed item",
+    "Reading: official task 1 (phrases) + task 3 (signs); learn politeness reactions"
+   ]
+  },
+  {
+   "day": 5,
+   "focus": "Picture description",
+   "tasks": [
+    "Learn the picture frame (Pildil on... / Nad on... / Nad teevad... / Minu arvates...)",
+    "Describe 5 photos aloud on topics family, food, shopping, health, travel - 1 min each, record",
+    "Listening: official task 2 (true/false) + MP3"
+   ]
+  },
+  {
+   "day": 6,
+   "focus": "Speaking topics 6-10 + question forms",
+   "tasks": [
+    "Prepare sentences for reisimine, suhted, tervis, haridus, sisseostud",
+    "Drill question words; write 10 questions for the 'SÖÖK' and 'IGAPÄEVANE ELU' idea cards",
+    "Writing: one description text 'Minu tööpäev' (compare with Harno sooritusnäidis)"
+   ]
+  },
+  {
+   "day": 7,
+   "focus": "Mid-point mini mock",
+   "tasks": [
+    "Timed: writing 30 min + listening (official samples) + reading 50 min",
+    "Self-check against answer key and word counts",
+    "Speaking: simulate with a partner/tutor or record yourself answering teemaleht questions"
+   ]
+  },
+  {
+   "day": 8,
+   "focus": "Speaking topics 11-15 + idea cards",
+   "tasks": [
+    "Prepare söök ja jook, teenused, kohad, keel, ilm",
+    "Make your own idea cards (3 keywords + pictures) and practise asking/answering with a partner (language café, tutor, friend)",
+    "Listening: official task 3 (short answers) + MP3; drill spelling of common nouns"
+   ]
+  },
+  {
+   "day": 9,
+   "focus": "Reading depth + grammar for the cloze",
+   "tasks": [
+    "Official reading tasks 2, 4, 5; EIS public e-tasks / web.meis.ee/testest A2 test",
+    "Revise: verb endings, ma/sa/ta forms, place cases (-s, -sse, -st, -l, -le, -lt), essive -na",
+    "Write 1 invitation + 1 description, check endings"
+   ]
+  },
+  {
+   "day": 10,
+   "focus": "Listening intensity",
+   "tasks": [
+    "Official task 4 (matching) + replay all official MP3s",
+    "Listen to slow/simple Estonian audio (Keeleklikk dialogues; ERR/Vikerraadio clips) 20-30 min",
+    "Speaking: full 15-min simulation including intro, picture, questions, idea card"
+   ]
+  },
+  {
+   "day": 11,
+   "focus": "Full mock under exam conditions",
+   "tasks": [
+    "Redo the whole konsultatsioonivihik in one sitting at 10:00 with pen, no phone (1h50)",
+    "Then a 15-min recorded speaking mock",
+    "Fix the 3 most common errors you see"
+   ]
+  },
+  {
+   "day": 12,
+   "focus": "Light review and logistics",
+   "tasks": [
+    "Re-read phrase bank, templates, self-intro and question words",
+    "Write one last business card and one message (no new material)",
+    "Prepare ID/passport/residence permit, 2-3 blue/black pens, water, snack; check exam location and the e-mailed exam notice; sleep early"
+   ]
+  }
+ ],
+ "resources": [
+  {
+   "name": "Keeleklikk: free Estonian e-course, 0–A2",
+   "url": "https://www.keeleklikk.ee/",
+   "why": "By the authors of your textbook. 16 chapters with animated dialogues (listening), short grammar videos and about 1,200 exercises. Free account; a teacher answers questions by email."
+  },
+  {
+   "name": "Harno - Eesti keele tasemeeksamid (A2 section)",
+   "url": "https://harno.ee/eesti-keele-tasemeeksamid",
+   "why": "Official structure, durations, points, topics, dates, locations and all sample tasks with MP3s"
+  },
+  {
+   "name": "Harno - English page on Estonian language proficiency exams",
+   "url": "https://harno.ee/en/examinations-tests-and-studies/examinations-tests-and-certificates/estonian-language-proficiency",
+   "why": "Official rules in English (registration, fees, results, retakes)"
+  },
+  {
+   "name": "A2 konsultatsioonivihik 2026 (PDF)",
+   "url": "https://harno.ee/sites/default/files/documents/2026-01/A2_konsultatsioonivihik.pdf",
+   "why": "Full mini mock test (writing, listening, reading, speaking) with answer key"
+  },
+  {
+   "name": "A2 konsultatsioonivihik - fillable on computer (PDF)",
+   "url": "https://harno.ee/sites/default/files/documents/2026-01/A2_konsultatsioonivihik%20arvutis%20t%C3%A4itmiseks%20%281%29.pdf",
+   "why": "Same booklet, typeable"
+  },
+  {
+   "name": "A2 consultation listening test (MP3)",
+   "url": "https://projektid.edu.ee/download/attachments/343705183/A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3?version=1&modificationDate=1771319710518&api=v2",
+   "why": "Audio for the booklet listening section"
+  },
+  {
+   "name": "A2 writing performance samples with comments (sooritusnäidis)",
+   "url": "https://harno.ee/sites/default/files/documents/2021-07/A2-taseme-sooritusnaidis.pdf",
+   "why": "Shows what a passing A2 text looks like and how it's judged"
+  },
+  {
+   "name": "A2 writing task 1 sample (business card)",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_Kirjutamine_Esimene_%C3%BClesanne2.pdf",
+   "why": "Official task format"
+  },
+  {
+   "name": "A2 writing task 2A sample (message/invitation)",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_Kirjutamine_Teine_%C3%BClesanne_A_teade.%20l%C3%BChis%C3%B5num.pdf",
+   "why": "Official task format"
+  },
+  {
+   "name": "A2 writing task 2B sample (creative text)",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_Kirjutamine_Teine_%C3%BClesanne_B_loovtekst.pdf",
+   "why": "Official task format"
+  },
+  {
+   "name": "A2 speaking task 1 sample (pictures + examiner topic sheet)",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_R%C3%A4%C3%A4kimine_Esimene_%C3%BClesanne.pdf",
+   "why": "Real examiner question list for 'Pere ja sugulased'"
+  },
+  {
+   "name": "A2 speaking task 2 sample (idea cards)",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_R%C3%A4%C3%A4kimine_Teine_%C3%BClesamnne.pdf",
+   "why": "Idea cards 'Söök' and 'Igapäevane elu'"
+  },
+  {
+   "name": "A2 listening task 1 sample + MP3",
+   "url": "https://harno.ee/sites/default/files/documents/2024-03/A2_Kuulamine_esimene_%C3%BClesanne.pdf",
+   "why": "Official listening practice (MP3: https://projektid.edu.ee/download/attachments/343705183/Kuulamis%C3%BClesanne%20nr%201%20A2.mp3)"
+  },
+  {
+   "name": "A2 reading task 3 sample",
+   "url": "https://harno.ee/sites/default/files/documents/2024-03/A2_Lugemine_kolmas_%C3%BClesanne.pdf",
+   "why": "Official reading practice; other reading/listening samples are linked from the Harno A2 page"
+  },
+  {
+   "name": "A2 exam introduction video (Harno)",
+   "url": "https://youtu.be/xJPPXY7_QPU",
+   "why": "Shows the exam flow, incl. speaking (English page links https://youtu.be/bOX_7RoX1HU)"
+  },
+  {
+   "name": "Exam procedure overview video (Harno)",
+   "url": "https://www.youtube.com/watch?v=pl2d3_qht9U",
+   "why": "What happens on exam day"
+  },
+  {
+   "name": "Teabeleht tasemeeksami sooritajale 2025 (PDF)",
+   "url": "https://harno.ee/sites/default/files/documents/2025-01/Teabeleht%20tasemeeksami%20sooritajale%202025.pdf",
+   "why": "Official exam-day rules: ID, pens, forbidden aids, timings, results, retakes"
+  },
+  {
+   "name": "Keeleklikk",
+   "url": "https://www.keeleklikk.ee/",
+   "why": "Free state e-course A0-A2 with English interface (keeletee.ee redirects here; Keeletee = B1) (free: unverified on page)"
+  },
+  {
+   "name": "EIS - public e-tasks",
+   "url": "https://eis.harno.ee/",
+   "why": "Official public e-tests; also where results/certificate appear"
+  },
+  {
+   "name": "Web-based Estonian level tests (MEIS testest)",
+   "url": "http://web.meis.ee/testest/",
+   "why": "Linked by Harno for self-testing"
+  },
+  {
+   "name": "Integration Foundation (Integratsiooni Sihtasutus)",
+   "url": "https://www.integratsioon.ee/",
+   "why": "Free language cafés / Estonian Language Houses (Tallinn, Narva) for speaking practice (current schedules unverified)"
+  },
+  {
+   "name": "Algaja keelekasutaja. A2-taseme eesti keele oskus (2008)",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/Algaja-keelekasutaja.-A2-tase.pdf",
+   "why": "Official A2 level description incl. vocabulary/grammar scope"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Harno - Eesti keele tasemeeksamid (A2 structure, topics, scoring, dates)",
+   "url": "https://harno.ee/eesti-keele-tasemeeksamid"
+  },
+  {
+   "title": "Harno - Estonian language proficiency (English)",
+   "url": "https://harno.ee/en/examinations-tests-and-studies/examinations-tests-and-certificates/estonian-language-proficiency"
+  },
+  {
+   "title": "Harno - Teabeleht tasemeeksami sooritajale 2025",
+   "url": "https://harno.ee/sites/default/files/documents/2025-01/Teabeleht%20tasemeeksami%20sooritajale%202025.pdf"
+  },
+  {
+   "title": "Harno - A2 konsultatsioonivihik 2026",
+   "url": "https://harno.ee/sites/default/files/documents/2026-01/A2_konsultatsioonivihik.pdf"
+  },
+  {
+   "title": "Harno - A2 kirjutamisosa sooritusnäidised",
+   "url": "https://harno.ee/sites/default/files/documents/2021-07/A2-taseme-sooritusnaidis.pdf"
+  },
+  {
+   "title": "Harno - A2 rääkimine, esimene ülesanne",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_R%C3%A4%C3%A4kimine_Esimene_%C3%BClesanne.pdf"
+  },
+  {
+   "title": "Harno - A2 rääkimine, teine ülesanne",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_R%C3%A4%C3%A4kimine_Teine_%C3%BClesamnne.pdf"
+  },
+  {
+   "title": "Harno - A2 kirjutamine, esimene ülesanne",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_Kirjutamine_Esimene_%C3%BClesanne2.pdf"
+  },
+  {
+   "title": "Harno - A2 kirjutamine, teine ülesanne A",
+   "url": "https://harno.ee/sites/default/files/documents/2021-06/A2_Kirjutamine_Teine_%C3%BClesanne_A_teade.%20l%C3%BChis%C3%B5num.pdf"
+  },
+  {
+   "title": "ERR News - B1 Estonian exam, Part 2 (test-taker experience; B1 but same exam-day format)",
+   "url": "https://news.err.ee/880613/b1-estonian-exam-part-2-coordination-conversation-and-coffee"
+  },
+  {
+   "title": "Keeleklikk",
+   "url": "https://www.keeleklikk.ee/"
+  }
+ ],
+ "notes": [
+  "Today is 2026-10-25; the next official A2 exam date on harno.ee is 07.11.2026 (13 days away). The 12-day plan ends the day before.",
+  "Third-party sites (open-exam-prep.com) claim a 35% retake threshold; the official Harno teabeleht says 45% - use 45%.",
+  "Officially there is no stated preparation time for A2 speaking tasks.",
+  "No Reddit threads could be fetched (reddit.com is blocked for the crawler); no ERR 'Uudised lihtsas eesti keeles' / slow-news programme could be confirmed - omitted from resources.",
+  "Phrase bank, 12-day plan and most strategy tips are compiled/derived from the official task formats, not quoted from examiners (unverified as examiner advice)."
+ ]
+}

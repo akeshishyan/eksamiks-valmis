@@ -1,0 +1,1724 @@
+[
+ {
+  "lesson": 26,
+  "id": "l26-ma-olen-vs-mul-on",
+  "title": "How do you feel? Ma olen + adjective vs Mul on + noun",
+  "explanation": "Feelings and states are said in two different ways.<br><b>Ma olen + adjective</b> (I am ...): <i>Ma olen väsinud / unine / kurb / rõõmus / vihane / õnnelik / üllatunud / armunud / terve / haige.</i> Also <i>Ma olen närvis / mures / hirmul / segaduses</i>.<br><b>Mul on + noun or state word</b> (lit. 'at me is'): <i>Mul on janu / hirm / stress / palavik.</i> <i>Mul on paha / piinlik / kiire / külm.</i> <i>Mul on kõht täis / tühi.</i><br><table><tr><th>Question</th><th>Yes</th><th>No</th></tr><tr><td>Kas sa oled unine?</td><td>Jah, olen küll.</td><td>Ei, ei ole.</td></tr><tr><td>Kas sul on janu?</td><td>Jah, on küll.</td><td>Ei, ei ole.</td></tr><tr><td>Kas su pea valutab?</td><td>Jah, valutab küll. / Natuke valutab.</td><td>Ei, ei valuta.</td></tr></table>General question: <b>Kuidas sa ennast tunned?</b> – <i>Mul on kõik korras / hästi.</i>",
+  "examples": [
+   {
+    "et": "Ma olen väga väsinud.",
+    "en": "I'm very tired."
+   },
+   {
+    "et": "Mul on janu.",
+    "en": "I'm thirsty."
+   },
+   {
+    "et": "Kas sul on kõht täis? – Jah, on küll.",
+    "en": "Are you full? – Yes, I am."
+   },
+   {
+    "et": "Kas su selg valutab? – Natuke valutab.",
+    "en": "Does your back hurt? – A little."
+   },
+   {
+    "et": "Kuidas sa ennast tunned? – Mul on kõik korras!",
+    "en": "How do you feel? – I'm fine!"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "___ olen väga väsinud. (mina)",
+    "answer": "Ma",
+    "accept": [
+     "Mina"
+    ],
+    "en": "I'm very tired."
+   },
+   {
+    "prompt": "___ on janu. (mina)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "I'm thirsty."
+   },
+   {
+    "prompt": "Ma ___ täna kurb. (olema)",
+    "answer": "olen",
+    "accept": [],
+    "en": "I'm sad today."
+   },
+   {
+    "prompt": "Mul ___ palavik. (olema)",
+    "answer": "on",
+    "accept": [],
+    "en": "I have a fever."
+   },
+   {
+    "prompt": "Kas sa ___ unine? (olema)",
+    "answer": "oled",
+    "accept": [],
+    "en": "Are you sleepy?"
+   },
+   {
+    "prompt": "Kas ___ on kõht täis? (sina)",
+    "answer": "sul",
+    "accept": [
+     "sinul"
+    ],
+    "en": "Are you full?"
+   },
+   {
+    "prompt": "Kas su pea valutab? – Jah, ___ küll. (valutama)",
+    "answer": "valutab",
+    "accept": [],
+    "en": "Does your head hurt? – Yes, it does."
+   },
+   {
+    "prompt": "Kas su hammas valutab? – Ei, ei ___. (valutama)",
+    "answer": "valuta",
+    "accept": [],
+    "en": "Does your tooth hurt? – No, it doesn't."
+   },
+   {
+    "prompt": "Kas sa oled terve? – Jah, ___ küll. (olema)",
+    "answer": "olen",
+    "accept": [],
+    "en": "Are you healthy? – Yes, I am."
+   },
+   {
+    "prompt": "Kas sul on palavik? – Ei, ei ___. (olema)",
+    "answer": "ole",
+    "accept": [],
+    "en": "Do you have a fever? – No, I don't."
+   },
+   {
+    "prompt": "Kas sul on paha? – Jah, ___ küll. (olema)",
+    "answer": "on",
+    "accept": [],
+    "en": "Do you feel sick? – Yes, I do."
+   },
+   {
+    "prompt": "Kas sa oled õnnelik? – Ei, ei ___. (olema)",
+    "answer": "ole",
+    "accept": [],
+    "en": "Are you happy? – No, I'm not."
+   },
+   {
+    "prompt": "Ülemus ütleb, et ma olen loll. ___ olen vihane. (mina)",
+    "answer": "Ma",
+    "accept": [
+     "Mina"
+    ],
+    "en": "The boss says I'm stupid. I'm angry."
+   },
+   {
+    "prompt": "Toas on suur ämblik. ___ on hirm. (mina)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "There's a big spider in the room. I'm scared."
+   },
+   {
+    "prompt": "Mu sokk on katki. ___ on piinlik. (mina)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "My sock has a hole. I'm embarrassed."
+   },
+   {
+    "prompt": "Ma võitsin lotoga 200 000 eurot! ___ olen nii õnnelik! (mina)",
+    "answer": "Ma",
+    "accept": [
+     "Mina"
+    ],
+    "en": "I won 200,000 euros in the lottery! I'm so happy!"
+   },
+   {
+    "prompt": "Kas su selg valutab? – Natuke ___. (valutama)",
+    "answer": "valutab",
+    "accept": [],
+    "en": "Does your back hurt? – A little."
+   },
+   {
+    "prompt": "Ma ___ mures, sest laps on haige. (olema)",
+    "answer": "olen",
+    "accept": [],
+    "en": "I'm worried because the child is ill."
+   }
+  ]
+ },
+ {
+  "lesson": 26,
+  "id": "l26-sinu-sul-sa",
+  "title": "sa, sinu (su), sul: you, your, you have",
+  "explanation": "The pronoun <b>sina / sa</b> (you) changes form depending on its job in the sentence:<br><table><tr><th>form</th><th>meaning</th><th>example</th></tr><tr><td><b>sa</b> (sina)</td><td>you (subject)</td><td>Sa oled metsas ja näed karu.</td></tr><tr><td><b>sinu</b> (su)</td><td>your</td><td>Sinu laps nutab. Sinu köögis on hiir.</td></tr><tr><td><b>sul</b> (sinul)</td><td>you have / at you</td><td>Sul on homme sünnipäev. Sul on kiire.</td></tr></table>Tip: if the English is <i>you have / you are in a hurry / you have a birthday</i> → <b>sul on</b>. If a noun follows that belongs to you → <b>sinu / su</b>. If 'you' does something → <b>sa</b> + verb with -d (<i>sa oled, sa lähed, sa näed</i>).",
+  "examples": [
+   {
+    "et": "Sinu õpetaja teeb sulle kohvi.",
+    "en": "Your teacher makes you coffee."
+   },
+   {
+    "et": "Sul on homme eesti keele eksam.",
+    "en": "You have the Estonian exam tomorrow."
+   },
+   {
+    "et": "Sa oled liftis ja liftis on väga palju inimesi.",
+    "en": "You are in the lift and there are lots of people in it."
+   },
+   {
+    "et": "Sinu kolleeg ütleb, et sul on ilus pluus.",
+    "en": "Your colleague says you have a nice blouse."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "___ õpetaja teeb sulle kohvi. (sina)",
+    "answer": "Sinu",
+    "accept": [
+     "Su"
+    ],
+    "en": "Your teacher makes you coffee."
+   },
+   {
+    "prompt": "___ on homme eesti keele eksam. (sina)",
+    "answer": "Sul",
+    "accept": [
+     "Sinul"
+    ],
+    "en": "You have the Estonian exam tomorrow."
+   },
+   {
+    "prompt": "___ köögis on hiir. (sina)",
+    "answer": "Sinu",
+    "accept": [
+     "Su"
+    ],
+    "en": "There's a mouse in your kitchen."
+   },
+   {
+    "prompt": "___ kolleegid kutsuvad sind sauna. (sina)",
+    "answer": "Sinu",
+    "accept": [
+     "Su"
+    ],
+    "en": "Your colleagues invite you to the sauna."
+   },
+   {
+    "prompt": "___ on homme pulmad. (sina)",
+    "answer": "Sul",
+    "accept": [
+     "Sinul"
+    ],
+    "en": "Tomorrow is your wedding."
+   },
+   {
+    "prompt": "___ laps nutab. (sina)",
+    "answer": "Sinu",
+    "accept": [
+     "Su"
+    ],
+    "en": "Your child is crying."
+   },
+   {
+    "prompt": "___ naaber kuulab heavy metal'it ja kell on üks öösel. (sina)",
+    "answer": "Sinu",
+    "accept": [
+     "Su"
+    ],
+    "en": "Your neighbour is listening to heavy metal and it's one in the morning."
+   },
+   {
+    "prompt": "___ võitsid Bingo lotoga 200 000 eurot. (sina)",
+    "answer": "Sa",
+    "accept": [
+     "Sina"
+    ],
+    "en": "You won 200,000 euros in the Bingo lottery."
+   },
+   {
+    "prompt": "___ oli eile eesti keele A2 eksam. (sina)",
+    "answer": "Sul",
+    "accept": [
+     "Sinul"
+    ],
+    "en": "You had the Estonian A2 exam yesterday."
+   },
+   {
+    "prompt": "Sul oli eile eksam ja ___ tulemus on 100 protsenti. (sina)",
+    "answer": "sinu",
+    "accept": [
+     "su"
+    ],
+    "en": "You had an exam yesterday and your result is 100 percent."
+   },
+   {
+    "prompt": "___ lähed eesti keele tundi ja klassis on uus õpetaja. (sina)",
+    "answer": "Sa",
+    "accept": [
+     "Sina"
+    ],
+    "en": "You go to the Estonian lesson and there's a new teacher in class."
+   },
+   {
+    "prompt": "___ oled metsas ja näed karu. (sina)",
+    "answer": "Sa",
+    "accept": [
+     "Sina"
+    ],
+    "en": "You're in the forest and see a bear."
+   },
+   {
+    "prompt": "Sinu ülemus ütleb, et ___ oled loll. (sina)",
+    "answer": "sa",
+    "accept": [
+     "sina"
+    ],
+    "en": "Your boss says you are stupid."
+   },
+   {
+    "prompt": "___ on homme sünnipäev. (sina)",
+    "answer": "Sul",
+    "accept": [
+     "Sinul"
+    ],
+    "en": "Tomorrow is your birthday."
+   },
+   {
+    "prompt": "Sa oled tööl ja näed, et ___ sokk on katki. (sina)",
+    "answer": "sinu",
+    "accept": [
+     "su"
+    ],
+    "en": "You're at work and see that your sock has a hole."
+   },
+   {
+    "prompt": "___ on kiire ja linnas on liiklusummik. (sina)",
+    "answer": "Sul",
+    "accept": [
+     "Sinul"
+    ],
+    "en": "You're in a hurry and there's a traffic jam in town."
+   },
+   {
+    "prompt": "Sinu kolleeg ütleb, et ___ on ilus pluus. (sina)",
+    "answer": "sul",
+    "accept": [
+     "sinul"
+    ],
+    "en": "Your colleague says you have a nice blouse."
+   },
+   {
+    "prompt": "Sa näed Facebookis, et ___ kõige parem sõber abiellus. (sina)",
+    "answer": "sinu",
+    "accept": [
+     "su"
+    ],
+    "en": "You see on Facebook that your best friend got married."
+   },
+   {
+    "prompt": "___ voodis on pidžaama, aga see ei ole sinu pidžaama. (sina)",
+    "answer": "Sinu",
+    "accept": [
+     "Su"
+    ],
+    "en": "There are pyjamas in your bed, but they're not your pyjamas."
+   },
+   {
+    "prompt": "___ oled liftis ja liftis on väga palju inimesi. (sina)",
+    "answer": "Sa",
+    "accept": [
+     "Sina"
+    ],
+    "en": "You're in the lift and there are very many people in it."
+   }
+  ]
+ },
+ {
+  "lesson": 27,
+  "id": "l27-mu-valutab-mul-on",
+  "title": "Mu pea valutab vs Mul on köha (aches and illnesses)",
+  "explanation": "<b>Something hurts:</b> <b>mu / minu</b> + body part (nominative) + <b>valutab</b>: <i>Mu pea valutab. Mu kurk valutab.</i> With a plural body part: <i>Mu silmad valutavad.</i><br>Questions: <b>Mis sul valutab?</b> (What hurts?) <b>Kas su ... valutab?</b> – <i>Jah, valutab küll. / Ei, ei valuta.</i><br><b>You have an illness:</b> <b>mul on</b> + noun: <i>Mul on nohu / köha / palavik / allergia.</i><br><b>Fixed expressions</b> (learn as a whole):<ul><li>Mul on süda paha. (I feel nauseous)</li><li>Mul käib pea ringi. (I feel dizzy)</li><li>Mul on kõht lahti / kinni. (diarrhoea / constipation)</li><li>Mul jookseb nina verd. (my nose is bleeding)</li></ul><b>You are something:</b> <b>ma olen</b> + adjective: <i>Ma olen haige / rase / väsinud / vaktsineeritud.</i><br>General question: <b>Mis sul viga on?</b> (What's wrong?)",
+  "examples": [
+   {
+    "et": "Mis sul viga on? – Mu kurk valutab.",
+    "en": "What's wrong? – My throat hurts."
+   },
+   {
+    "et": "Mul on köha ja nohu.",
+    "en": "I have a cough and a runny nose."
+   },
+   {
+    "et": "Mul käib pea ringi.",
+    "en": "I feel dizzy."
+   },
+   {
+    "et": "Ma olen haige. Helista perearstile!",
+    "en": "I'm ill. – Call your family doctor!"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "___ pea valutab. (mina)",
+    "answer": "Mu",
+    "accept": [
+     "Minu"
+    ],
+    "en": "My head hurts."
+   },
+   {
+    "prompt": "___ on köha. (mina)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "I have a cough."
+   },
+   {
+    "prompt": "Kas ___ kurk valutab? (sina)",
+    "answer": "su",
+    "accept": [
+     "sinu"
+    ],
+    "en": "Does your throat hurt?"
+   },
+   {
+    "prompt": "Kas ___ on palavik? (sina)",
+    "answer": "sul",
+    "accept": [
+     "sinul"
+    ],
+    "en": "Do you have a fever?"
+   },
+   {
+    "prompt": "Mu selg ___. (valutama)",
+    "answer": "valutab",
+    "accept": [],
+    "en": "My back hurts."
+   },
+   {
+    "prompt": "Kas su kõht valutab? – Ei, ei ___. (valutama)",
+    "answer": "valuta",
+    "accept": [],
+    "en": "Does your stomach hurt? – No, it doesn't."
+   },
+   {
+    "prompt": "___ käib pea ringi. (mina)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "I feel dizzy."
+   },
+   {
+    "prompt": "___ jookseb nina verd. (mina)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "My nose is bleeding."
+   },
+   {
+    "prompt": "___ on süda paha. (mina)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "I feel nauseous."
+   },
+   {
+    "prompt": "___ õlg valutab. (mina)",
+    "answer": "Mu",
+    "accept": [
+     "Minu"
+    ],
+    "en": "My shoulder hurts."
+   },
+   {
+    "prompt": "Mis ___ viga on? (sina)",
+    "answer": "sul",
+    "accept": [
+     "sinul"
+    ],
+    "en": "What's wrong with you?"
+   },
+   {
+    "prompt": "Mis ___ valutab? (sina)",
+    "answer": "sul",
+    "accept": [
+     "sinul"
+    ],
+    "en": "What hurts?"
+   },
+   {
+    "prompt": "Mu silmad ___. (valutama)",
+    "answer": "valutavad",
+    "accept": [],
+    "en": "My eyes hurt."
+   },
+   {
+    "prompt": "___ olen haige. (mina)",
+    "answer": "Ma",
+    "accept": [
+     "Mina"
+    ],
+    "en": "I'm ill."
+   },
+   {
+    "prompt": "___ on kõht lahti. (mina)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "I have diarrhoea."
+   },
+   {
+    "prompt": "Kas ___ põlv valutab? (sina)",
+    "answer": "su",
+    "accept": [
+     "sinu"
+    ],
+    "en": "Does your knee hurt?"
+   },
+   {
+    "prompt": "Ta jalg ___. (valutama)",
+    "answer": "valutab",
+    "accept": [],
+    "en": "His/her leg hurts."
+   }
+  ]
+ },
+ {
+  "lesson": 27,
+  "id": "l27-mul-ei-ole-partitive",
+  "title": "Mul on nohu – Mul ei ole nohu (negation takes the partitive)",
+  "explanation": "After <b>ei ole</b> (there isn't / I don't have) the thing you don't have goes into the <b>partitive</b> (3rd form):<br><table><tr><th>Mul on ...</th><th>Mul ei ole ...</th></tr><tr><td>nohu</td><td>nohu</td></tr><tr><td>köha</td><td>köha</td></tr><tr><td>palavik</td><td>palavik<b>ku</b></td></tr><tr><td>põletik</td><td>põletik<b>ku</b></td></tr><tr><td>allergia</td><td>allergia<b>t</b></td></tr><tr><td>viirus</td><td>viirus<b>t</b></td></tr><tr><td>stress</td><td>stressi</td></tr><tr><td>hirm</td><td>hirmu</td></tr><tr><td>aeg</td><td>aega</td></tr></table>Some words look the same in all forms (nohu, köha, janu). <br><b>But:</b> with <b>ma olen + adjective</b> the adjective stays in the nominative in the negative: <i>Ma olen haige → Ma ei ole haige.</i>",
+  "examples": [
+   {
+    "et": "Mul on palavik. – Mul ei ole palavikku.",
+    "en": "I have a fever. – I don't have a fever."
+   },
+   {
+    "et": "Mul on allergia. – Mul ei ole allergiat.",
+    "en": "I have an allergy. – I don't have an allergy."
+   },
+   {
+    "et": "Mul on viirus. – Mul ei ole viirust.",
+    "en": "I have a virus. – I don't have a virus."
+   },
+   {
+    "et": "Ma ei ole haige.",
+    "en": "I'm not ill."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Mul ei ole ___. (nohu)",
+    "answer": "nohu",
+    "accept": [],
+    "en": "I don't have a runny nose."
+   },
+   {
+    "prompt": "Mul ei ole ___. (köha)",
+    "answer": "köha",
+    "accept": [],
+    "en": "I don't have a cough."
+   },
+   {
+    "prompt": "Mul ei ole ___. (palavik)",
+    "answer": "palavikku",
+    "accept": [],
+    "en": "I don't have a fever."
+   },
+   {
+    "prompt": "Mul ei ole ___. (põletik)",
+    "answer": "põletikku",
+    "accept": [],
+    "en": "I don't have an inflammation."
+   },
+   {
+    "prompt": "Mul ei ole ___. (allergia)",
+    "answer": "allergiat",
+    "accept": [],
+    "en": "I don't have an allergy."
+   },
+   {
+    "prompt": "Mul ei ole ___. (viirus)",
+    "answer": "viirust",
+    "accept": [],
+    "en": "I don't have a virus."
+   },
+   {
+    "prompt": "Lapsel ei ole ___. (palavik)",
+    "answer": "palavikku",
+    "accept": [],
+    "en": "The child doesn't have a fever."
+   },
+   {
+    "prompt": "Kas sul on ___? (allergia)",
+    "answer": "allergia",
+    "accept": [],
+    "en": "Do you have an allergy?"
+   },
+   {
+    "prompt": "Mul ei ole ___. (hirm)",
+    "answer": "hirmu",
+    "accept": [],
+    "en": "I'm not afraid."
+   },
+   {
+    "prompt": "Mul ei ole ___. (janu)",
+    "answer": "janu",
+    "accept": [],
+    "en": "I'm not thirsty."
+   },
+   {
+    "prompt": "Mul ei ole ___. (stress)",
+    "answer": "stressi",
+    "accept": [],
+    "en": "I'm not stressed."
+   },
+   {
+    "prompt": "Mul ei ole ___. (aeg)",
+    "answer": "aega",
+    "accept": [],
+    "en": "I don't have time."
+   },
+   {
+    "prompt": "Mul ei ole ___. (perearst)",
+    "answer": "perearsti",
+    "accept": [],
+    "en": "I don't have a family doctor."
+   },
+   {
+    "prompt": "Mul ei ole ___. (ravim)",
+    "answer": "ravimit",
+    "accept": [],
+    "en": "I don't have any medicine."
+   },
+   {
+    "prompt": "Ma ei ole ___. (haige)",
+    "answer": "haige",
+    "accept": [],
+    "en": "I'm not ill."
+   },
+   {
+    "prompt": "Ma ei ole ___. (väsinud)",
+    "answer": "väsinud",
+    "accept": [],
+    "en": "I'm not tired."
+   },
+   {
+    "prompt": "Siin lähedal ei ole ___. (apteek)",
+    "answer": "apteeki",
+    "accept": [],
+    "en": "There's no pharmacy nearby."
+   }
+  ]
+ },
+ {
+  "lesson": 28,
+  "id": "l28-tagasi-parast",
+  "title": "Ago and in: kaks päeva tagasi, kahe päeva pärast",
+  "explanation": "<b>... ago</b> = number (nominative) + noun in the <b>partitive</b> + <b>tagasi</b>.<br><b>in ... (from now)</b> = number in the <b>genitive</b> + noun in the <b>genitive</b> + <b>pärast</b>.<br><table><tr><th>ago (tagasi)</th><th>in (pärast)</th></tr><tr><td>kaks minutit tagasi</td><td>kahe minuti pärast</td></tr><tr><td>kaks tundi tagasi</td><td>kahe tunni pärast</td></tr><tr><td>kaks päeva tagasi</td><td>kahe päeva pärast</td></tr><tr><td>kaks nädalat tagasi</td><td>kahe nädala pärast</td></tr><tr><td>kaks kuud tagasi</td><td>kahe kuu pärast</td></tr><tr><td>kaks aastat tagasi</td><td>kahe aasta pärast</td></tr></table>Number genitives: üks → ühe, kaks → kahe, kolm → kolme, neli → nelja, viis → viie, kuus → kuue, seitse → seitsme, kümme → kümne.<br>Also: <b>väga ammu</b> (very long ago), <b>praegu</b> (now). Question: <b>Millal?</b>",
+  "examples": [
+   {
+    "et": "Ma jäin haigeks kaks päeva tagasi.",
+    "en": "I fell ill two days ago."
+   },
+   {
+    "et": "Arst tuleb kahe tunni pärast.",
+    "en": "The doctor is coming in two hours."
+   },
+   {
+    "et": "Ma kolisin Eestisse kaks aastat tagasi.",
+    "en": "I moved to Estonia two years ago."
+   },
+   {
+    "et": "Eksam on kahe nädala pärast.",
+    "en": "The exam is in two weeks."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma jäin haigeks kaks ___ tagasi. (päev)",
+    "answer": "päeva",
+    "accept": [],
+    "en": "I fell ill two days ago."
+   },
+   {
+    "prompt": "Ta helistas kaks ___ tagasi. (minut)",
+    "answer": "minutit",
+    "accept": [],
+    "en": "He/she called two minutes ago."
+   },
+   {
+    "prompt": "Me kolisime Eestisse kaks ___ tagasi. (aasta)",
+    "answer": "aastat",
+    "accept": [],
+    "en": "We moved to Estonia two years ago."
+   },
+   {
+    "prompt": "Ma käisin arsti juures kaks ___ tagasi. (nädal)",
+    "answer": "nädalat",
+    "accept": [],
+    "en": "I went to the doctor two weeks ago."
+   },
+   {
+    "prompt": "Buss läks kaks ___ tagasi. (tund)",
+    "answer": "tundi",
+    "accept": [],
+    "en": "The bus left two hours ago."
+   },
+   {
+    "prompt": "Ma olin haige kaks ___ tagasi. (kuu)",
+    "answer": "kuud",
+    "accept": [],
+    "en": "I was ill two months ago."
+   },
+   {
+    "prompt": "Arst tuleb ___ tunni pärast. (kaks)",
+    "answer": "kahe",
+    "accept": [],
+    "en": "The doctor is coming in two hours."
+   },
+   {
+    "prompt": "Ma tulen kahe ___ pärast. (minut)",
+    "answer": "minuti",
+    "accept": [],
+    "en": "I'll come in two minutes."
+   },
+   {
+    "prompt": "Eksam on kahe ___ pärast. (nädal)",
+    "answer": "nädala",
+    "accept": [],
+    "en": "The exam is in two weeks."
+   },
+   {
+    "prompt": "Me läheme Pariisi kahe ___ pärast. (kuu)",
+    "answer": "kuu",
+    "accept": [],
+    "en": "We're going to Paris in two months."
+   },
+   {
+    "prompt": "Ta lõpetab kooli kahe ___ pärast. (aasta)",
+    "answer": "aasta",
+    "accept": [],
+    "en": "He/she finishes school in two years."
+   },
+   {
+    "prompt": "Ma helistan sulle kahe ___ pärast. (päev)",
+    "answer": "päeva",
+    "accept": [],
+    "en": "I'll call you in two days."
+   },
+   {
+    "prompt": "Ma tulen ___ minuti pärast. (viis)",
+    "answer": "viie",
+    "accept": [],
+    "en": "I'll come in five minutes."
+   },
+   {
+    "prompt": "Ma jäin haigeks ___ päeva tagasi. (kolm)",
+    "answer": "kolm",
+    "accept": [],
+    "en": "I fell ill three days ago."
+   },
+   {
+    "prompt": "Film algab ___ tunni pärast. (kolm)",
+    "answer": "kolme",
+    "accept": [],
+    "en": "The film starts in three hours."
+   },
+   {
+    "prompt": "Rong tuleb ___ minuti pärast. (kümme)",
+    "answer": "kümne",
+    "accept": [],
+    "en": "The train comes in ten minutes."
+   },
+   {
+    "prompt": "Eksam on ___ nädala pärast. (neli)",
+    "answer": "nelja",
+    "accept": [],
+    "en": "The exam is in four weeks."
+   }
+  ]
+ },
+ {
+  "lesson": 28,
+  "id": "l28-haigeks-jaama-terveks-saama",
+  "title": "Falling ill and getting well: jäin haigeks, sain terveks",
+  "explanation": "<b>haigeks jääma</b> = to fall ill, <b>terveks saama</b> = to get well. The adjective takes <b>-ks</b> (translative: 'becoming').<br>Simple past (lihtminevik):<table><tr><th></th><th>jääma</th><th>saama</th></tr><tr><td>ma</td><td>jäin haigeks</td><td>sain terveks</td></tr><tr><td>sa</td><td>jäid haigeks</td><td>said terveks</td></tr><tr><td>ta</td><td>jäi haigeks</td><td>sai terveks</td></tr><tr><td>me</td><td>jäime haigeks</td><td>saime terveks</td></tr><tr><td>te</td><td>jäite haigeks</td><td>saite terveks</td></tr><tr><td>nad</td><td>jäid haigeks</td><td>said terveks</td></tr></table>Negative (all persons): <b>ei jäänud</b> haigeks, <b>ei saanud</b> terveks.<br>Wish: <b>Saa ruttu terveks!</b> (Get well soon!)",
+  "examples": [
+   {
+    "et": "Millal te haigeks jäite?",
+    "en": "When did you fall ill?"
+   },
+   {
+    "et": "Ma jäin haigeks kaks päeva tagasi.",
+    "en": "I fell ill two days ago."
+   },
+   {
+    "et": "Laps sai kiiresti terveks.",
+    "en": "The child got well quickly."
+   },
+   {
+    "et": "Ma ei jäänud haigeks.",
+    "en": "I didn't fall ill."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma ___ eile haigeks. (jääma)",
+    "answer": "jäin",
+    "accept": [],
+    "en": "I fell ill yesterday."
+   },
+   {
+    "prompt": "Millal te haigeks ___? (jääma)",
+    "answer": "jäite",
+    "accept": [],
+    "en": "When did you fall ill?"
+   },
+   {
+    "prompt": "Sa ___ haigeks. (jääma)",
+    "answer": "jäid",
+    "accept": [],
+    "en": "You fell ill."
+   },
+   {
+    "prompt": "Ta ___ haigeks. (jääma)",
+    "answer": "jäi",
+    "accept": [],
+    "en": "He/she fell ill."
+   },
+   {
+    "prompt": "Me ___ haigeks. (jääma)",
+    "answer": "jäime",
+    "accept": [],
+    "en": "We fell ill."
+   },
+   {
+    "prompt": "Nad ___ haigeks. (jääma)",
+    "answer": "jäid",
+    "accept": [],
+    "en": "They fell ill."
+   },
+   {
+    "prompt": "Ma ___ terveks. (saama)",
+    "answer": "sain",
+    "accept": [],
+    "en": "I got well."
+   },
+   {
+    "prompt": "Sa ___ terveks. (saama)",
+    "answer": "said",
+    "accept": [],
+    "en": "You got well."
+   },
+   {
+    "prompt": "Ta ___ terveks. (saama)",
+    "answer": "sai",
+    "accept": [],
+    "en": "He/she got well."
+   },
+   {
+    "prompt": "Me ___ terveks. (saama)",
+    "answer": "saime",
+    "accept": [],
+    "en": "We got well."
+   },
+   {
+    "prompt": "Te ___ terveks. (saama)",
+    "answer": "saite",
+    "accept": [],
+    "en": "You (pl.) got well."
+   },
+   {
+    "prompt": "Nad ___ terveks. (saama)",
+    "answer": "said",
+    "accept": [],
+    "en": "They got well."
+   },
+   {
+    "prompt": "Ma ei ___ haigeks. (jääma)",
+    "answer": "jäänud",
+    "accept": [],
+    "en": "I didn't fall ill."
+   },
+   {
+    "prompt": "Ta ei ___ veel terveks. (saama)",
+    "answer": "saanud",
+    "accept": [],
+    "en": "He/she didn't get well yet."
+   },
+   {
+    "prompt": "Saa ruttu ___! (terve)",
+    "answer": "terveks",
+    "accept": [],
+    "en": "Get well soon!"
+   },
+   {
+    "prompt": "Laps jäi ___. (haige)",
+    "answer": "haigeks",
+    "accept": [],
+    "en": "The child fell ill."
+   }
+  ]
+ },
+ {
+  "lesson": 28,
+  "id": "l28-teie-imperative-arge",
+  "title": "Doctor's orders: Töötage! – Ärge töötage!",
+  "explanation": "Commands to several people or to someone you address politely (<b>teie</b>) are formed from the <b>da-infinitive</b>: <b>-da → -ge</b>, <b>-ta → -ke</b>. After l, n, r and in short verbs the ending is <b>-ge</b>.<br>A prohibition (keeld) is <b>Ärge</b> + the same form: <i>Töötage! → Ärge töötage!</i><br><table><tr><th>ma-inf</th><th>da-inf</th><th>käsk</th><th>keeld</th></tr><tr><td>töötama</td><td>töötada</td><td>Töötage!</td><td>Ärge töötage!</td></tr><tr><td>magama</td><td>magada</td><td>Magage!</td><td>Ärge magage!</td></tr><tr><td>ujuma</td><td>ujuda</td><td>Ujuge!</td><td>Ärge ujuge!</td></tr><tr><td>lugema</td><td>lugeda</td><td>Lugege!</td><td>Ärge lugege!</td></tr><tr><td>rääkima</td><td>rääkida</td><td>Rääkige!</td><td>Ärge rääkige!</td></tr><tr><td>laulma</td><td>laulda</td><td>Laulge!</td><td>Ärge laulge!</td></tr><tr><td>olema</td><td>olla</td><td>Olge!</td><td>Ärge olge!</td></tr><tr><td>tulema</td><td>tulla</td><td>Tulge!</td><td>Ärge tulge!</td></tr><tr><td>minema</td><td>minna</td><td>Minge!</td><td>Ärge minge!</td></tr><tr><td>käima</td><td>käia</td><td>Käige!</td><td>Ärge käige!</td></tr><tr><td>sööma</td><td>süüa</td><td>Sööge!</td><td>Ärge sööge!</td></tr><tr><td>jooma</td><td>juua</td><td>Jooge!</td><td>Ärge jooge!</td></tr><tr><td>vaatama</td><td>vaadata</td><td>Vaadake!</td><td>Ärge vaadake!</td></tr><tr><td>kuulama</td><td>kuulata</td><td>Kuulake!</td><td>Ärge kuulake!</td></tr><tr><td>pesema</td><td>pesta</td><td>Peske!</td><td>Ärge peske!</td></tr><tr><td>sõitma</td><td>sõita</td><td>Sõitke!</td><td>Ärge sõitke!</td></tr><tr><td>tegema</td><td>teha</td><td>Tehke!</td><td>Ärge tehke!</td></tr></table>Note the irregular ones: süüa → <b>Sööge</b>, juua → <b>Jooge</b>, käia → <b>Käige</b>, teha → <b>Tehke</b>.<br>Asking permission: <b>Kas ma võin ...?</b> + da-infinitive: <i>Kas ma võin ujuda?</i>",
+  "examples": [
+   {
+    "et": "Kas ma võin suitsetada? – Ärge suitsetage!",
+    "en": "May I smoke? – Don't smoke!"
+   },
+   {
+    "et": "Kas ma võin päeval magada? – Magage!",
+    "en": "May I sleep in the daytime? – Sleep!"
+   },
+   {
+    "et": "Kas ma võin tööle minna? – Ärge minge!",
+    "en": "May I go to work? – Don't go!"
+   },
+   {
+    "et": "Tehke suu lahti!",
+    "en": "Open your mouth!"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Te olete haige. Ärge ___! (suitsetama)",
+    "answer": "suitsetage",
+    "accept": [],
+    "en": "You're ill. Don't smoke!"
+   },
+   {
+    "prompt": "___ päeval! (magama, teie)",
+    "answer": "Magage",
+    "accept": [],
+    "en": "Sleep in the daytime!"
+   },
+   {
+    "prompt": "Ärge ___ õlut! (jooma)",
+    "answer": "jooge",
+    "accept": [],
+    "en": "Don't drink beer!"
+   },
+   {
+    "prompt": "___ šokolaadi! (sööma, teie)",
+    "answer": "Sööge",
+    "accept": [],
+    "en": "Eat chocolate!"
+   },
+   {
+    "prompt": "Ärge ___ tööle! (minema)",
+    "answer": "minge",
+    "accept": [],
+    "en": "Don't go to work!"
+   },
+   {
+    "prompt": "___ homme tagasi! (tulema, teie)",
+    "answer": "Tulge",
+    "accept": [],
+    "en": "Come back tomorrow!"
+   },
+   {
+    "prompt": "Ärge ___ televiisorit! (vaatama)",
+    "answer": "vaadake",
+    "accept": [],
+    "en": "Don't watch TV!"
+   },
+   {
+    "prompt": "___ raadiot! (kuulama, teie)",
+    "answer": "Kuulake",
+    "accept": [],
+    "en": "Listen to the radio!"
+   },
+   {
+    "prompt": "Ärge ___ aknaid! (pesema)",
+    "answer": "peske",
+    "accept": [],
+    "en": "Don't wash the windows!"
+   },
+   {
+    "prompt": "___ jalgrattaga! (sõitma, teie)",
+    "answer": "Sõitke",
+    "accept": [],
+    "en": "Ride a bicycle!"
+   },
+   {
+    "prompt": "Ärge ___ sporti! (tegema)",
+    "answer": "tehke",
+    "accept": [],
+    "en": "Don't do sports!"
+   },
+   {
+    "prompt": "___ perega koos! (olema, teie)",
+    "answer": "Olge",
+    "accept": [],
+    "en": "Be together with your family!"
+   },
+   {
+    "prompt": "Ärge ___ saunas! (käima)",
+    "answer": "käige",
+    "accept": [],
+    "en": "Don't go to the sauna!"
+   },
+   {
+    "prompt": "___ raamatut! (lugema, teie)",
+    "answer": "Lugege",
+    "accept": [],
+    "en": "Read a book!"
+   },
+   {
+    "prompt": "Ärge ___! (laulma)",
+    "answer": "laulge",
+    "accept": [],
+    "en": "Don't sing!"
+   },
+   {
+    "prompt": "___ linnas! (jalutama, teie)",
+    "answer": "Jalutage",
+    "accept": [],
+    "en": "Walk in town!"
+   },
+   {
+    "prompt": "Ärge ___ rõdul! (päevitama)",
+    "answer": "päevitage",
+    "accept": [],
+    "en": "Don't sunbathe on the balcony!"
+   },
+   {
+    "prompt": "___ eesti keelt! (rääkima, teie)",
+    "answer": "Rääkige",
+    "accept": [],
+    "en": "Speak Estonian!"
+   },
+   {
+    "prompt": "Ärge ___ arvutis! (istuma)",
+    "answer": "istuge",
+    "accept": [],
+    "en": "Don't sit at the computer!"
+   },
+   {
+    "prompt": "___ suu lahti! (tegema, teie)",
+    "answer": "Tehke",
+    "accept": [],
+    "en": "Open your mouth!"
+   },
+   {
+    "prompt": "___! Vesi on soe. (ujuma, teie)",
+    "answer": "Ujuge",
+    "accept": [],
+    "en": "Swim! The water is warm."
+   }
+  ]
+ },
+ {
+  "lesson": 29,
+  "id": "l29-conditional-ks",
+  "title": "Conditional mood: tahaks(in), tuleks, teeks (would ...)",
+  "explanation": "The conditional ('would') is formed from the <b>present stem</b> (1st person present minus -n) + <b>-ks</b>:<br><table><tr><th>present</th><th>conditional</th></tr><tr><td>tahan</td><td>tahaks</td></tr><tr><td>teen</td><td>teeks</td></tr><tr><td>töötan</td><td>töötaks</td></tr><tr><td>lähen</td><td>läheks</td></tr><tr><td>olen</td><td>oleks</td></tr><tr><td>ostan</td><td>ostaks</td></tr><tr><td>elan</td><td>elaks</td></tr><tr><td>reisin</td><td>reisiks</td></tr><tr><td>tulen</td><td>tuleks</td></tr><tr><td>näen</td><td>näeks</td></tr><tr><td>ütlen</td><td>ütleks</td></tr><tr><td>õpin</td><td>õpiks</td></tr></table>Personal endings are optional in speech – the short form works for every person:<br><table><tr><th>full</th><th>short</th></tr><tr><td>ma tahaksin</td><td>ma tahaks</td></tr><tr><td>sa tahaksid</td><td>sa tahaks</td></tr><tr><td>ta tahaks</td><td>ta tahaks</td></tr><tr><td>me tahaksime</td><td>me tahaks</td></tr><tr><td>te tahaksite</td><td>te tahaks</td></tr><tr><td>nad tahaksid</td><td>nad tahaks</td></tr></table>Negative: <b>ei</b> + short form for all persons: <i>ma ei tahaks</i>.<br>Polite requests: <i>Kas sa tuleks minuga ööklubisse? – Jah! Hea meelega! / Ei! Unusta ära!</i>",
+  "examples": [
+   {
+    "et": "Ma tahaks praegu jäätist süüa.",
+    "en": "I'd like to eat ice cream right now."
+   },
+   {
+    "et": "Kas sa tuleks minuga täna õhtul ööklubisse?",
+    "en": "Would you come with me to a nightclub tonight?"
+   },
+   {
+    "et": "Kas sa teeks mulle praegu kohvi? – Jah! Hea meelega!",
+    "en": "Would you make me a coffee now? – Yes! With pleasure!"
+   },
+   {
+    "et": "Ma ei tahaks praegu tööl olla.",
+    "en": "I wouldn't want to be at work right now."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma ___ praegu jäätist süüa. (tahtma)",
+    "answer": "tahaks",
+    "accept": [
+     "tahaksin"
+    ],
+    "en": "I'd like to eat ice cream right now."
+   },
+   {
+    "prompt": "Kas sa ___ minuga täna õhtul ööklubisse? (tulema)",
+    "answer": "tuleks",
+    "accept": [
+     "tuleksid"
+    ],
+    "en": "Would you come with me to a nightclub tonight?"
+   },
+   {
+    "prompt": "Kas sa ___ mulle praegu kohvi? (tegema)",
+    "answer": "teeks",
+    "accept": [
+     "teeksid"
+    ],
+    "en": "Would you make me a coffee now?"
+   },
+   {
+    "prompt": "Kas sa ___ mulle oma pükse? (laenama)",
+    "answer": "laenaks",
+    "accept": [
+     "laenaksid"
+    ],
+    "en": "Would you lend me your trousers?"
+   },
+   {
+    "prompt": "Kas sa ___ mulle pudeli veini? (ostma)",
+    "answer": "ostaks",
+    "accept": [
+     "ostaksid"
+    ],
+    "en": "Would you buy me a bottle of wine?"
+   },
+   {
+    "prompt": "Kas sa ___ mulle kassi? (joonistama)",
+    "answer": "joonistaks",
+    "accept": [
+     "joonistaksid"
+    ],
+    "en": "Would you draw me a cat?"
+   },
+   {
+    "prompt": "Kas sa ___ nädalavahetusel minu korterit? (koristama)",
+    "answer": "koristaks",
+    "accept": [
+     "koristaksid"
+    ],
+    "en": "Would you clean my flat at the weekend?"
+   },
+   {
+    "prompt": "Pablo ___ praegu pitsat süüa. (tahtma)",
+    "answer": "tahaks",
+    "accept": [],
+    "en": "Pablo would like to eat pizza right now."
+   },
+   {
+    "prompt": "Me ___ praegu rannas olla. (tahtma)",
+    "answer": "tahaks",
+    "accept": [
+     "tahaksime"
+    ],
+    "en": "We'd like to be on the beach right now."
+   },
+   {
+    "prompt": "Nad ___ Eestis elada. (tahtma)",
+    "answer": "tahaks",
+    "accept": [
+     "tahaksid"
+    ],
+    "en": "They would like to live in Estonia."
+   },
+   {
+    "prompt": "Ma ei ___ praegu tööl olla. (tahtma)",
+    "answer": "tahaks",
+    "accept": [],
+    "en": "I wouldn't want to be at work right now."
+   },
+   {
+    "prompt": "Ma ___ hea meelega Pariisi. (minema)",
+    "answer": "läheks",
+    "accept": [
+     "läheksin"
+    ],
+    "en": "I'd gladly go to Paris."
+   },
+   {
+    "prompt": "Ma ___ hea meelega arstina. (töötama)",
+    "answer": "töötaks",
+    "accept": [
+     "töötaksin"
+    ],
+    "en": "I'd gladly work as a doctor."
+   },
+   {
+    "prompt": "Kas te ___ mulle oma riigi hümni? (laulma)",
+    "answer": "laulaks",
+    "accept": [
+     "laulaksite"
+    ],
+    "en": "Would you sing me your country's anthem?"
+   },
+   {
+    "prompt": "Kas sa ___ mulle, mis sinu parima sõbra nimi on? (ütlema)",
+    "answer": "ütleks",
+    "accept": [
+     "ütleksid"
+    ],
+    "en": "Would you tell me what your best friend's name is?"
+   },
+   {
+    "prompt": "Ma ___ hea meelega maal. (elama)",
+    "answer": "elaks",
+    "accept": [
+     "elaksin"
+    ],
+    "en": "I'd gladly live in the countryside."
+   },
+   {
+    "prompt": "Me ___ hea meelega palju. (reisima)",
+    "answer": "reisiks",
+    "accept": [
+     "reisiksime"
+    ],
+    "en": "We'd gladly travel a lot."
+   }
+  ]
+ },
+ {
+  "lesson": 29,
+  "id": "l29-kui-clauses",
+  "title": "If I were ...: Kui ma oleks ..., ma ...",
+  "explanation": "Unreal 'if' sentences use the conditional in <b>both</b> parts: <b>Kui</b> + conditional, + conditional.<br><i>Kui ma oleks värv, ma oleks sinine.</i> (If I were a colour, I'd be blue.)<br><i>Kui mul oleks palju vaba aega, ma õpiks eesti keelt.</i> (If I had a lot of free time, I'd study Estonian.)<br>'I would have' = <b>mul oleks</b> (never *mul oleksin*); 'I wouldn't have' = <b>mul ei oleks</b> + partitive: <i>kui sul ei oleks arvutit</i>.<br>Questions: <b>Mida sa teeks, kui ...?</b> <b>Kui sa oleks loom, kes sa oleks?</b> <b>Mida sa ostaks, kui sul oleks 100 eurot?</b><br>Joke saying: <i>Kui tädil oleks rattad, oleks ta omnibuss.</i> ('If my aunt had wheels, she'd be a bus' – i.e. 'if ifs and buts...').",
+  "examples": [
+   {
+    "et": "Kui ma oleks värv, ma oleks sinine.",
+    "en": "If I were a colour, I'd be blue."
+   },
+   {
+    "et": "Kui mul oleks palju vaba aega, ma õpiks eesti keelt.",
+    "en": "If I had a lot of free time, I'd study Estonian."
+   },
+   {
+    "et": "Mida sa teeks, kui sa näeks metsas karu?",
+    "en": "What would you do if you saw a bear in the forest?"
+   },
+   {
+    "et": "Kus sa elaks, kui sa ei elaks praegu Eestis?",
+    "en": "Where would you live if you didn't live in Estonia now?"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Kui ma ___ värv, ma oleks sinine. (olema)",
+    "answer": "oleks",
+    "accept": [
+     "oleksin"
+    ],
+    "en": "If I were a colour, I'd be blue."
+   },
+   {
+    "prompt": "Kui mul ___ palju vaba aega, ma õpiks eesti keelt. (olema)",
+    "answer": "oleks",
+    "accept": [],
+    "en": "If I had a lot of free time, I'd study Estonian."
+   },
+   {
+    "prompt": "Kui mul oleks palju vaba aega, ma ___ eesti keelt. (õppima)",
+    "answer": "õpiks",
+    "accept": [
+     "õpiksin"
+    ],
+    "en": "If I had a lot of free time, I'd study Estonian."
+   },
+   {
+    "prompt": "Mida sa ___, kui täna oleks pühapäev? (tegema)",
+    "answer": "teeks",
+    "accept": [
+     "teeksid"
+    ],
+    "en": "What would you do if today were Sunday?"
+   },
+   {
+    "prompt": "Mida sa teeks, kui sul ei ___ arvutit? (olema)",
+    "answer": "oleks",
+    "accept": [],
+    "en": "What would you do if you didn't have a computer?"
+   },
+   {
+    "prompt": "Mida sa teeks, kui sa ___ metsas karu? (nägema)",
+    "answer": "näeks",
+    "accept": [
+     "näeksid"
+    ],
+    "en": "What would you do if you saw a bear in the forest?"
+   },
+   {
+    "prompt": "Kus sa elaks, kui sa ei ___ praegu Eestis? (elama)",
+    "answer": "elaks",
+    "accept": [],
+    "en": "Where would you live if you didn't live in Estonia now?"
+   },
+   {
+    "prompt": "Mida sa ___, kui sul oleks 100 eurot? (ostma)",
+    "answer": "ostaks",
+    "accept": [
+     "ostaksid"
+    ],
+    "en": "What would you buy if you had 100 euros?"
+   },
+   {
+    "prompt": "Mida sa ___, kui sa näeks Eesti presidenti? (ütlema)",
+    "answer": "ütleks",
+    "accept": [
+     "ütleksid"
+    ],
+    "en": "What would you say if you saw the President of Estonia?"
+   },
+   {
+    "prompt": "Kui sa ___ loom, kes sa oleks? (olema)",
+    "answer": "oleks",
+    "accept": [
+     "oleksid"
+    ],
+    "en": "If you were an animal, what would you be?"
+   },
+   {
+    "prompt": "Kui mul oleks palju raha, ma ___ maja mere ääres. (ostma)",
+    "answer": "ostaks",
+    "accept": [
+     "ostaksin"
+    ],
+    "en": "If I had a lot of money, I'd buy a house by the sea."
+   },
+   {
+    "prompt": "Kui su sõbrad ___ Kuu peal, kas sa läheks külla? (elama)",
+    "answer": "elaks",
+    "accept": [
+     "elaksid"
+    ],
+    "en": "If your friends lived on the Moon, would you go visit?"
+   },
+   {
+    "prompt": "Kui su sõbrad elaks Kuu peal, kas sa ___ külla? (minema)",
+    "answer": "läheks",
+    "accept": [
+     "läheksid"
+    ],
+    "en": "If your friends lived on the Moon, would you go visit?"
+   },
+   {
+    "prompt": "Kui ma oleks jälle laps, ma ___ terve päeva. (mängima)",
+    "answer": "mängiks",
+    "accept": [
+     "mängiksin"
+    ],
+    "en": "If I were a child again, I'd play all day."
+   },
+   {
+    "prompt": "Kui tädil ___ rattad, oleks ta omnibuss. (olema)",
+    "answer": "oleks",
+    "accept": [],
+    "en": "If my aunt had wheels, she'd be a bus."
+   },
+   {
+    "prompt": "Kui ilm ___ ilus, me läheks randa. (olema)",
+    "answer": "oleks",
+    "accept": [],
+    "en": "If the weather were nice, we'd go to the beach."
+   }
+  ]
+ },
+ {
+  "lesson": 30,
+  "id": "l30-impersonal-takse",
+  "title": "Impersonal: Siin jalutatakse (people do / it is done)",
+  "explanation": "The impersonal (umbisikuline tegumood) says that something is done without saying who does it – like English 'people ...' or 'it is done'. One form for everyone, ending <b>-takse / -dakse</b> (sometimes -akse).<br>Regular verbs: da-infinitive minus <b>-da/-ta</b> + <b>-takse</b>: jaluta-da → <b>jalutatakse</b>, mängi-da → <b>mängitakse</b>, vaada-ta → <b>vaadatakse</b>, puha-ta → <b>puhatakse</b>, pes-ta → <b>pestakse</b>.<br><table><tr><th>verb</th><th>impersonal</th></tr><tr><td>jalutama</td><td>jalutatakse</td></tr><tr><td>magama</td><td>magatakse</td></tr><tr><td>töötama</td><td>töötatakse</td></tr><tr><td>mängima</td><td>mängitakse</td></tr><tr><td>koristama</td><td>koristatakse</td></tr><tr><td>vaatama</td><td>vaadatakse</td></tr><tr><td>pesema</td><td>pestakse</td></tr><tr><td>puhkama</td><td>puhatakse</td></tr><tr><td>ujuma</td><td>ujutakse</td></tr><tr><td>lugema</td><td><b>loetakse</b></td></tr><tr><td>rääkima</td><td><b>räägitakse</b></td></tr><tr><td>sõitma</td><td><b>sõidetakse</b></td></tr><tr><td>ostma</td><td><b>ostetakse</b></td></tr><tr><td>sööma</td><td><b>süüakse</b></td></tr><tr><td>jooma</td><td><b>juuakse</b></td></tr><tr><td>minema</td><td><b>minnakse</b></td></tr><tr><td>käima</td><td><b>käiakse</b></td></tr><tr><td>olema</td><td><b>ollakse</b></td></tr><tr><td>tegema</td><td><b>tehakse</b></td></tr><tr><td>laulma</td><td><b>lauldakse</b></td></tr></table>(bold = learn by heart)<br>Seasons with -l: <b>talvel, kevadel, suvel, sügisel</b>. <i>Mida tehakse talvel? – Talvel suusatatakse ja uisutatakse.</i>",
+  "examples": [
+   {
+    "et": "Mida tehakse talvel? – Talvel suusatatakse ja tehakse lumememme.",
+    "en": "What do people do in winter? – In winter people ski and make snowmen."
+   },
+   {
+    "et": "Sügisel korjatakse seeni.",
+    "en": "In autumn people pick mushrooms."
+   },
+   {
+    "et": "Suvel käiakse rannas ja ujutakse meres.",
+    "en": "In summer people go to the beach and swim in the sea."
+   },
+   {
+    "et": "Sügisel minnakse jälle kooli.",
+    "en": "In autumn people go back to school."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Nad jalutavad. Siin ___. (jalutama)",
+    "answer": "jalutatakse",
+    "accept": [],
+    "en": "They walk. People walk here."
+   },
+   {
+    "prompt": "Nad joovad. Siin ___. (jooma)",
+    "answer": "juuakse",
+    "accept": [],
+    "en": "They drink. People drink here."
+   },
+   {
+    "prompt": "Nad koristavad. Siin ___. (koristama)",
+    "answer": "koristatakse",
+    "accept": [],
+    "en": "They clean. Cleaning is done here."
+   },
+   {
+    "prompt": "Nad loevad. Siin ___. (lugema)",
+    "answer": "loetakse",
+    "accept": [],
+    "en": "They read. People read here."
+   },
+   {
+    "prompt": "Nad magavad. Siin ___. (magama)",
+    "answer": "magatakse",
+    "accept": [],
+    "en": "They sleep. People sleep here."
+   },
+   {
+    "prompt": "Nad mängivad. Siin ___. (mängima)",
+    "answer": "mängitakse",
+    "accept": [],
+    "en": "They play. People play here."
+   },
+   {
+    "prompt": "Nad pesevad käsi. Siin ___ käsi. (pesema)",
+    "answer": "pestakse",
+    "accept": [],
+    "en": "They wash their hands. Hands are washed here."
+   },
+   {
+    "prompt": "Nad puhkavad. Siin ___. (puhkama)",
+    "answer": "puhatakse",
+    "accept": [],
+    "en": "They rest. People rest here."
+   },
+   {
+    "prompt": "Nad sõidavad. Siin ___. (sõitma)",
+    "answer": "sõidetakse",
+    "accept": [],
+    "en": "They drive. People drive here."
+   },
+   {
+    "prompt": "Nad söövad. Siin ___. (sööma)",
+    "answer": "süüakse",
+    "accept": [],
+    "en": "They eat. People eat here."
+   },
+   {
+    "prompt": "Nad teevad süüa. Siin ___ süüa. (tegema)",
+    "answer": "tehakse",
+    "accept": [],
+    "en": "They cook. Cooking is done here."
+   },
+   {
+    "prompt": "Nad töötavad. Siin ___. (töötama)",
+    "answer": "töötatakse",
+    "accept": [],
+    "en": "They work. People work here."
+   },
+   {
+    "prompt": "Talvel ___. (suusatama)",
+    "answer": "suusatatakse",
+    "accept": [],
+    "en": "In winter people ski."
+   },
+   {
+    "prompt": "Sügisel ___ seeni. (korjama)",
+    "answer": "korjatakse",
+    "accept": [],
+    "en": "In autumn people pick mushrooms."
+   },
+   {
+    "prompt": "Suvel ___ rannas. (käima)",
+    "answer": "käiakse",
+    "accept": [],
+    "en": "In summer people go to the beach."
+   },
+   {
+    "prompt": "Sügisel ___ kooli. (minema)",
+    "answer": "minnakse",
+    "accept": [],
+    "en": "In autumn people go to school."
+   },
+   {
+    "prompt": "Suvel ___ meres. (ujuma)",
+    "answer": "ujutakse",
+    "accept": [],
+    "en": "In summer people swim in the sea."
+   },
+   {
+    "prompt": "Eestis ___ eesti keelt. (rääkima)",
+    "answer": "räägitakse",
+    "accept": [],
+    "en": "Estonian is spoken in Estonia."
+   },
+   {
+    "prompt": "Poes ___ toitu. (ostma)",
+    "answer": "ostetakse",
+    "accept": [],
+    "en": "Food is bought in the shop."
+   }
+  ]
+ },
+ {
+  "lesson": 30,
+  "id": "l30-impersonal-negative",
+  "title": "Impersonal negative: ei jalutata, ei tehta",
+  "explanation": "Negative impersonal: <b>ei</b> + the form without <b>-kse</b>: jalutatakse → <b>ei jalutata</b>, loetakse → <b>ei loeta</b>, pestakse → <b>ei pesta</b>.<br><table><tr><th>affirmative</th><th>negative</th></tr><tr><td>jalutatakse</td><td>ei jalutata</td></tr><tr><td>magatakse</td><td>ei magata</td></tr><tr><td>töötatakse</td><td>ei töötata</td></tr><tr><td>mängitakse</td><td>ei mängita</td></tr><tr><td>koristatakse</td><td>ei koristata</td></tr><tr><td>vaadatakse</td><td>ei vaadata</td></tr><tr><td>loetakse</td><td>ei loeta</td></tr><tr><td>pestakse</td><td>ei pesta</td></tr><tr><td>puhatakse</td><td>ei puhata</td></tr><tr><td>sõidetakse</td><td>ei sõideta</td></tr><tr><td>ostetakse</td><td>ei osteta</td></tr></table>Irregular – learn by heart:<table><tr><th>affirmative</th><th>negative</th></tr><tr><td>süüakse</td><td>ei sööda</td></tr><tr><td>juuakse</td><td>ei jooda</td></tr><tr><td>minnakse</td><td>ei minda</td></tr><tr><td>käiakse</td><td>ei käida</td></tr><tr><td>ollakse</td><td>ei olda</td></tr><tr><td>tehakse</td><td>ei tehta</td></tr></table><i>Mida tehakse aastavahetusel? Mida kindlasti ei tehta?</i>",
+  "examples": [
+   {
+    "et": "Siin ei suitsetata.",
+    "en": "No smoking here."
+   },
+   {
+    "et": "Raamatukogus ei sööda.",
+    "en": "People don't eat in the library."
+   },
+   {
+    "et": "Talvel meres ei ujuta.",
+    "en": "People don't swim in the sea in winter."
+   },
+   {
+    "et": "Mida pulmas kindlasti ei tehta?",
+    "en": "What is definitely not done at a wedding?"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Siin ei ___. (suitsetama)",
+    "answer": "suitsetata",
+    "accept": [],
+    "en": "No smoking here."
+   },
+   {
+    "prompt": "Pühapäeval ei ___. (töötama)",
+    "answer": "töötata",
+    "accept": [],
+    "en": "People don't work on Sunday."
+   },
+   {
+    "prompt": "Raamatukogus ei ___. (sööma)",
+    "answer": "sööda",
+    "accept": [],
+    "en": "People don't eat in the library."
+   },
+   {
+    "prompt": "Raamatukogus ei ___ telefoniga. (rääkima)",
+    "answer": "räägita",
+    "accept": [],
+    "en": "People don't talk on the phone in the library."
+   },
+   {
+    "prompt": "Talvel ei ___ meres. (ujuma)",
+    "answer": "ujuta",
+    "accept": [],
+    "en": "People don't swim in the sea in winter."
+   },
+   {
+    "prompt": "Aastavahetusel ei ___. (magama)",
+    "answer": "magata",
+    "accept": [],
+    "en": "People don't sleep on New Year's Eve."
+   },
+   {
+    "prompt": "Tööl ei ___ õlut. (jooma)",
+    "answer": "jooda",
+    "accept": [],
+    "en": "People don't drink beer at work."
+   },
+   {
+    "prompt": "Pühapäeval ei ___ kooli. (minema)",
+    "answer": "minda",
+    "accept": [],
+    "en": "People don't go to school on Sunday."
+   },
+   {
+    "prompt": "Suvel ei ___. (suusatama)",
+    "answer": "suusatata",
+    "accept": [],
+    "en": "People don't ski in summer."
+   },
+   {
+    "prompt": "Sügisel ei ___ rannas. (käima)",
+    "answer": "käida",
+    "accept": [],
+    "en": "People don't go to the beach in autumn."
+   },
+   {
+    "prompt": "Siin ei ___ autoga. (sõitma)",
+    "answer": "sõideta",
+    "accept": [],
+    "en": "People don't drive cars here."
+   },
+   {
+    "prompt": "Pühapäeval ei ___ maja. (koristama)",
+    "answer": "koristata",
+    "accept": [],
+    "en": "The house isn't cleaned on Sunday."
+   },
+   {
+    "prompt": "Saunas ei ___ raamatut. (lugema)",
+    "answer": "loeta",
+    "accept": [],
+    "en": "People don't read books in the sauna."
+   },
+   {
+    "prompt": "Talvel ei ___ aknaid. (pesema)",
+    "answer": "pesta",
+    "accept": [],
+    "en": "Windows aren't washed in winter."
+   },
+   {
+    "prompt": "Pulmas ei ___ televiisorit. (vaatama)",
+    "answer": "vaadata",
+    "accept": [],
+    "en": "People don't watch TV at a wedding."
+   },
+   {
+    "prompt": "Jõulude ajal ei ___ tööd. (tegema)",
+    "answer": "tehta",
+    "accept": [],
+    "en": "No work is done at Christmas."
+   },
+   {
+    "prompt": "Sellest poest ei ___ midagi. (ostma)",
+    "answer": "osteta",
+    "accept": [],
+    "en": "Nothing is bought in this shop."
+   }
+  ]
+ },
+ {
+  "lesson": 31,
+  "id": "l31-review-mixed",
+  "title": "Review (Kordamine): compliments, recipes and mixed forms",
+  "explanation": "Mixed review of the forms practised in the Kordamine section.<ul><li><b>Compliments</b>: adjective agrees with the noun – plural with plural: <i>Sul on ilusad sinised püksid! Sul on väga ilusad pikad juuksed!</i></li><li><b>Recipes</b> use the sina-imperative (1st person present minus -n): keedan → <b>Keeda!</b>, koorin → <b>Koori!</b>, lõikan → <b>Lõika!</b>, valan → <b>Vala!</b>, lisan → <b>Lisa!</b>, segan → <b>Sega!</b>, maitsen → <b>Maitse!</b>, söön → <b>Söö!</b></li><li>Quantities take the partitive: <i>400 g kartuleid, 1 l keefirit, 100 g sinki</i>.</li><li>Where? → -s / -l: <i>kesklinnas, kolmandal korrusel</i>. When? → <i>talvel, kahe päeva pärast</i>.</li><li>Past negative: <i>Mida sa eile ei teinud?</i> Conditional: <i>Kellena sa tahaksid töötada?</i></li></ul>",
+  "examples": [
+   {
+    "et": "Sul on nii armas väike nina!",
+    "en": "You have such a cute little nose!"
+   },
+   {
+    "et": "Keeda ja koori kartulid ja munad.",
+    "en": "Boil and peel the potatoes and eggs."
+   },
+   {
+    "et": "Korter asub kesklinnas, kolmandal korrusel.",
+    "en": "The flat is in the city centre, on the third floor."
+   },
+   {
+    "et": "Kellena sa tahaksid töötada?",
+    "en": "What would you like to work as?"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Sul on väga ilusad ___ juuksed! (pikk)",
+    "answer": "pikad",
+    "accept": [],
+    "en": "You have very beautiful long hair!"
+   },
+   {
+    "prompt": "Sul on ilusad ___ püksid! (sinine)",
+    "answer": "sinised",
+    "accept": [],
+    "en": "You have nice blue trousers!"
+   },
+   {
+    "prompt": "Sul on nii armas ___ nina! (väike)",
+    "answer": "väike",
+    "accept": [],
+    "en": "You have such a cute little nose!"
+   },
+   {
+    "prompt": "Sul on nii ilusad ___ teksad! (sinine)",
+    "answer": "sinised",
+    "accept": [],
+    "en": "You have such nice blue jeans!"
+   },
+   {
+    "prompt": "___ kartulid ja munad. (keetma, sina)",
+    "answer": "Keeda",
+    "accept": [],
+    "en": "Boil the potatoes and eggs."
+   },
+   {
+    "prompt": "___ kurgid. (koorima, sina)",
+    "answer": "Koori",
+    "accept": [],
+    "en": "Peel the cucumbers."
+   },
+   {
+    "prompt": "___ keefir kaussi. (valama, sina)",
+    "answer": "Vala",
+    "accept": [],
+    "en": "Pour the kefir into a bowl."
+   },
+   {
+    "prompt": "___ sool ja suhkur. (lisama, sina)",
+    "answer": "Lisa",
+    "accept": [],
+    "en": "Add the salt and sugar."
+   },
+   {
+    "prompt": "___ munad tükkideks. (lõikama, sina)",
+    "answer": "Lõika",
+    "accept": [],
+    "en": "Cut the eggs into pieces."
+   },
+   {
+    "prompt": "Supi jaoks on vaja 400 grammi ___. (kartul)",
+    "answer": "kartuleid",
+    "accept": [],
+    "en": "For the soup you need 400 grams of potatoes."
+   },
+   {
+    "prompt": "Kas su pea ___? (valutama)",
+    "answer": "valutab",
+    "accept": [],
+    "en": "Does your head hurt?"
+   },
+   {
+    "prompt": "Mitmendal ___ korter on? (korrus)",
+    "answer": "korrusel",
+    "accept": [],
+    "en": "Which floor is the flat on?"
+   },
+   {
+    "prompt": "Korter asub ___. (kesklinn)",
+    "answer": "kesklinnas",
+    "accept": [],
+    "en": "The flat is in the city centre."
+   },
+   {
+    "prompt": "Kellena sa ___ töötada? (tahtma, conditional)",
+    "answer": "tahaksid",
+    "accept": [
+     "tahaks"
+    ],
+    "en": "What would you like to work as?"
+   },
+   {
+    "prompt": "Mida sa eile ei ___? (tegema)",
+    "answer": "teinud",
+    "accept": [],
+    "en": "What didn't you do yesterday?"
+   },
+   {
+    "prompt": "Mis kell sa ___ sööd? (lõuna)",
+    "answer": "lõunat",
+    "accept": [],
+    "en": "What time do you have lunch?"
+   },
+   {
+    "prompt": "Mida tehakse ___? (talv)",
+    "answer": "talvel",
+    "accept": [],
+    "en": "What do people do in winter?"
+   }
+  ]
+ }
+]

@@ -1,0 +1,1326 @@
+[
+  {
+    "section": "kirjutamine",
+    "title": "Andmete kirjutamine visiitkaardilt (A) – Pille Talu, massöör",
+    "booklet_ref": "Kirjutamine, esimene ülesanne (A), lk 1",
+    "instructions_et": "Te näete visiitkaarti ühe inimese andmetega. Palun kirjutage:\n• Kellena ta töötab?\n• Kus ta töötab?\n• Millal ta töötab?\n• Kuidas saab temaga kontakti?\nTeksti pikkus peab olema vähemalt 25 sõna.",
+    "instructions_en": "You see a business card with one person's details. Write: What does she work as? Where does she work? When does she work? How can you contact her? At least 25 words.",
+    "converted_to_reading": false,
+    "text_et": "AURA SALONG\nPille Talu\nmassöör\nMarja 28\nIII korrus\nTallinn\ntel 663 1751\nT, K, N 12–18",
+    "items": [
+      {
+        "type": "open",
+        "q": "Kirjutage tekst visiitkaardi põhjal (vähemalt 25 sõna).",
+        "options": [],
+        "answer": "Pille Talu töötab massöörina. Ta töötab Aura salongis. Salong asub Tallinnas, Marja tänav 28, kolmandal korrusel. Pille töötab teisipäeval, kolmapäeval ja neljapäeval kella 12-st kuni 18-ni. Temaga saab kontakti telefoni teel. Tema telefoninumber on 663 1751.",
+        "explanation_en": "LEARNER'S ANSWER HAS PROBLEMS: (1) Only 19 words – below the required 25, which loses points. (2) Card data left out: the salon name (Aura salong), the city (Tallinn) and the person's name (Pille Talu). The task says to use the card's data, so use all of it. (3) 'Ta töötab Marja 28' needs a case/word: 'Ta töötab aadressil Marja 28' or 'Marja tänav 28'. (4) 'teisipäevast neljapäevani' is acceptable because T, K, N are three days in a row, but the safest is to list them: 'teisipäeval, kolmapäeval ja neljapäeval'. Good: 'massöörina' (essive -na after 'töötab') and '3. korrusel' are correct."
+      }
+    ],
+    "model_answer_et": "Pille Talu töötab massöörina. Ta töötab Aura salongis. Salong asub Tallinnas, Marja tänav 28, kolmandal korrusel. Pille töötab teisipäeval, kolmapäeval ja neljapäeval kella 12-st kuni 18-ni. Temaga saab kontakti telefoni teel. Tema telefoninumber on 663 1751.",
+    "checklist_en": [
+      "On topic: the text answers the task (Harno: 'tekst on teemakohane').",
+      "Right length: count the words; below the minimum costs points (Harno: 'õige pikkusega').",
+      "All content points (bullets) are covered (Harno: 'arvestatud etteantud sisupunkte').",
+      "The reader understands what you want to say; small spelling/grammar errors are tolerated at A2 if meaning is clear.",
+      "Every item on the card appears: name, job (massöörina), workplace (Aura salongis), city, street + number, floor, days, hours, phone.",
+      "Job with -na: 'Ta töötab massöörina'. Place with -s: 'Aura salongis', 'Tallinnas'.",
+      "Abbreviations expanded: T, K, N = teisipäeval, kolmapäeval, neljapäeval; III korrus = kolmandal korrusel.",
+      "Hours as 'kella 12-st kuni 18-ni' or 'kella kaheteistkümnest kuueni'."
+    ],
+    "learner_answer_et": "Ta töötab massöörina. Ta töötab Marja 28, 3. korrusel teisipäevast neljapäevani kella 12.00-st kuni 18.00-ni. Tema telefoninumber on 6631751.",
+    "learner_word_count": 19
+  },
+  {
+    "section": "kirjutamine",
+    "title": "Andmete kirjutamine visiitkaardilt (B) – Lõuna Tervisekeskus",
+    "booklet_ref": "Kirjutamine, esimene ülesanne (B), lk 2",
+    "instructions_et": "Te näete visiitkaarti ühe asutuse andmetega. Palun kirjutage:\n• Mis asutus see on?\n• Kus see asub?\n• Mida seal teha saab?\n• Kuidas saab kontakti?\nTeksti pikkus peab olema vähemalt 25 sõna.",
+    "instructions_en": "You see a business card of an institution. Write: What institution is it? Where is it? What can you do there? How can you contact it? At least 25 words.",
+    "converted_to_reading": false,
+    "text_et": "LÕUNA TERVISEKESKUS\nPEREARSTID • PEREÕED • HAMBARAVI • APTEEK\nRegistratuur tel 793 7783\nPeetri 4, Valga\ninfo@tervisekeskus.ee\nE−R 8−19",
+    "items": [
+      {
+        "type": "open",
+        "q": "Kirjutage tekst visiitkaardi põhjal (vähemalt 25 sõna).",
+        "options": [],
+        "answer": "See on Lõuna Tervisekeskus. Tervisekeskus asub Valgas, Peetri tänav 4. Seal töötavad perearstid ja pereõed. Seal saab käia hambaarsti juures ja osta ravimeid apteegist. Tervisekeskus on avatud esmaspäevast reedeni kella 8-st 19-ni. Registratuuri telefon on 793 7783. Kirjutada saab aadressile info@tervisekeskus.ee.",
+        "explanation_en": "LEARNER'S ANSWER IS GOOD: all four questions answered with all card data, 42 words. Small fixes: (1) 'Asub Valgas' has no subject – write 'See asub Valgas' or 'Tervisekeskus asub Valgas'. (2) The last sentence has no full stop. (3) Structures like 'helistades', 'kirjutades' and 'saada hambaravi teenuseid' are above A2; they are correct here, but in the exam short simple sentences are safer."
+      }
+    ],
+    "model_answer_et": "See on Lõuna Tervisekeskus. Tervisekeskus asub Valgas, Peetri tänav 4. Seal töötavad perearstid ja pereõed. Seal saab käia hambaarsti juures ja osta ravimeid apteegist. Tervisekeskus on avatud esmaspäevast reedeni kella 8-st 19-ni. Registratuuri telefon on 793 7783. Kirjutada saab aadressile info@tervisekeskus.ee.",
+    "checklist_en": [
+      "On topic: the text answers the task (Harno: 'tekst on teemakohane').",
+      "Right length: count the words; below the minimum costs points (Harno: 'õige pikkusega').",
+      "All content points (bullets) are covered (Harno: 'arvestatud etteantud sisupunkte').",
+      "The reader understands what you want to say; small spelling/grammar errors are tolerated at A2 if meaning is clear.",
+      "All card data used: name, town, street + number, services (family doctors, nurses, dental care, pharmacy), phone, e-mail, opening hours.",
+      "Every sentence has a subject and verb ('See asub...', not 'Asub...').",
+      "E–R = esmaspäevast reedeni."
+    ],
+    "learner_answer_et": "See asutus on Lõuna Tervisekeskus. Asub Valgas, aadressil Peetri 4. Seal saab käia perearsti ja pereõe vastuvõtul, saada hambaravi teenuseid ning külastada apteeki. Kontakti saab helistades registratuuri telefonil 793 7783 või kirjutades e-posti aadressile info@tervisekeskus.ee. Asutus on avatud esmaspäevast reedeni kell 8–19",
+    "learner_word_count": 42
+  },
+  {
+    "section": "kirjutamine",
+    "title": "Teade: leidsid sõbra rahakoti",
+    "booklet_ref": "Kirjutamine, teine ülesanne (A), lk 3",
+    "instructions_et": "Leidsite oma kodust sõbra rahakoti. Kirjutage talle teade:\n• Kust te rahakoti leidsite?\n• Milline rahakott on?\n• Kuidas sõber rahakoti tagasi saab?\nTeksti pikkus peab olema vähemalt 30 sõna.",
+    "instructions_en": "You found your friend's wallet in your home. Write them a message: Where did you find the wallet? What is the wallet like? How can your friend get it back? At least 30 words.",
+    "converted_to_reading": false,
+    "text_et": "",
+    "items": [
+      {
+        "type": "open",
+        "q": "Kirjutage sõbrale teade (vähemalt 30 sõna).",
+        "options": [],
+        "answer": "Tere, Kati!\nLeidsin täna oma elutoast diivani alt sinu rahakoti. Rahakott on väike ja must, see on nahast. Rahakotis on sinu pangakaart ja natuke raha. Ma olen homme terve päeva kodus. Tule mulle külla ja võta rahakott! Kui sul ei ole aega, toon selle sulle ise. Helista mulle!\nSinu Anna",
+        "explanation_en": "LEARNER'S ANSWER IS GOOD in content (52 words, all three bullets answered). Mistake: 'truubiga' – 'truup' means a culvert/drain pipe. The word for a snap button is 'trukk' -> 'trukiga'. ('väikese luku ja trukiga' = with a small zip and a snap.) Missing: the friend's name after 'Tere' and a sign-off with your name; a message/note normally has both."
+      }
+    ],
+    "model_answer_et": "Tere, Kati!\nLeidsin täna oma elutoast diivani alt sinu rahakoti. Rahakott on väike ja must, see on nahast. Rahakotis on sinu pangakaart ja natuke raha. Ma olen homme terve päeva kodus. Tule mulle külla ja võta rahakott! Kui sul ei ole aega, toon selle sulle ise. Helista mulle!\nSinu Anna",
+    "checklist_en": [
+      "On topic: the text answers the task (Harno: 'tekst on teemakohane').",
+      "Right length: count the words; below the minimum costs points (Harno: 'õige pikkusega').",
+      "All content points (bullets) are covered (Harno: 'arvestatud etteantud sisupunkte').",
+      "The reader understands what you want to say; small spelling/grammar errors are tolerated at A2 if meaning is clear.",
+      "Message form: greeting with name (Tere, Kati!) and sign-off with your name.",
+      "Bullet 1 – where: place words with -s / -lt / alt: 'elutoast', 'diivani alt', 'köögist laua pealt'.",
+      "Bullet 2 – what it looks like: colour, size, material ('nahast'), what is inside.",
+      "Bullet 3 – how to get it back: a time and a way ('Tule homme', 'Ma toon selle sulle', 'Helista mulle')."
+    ],
+    "learner_answer_et": "Tere! Leidsin täna oma kodust elutoa diivani vahelt sinu rahakoti. See on mustast nahast, väikese luku ja truubiga. Saad sellele igal ajal järele tulla, kui oled minu kandis. Kui sul on sellega kiire, võin selle sulle täna õhtul ise ära tuua või kuskil kesklinnas kokku saada. Anna teada, kuidas sulle paremini sobib!",
+    "learner_word_count": 52
+  },
+  {
+    "section": "kirjutamine",
+    "title": "Kirjeldus: Minu nädalavahetus",
+    "booklet_ref": "Kirjutamine, teine ülesanne (B), lk 3",
+    "instructions_et": "Teie eesti keele õpetaja palus teil kirjeldada oma nädalavahetust. Kirjutage teemal: Minu nädalavahetus\n• Kus käite?\n• Mida teete?\n• Kellega kohtute?\nTeksti pikkus peab olema vähemalt 30 sõna.",
+    "instructions_en": "Your Estonian teacher asked you to describe your weekend. Write on the topic 'My weekend': Where do you go? What do you do? Whom do you meet? At least 30 words.",
+    "converted_to_reading": false,
+    "text_et": "",
+    "items": [
+      {
+        "type": "open",
+        "q": "Kirjutage teemal „Minu nädalavahetus“ (vähemalt 30 sõna).",
+        "options": [],
+        "answer": "Minu nädalavahetus on tavaliselt rahulik. Laupäeva hommikul käin turul ja poes. Pärast lõunat koristan kodu ja loen raamatut. Õhtul kohtun sõpradega kohvikus. Me räägime juttu ja joome kohvi. Pühapäeval sõidan maale vanemate juurde. Seal jalutame metsas ja sööme koos lõunat. Õhtul vaatan telerit ja puhkan.",
+        "explanation_en": "LEARNER'S ANSWER IS CORRECT and covers all three bullets (where: kinos, kohvikus, looduses/pargis; what: jalutan, sööme, räägime juttu; with whom: sõpradega, perega). Only 32 words, just over the minimum of 30 – aim for 40+ so a miscount cannot cost points."
+      }
+    ],
+    "model_answer_et": "Minu nädalavahetus on tavaliselt rahulik. Laupäeva hommikul käin turul ja poes. Pärast lõunat koristan kodu ja loen raamatut. Õhtul kohtun sõpradega kohvikus. Me räägime juttu ja joome kohvi. Pühapäeval sõidan maale vanemate juurde. Seal jalutame metsas ja sööme koos lõunat. Õhtul vaatan telerit ja puhkan.",
+    "checklist_en": [
+      "On topic: the text answers the task (Harno: 'tekst on teemakohane').",
+      "Right length: count the words; below the minimum costs points (Harno: 'õige pikkusega').",
+      "All content points (bullets) are covered (Harno: 'arvestatud etteantud sisupunkte').",
+      "The reader understands what you want to say; small spelling/grammar errors are tolerated at A2 if meaning is clear.",
+      "Kus käite? 'käin + -s' (käin poes, kinos, ujulas).",
+      "Mida teete? Present-tense verbs (loen, koristan, jalutan).",
+      "Kellega kohtute? 'kohtun + -ga' (sõpradega, emaga).",
+      "Time words to organise the text: laupäeval, pühapäeval, hommikul, õhtul, pärast lõunat."
+    ],
+    "learner_answer_et": "Minu nädalavahetus on alati tore ja rahulik. Laupäeval käin ma sõpradega kinos või kohvikus ning pühapäeval jalutan looduses või pargis. Õhtuti kohtun oma perega, me sööme koos maitsvat õhtusööki ja räägime juttu.",
+    "learner_word_count": 32
+  },
+  {
+    "section": "kuulamine",
+    "title": "Kuulamine 1: lühikesed tekstid (küsimused 1–7)",
+    "booklet_ref": "Kuulamine, esimene ülesanne, lk 4–5",
+    "instructions_et": "Küsimused 1–7. Kuulake teksti ja tehke märge ✓ ruutu selle pildi, numbri või sõna all, mis sobib küsimuse vastuseks. Kõigepealt kuulete näidise teksti. Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 1–7. Listen and tick the picture, number or word that answers the question. Example 0: 'Missugune ilm on hommikul?' – answer C (rain). In this app: no transcript exists in the booklet, so read the reconstructed text instead (see note).",
+    "converted_to_reading": true,
+    "conversion_note": "NO TRANSCRIPT IN BOOKLET: the booklet prints only the questions, not what is said in the audio. text_et below is a reconstructed reading text written for this app so the task can be done as reading; it is built to agree with the booklet's official answer key, but it is NOT the original recording. Questions, options and answers are the booklet's own. The official audio is linked in audio_url (not verified to match this booklet version exactly).",
+    "audio_url": "https://projektid.edu.ee/download/attachments/343705183/A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3?version=1&modificationDate=1771319710518&api=v2",
+    "text_et": "0. Täna hommikul on ilm pilves ja sajab vihma. Pärastlõunal tuleb päike välja.\n\n1. Tähelepanu, autojuhid! Tallinna–Peterburi maanteel on teetööd. Tavaliselt võib seal sõita palju kiiremini, aga praegu ainult 40 kilomeetrit tunnis. Palun sõitke ettevaatlikult!\n\n2. Arst ütleb: „Piret, teil on gripp. See rohi on väga hea. Võtke seda kuus korda päevas, iga kahe tunni tagant. Ja jooge palju sooja teed!“\n\n3. Miia tavaliselt sõidab sünnipäeval reisile või sööb perega restoranis. Aga seekord on teisiti. Seekord teeb Miia suure peo ja kutsub sõbrad tantsima.\n\n4. – Tere! Ma soovin juustu. – Kui palju? Nelisada grammi? – Ei, natuke rohkem. Palun viissada grammi.\n\n5. – Mati, kas sul on kõik asjad kaasas? – Kindad on käes ja sall on kaelas. Aga oi, müts! Ma unustasin oma mütsi töö juurde.\n\n6. Tähelepanu! Tallinna–Narva rong väljub kell 20.05. Tallinna–Tartu rong väljub kell 20.25 teiselt platvormilt.\n\n7. Laural oli eile sünnipäev. Vanaema tõi talle suure tordi. Vanemad kinkisid Laurale pehme pruuni mängukaru. Jalgratast ta seekord ei saanud.",
+    "items": [
+      {
+        "type": "mc",
+        "q": "1. Kui kiiresti võib sõita Tallinna-Peterburi maanteel?",
+        "options": [
+          "A – 20 km/h",
+          "B – 30 km/h",
+          "C – 40 km/h"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C (40 km/h). 'Kui kiiresti võib sõita' = how fast may you drive. Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "2. Mitu korda päevas peab Piret rohtu võtma?",
+        "options": [
+          "A – 2",
+          "B – 4",
+          "C – 6"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C (6). 'Mitu korda päevas' = how many times a day; 'rohtu võtma' = to take medicine. Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "3. Mida teeb Miia seekord oma sünnipäeval?",
+        "options": [
+          "A – (pilt) naine kohvritega: sõidab reisile",
+          "B – (pilt) paarid tantsivad: teeb peo / tantsib",
+          "C – (pilt) restoran ja kokk: sööb restoranis"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B (the dancing picture). 'Seekord' = this time – the other options are what she usually does. Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "4. Kui palju juustu sooviti osta?",
+        "options": [
+          "A – 400 g",
+          "B – 500 g",
+          "C – 600 g"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B (500 g = viissada grammi). 'sooviti' = was wanted (impersonal past of 'soovima'). Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "5. Mille unustas Mati töö juurde?",
+        "options": [
+          "A – (pilt) nokamüts / müts",
+          "B – (pilt) kindad",
+          "C – (pilt) sall"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A (the cap). 'Mille unustas' = what did he forget; müts = cap/hat, kindad = gloves, sall = scarf. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "6. Mis kell väljub Tallinna-Tartu rong?",
+        "options": [
+          "A – 20.05",
+          "B – 20.15",
+          "C – 20.25"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C (20.25, said 'kell kakskümmend kakskümmend viis'). 'väljub' = departs. NOTE: the PDF also contains a hidden variant of this question ('Tallinna-Moskva rong'); the key letter C is the booklet's printed key. Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "7. Mille kinkisid Laurale vanemad?",
+        "options": [
+          "A – (pilt) mängukaru",
+          "B – (pilt) sünnipäevatort",
+          "C – (pilt) jalgratas"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A (teddy bear = mängukaru). 'kinkisid' = gave as a present (past of 'kinkima'). NOTE: the PDF also contains a hidden variant of this question ('Mille kilo maksab 70 senti?'); A is the booklet's printed key. Learner's booklet answer: A (correct)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "kuulamine",
+    "title": "Kuulamine 2: Uus kodu (õige/vale, küsimused 8–13)",
+    "booklet_ref": "Kuulamine, teine ülesanne, lk 6",
+    "instructions_et": "Küsimused 8–13. Kuulake teksti ja lugege lauseid (8–13). Kui arvate, et lause on õige, siis tehke märge ✓ A-ruutu (õige). Kui arvate, et lause on vale, siis tehke märge ✓ B-ruutu (vale). Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 8–13. Read the statements; A = true (õige), B = false (vale). Example 0: 'Andrus otsis uut kodu kolm aastat.' – A (true). In this app: read the reconstructed interview (see note).",
+    "converted_to_reading": true,
+    "conversion_note": "NO TRANSCRIPT IN BOOKLET: the booklet prints only the questions, not what is said in the audio. text_et below is a reconstructed reading text written for this app so the task can be done as reading; it is built to agree with the booklet's official answer key, but it is NOT the original recording. Questions, options and answers are the booklet's own. The official audio is linked in audio_url (not verified to match this booklet version exactly).",
+    "audio_url": "https://projektid.edu.ee/download/attachments/343705183/A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3?version=1&modificationDate=1771319710518&api=v2",
+    "text_et": "Ajakirjanik: Tere, Andrus! Te kolisite hiljuti linnast maale. Kui kaua te uut kodu otsisite?\nAndrus: Tere! Otsisime uut kodu kolm aastat. See oli pikk aeg, aga nüüd on meil ilus maja.\nAjakirjanik: Miks te tahtsite maale elama tulla?\nAndrus: Linnas oli väga palju autosid ja müra. Maal on elu rahulik. Siin on vaikne ja õhk on puhas.\nAjakirjanik: Kui suur on teie pere?\nAndrus: Meil on kaks last. Poeg on viieaastane ja tütar on kümneaastane.\nAjakirjanik: Kuidas te tööl käite? Kas bussiga?\nAndrus: Ei, buss sõidab siit ainult kaks korda päevas. Ma sõidan tööle autoga.\nAjakirjanik: Kus teie tütar koolis käib?\nAndrus: Tütar käib siin maal koolis. Kool on väike, aga väga hea. Poeg käib lasteaias.\nAjakirjanik: Kas teil on pikk tööpäev?\nAndrus: Ei ole. Minu tööpäev algab kell kaheksa ja lõpeb kell viis. Õhtul olen kodus koos perega.\nAjakirjanik: Mida te õhtuti ja nädalavahetusel teete? Kas käite kinos?\nAndrus: Kino on siit kaugel, linnas. Kinos käime väga harva, võib-olla kaks korda aastas. Me jalutame metsas ja töötame aias.",
+    "items": [
+      {
+        "type": "tf",
+        "q": "8. Andrus arvab, et maal on elu rahulik.",
+        "options": [
+          "A – Õige",
+          "B – Vale"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A (true). 'rahulik' = calm, peaceful. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "tf",
+        "q": "9. Andruse poeg on kaheaastane.",
+        "options": [
+          "A – Õige",
+          "B – Vale"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B (false) – the son is not two years old. '-aastane' = ... years old. Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "tf",
+        "q": "10. Andrus sõidab tööle bussiga.",
+        "options": [
+          "A – Õige",
+          "B – Vale"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B (false) – he does not go to work by bus. 'bussiga' = by bus (comitative -ga). Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "tf",
+        "q": "11. Andruse tütar käib maal koolis.",
+        "options": [
+          "A – Õige",
+          "B – Vale"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A (true). 'käib koolis' = goes to school. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "tf",
+        "q": "12. Andruse tööpäev lõpeb kell viis.",
+        "options": [
+          "A – Õige",
+          "B – Vale"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A (true). 'lõpeb' = ends; 'kell viis' = at five. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "tf",
+        "q": "13. Andrus käib sageli perega kinos.",
+        "options": [
+          "A – Õige",
+          "B – Vale"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B (false). 'sageli' = often – listen for the opposite: 'harva' (rarely). Learner's booklet answer: B (correct)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "kuulamine",
+    "title": "Kuulamine 3: Laevareis (lühivastused, küsimused 14–19)",
+    "booklet_ref": "Kuulamine, kolmas ülesanne, lk 7",
+    "instructions_et": "Küsimused 14–19. Kuulake teksti ja lugege küsimusi (14–19). Kirjutage vastuseks sobiv sõna või number. Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 14–19. Write a suitable word or number as the answer. Example 0: 'Kuhu laev sõidab?' – 'Helsingisse'. In this app: read the reconstructed announcement (see note). Answers with the right content count even with small spelling mistakes.",
+    "converted_to_reading": true,
+    "conversion_note": "NO TRANSCRIPT IN BOOKLET: the booklet prints only the questions, not what is said in the audio. text_et below is a reconstructed reading text written for this app so the task can be done as reading; it is built to agree with the booklet's official answer key, but it is NOT the original recording. Questions, options and answers are the booklet's own. The official audio is linked in audio_url (not verified to match this booklet version exactly).",
+    "audio_url": "https://projektid.edu.ee/download/attachments/343705183/A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3?version=1&modificationDate=1771319710518&api=v2",
+    "text_et": "Lugupeetud reisijad! Tere tulemast laevale! Meie laev sõidab täna Tallinnast Helsingisse. Reis kestab neli tundi.\nLaeva restoran on teisel tekil. Täna saab restoranis süüa maitsvaid pannkooke moosi ja vahukoorega.\nKolmandal tekil on kohvik. Kohvikus saab juua kohvi ja vaadata filmi. Film algab kohe pärast laeva väljumist.\nLaeva poes on täna eriti soodsa hinnaga kingad. Tulge ja vaadake!\nLastele on täna etendus. Etendus lastele algab kell 13 ehk kell üks päeval laeva peosaalis.\nInfopunktist saab osta mälestuseks foto laevast.\nSoovime teile head reisi!",
+    "items": [
+      {
+        "type": "open",
+        "q": "14. Mitu tundi reis kestab?",
+        "options": [],
+        "answer": "4",
+        "explanation_en": "Official key: '4, neli'. 'Mitu tundi' = how many hours; 'kestab' = lasts. Learner wrote 'Neli tundi.' – correct.",
+        "accepted_answers": [
+          "4",
+          "neli",
+          "4 tundi",
+          "neli tundi"
+        ]
+      },
+      {
+        "type": "open",
+        "q": "15. Mida saab restoranis süüa?",
+        "options": [],
+        "answer": "pannkooke",
+        "explanation_en": "Official key accepts: pannkook, pannkooke, kook, kooke. Learner wrote 'Pannkooke.' – correct (partitive plural after 'süüa').",
+        "accepted_answers": [
+          "pannkook",
+          "pannkooke",
+          "kook",
+          "kooke"
+        ]
+      },
+      {
+        "type": "open",
+        "q": "16. Mida saab kohvikus näha?",
+        "options": [],
+        "answer": "filmi",
+        "explanation_en": "Official key accepts: film, filmi. Learner wrote 'Filmi.' – correct.",
+        "accepted_answers": [
+          "film",
+          "filmi"
+        ]
+      },
+      {
+        "type": "open",
+        "q": "17. Mis on poes soodsa hinnaga?",
+        "options": [],
+        "answer": "kingad",
+        "explanation_en": "Official key: kingad (shoes). 'soodsa hinnaga' = at a good (low) price. Learner wrote 'Kingad.' – correct.",
+        "accepted_answers": [
+          "kingad"
+        ]
+      },
+      {
+        "type": "open",
+        "q": "18. Mis kell algab etendus lastele?",
+        "options": [],
+        "answer": "kell 13",
+        "explanation_en": "Official key accepts: üks, kolmteist, 1, 13, kell 1, kell 13, kell üks, kell kolmteist. Learner wrote 'Kell 13.' – correct.",
+        "accepted_answers": [
+          "üks",
+          "kolmteist",
+          "1",
+          "13",
+          "kell 1",
+          "kell 13",
+          "kell üks",
+          "kell kolmteist"
+        ]
+      },
+      {
+        "type": "open",
+        "q": "19. Mille saab osta infopunktist?",
+        "options": [],
+        "answer": "foto",
+        "explanation_en": "Official key accepts: foto, fotod. 'Mille' = what (genitive question word: what can you buy). Learner wrote 'Foto.' – correct.",
+        "accepted_answers": [
+          "foto",
+          "fotod"
+        ]
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "kuulamine",
+    "title": "Kuulamine 4: Millal? Mida tegema? (sobitamine, küsimused 20–25)",
+    "booklet_ref": "Kuulamine, neljas ülesanne, lk 8",
+    "instructions_et": "Küsimused 20–25. Kuulake teksti ja kirjutage iga sõna (20–25) järel olevasse ruutu sobiva vastuse ees olev täht (A–K). Kaks vastusevarianti jääb üle. Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 20–25. Match each day to an activity (A–K). Two options are left over. Example 0: esmaspäeval – D (jooksma). In this app: read the reconstructed dialogue (see note). Note the booklet's letters skip G and J.",
+    "converted_to_reading": true,
+    "conversion_note": "NO TRANSCRIPT IN BOOKLET: the booklet prints only the questions, not what is said in the audio. text_et below is a reconstructed reading text written for this app so the task can be done as reading; it is built to agree with the booklet's official answer key, but it is NOT the original recording. Questions, options and answers are the booklet's own. The official audio is linked in audio_url (not verified to match this booklet version exactly).",
+    "audio_url": "https://projektid.edu.ee/download/attachments/343705183/A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3?version=1&modificationDate=1771319710518&api=v2",
+    "text_et": "Liis: Tere, Tõnu! Sa oled alati nii heas vormis. Mida sa nädala jooksul teed?\nTõnu: Tere, Liis! Esmaspäeval ma jooksen pargis. Teisipäeval olen väsinud, siis ma lihtsalt jalutan koeraga.\nLiis: Aga kolmapäeval?\nTõnu: Kolmapäeval mängin sõpradega jalgpalli. Võrkpalli me ei mängi, see meile ei meeldi.\nLiis: Ja neljapäeval?\nTõnu: Neljapäeval käin naisega tantsimas. Me õpime tangot!\nLiis: Väga tore! Kas reedel sõidad jalgrattaga?\nTõnu: Ei, jalgratast mul ei ole. Reedel käin ujumas.\nLiis: Ja nädalavahetusel?\nTõnu: Laupäeval sõidame järvel paadiga. Pühapäeval mängin isaga tennist.",
+    "items": [
+      {
+        "type": "match",
+        "q": "20. teisipäeval",
+        "options": [
+          "A jalgpalli mängima",
+          "B jalgrattaga sõitma",
+          "C jalutama",
+          "D jooksma",
+          "E paadiga sõitma",
+          "F tantsima",
+          "H tennist mängima",
+          "I ujuma",
+          "K võrkpalli mängima"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C (jalutama). Unused options: B (jalgrattaga sõitma) and K (võrkpalli mängima). Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "match",
+        "q": "21. kolmapäeval",
+        "options": [
+          "A jalgpalli mängima",
+          "B jalgrattaga sõitma",
+          "C jalutama",
+          "D jooksma",
+          "E paadiga sõitma",
+          "F tantsima",
+          "H tennist mängima",
+          "I ujuma",
+          "K võrkpalli mängima"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A (jalgpalli mängima). Unused options: B (jalgrattaga sõitma) and K (võrkpalli mängima). Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "match",
+        "q": "22. neljapäeval",
+        "options": [
+          "A jalgpalli mängima",
+          "B jalgrattaga sõitma",
+          "C jalutama",
+          "D jooksma",
+          "E paadiga sõitma",
+          "F tantsima",
+          "H tennist mängima",
+          "I ujuma",
+          "K võrkpalli mängima"
+        ],
+        "answer": 5,
+        "explanation_en": "Official key: F (tantsima). Unused options: B (jalgrattaga sõitma) and K (võrkpalli mängima). Learner's booklet answer: F (correct)."
+      },
+      {
+        "type": "match",
+        "q": "23. reedel",
+        "options": [
+          "A jalgpalli mängima",
+          "B jalgrattaga sõitma",
+          "C jalutama",
+          "D jooksma",
+          "E paadiga sõitma",
+          "F tantsima",
+          "H tennist mängima",
+          "I ujuma",
+          "K võrkpalli mängima"
+        ],
+        "answer": 7,
+        "explanation_en": "Official key: I (ujuma). Unused options: B (jalgrattaga sõitma) and K (võrkpalli mängima). Learner's booklet answer: I (correct)."
+      },
+      {
+        "type": "match",
+        "q": "24. laupäeval",
+        "options": [
+          "A jalgpalli mängima",
+          "B jalgrattaga sõitma",
+          "C jalutama",
+          "D jooksma",
+          "E paadiga sõitma",
+          "F tantsima",
+          "H tennist mängima",
+          "I ujuma",
+          "K võrkpalli mängima"
+        ],
+        "answer": 4,
+        "explanation_en": "Official key: E (paadiga sõitma). Unused options: B (jalgrattaga sõitma) and K (võrkpalli mängima). Learner's booklet answer: E (correct)."
+      },
+      {
+        "type": "match",
+        "q": "25. pühapäeval",
+        "options": [
+          "A jalgpalli mängima",
+          "B jalgrattaga sõitma",
+          "C jalutama",
+          "D jooksma",
+          "E paadiga sõitma",
+          "F tantsima",
+          "H tennist mängima",
+          "I ujuma",
+          "K võrkpalli mängima"
+        ],
+        "answer": 6,
+        "explanation_en": "Official key: H (tennist mängima). Unused options: B (jalgrattaga sõitma) and K (võrkpalli mängima). Learner's booklet answer: H (correct)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "lugemine",
+    "title": "Lugemine 1: sobiv vastus (küsimused 1–6)",
+    "booklet_ref": "Lugemine, esimene ülesanne, lk 9",
+    "instructions_et": "Küsimused 1–6. Lugege lauseid (1–6), valige vastusevariantide hulgast sobiv vastus (A, B või C). Tehke märge ✓ vastavasse ruutu. Igale küsimusele on ainult üks õige vastus. Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 1–6. Choose the fitting reply (A, B or C). Only one is correct. Example 0: 'Tere hommikust!' – C 'Tere!'.",
+    "converted_to_reading": false,
+    "text_et": "",
+    "items": [
+      {
+        "type": "mc",
+        "q": "1. Kuidas sul läheb?",
+        "options": [
+          "A – Pole viga.",
+          "B – Pole nõus.",
+          "C – Pole vaja."
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A. 'Kuidas sul läheb?' = How are you? 'Pole viga' = not bad. 'Pole nõus' = (I) don't agree; 'Pole vaja' = not needed. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "2. Võite siia istuda.",
+        "options": [
+          "A – Aitäh!",
+          "B – Palun!",
+          "C – Kahju!"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A. Someone offers you a seat, so you thank them: 'Aitäh!'. 'Palun' is what the person offering says; 'Kahju' = what a pity. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "3. Ma ei kuule hästi, räägi kõvemini!",
+        "options": [
+          "A – On või?",
+          "B – Olgu nii.",
+          "C – Ole terve!"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B. Request to speak louder -> 'Olgu nii' (OK, all right). 'On või?' = really?; 'Ole terve!' = bless you (after a sneeze) / stay healthy. Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "4. Mul sündis eile tütar.",
+        "options": [
+          "A – Võta heaks!",
+          "B – Anna andeks!",
+          "C – Palju õnne!"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C. A baby was born -> 'Palju õnne!' (congratulations). 'Võta heaks' = you're welcome / enjoy; 'Anna andeks' = sorry. Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "5. Kui kaua ma pean ootama?",
+        "options": [
+          "A – Hea mõte!",
+          "B – Kohe tulen!",
+          "C – Muidugi mitte!"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B. 'How long must I wait?' -> 'Kohe tulen!' (I'm coming right away). Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "6. Mul on praegu palju tööd.",
+        "options": [
+          "A – Ruttu!",
+          "B – Korras!",
+          "C – Jõudu!"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C. 'I have a lot of work' -> 'Jõudu!' (strength to you, good luck with it). 'Ruttu' = hurry; 'Korras' = fine/OK. Learner's booklet answer: C (correct)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "lugemine",
+    "title": "Lugemine 2: Milline tekst sobib selle lausega? (küsimused 7–12)",
+    "booklet_ref": "Lugemine, teine ülesanne, lk 10",
+    "instructions_et": "Küsimused 7–12. Lugege kolme teksti (A, B ja C) ja lauseid (7–12). Leidke iga lausega sobiv tekst. Kirjutage ruutu sobiva vastuse täht (A, B või C). Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 7–12. Read texts A, B and C and find which text each sentence matches. Example 0: 'Siit ei saa raamatuid osta.' – B (library).",
+    "converted_to_reading": false,
+    "text_et": "A. Täna algas rahvusraamatukogus raamatumüük. Esimesel korrusel on palju inimesi. Suur osa neist on pensionärid, kes otsivad kingitust lapselapsele. Kohal on umbes kakskümmend raamatumüüjat. Uute raamatute valik on lai. Üldiselt maksavad siin raamatud vähem kui poes. Sissepääs on kõigile tasuta. Raamatumüük kestab nädala lõpuni.\n\nB. Rae raamatukogu on populaarne. Kõige rahulikum on siin enne lõunat. Lugemissaalis loevad ajakirju mõned pensionärid. Õhtul pärast tööd tuleb raamatukokku palju rahvast. Poes on raamatud liiga kallid. Raamatukogust saab raamatu laenata ja kodus lugeda. Siin on vanu raamatuid ja ka uuemat kirjandust. Kindlasti ei tohi raamatukogu raamatuid endale jätta.\n\nC. Rääma raamatukauplus kolis uude kohta. Nüüd mahub sinna rohkem inimesi ja kaupa. Esimesel korrusel on suur müügisaal ja võõrkeelse kirjanduse osakond. Teisel korrusel saab tutvuda eestikeelsete raamatutega. Kaupluse keldris on vanad ja kasutatud raamatud. Need on kõigile tasuta. Keldris on ka mugavad tugitoolid, kus istuda ja raamatut lugeda.",
+    "items": [
+      {
+        "type": "match",
+        "q": "7. Vanad raamatud on tasuta.",
+        "options": [
+          "A – rahvusraamatukogu raamatumüük",
+          "B – Rae raamatukogu",
+          "C – Rääma raamatukauplus"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C. C: 'Kaupluse keldris on vanad ja kasutatud raamatud. Need on kõigile tasuta.' In A only the ENTRANCE is free. Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "match",
+        "q": "8. Nüüd on siin raamatutele rohkem ruumi.",
+        "options": [
+          "A – rahvusraamatukogu raamatumüük",
+          "B – Rae raamatukogu",
+          "C – Rääma raamatukauplus"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C. C: the shop moved: 'Nüüd mahub sinna rohkem inimesi ja kaupa.' (kaup = goods). Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "match",
+        "q": "9. Siin on ainult uued raamatud.",
+        "options": [
+          "A – rahvusraamatukogu raamatumüük",
+          "B – Rae raamatukogu",
+          "C – Rääma raamatukauplus"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A. A: 'Uute raamatute valik on lai.' B has old and new books; C has old used books in the cellar. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "match",
+        "q": "10. Raamatud peab tagasi tooma.",
+        "options": [
+          "A – rahvusraamatukogu raamatumüük",
+          "B – Rae raamatukogu",
+          "C – Rääma raamatukauplus"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B. B: a library – 'Kindlasti ei tohi raamatukogu raamatuid endale jätta.' (you must not keep them). Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "match",
+        "q": "11. Raamatutel on soodsad hinnad.",
+        "options": [
+          "A – rahvusraamatukogu raamatumüük",
+          "B – Rae raamatukogu",
+          "C – Rääma raamatukauplus"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A. A: 'Üldiselt maksavad siin raamatud vähem kui poes.' (soodne = cheap, good price). In B the text says books in SHOPS are too expensive. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "match",
+        "q": "12. Siin käib hommikul vähe inimesi.",
+        "options": [
+          "A – rahvusraamatukogu raamatumüük",
+          "B – Rae raamatukogu",
+          "C – Rääma raamatukauplus"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B. B: 'Kõige rahulikum on siin enne lõunat.' (quietest before lunch = few people in the morning). Learner's booklet answer: B (correct)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "lugemine",
+    "title": "Lugemine 3: teated ja selgitused (küsimused 13–17)",
+    "booklet_ref": "Lugemine, kolmas ülesanne, lk 11",
+    "instructions_et": "Küsimused 13–17. Lugege teateid ja nende selgitusi. Kirjutage iga teate (13–17) järele sobiva selgituse ees olev täht (A–I). Kaks lauset jääb üle. Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 13–17. Match each notice to its explanation (A–I). Two explanations are left over. Example 0: 'Palun vaikust!' – A. (The booklet's letters skip G.)",
+    "converted_to_reading": false,
+    "text_et": "",
+    "items": [
+      {
+        "type": "match",
+        "q": "13. Kuni 3-aastastele lastele!",
+        "options": [
+          "A Ei tohi kõvasti rääkida!",
+          "B Piletit ei tohi ära visata.",
+          "C Lastele on keelatud.",
+          "D Siin võivad olla väikesed lapsed.",
+          "E Sisse tohib tulla ainult piletiga.",
+          "F Siit ei pääse läbi.",
+          "H Siin peab olema väga ettevaatlik.",
+          "I Piletit ei pea ostma."
+        ],
+        "answer": 3,
+        "explanation_en": "Official key: D. 'Kuni 3-aastastele' = for children up to 3 years old -> small children may be here. Unused: C and E. Learner's booklet answer: D (correct)."
+      },
+      {
+        "type": "match",
+        "q": "14. Tasuta sissepääs!",
+        "options": [
+          "A Ei tohi kõvasti rääkida!",
+          "B Piletit ei tohi ära visata.",
+          "C Lastele on keelatud.",
+          "D Siin võivad olla väikesed lapsed.",
+          "E Sisse tohib tulla ainult piletiga.",
+          "F Siit ei pääse läbi.",
+          "H Siin peab olema väga ettevaatlik.",
+          "I Piletit ei pea ostma."
+        ],
+        "answer": 7,
+        "explanation_en": "Official key: I. 'Tasuta' = free of charge -> you don't need to buy a ticket. (E is the opposite.) Unused: C and E. Learner's booklet answer: I (correct)."
+      },
+      {
+        "type": "match",
+        "q": "15. Hoia pilet reisi lõpuni alles!",
+        "options": [
+          "A Ei tohi kõvasti rääkida!",
+          "B Piletit ei tohi ära visata.",
+          "C Lastele on keelatud.",
+          "D Siin võivad olla väikesed lapsed.",
+          "E Sisse tohib tulla ainult piletiga.",
+          "F Siit ei pääse läbi.",
+          "H Siin peab olema väga ettevaatlik.",
+          "I Piletit ei pea ostma."
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B. 'Keep the ticket until the end of the trip' -> do not throw the ticket away. Unused: C and E. Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "match",
+        "q": "16. Libe põrand!",
+        "options": [
+          "A Ei tohi kõvasti rääkida!",
+          "B Piletit ei tohi ära visata.",
+          "C Lastele on keelatud.",
+          "D Siin võivad olla väikesed lapsed.",
+          "E Sisse tohib tulla ainult piletiga.",
+          "F Siit ei pääse läbi.",
+          "H Siin peab olema väga ettevaatlik.",
+          "I Piletit ei pea ostma."
+        ],
+        "answer": 6,
+        "explanation_en": "Official key: H. 'Slippery floor!' -> you must be very careful. Unused: C and E. Learner's booklet answer: H (correct)."
+      },
+      {
+        "type": "match",
+        "q": "17. Tee on suletud!",
+        "options": [
+          "A Ei tohi kõvasti rääkida!",
+          "B Piletit ei tohi ära visata.",
+          "C Lastele on keelatud.",
+          "D Siin võivad olla väikesed lapsed.",
+          "E Sisse tohib tulla ainult piletiga.",
+          "F Siit ei pääse läbi.",
+          "H Siin peab olema väga ettevaatlik.",
+          "I Piletit ei pea ostma."
+        ],
+        "answer": 5,
+        "explanation_en": "Official key: F. 'Road closed!' -> you cannot get through here. Unused: C and E. Learner's booklet answer: F (correct)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "lugemine",
+    "title": "Lugemine 3 (B): kohad ja kirjeldused (küsimused 13–17) – lisaülesanne",
+    "booklet_ref": "Lugemine, kolmas ülesanne (B) – hidden alternative layer in the PDF (p. 10 text layer), not visible on the printed page",
+    "instructions_et": "Küsimused 13–17. Lugege kohtade nimetusi ja nende kirjeldusi. Märkige iga koha nimetuse (13–17) järele sobiva kirjelduse ees olev täht (A–I). Kaks lauset jääb üle. Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 13–17 (variant B). Match each place name to its description (A–I). Two are left over. Example 0: 'Apteek' – A. EXTRA TASK: found only in the PDF's hidden text layer, with its own key (13 I, 14 H, 15 D, 16 C, 17 B), which was checked and is consistent. The learner did not do this task.",
+    "converted_to_reading": false,
+    "text_et": "",
+    "items": [
+      {
+        "type": "match",
+        "q": "13. Autokool",
+        "options": [
+          "A Siit saab osta ravimeid.",
+          "B Siia saab jätta oma mantli.",
+          "C Siin saab remontida sõidukit.",
+          "D Siia saab panna oma auto.",
+          "E Siin saab õppida ametit.",
+          "F Siin saab riideid selga proovida.",
+          "H Siin saab olla enne sissekutsumist.",
+          "I Siin saab harjutada sõiduki juhtimist."
+        ],
+        "answer": 7,
+        "explanation_en": "Key: I. Driving school -> you practise driving a vehicle (sõiduki juhtimist). Unused: E (learn a profession = kutsekool) and F (try on clothes = proovikabiin)."
+      },
+      {
+        "type": "match",
+        "q": "14. Ooteruum",
+        "options": [
+          "A Siit saab osta ravimeid.",
+          "B Siia saab jätta oma mantli.",
+          "C Siin saab remontida sõidukit.",
+          "D Siia saab panna oma auto.",
+          "E Siin saab õppida ametit.",
+          "F Siin saab riideid selga proovida.",
+          "H Siin saab olla enne sissekutsumist.",
+          "I Siin saab harjutada sõiduki juhtimist."
+        ],
+        "answer": 6,
+        "explanation_en": "Key: H. Waiting room -> where you are before being called in (sissekutsumine). Unused: E (learn a profession = kutsekool) and F (try on clothes = proovikabiin)."
+      },
+      {
+        "type": "match",
+        "q": "15. Parkimismaja",
+        "options": [
+          "A Siit saab osta ravimeid.",
+          "B Siia saab jätta oma mantli.",
+          "C Siin saab remontida sõidukit.",
+          "D Siia saab panna oma auto.",
+          "E Siin saab õppida ametit.",
+          "F Siin saab riideid selga proovida.",
+          "H Siin saab olla enne sissekutsumist.",
+          "I Siin saab harjutada sõiduki juhtimist."
+        ],
+        "answer": 3,
+        "explanation_en": "Key: D. Parking garage -> where you can put your car. Unused: E (learn a profession = kutsekool) and F (try on clothes = proovikabiin)."
+      },
+      {
+        "type": "match",
+        "q": "16. Autoteenindus",
+        "options": [
+          "A Siit saab osta ravimeid.",
+          "B Siia saab jätta oma mantli.",
+          "C Siin saab remontida sõidukit.",
+          "D Siia saab panna oma auto.",
+          "E Siin saab õppida ametit.",
+          "F Siin saab riideid selga proovida.",
+          "H Siin saab olla enne sissekutsumist.",
+          "I Siin saab harjutada sõiduki juhtimist."
+        ],
+        "answer": 2,
+        "explanation_en": "Key: C. Car service -> where a vehicle can be repaired. Unused: E (learn a profession = kutsekool) and F (try on clothes = proovikabiin)."
+      },
+      {
+        "type": "match",
+        "q": "17. Riidehoid",
+        "options": [
+          "A Siit saab osta ravimeid.",
+          "B Siia saab jätta oma mantli.",
+          "C Siin saab remontida sõidukit.",
+          "D Siia saab panna oma auto.",
+          "E Siin saab õppida ametit.",
+          "F Siin saab riideid selga proovida.",
+          "H Siin saab olla enne sissekutsumist.",
+          "I Siin saab harjutada sõiduki juhtimist."
+        ],
+        "answer": 1,
+        "explanation_en": "Key: B. Cloakroom -> where you can leave your coat. Unused: E (learn a profession = kutsekool) and F (try on clothes = proovikabiin)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "lugemine",
+    "title": "Lugemine 4: Tiina üürib korteri (küsimused 18–22)",
+    "booklet_ref": "Lugemine, neljas ülesanne, lk 12",
+    "instructions_et": "Küsimused 18–22. Lugege teksti ja lauseid (18–22). Tehke märge ✓ sobiva vastuse (A, B või C) juures olevasse ruutu. Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 18–22. Read the text and complete each sentence with A, B or C. Example 0: 'Tiina tahab panna uue tapeedi …' – A 'elutuppa'.",
+    "converted_to_reading": false,
+    "text_et": "Tiina üürib korteri\n\nTiina tahab üürida ühetoalist korterit. Ta läheb seda vaatama. Tiina astub sisse ja märkab, et elutoas on kollane lilledega tapeet. Tiinale see ei meeldi. Ta tahab tapeedi ära vahetada. Elutoa mööbel ja köögi seinad on samuti kollast värvi. See Tiinat ei häiri. Vannituba on roheliseks värvitud. Tiina vaatab vannitoas ringi. Kapiuksed ei lähe korralikult kinni ja kapi värv on kulunud. Mööbel tuleb vannitoas kindlasti välja vahetada. Elutoa mööbel on veel päris korralik. Ka köögis on uued kapid. Tiina vaatab korteri aknaid. Köögi aknast näeb parki. Elutoa aken on ilus ja suur, kuid akna klaas on natuke katki. Selle peab kiiresti ära parandama. Vannitoa aken on tolmune ja must. Selle peseb Tiina homme puhtaks. Vannitoa uks on uus. Elutoas ei olegi ust. Köögi vana ukse asemele kavatseb Tiina uue ukse osta. Uut värvi vajab ka köögi sein. Vannitoa seinad on õnneks hiljuti värvitud. Tiina mõtleb, et värvi peab ostma ka elutoa põranda jaoks.",
+    "items": [
+      {
+        "type": "mc",
+        "q": "18. Kollast värvi ei ole …",
+        "options": [
+          "A – elutoas.",
+          "B – köögis.",
+          "C – vannitoas."
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C. C: the living room has yellow wallpaper and furniture, the kitchen has yellow walls, but 'Vannituba on roheliseks värvitud' (green). Note the NEGATIVE question: 'ei ole'. Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "19. Uut mööblit on tarvis …",
+        "options": [
+          "A – elutuppa.",
+          "B – kööki.",
+          "C – vannituppa."
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C. C: 'Mööbel tuleb vannitoas kindlasti välja vahetada.' Living-room furniture is 'päris korralik', the kitchen has new cupboards. Learner's booklet answer: C (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "20. Aken vajab kohe remonti …",
+        "options": [
+          "A – elutoas.",
+          "B – köögis.",
+          "C – vannitoas."
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A. A: 'Elutoa ... akna klaas on natuke katki. Selle peab kiiresti ära parandama.' The bathroom window only needs washing. Learner's booklet answer: A (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "21. Ukse peab ära vahetama …",
+        "options": [
+          "A – elutoas.",
+          "B – köögis.",
+          "C – vannitoas."
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B. B: 'Köögi vana ukse asemele kavatseb Tiina uue ukse osta.' Bathroom door is new; the living room has no door. Learner's booklet answer: B (correct)."
+      },
+      {
+        "type": "mc",
+        "q": "22. Seina peab värvima …",
+        "options": [
+          "A – elutoas.",
+          "B – köögis.",
+          "C – vannitoas."
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B. B: 'Uut värvi vajab ka köögi sein.' Bathroom walls were recently painted; in the living room it is the FLOOR that needs paint. Learner's booklet answer: B (correct)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "lugemine",
+    "title": "Lugemine 5: Laura kiri Kertule (lünktekst, küsimused 23–30)",
+    "booklet_ref": "Lugemine, viies ülesanne, lk 13",
+    "instructions_et": "Küsimused 23–30. Lugege teksti. Valige teksti alt lünka (23–30) sobiv sõna. Kirjutage igasse lünka valitud vastuse ees olev täht (A, B või C). Näidis on tähistatud 0-ga.",
+    "instructions_en": "Questions 23–30. Choose the word that fits each gap (A, B or C). Example 0: 'Kahjuks mu ... muutusid' – A 'plaanid'.",
+    "converted_to_reading": false,
+    "text_et": "Tere, Kertu!\nPidin Sulle homme külla sõitma. Kahjuks mu (0) plaanid muutusid.\nEile (23) ________ ootamatult haigeks. Hommikul oli mul väga (24) ________ olla. Otsustasin, et ei lähe tööle. See oli õige mõte. Õhtuks tuli mul (25) ________ palavik. Helistasin kiirabisse ja kutsusin arsti koju. Arst arvas, et (26) ________ ei ole vaja minna. Ta käskis mul hoopis palju (27) ________ ja teed juua. Nüüd ravin ennast ja laman kodus voodis. Nädala pärast (28) ________ perearsti juurde tervist kontrollima.\nTahan ruttu terveks saada. Mul on (29) ________ väga kurb olla. Õues on juba päris ilus ja soe ilm. Ma loodan, et (30) ________ Sind varsti. Siis tervitame koos kevade saabumist!\nOle tubli!\nLaura",
+    "items": [
+      {
+        "type": "gap",
+        "q": "(23) ________",
+        "options": [
+          "A sain",
+          "B jäin",
+          "C võin"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B (jäin). Fixed phrase 'haigeks jääma' = to fall ill: 'Eile jäin ootamatult haigeks.' Learner's booklet answer: 'jäin' (correct)."
+      },
+      {
+        "type": "gap",
+        "q": "(24) ________",
+        "options": [
+          "A hea",
+          "B paras",
+          "C halb"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C (halb). 'Mul on halb olla' = I feel sick/unwell. She is ill, so not 'hea'. Learner's booklet answer: 'halb' (correct)."
+      },
+      {
+        "type": "gap",
+        "q": "(25) ________",
+        "options": [
+          "A tugev",
+          "B kõrge",
+          "C kiire"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B (kõrge). Fever is 'kõrge palavik' (high fever) in Estonian, not 'tugev'. Learner's booklet answer: 'kõrge' (correct)."
+      },
+      {
+        "type": "gap",
+        "q": "(26) ________",
+        "options": [
+          "A haiglasse",
+          "B maale",
+          "C voodisse"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A (haiglasse). The doctor thought it was not necessary to go to hospital (haiglasse). Learner's booklet answer: 'haiglasse' (correct)."
+      },
+      {
+        "type": "gap",
+        "q": "(27) ________",
+        "options": [
+          "A töötada",
+          "B jalutada",
+          "C magada"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C (magada). The doctor told her to sleep a lot (palju magada) and drink tea. Learner's booklet answer: 'magada' (correct)."
+      },
+      {
+        "type": "gap",
+        "q": "(28) ________",
+        "options": [
+          "A lähen",
+          "B jätan",
+          "C panen"
+        ],
+        "answer": 0,
+        "explanation_en": "Official key: A (lähen). 'Nädala pärast lähen perearsti juurde' = in a week I'll go to the family doctor. Learner's booklet answer: 'lähen' (correct)."
+      },
+      {
+        "type": "gap",
+        "q": "(29) ________",
+        "options": [
+          "A elus",
+          "B toas",
+          "C väljas"
+        ],
+        "answer": 1,
+        "explanation_en": "Official key: B (toas). She lies at home in bed: 'Mul on toas väga kurb olla' (it's sad to be indoors) while outside the weather is nice. Learner's booklet answer: 'toas' (correct)."
+      },
+      {
+        "type": "gap",
+        "q": "(30) ________",
+        "options": [
+          "A loen",
+          "B pean",
+          "C näen"
+        ],
+        "answer": 2,
+        "explanation_en": "Official key: C (näen). 'Ma loodan, et näen Sind varsti' = I hope to see you soon. Learner's booklet answer: 'näen' (correct)."
+      }
+    ],
+    "model_answer_et": "",
+    "checklist_en": []
+  },
+  {
+    "section": "rääkimine",
+    "title": "Pildi kirjeldamine: Pere ja sugulased (pilt 1)",
+    "booklet_ref": "Rääkimine, esimene ülesanne, I osa, lk 14 (pilt 1)",
+    "instructions_et": "Kirjeldage pilti. Teema: PERE JA SUGULASED (pilt 1).",
+    "instructions_en": "Describe the picture (topic: family and relatives). Picture 1 shows: a family in a bright bedroom or hotel room with warm lamps. A mother and two children (a girl and a boy) lie on a big bed and look at books and magazines together; the father sits in the background with a laptop.",
+    "converted_to_reading": false,
+    "text_et": "(Pilt: pere magamistoas/hotellitoas. Ema, tüdruk ja poiss lamavad suurel voodil ja vaatavad raamatuid ja ajakirju. Isa istub tagaplaanil sülearvutiga. Toas põlevad lambid.)",
+    "items": [
+      {
+        "type": "open",
+        "q": "Kirjeldage pilti 1: kes on pildil, kus nad on, mida nad teevad, mis neil seljas on?",
+        "options": [],
+        "answer": "(vt model_answer_et)",
+        "explanation_en": "Use the structure: who (Pildil on...), where (Nad on...), what they do (Nad loevad...), clothes and mood (Neil on hea tuju)."
+      }
+    ],
+    "model_answer_et": "Pildil on pere: ema, isa, tütar ja poeg. Nad on magamistoas, võib-olla hotellis. Ema ja lapsed lamavad suurel voodil. Nad vaatavad koos raamatut ja ajakirju. Tüdrukul on seljas roosa pluus ja poisil valge särk. Isa istub tagapool ja töötab arvutiga. Toas põlevad lambid, see on vist õhtu. Ma arvan, et neil on hea tuju, sest nad naeratavad.",
+    "checklist_en": [
+      "Speak in full sentences (subject + verb), not single words.",
+      "Keep talking: 4–6 sentences per picture or answer; add a reason with 'sest' or an opinion with 'Ma arvan, et ...'.",
+      "Pronunciation and grammar may have mistakes at A2, but the listener must understand you.",
+      "Note (harno.ee): speech is recorded and rated by two raters independently.",
+      "Use location phrases: voodil, toas, tagapool, akna juures.",
+      "Use present-tense verbs in 3rd person plural: lamavad, vaatavad, loevad, naeratavad."
+    ]
+  },
+  {
+    "section": "rääkimine",
+    "title": "Pildi kirjeldamine: Pere ja sugulased (pilt 2)",
+    "booklet_ref": "Rääkimine, esimene ülesanne, I osa, lk 14 (pilt 2)",
+    "instructions_et": "Kirjeldage pilti. Teema: PERE JA SUGULASED (pilt 2).",
+    "instructions_en": "Describe the picture. Picture 2 shows: three generations at a table outdoors on a terrace in summer – a grandmother standing, a grandfather, a young man and a young woman, a little girl and a little boy. On the table: salad, bread, cherry tomatoes, fruit, glasses of water.",
+    "converted_to_reading": false,
+    "text_et": "(Pilt: kolm põlvkonda söövad õues terrassil laua ääres. Vanaema seisab, vanaisa, noor mees ja noor naine, väike tüdruk ja väike poiss istuvad. Laual on salat, sai, tomatid, puuviljad ja klaasid veega.)",
+    "items": [
+      {
+        "type": "open",
+        "q": "Kirjeldage pilti 2: kes on pildil, kus nad on, mida nad teevad, mis on laual?",
+        "options": [],
+        "answer": "(vt model_answer_et)",
+        "explanation_en": "Name family members (vanaema, vanaisa, ema, isa, lapsed), place (õues, aias, terrassil), action (söövad lõunat), food on the table, weather/season."
+      }
+    ],
+    "model_answer_et": "Pildil on suur pere. Seal on vanaema, vanaisa, ema, isa ja kaks last – tüdruk ja poiss. Nad on õues, aias või terrassil. On suvi ja ilm on ilus. Nad söövad koos lõunat. Laual on salat, sai, tomatid, puuviljad ja vesi. Vanaema seisab ja naeratab, teised istuvad laua ääres. Ma arvan, et see on pühapäev ja pere on vanavanemate juures külas.",
+    "checklist_en": [
+      "Speak in full sentences (subject + verb), not single words.",
+      "Keep talking: 4–6 sentences per picture or answer; add a reason with 'sest' or an opinion with 'Ma arvan, et ...'.",
+      "Pronunciation and grammar may have mistakes at A2, but the listener must understand you.",
+      "Note (harno.ee): speech is recorded and rated by two raters independently.",
+      "Family words: vanaema, vanaisa, vanavanemad, lapselapsed.",
+      "Food in partitive after 'söövad': söövad salatit, saia."
+    ]
+  },
+  {
+    "section": "rääkimine",
+    "title": "Küsimused teemal: Pere ja sugulased (A ja B)",
+    "booklet_ref": "Rääkimine, esimene ülesanne, II osa, lk 15 (teemaleht läbiviijale)",
+    "instructions_et": "Eksamineerija valib teemalehelt küsimused ja palub testitavatel nendele vastata. TEEMA: PERE JA SUGULASED. Valik küsimusi A ja B.",
+    "instructions_en": "The examiner picks questions from this topic sheet (sets A and B) and you answer them. Answer each in 2–3 full sentences. The answers below are short examples – replace the facts with your own.",
+    "converted_to_reading": false,
+    "text_et": "",
+    "items": [
+      {
+        "type": "open",
+        "q": "A: Kas teie elate üksinda või koos perega?",
+        "options": [],
+        "answer": "Ma elan koos perega: mehe/naise ja kahe lapsega.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "A: Kui suur on teie pere? / Kui palju inimesi on teie peres?",
+        "options": [],
+        "answer": "Minu pere on väike. Meie peres on neli inimest.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "A: Kes on teie pereliikmed?",
+        "options": [],
+        "answer": "Minu pereliikmed on minu naine, poeg, tütar ja mina.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "A: Millega teie pereliikmed tegelevad? / Kus teie pereliikmed töötavad/õpivad?",
+        "options": [],
+        "answer": "Minu naine töötab haiglas, ta on õde. Poeg käib koolis ja tütar käib lasteaias.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "A: Mida te koos perega nädalavahetusel teete?",
+        "options": [],
+        "answer": "Nädalavahetusel jalutame pargis, käime poes ja vahel kinos.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "A: Kas te peate oma peres sünnipäevi? / Kelle sünnipäeva te viimati pidasite?",
+        "options": [],
+        "answer": "Jah, peame. Viimati pidasime minu tütre sünnipäeva. Ta sai kuueaastaseks.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "A: Mida te talle sünnipäevaks kinkisite?",
+        "options": [],
+        "answer": "Me kinkisime talle jalgratta.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "B: Kas teil on vähe või palju sugulasi?",
+        "options": [],
+        "answer": "Mul on palju sugulasi.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "B: Kellega sugulastest te kõige rohkem suhtlete? … emaga? … pojaga? … tädiga?",
+        "options": [],
+        "answer": "Ma suhtlen kõige rohkem emaga. Me räägime telefonis iga päev.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "B: Kus teie sugulased elavad? / Kas keegi teie sugulastest elab välismaal? Kus?",
+        "options": [],
+        "answer": "Minu sugulased elavad Eestis ja välismaal. Minu vend elab Saksamaal.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "B: Kui sageli te oma sugulastega kohtute?",
+        "options": [],
+        "answer": "Ma kohtun sugulastega umbes kord kuus.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "B: Mida te koos oma sugulastega teete?",
+        "options": [],
+        "answer": "Me sööme koos, räägime juttu ja käime looduses.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "B: Kas te tähistate koos oma sugulastega jõulupühi? Kelle juures te jõulupühade ajal olete?",
+        "options": [],
+        "answer": "Jah, tähistame. Jõulude ajal oleme vanemate juures maal.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      },
+      {
+        "type": "open",
+        "q": "B: Mida sugulased teile tavaliselt kingivad?",
+        "options": [],
+        "answer": "Sugulased kingivad mulle tavaliselt raamatuid või sokke.",
+        "explanation_en": "Example answer; reuse the question's verb in your answer."
+      }
+    ],
+    "model_answer_et": "Ma elan koos perega. Meie peres on neli inimest: mina, minu naine, poeg ja tütar. Minu naine töötab haiglas, ta on õde. Poeg käib koolis ja tütar käib lasteaias. Nädalavahetusel jalutame koos pargis ja vahel käime kinos. Me peame alati sünnipäevi. Viimati pidasime tütre sünnipäeva ja kinkisime talle jalgratta.",
+    "checklist_en": [
+      "Speak in full sentences (subject + verb), not single words.",
+      "Keep talking: 4–6 sentences per picture or answer; add a reason with 'sest' or an opinion with 'Ma arvan, et ...'.",
+      "Pronunciation and grammar may have mistakes at A2, but the listener must understand you.",
+      "Note (harno.ee): speech is recorded and rated by two raters independently.",
+      "Answer the exact question (Kus? -> place; Kui sageli? -> frequency: iga päev, kord nädalas, kord kuus).",
+      "Past tense for 'viimati' questions: pidasime, kinkisime.",
+      "-ga for 'with whom': emaga, vennaga, sugulastega."
+    ]
+  },
+  {
+    "section": "rääkimine",
+    "title": "Ideekaart A: SÖÖK – Küsige oma kaaslaselt, mida ta sööb ja millal",
+    "booklet_ref": "Rääkimine, teine ülesanne (A), lk 16 (ideekaart testitavatele)",
+    "instructions_et": "SÖÖK. Küsige oma kaaslaselt, mida ta sööb ja millal. Märksõnad: Kerge eine, Soe toit, Magustoit.",
+    "instructions_en": "Idea card 'Food': ask your partner what they eat and when; then answer their questions. Pictures on the card – Kerge eine (light meal): porridge with jam, fried egg, small open sandwiches. Soe toit (hot meal): rice with meat sauce and salad, soup, pizza. Magustoit (dessert): pancakes with berries, ice cream, a basket of fruit.",
+    "converted_to_reading": false,
+    "text_et": "Kerge eine: puder moosiga, praemuna, võileivad\nSoe toit: riis liha ja salatiga, supp, pitsa\nMagustoit: pannkoogid marjadega, jäätis, puuviljad",
+    "items": [
+      {
+        "type": "open",
+        "q": "Küsi: Mida sa hommikul sööd?",
+        "options": [],
+        "answer": "Hommikul söön tavaliselt putru moosiga või võileiba.",
+        "explanation_en": "Ask with 'Mida' + verb; answer with food in partitive (putru, võileiba)."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kas sa sööd hommikul muna?",
+        "options": [],
+        "answer": "Jah, söön. Ma söön praemuna kaks korda nädalas.",
+        "explanation_en": "'Kas' questions need jah/ei + full sentence."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Millal sa sööd sooja toitu?",
+        "options": [],
+        "answer": "Sooja toitu söön lõunal ja õhtul.",
+        "explanation_en": "Time words: hommikul, lõunal, õhtul, pärast tööd."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kas sulle meeldib supp?",
+        "options": [],
+        "answer": "Jah, mulle meeldib supp. Talvel söön suppi peaaegu iga päev.",
+        "explanation_en": "'Mulle meeldib' + nominative; 'söön suppi' partitive."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kui tihti sa sööd pitsat?",
+        "options": [],
+        "answer": "Pitsat söön harva, umbes kord kuus.",
+        "explanation_en": "Frequency: iga päev, kord nädalas, harva, mitte kunagi."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Mis on sinu lemmikmagustoit?",
+        "options": [],
+        "answer": "Minu lemmikmagustoit on pannkoogid marjadega.",
+        "explanation_en": "'lemmik-' + noun = favourite ..."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kas sa sööd jäätist ka talvel?",
+        "options": [],
+        "answer": "Ei, talvel ma jäätist ei söö. Söön jäätist ainult suvel.",
+        "explanation_en": "Negative: 'ma ei söö' + partitive (jäätist)."
+      }
+    ],
+    "model_answer_et": "– Mida sa hommikul sööd?\n– Hommikul söön tavaliselt putru moosiga. Vahel söön ka praemuna ja võileiba.\n– Millal sa sööd sooja toitu?\n– Sooja toitu söön lõunal tööl ja õhtul kodus. Mulle meeldib riis liha ja salatiga.\n– Kas sa sööd tihti pitsat?\n– Ei, pitsat söön harva, umbes kord kuus.\n– Mis on sinu lemmikmagustoit?\n– Minu lemmikmagustoit on pannkoogid marjadega. Suvel söön ka palju jäätist.",
+    "checklist_en": [
+      "Speak in full sentences (subject + verb), not single words.",
+      "Keep talking: 4–6 sentences per picture or answer; add a reason with 'sest' or an opinion with 'Ma arvan, et ...'.",
+      "Pronunciation and grammar may have mistakes at A2, but the listener must understand you.",
+      "Note (harno.ee): speech is recorded and rated by two raters independently.",
+      "You ASK questions (one partner asks, the other answers, then roles swap).",
+      "Use all three keywords on the card: kerge eine, soe toit, magustoit.",
+      "Question words: Mida? Millal? Kui tihti? Kas...? Mis on sinu lemmik...?",
+      "Food after 'söön' in partitive: putru, suppi, pitsat, jäätist, puuvilju."
+    ]
+  },
+  {
+    "section": "rääkimine",
+    "title": "Ideekaart B: IGAPÄEVANE ELU – Küsige, mida kaaslane teeb ja kui tihti",
+    "booklet_ref": "Rääkimine, teine ülesanne (B), lk 17 (ideekaart testitavatele)",
+    "instructions_et": "IGAPÄEVANE ELU. Küsige oma kaaslaselt, mida ta oma igapäevases elus teeb ja kui tihti. Märksõnad: Kauplus, Teenindusasutus, Tervisekeskus.",
+    "instructions_en": "Idea card 'Daily life': ask your partner what they do in daily life and how often; then answer. Pictures – Kauplus (shop): supermarket checkout, clothes shop, household appliances store. Teenindusasutus (service): petrol station, barber/hairdresser, cash machine (ATM). Tervisekeskus (health centre): pharmacy, dentist, massage/physiotherapy.",
+    "converted_to_reading": false,
+    "text_et": "Kauplus: toidupood (kassa), riidepood, kodumasinate pood\nTeenindusasutus: tankla, juuksur, pangaautomaat\nTervisekeskus: apteek, hambaarst, massöör",
+    "items": [
+      {
+        "type": "open",
+        "q": "Küsi: Kui tihti sa käid toidupoes?",
+        "options": [],
+        "answer": "Ma käin toidupoes kaks-kolm korda nädalas.",
+        "explanation_en": "'käima + -s': käin poes, juuksuris, apteegis."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kas sa ostad riideid poest või internetist?",
+        "options": [],
+        "answer": "Ma ostan riideid tavaliselt poest, vahel ka internetist.",
+        "explanation_en": "'poest' (from the shop) uses -st."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kui tihti sa käid juuksuris?",
+        "options": [],
+        "answer": "Ma käin juuksuris umbes kord kuus.",
+        "explanation_en": "Frequency phrase: kord kuus = once a month."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kas sul on auto? Kui tihti sa tangid?",
+        "options": [],
+        "answer": "Jah, mul on auto. Ma käin tanklas kord nädalas.",
+        "explanation_en": "'tankla' = petrol station; 'tankima' = to refuel."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kas sa võtad raha pangaautomaadist?",
+        "options": [],
+        "answer": "Ei, ma maksan tavaliselt kaardiga. Sularaha võtan harva.",
+        "explanation_en": "'kaardiga' = by card; 'sularaha' = cash."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Millal sa viimati käisid hambaarsti juures?",
+        "options": [],
+        "answer": "Ma käisin hambaarsti juures eelmisel kuul.",
+        "explanation_en": "Past tense for 'viimati': käisin. 'arsti juures' = at the doctor's."
+      },
+      {
+        "type": "open",
+        "q": "Küsi: Kas sa käid tihti apteegis?",
+        "options": [],
+        "answer": "Ei, ma käin apteegis harva, ainult siis, kui olen haige.",
+        "explanation_en": "'harva' = rarely; 'kui olen haige' = when I am ill."
+      }
+    ],
+    "model_answer_et": "– Kui tihti sa käid toidupoes?\n– Ma käin toidupoes kaks-kolm korda nädalas, tavaliselt pärast tööd.\n– Kui tihti sa käid juuksuris?\n– Juuksuris käin umbes kord kuus.\n– Kas sa käid tihti tanklas?\n– Jah, mul on auto. Ma käin tanklas kord nädalas.\n– Millal sa viimati käisid hambaarsti juures?\n– Eelmisel kuul. Ma käin hambaarsti juures kaks korda aastas.\n– Kas sa käid tihti apteegis?\n– Ei, apteegis käin harva, ainult siis, kui olen haige.",
+    "checklist_en": [
+      "Speak in full sentences (subject + verb), not single words.",
+      "Keep talking: 4–6 sentences per picture or answer; add a reason with 'sest' or an opinion with 'Ma arvan, et ...'.",
+      "Pronunciation and grammar may have mistakes at A2, but the listener must understand you.",
+      "Note (harno.ee): speech is recorded and rated by two raters independently.",
+      "Every answer has a frequency: iga päev, kord nädalas, kaks korda kuus, harva, mitte kunagi.",
+      "Cover all three keywords: kauplus, teenindusasutus, tervisekeskus.",
+      "Place cases: käin poes / juuksuris / apteegis (-s), hambaarsti juures."
+    ]
+  }
+]

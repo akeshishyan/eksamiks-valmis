@@ -1,0 +1,3282 @@
+[
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "riidepood",
+  "en": "clothes shop",
+  "pos": "noun",
+  "forms": "riidepood, riidepoe, riidepoodi",
+  "example": "Ma käin laupäeval riidepoes.",
+  "example_en": "I go to the clothes shop on Saturday."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "naisteriiete pood",
+  "en": "women's clothing shop",
+  "pos": "phrase",
+  "forms": "pood, poe, poodi",
+  "example": "Naisteriiete pood on teisel korrusel.",
+  "example_en": "The women's clothing shop is on the second floor."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "meesteriiete pood",
+  "en": "men's clothing shop",
+  "pos": "phrase",
+  "forms": "pood, poe, poodi",
+  "example": "Meesteriiete poes on ilusad ülikonnad.",
+  "example_en": "The men's clothing shop has nice suits."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kingapood",
+  "en": "shoe shop",
+  "pos": "noun",
+  "forms": "kingapood, kingapoe, kingapoodi",
+  "example": "Ma ostsin kingapoest uued saapad.",
+  "example_en": "I bought new boots from the shoe shop."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "müüja",
+  "en": "shop assistant, seller",
+  "pos": "noun",
+  "forms": "müüja, müüja, müüjat",
+  "example": "Müüja: Kas ma saan teid aidata?",
+  "example_en": "Shop assistant: Can I help you?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "klient",
+  "en": "customer, client",
+  "pos": "noun",
+  "forms": "klient, kliendi, klienti",
+  "example": "Klient proovib kleiti.",
+  "example_en": "The customer is trying on a dress."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kassa",
+  "en": "checkout, till",
+  "pos": "noun",
+  "forms": "kassa, kassa, kassat",
+  "example": "Lähme kassasse!",
+  "example_en": "Let's go to the checkout!"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "proovikabiin",
+  "en": "fitting room",
+  "pos": "noun",
+  "forms": "proovikabiin, proovikabiini, proovikabiini",
+  "example": "Proovikabiinid on seal.",
+  "example_en": "The fitting rooms are over there."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "soodushind",
+  "en": "sale price, discount price",
+  "pos": "noun",
+  "forms": "soodushind, soodushinna, soodushinda",
+  "example": "See kleit on soodushinnaga.",
+  "example_en": "This dress is on sale (at a discount price)."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "hind",
+  "en": "price",
+  "pos": "noun",
+  "forms": "hind, hinna, hinda",
+  "example": "Mis on selle mantli hind?",
+  "example_en": "What is the price of this coat?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "number",
+  "en": "size (of clothes/shoes); number",
+  "pos": "noun",
+  "forms": "number, numbri, numbrit",
+  "example": "Äkki on siin suurem number.",
+  "example_en": "Maybe there's a bigger size here."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "suurus",
+  "en": "size",
+  "pos": "noun",
+  "forms": "suurus, suuruse, suurust",
+  "example": "Mis suurus teile sobib?",
+  "example_en": "What size fits you?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kilekott",
+  "en": "plastic bag",
+  "pos": "noun",
+  "forms": "kilekott, kilekoti, kilekotti",
+  "example": "Kas soovite kilekotti ka osta?",
+  "example_en": "Would you also like to buy a plastic bag?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "sent",
+  "en": "cent",
+  "pos": "noun",
+  "forms": "sent, sendi, senti",
+  "example": "25 eurot ja kakskümmend senti, palun.",
+  "example_en": "25 euros and twenty cents, please."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "euro",
+  "en": "euro",
+  "pos": "noun",
+  "forms": "euro, euro, eurot",
+  "example": "See maksab 40 eurot.",
+  "example_en": "It costs 40 euros."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "liiga",
+  "en": "too (much)",
+  "pos": "adv",
+  "forms": "",
+  "example": "See kleit on liiga suur.",
+  "example_en": "This dress is too big."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "odav",
+  "en": "cheap",
+  "pos": "adj",
+  "forms": "odav, odava, odavat",
+  "example": "See seelik on väga odav.",
+  "example_en": "This skirt is very cheap."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kallis",
+  "en": "expensive; dear",
+  "pos": "adj",
+  "forms": "kallis, kalli, kallist",
+  "example": "Need prillid on liiga kallid.",
+  "example_en": "These glasses are too expensive."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kitsas",
+  "en": "narrow, tight",
+  "pos": "adj",
+  "forms": "kitsas, kitsa, kitsast",
+  "example": "See särk on liiga kitsas.",
+  "example_en": "This shirt is too tight."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "lai",
+  "en": "wide, loose",
+  "pos": "adj",
+  "forms": "lai, laia, laia",
+  "example": "Need püksid on liiga laiad.",
+  "example_en": "These trousers are too wide."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "liiga suur / liiga suured",
+  "en": "too big (singular / plural)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "See müts on liiga suur. Need kingad on liiga suured.",
+  "example_en": "This hat is too big. These shoes are too big."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "liiga väike / liiga väikesed",
+  "en": "too small (singular / plural)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "See müts on liiga väike. Need kingad on liiga väikesed.",
+  "example_en": "This hat is too small. These shoes are too small."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "liiga pikk / liiga pikad",
+  "en": "too long (singular / plural)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "See kleit on liiga pikk. Need püksid on liiga pikad.",
+  "example_en": "This dress is too long. These trousers are too long."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "liiga lühike / liiga lühikesed",
+  "en": "too short (singular / plural)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "See seelik on liiga lühike. Need püksid on liiga lühikesed.",
+  "example_en": "This skirt is too short. These trousers are too short."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "liiga kitsas / liiga kitsad",
+  "en": "too tight (singular / plural)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "See särk on liiga kitsas. Need püksid on liiga kitsad.",
+  "example_en": "This shirt is too tight. These trousers are too tight."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "liiga kallis / liiga kallid",
+  "en": "too expensive (singular / plural)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "See kleit on liiga kallis. Need prillid on liiga kallid.",
+  "example_en": "This dress is too expensive. These glasses are too expensive."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "liiga odav / liiga odavad",
+  "en": "too cheap (singular / plural)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "See kleit on liiga odav. Need kummikud on liiga odavad.",
+  "example_en": "This dress is too cheap. These rubber boots are too cheap."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "suurem",
+  "en": "bigger",
+  "pos": "adj",
+  "forms": "suurem, suurema, suuremat",
+  "example": "Proovige seda, see on suurem number.",
+  "example_en": "Try this one, it is a bigger size."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "väiksem",
+  "en": "smaller",
+  "pos": "adj",
+  "forms": "väiksem, väiksema, väiksemat",
+  "example": "Kas teil on väiksem number ka?",
+  "example_en": "Do you also have a smaller size?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kleit",
+  "en": "dress",
+  "pos": "noun",
+  "forms": "kleit, kleidi, kleiti",
+  "example": "See kleit maksab 25 eurot.",
+  "example_en": "This dress costs 25 euros."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "püksid",
+  "en": "trousers (plural)",
+  "pos": "noun",
+  "forms": "püksid, pükste, pükse",
+  "example": "Need püksid on liiga pikad.",
+  "example_en": "These trousers are too long."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "seelik",
+  "en": "skirt",
+  "pos": "noun",
+  "forms": "seelik, seeliku, seelikut",
+  "example": "See seelik on liiga lühike.",
+  "example_en": "This skirt is too short."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "särk",
+  "en": "shirt",
+  "pos": "noun",
+  "forms": "särk, särgi, särki",
+  "example": "See särk on liiga suur.",
+  "example_en": "This shirt is too big."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "müts",
+  "en": "hat, cap",
+  "pos": "noun",
+  "forms": "müts, mütsi, mütsi",
+  "example": "See müts on liiga väike.",
+  "example_en": "This hat is too small."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kingad",
+  "en": "shoes (plural)",
+  "pos": "noun",
+  "forms": "kingad, kingade, kingi",
+  "example": "Need kingad on liiga väikesed.",
+  "example_en": "These shoes are too small."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "prillid",
+  "en": "glasses (plural)",
+  "pos": "noun",
+  "forms": "prillid, prillide, prille",
+  "example": "Need prillid on liiga kallid.",
+  "example_en": "These glasses are too expensive."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kummikud",
+  "en": "rubber boots (plural)",
+  "pos": "noun",
+  "forms": "kummikud, kummikute, kummikuid",
+  "example": "Need kummikud on liiga odavad.",
+  "example_en": "These rubber boots are too cheap."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "mantel",
+  "en": "coat",
+  "pos": "noun",
+  "forms": "mantel, mantli, mantlit",
+  "example": "Kui palju see mantel maksab?",
+  "example_en": "How much does this coat cost?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "jope",
+  "en": "jacket",
+  "pos": "noun",
+  "forms": "jope, jope, jopet",
+  "example": "Ma tahan osta uut jopet.",
+  "example_en": "I want to buy a new jacket."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "proovima",
+  "en": "to try (on)",
+  "pos": "verb",
+  "forms": "proovima, proovida, proovin",
+  "example": "Kas ma võin seda kleiti proovida?",
+  "example_en": "May I try on this dress?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "aitama",
+  "en": "to help",
+  "pos": "verb",
+  "forms": "aitama, aidata, aitan",
+  "example": "Kas ma saan teid aidata?",
+  "example_en": "Can I help you?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "näitama",
+  "en": "to show",
+  "pos": "verb",
+  "forms": "näitama, näidata, näitan",
+  "example": "Tulge, ma näitan!",
+  "example_en": "Come, I'll show you!"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "võima",
+  "en": "may, to be allowed",
+  "pos": "verb",
+  "forms": "võima, võida, võin",
+  "example": "Kas ma võin proovida?",
+  "example_en": "May I try it on?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "saama",
+  "en": "can; to get",
+  "pos": "verb",
+  "forms": "saama, saada, saan",
+  "example": "Kas ma saan kaardiga maksta?",
+  "example_en": "Can I pay by card?"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "müüma",
+  "en": "to sell",
+  "pos": "verb",
+  "forms": "müüma, müüa, müün",
+  "example": "See pood müüb kingi.",
+  "example_en": "This shop sells shoes."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "kandma",
+  "en": "to wear; to carry",
+  "pos": "verb",
+  "forms": "kandma, kanda, kannan",
+  "example": "Ma kannan tööl ülikonda.",
+  "example_en": "I wear a suit at work."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Kas ma saan teid aidata?",
+  "en": "Can I help you? (formal)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Kas ma võin proovida?",
+  "en": "May I try it on?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Kui palju see maksab?",
+  "en": "How much does this cost?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Tulge, ma näitan!",
+  "en": "Come, I'll show you! (formal)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Proovikabiinid on seal.",
+  "en": "The fitting rooms are over there.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Kuidas sobis?",
+  "en": "How did it fit?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kuidas see kleit sobis? – Väga hästi!",
+  "example_en": "How did this dress fit? – Very well!"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "See sobib hästi.",
+  "en": "It fits well.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Proovige seda!",
+  "en": "Try this one! (formal)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Ma võtan selle.",
+  "en": "I'll take it.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Lähme kassasse!",
+  "en": "Let's go to the checkout!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Kas soovite kilekotti ka osta?",
+  "en": "Would you also like to buy a plastic bag?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Aga palun!",
+  "en": "Here you are! / Go ahead!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Kohe vaatame.",
+  "en": "Let's have a look right away.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "äkki",
+  "en": "maybe, perhaps",
+  "pos": "adv",
+  "forms": "",
+  "example": "Vaatame, äkki on siin suurem number.",
+  "example_en": "Let's see, maybe there's a bigger size here."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Ongi!",
+  "en": "There is! (it turns out there is)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Äkki on siin suurem number? Ongi!",
+  "example_en": "Maybe there's a bigger size here? There is!"
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "See on … / Need on …",
+  "en": "This is … / These are …",
+  "pos": "phrase",
+  "forms": "",
+  "example": "See on kleit. Need on püksid.",
+  "example_en": "This is a dress. These are trousers."
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "Mis see on? / Mis need on?",
+  "en": "What is this? / What are these?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 16,
+  "topic": "Clothes shop",
+  "et": "maksta kaardiga / sularahas",
+  "en": "to pay by card / in cash",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas maksate kaardiga või sularahas?",
+  "example_en": "Will you pay by card or in cash?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "hobi",
+  "en": "hobby",
+  "pos": "noun",
+  "forms": "hobi, hobi, hobi",
+  "example": "Minu hobi on joonistamine.",
+  "example_en": "My hobby is drawing."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "jalgpall",
+  "en": "football",
+  "pos": "noun",
+  "forms": "jalgpall, jalgpalli, jalgpalli",
+  "example": "Kas sulle meeldib jalgpall?",
+  "example_en": "Do you like football?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "moodne kunst",
+  "en": "modern art",
+  "pos": "phrase",
+  "forms": "kunst, kunsti, kunsti",
+  "example": "Kas sulle meeldib moodne kunst?",
+  "example_en": "Do you like modern art?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "kantrimuusika",
+  "en": "country music",
+  "pos": "noun",
+  "forms": "kantrimuusika, kantrimuusika, kantrimuusikat",
+  "example": "Mulle meeldib kantrimuusika.",
+  "example_en": "I like country music."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "ooper",
+  "en": "opera",
+  "pos": "noun",
+  "forms": "ooper, ooperi, ooperit",
+  "example": "Kas sulle meeldib ooper?",
+  "example_en": "Do you like opera?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "ballett",
+  "en": "ballet",
+  "pos": "noun",
+  "forms": "ballett, balleti, balletti",
+  "example": "Kas sulle meeldib ballett?",
+  "example_en": "Do you like ballet?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käsitöö",
+  "en": "handicraft",
+  "pos": "noun",
+  "forms": "käsitöö, käsitöö, käsitööd",
+  "example": "Kas sulle meeldib käsitöö?",
+  "example_en": "Do you like handicrafts?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "kino",
+  "en": "cinema",
+  "pos": "noun",
+  "forms": "kino, kino, kino",
+  "example": "Kas sulle meeldib kino?",
+  "example_en": "Do you like the cinema?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "tants",
+  "en": "dance",
+  "pos": "noun",
+  "forms": "tants, tantsu, tantsu",
+  "example": "Kas sulle meeldib tants?",
+  "example_en": "Do you like dance?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "tennis",
+  "en": "tennis",
+  "pos": "noun",
+  "forms": "tennis, tennise, tennist",
+  "example": "Kas sulle meeldib tennis?",
+  "example_en": "Do you like tennis?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "vormel 1",
+  "en": "Formula 1",
+  "pos": "noun",
+  "forms": "",
+  "example": "Kas sulle meeldib vormel 1?",
+  "example_en": "Do you like Formula 1?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "sport",
+  "en": "sport",
+  "pos": "noun",
+  "forms": "sport, spordi, sporti",
+  "example": "Ma teen palju sporti.",
+  "example_en": "I do a lot of sport."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "triatlon",
+  "en": "triathlon",
+  "pos": "noun",
+  "forms": "triatlon, triatloni, triatloni",
+  "example": "Talvel ma triatlonit ei tee.",
+  "example_en": "In winter I don't do triathlon."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "täpsemalt",
+  "en": "more precisely",
+  "pos": "adv",
+  "forms": "",
+  "example": "Ma teen palju sporti, täpsemalt triatloni.",
+  "example_en": "I do a lot of sport, more precisely triathlon."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "Jah, meeldib küll.",
+  "en": "Yes, I do (like it).",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "Ei, üldse ei meeldi.",
+  "en": "No, I don't like it at all.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "üldse ei",
+  "en": "not at all",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mulle üldse ei meeldi suitsetamine.",
+  "example_en": "I don't like smoking at all."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "filmi vaatamine",
+  "en": "watching films",
+  "pos": "noun",
+  "forms": "vaatamine, vaatamise, vaatamist",
+  "example": "Talvel meeldib mulle filmi vaatamine.",
+  "example_en": "In winter I like watching films."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "jalutamine",
+  "en": "walking (for pleasure)",
+  "pos": "noun",
+  "forms": "jalutamine, jalutamise, jalutamist",
+  "example": "Mulle meeldib sügisel pargis jalutamine.",
+  "example_en": "I like walking in the park in autumn."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "jooksmine",
+  "en": "running",
+  "pos": "noun",
+  "forms": "jooksmine, jooksmise, jooksmist",
+  "example": "Mulle meeldib jooksmine ja ujumine.",
+  "example_en": "I like running and swimming."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "joomine",
+  "en": "drinking",
+  "pos": "noun",
+  "forms": "joomine, joomise, joomist",
+  "example": "Mulle üldse ei meeldi joomine.",
+  "example_en": "I don't like drinking at all."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "joonistamine",
+  "en": "drawing",
+  "pos": "noun",
+  "forms": "joonistamine, joonistamise, joonistamist",
+  "example": "Talvel meeldib mulle joonistamine.",
+  "example_en": "In winter I like drawing."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "lugemine",
+  "en": "reading",
+  "pos": "noun",
+  "forms": "lugemine, lugemise, lugemist",
+  "example": "Suvel meeldib mulle rannas lugemine.",
+  "example_en": "In summer I like reading on the beach."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "päevitamine",
+  "en": "sunbathing",
+  "pos": "noun",
+  "forms": "päevitamine, päevitamise, päevitamist",
+  "example": "Suvel meeldib mulle rannas päevitamine.",
+  "example_en": "In summer I like sunbathing on the beach."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "rattaga sõitmine",
+  "en": "cycling",
+  "pos": "noun",
+  "forms": "sõitmine, sõitmise, sõitmist",
+  "example": "Rattaga sõitmine mulle väga ei meeldi.",
+  "example_en": "I don't really like cycling."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "reisimine",
+  "en": "travelling",
+  "pos": "noun",
+  "forms": "reisimine, reisimise, reisimist",
+  "example": "Reisimine mulle ei meeldi.",
+  "example_en": "I don't like travelling."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "söömine",
+  "en": "eating",
+  "pos": "noun",
+  "forms": "söömine, söömise, söömist",
+  "example": "Talvel meeldib mulle söömine.",
+  "example_en": "In winter I like eating."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "suitsetamine",
+  "en": "smoking",
+  "pos": "noun",
+  "forms": "suitsetamine, suitsetamise, suitsetamist",
+  "example": "Suitsetamine mulle üldse ei meeldi.",
+  "example_en": "I don't like smoking at all."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "suusatamine",
+  "en": "skiing",
+  "pos": "noun",
+  "forms": "suusatamine, suusatamise, suusatamist",
+  "example": "Talvel meeldib mulle suusatamine.",
+  "example_en": "In winter I like skiing."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "tantsimine",
+  "en": "dancing",
+  "pos": "noun",
+  "forms": "tantsimine, tantsimise, tantsimist",
+  "example": "Tantsimine meeldib mulle ka!",
+  "example_en": "I like dancing too!"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "uisutamine",
+  "en": "ice skating",
+  "pos": "noun",
+  "forms": "uisutamine, uisutamise, uisutamist",
+  "example": "Talvel meeldib mulle uisutamine.",
+  "example_en": "In winter I like ice skating."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "ujumine",
+  "en": "swimming",
+  "pos": "noun",
+  "forms": "ujumine, ujumise, ujumist",
+  "example": "Mulle meeldib ujumine.",
+  "example_en": "I like swimming."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "šoppamine",
+  "en": "shopping",
+  "pos": "noun",
+  "forms": "šoppamine, šoppamise, šoppamist",
+  "example": "Mulle meeldib šoppamine.",
+  "example_en": "I like shopping."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "mängimine",
+  "en": "playing",
+  "pos": "noun",
+  "forms": "mängimine, mängimise, mängimist",
+  "example": "Mulle meeldib piljardi mängimine.",
+  "example_en": "I like playing billiards."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "istumine",
+  "en": "sitting",
+  "pos": "noun",
+  "forms": "istumine, istumise, istumist",
+  "example": "Mulle meeldib pubis istumine.",
+  "example_en": "I like sitting in the pub."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "laulmine",
+  "en": "singing",
+  "pos": "noun",
+  "forms": "laulmine, laulmise, laulmist",
+  "example": "Mulle meeldib laulmine.",
+  "example_en": "I like singing."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "päevitama",
+  "en": "to sunbathe",
+  "pos": "verb",
+  "forms": "päevitama, päevitada, päevitan",
+  "example": "Suvel ma päevitan rannas.",
+  "example_en": "In summer I sunbathe on the beach."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "suusatama",
+  "en": "to ski",
+  "pos": "verb",
+  "forms": "suusatama, suusatada, suusatan",
+  "example": "Talvel ma suusatan.",
+  "example_en": "In winter I ski."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "uisutama",
+  "en": "to ice skate",
+  "pos": "verb",
+  "forms": "uisutama, uisutada, uisutan",
+  "example": "Talvel ma uisutan.",
+  "example_en": "In winter I skate."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "jooksma",
+  "en": "to run",
+  "pos": "verb",
+  "forms": "jooksma, joosta, jooksen",
+  "example": "Ma jooksen metsas.",
+  "example_en": "I run in the forest."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "šoppama",
+  "en": "to shop",
+  "pos": "verb",
+  "forms": "šoppama, šopata, šoppan",
+  "example": "Ma šoppan harva.",
+  "example_en": "I rarely go shopping."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin jalutamas",
+  "en": "I go walking",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin tihti linnas jalutamas.",
+  "example_en": "I often go walking in town."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin ujumas",
+  "en": "I go swimming",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin talvel ujumas.",
+  "example_en": "I go swimming in winter."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin tantsimas",
+  "en": "I go dancing",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin öösiti tantsimas.",
+  "example_en": "I go dancing at night."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin söömas",
+  "en": "I go (out) to eat",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin iga päev kolleegidega lõunat söömas.",
+  "example_en": "Every day I go to have lunch with colleagues."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin šoppamas",
+  "en": "I go shopping",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin harva šoppamas.",
+  "example_en": "I rarely go shopping."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin piljardit mängimas",
+  "en": "I go to play billiards",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin reedeti piljardit mängimas.",
+  "example_en": "I go to play billiards on Fridays."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin pubis istumas",
+  "en": "I go to sit in the pub",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin mõnikord pubis istumas.",
+  "example_en": "Sometimes I go and sit in the pub."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin jooksmas",
+  "en": "I go running",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin iga nädal jooksmas.",
+  "example_en": "I go running every week."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin laulmas",
+  "en": "I go singing",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin karaokebaaris laulmas.",
+  "example_en": "I go singing in a karaoke bar."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin tööl / koolis / poes",
+  "en": "I go to work / school / the shop (regularly)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin tööl esmaspäevast reedeni.",
+  "example_en": "I go to work from Monday to Friday."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin trennis",
+  "en": "I go to training / the gym",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin kolmapäeval trennis.",
+  "example_en": "I go to training on Wednesday."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin peol",
+  "en": "I go to a party",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin laupäeval peol.",
+  "example_en": "I go to a party on Saturday."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "käin eesti keele kursusel",
+  "en": "I attend an Estonian course",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin kaks korda nädalas eesti keele kursusel.",
+  "example_en": "I attend an Estonian course twice a week."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "trenn",
+  "en": "training, workout",
+  "pos": "noun",
+  "forms": "trenn, trenni, trenni",
+  "example": "Ma lähen õhtul trenni.",
+  "example_en": "I'm going to training in the evening."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "kursus",
+  "en": "course",
+  "pos": "noun",
+  "forms": "kursus, kursuse, kursust",
+  "example": "Eesti keele kursus algab kell kuus.",
+  "example_en": "The Estonian course starts at six."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "pidu",
+  "en": "party",
+  "pos": "noun",
+  "forms": "pidu, peo, pidu",
+  "example": "Ma olin eile peol.",
+  "example_en": "I was at a party yesterday."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "pubi",
+  "en": "pub",
+  "pos": "noun",
+  "forms": "pubi, pubi, pubi",
+  "example": "Me käime pubis õlut joomas.",
+  "example_en": "We go to the pub to drink beer."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "piljard",
+  "en": "billiards",
+  "pos": "noun",
+  "forms": "piljard, piljardi, piljardit",
+  "example": "Kas sa mängid piljardit?",
+  "example_en": "Do you play billiards?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "karaokebaar",
+  "en": "karaoke bar",
+  "pos": "noun",
+  "forms": "karaokebaar, karaokebaari, karaokebaari",
+  "example": "Kes käib karaokebaaris laulmas?",
+  "example_en": "Who goes singing in a karaoke bar?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "õlu",
+  "en": "beer",
+  "pos": "noun",
+  "forms": "õlu, õlle, õlut",
+  "example": "Kes käib pubis õlut joomas?",
+  "example_en": "Who goes to the pub to drink beer?"
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "rand",
+  "en": "beach",
+  "pos": "noun",
+  "forms": "rand, ranna, randa",
+  "example": "Suvel meeldib mulle rannas päevitamine.",
+  "example_en": "In summer I like sunbathing on the beach."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "park",
+  "en": "park",
+  "pos": "noun",
+  "forms": "park, pargi, parki",
+  "example": "Mulle meeldib pargis jalutamine.",
+  "example_en": "I like walking in the park."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "puu",
+  "en": "tree",
+  "pos": "noun",
+  "forms": "puu, puu, puud",
+  "example": "Puud on sügisel nii ilusad.",
+  "example_en": "The trees are so beautiful in autumn."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "kodus olla",
+  "en": "to be at home",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mulle meeldib kodus olla.",
+  "example_en": "I like being at home."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "iga nädal",
+  "en": "every week",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma käin iga nädal jooksmas.",
+  "example_en": "I go running every week."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "öösiti",
+  "en": "at night (regularly)",
+  "pos": "adv",
+  "forms": "",
+  "example": "Ta käib öösiti tantsimas.",
+  "example_en": "She goes dancing at night."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "harva",
+  "en": "rarely",
+  "pos": "adv",
+  "forms": "",
+  "example": "Ma käin harva šoppamas.",
+  "example_en": "I rarely go shopping."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "mõnikord",
+  "en": "sometimes",
+  "pos": "adv",
+  "forms": "",
+  "example": "Mõnikord käin piljardit mängimas.",
+  "example_en": "Sometimes I go to play billiards."
+ },
+ {
+  "lesson": 17,
+  "topic": "Hobbies",
+  "et": "tihti",
+  "en": "often",
+  "pos": "adv",
+  "forms": "",
+  "example": "Ma käin tihti linnas jalutamas.",
+  "example_en": "I often go for walks in town."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "maksin",
+  "en": "I paid (past tense)",
+  "pos": "verb",
+  "forms": "maksma, maksta, maksan",
+  "example": "Ma maksin sularahas.",
+  "example_en": "I paid in cash."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "kirjutasin",
+  "en": "I wrote (past tense)",
+  "pos": "verb",
+  "forms": "kirjutama, kirjutada, kirjutan",
+  "example": "Ma kirjutasin luuletusi.",
+  "example_en": "I wrote poems."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "läksin",
+  "en": "I went (past tense)",
+  "pos": "verb",
+  "forms": "minema, minna, lähen",
+  "example": "Ma läksin lasteaeda.",
+  "example_en": "I went to the kindergarten."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "käisin",
+  "en": "I went (and came back), I visited (past tense)",
+  "pos": "verb",
+  "forms": "käima, käia, käin",
+  "example": "Ma käisin poes.",
+  "example_en": "I went to the shop."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "laulsin",
+  "en": "I sang (past tense)",
+  "pos": "verb",
+  "forms": "laulma, laulda, laulan",
+  "example": "Ma laulsin sünnipäevalaulu.",
+  "example_en": "I sang the birthday song."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "ärkasin",
+  "en": "I woke up (past tense)",
+  "pos": "verb",
+  "forms": "ärkama, ärgata, ärkan",
+  "example": "Ma ärkasin kell seitse.",
+  "example_en": "I woke up at seven."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "helistasin",
+  "en": "I called (past tense)",
+  "pos": "verb",
+  "forms": "helistama, helistada, helistan",
+  "example": "Ma helistasin sõbrale.",
+  "example_en": "I called a friend."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "istusin",
+  "en": "I sat (past tense)",
+  "pos": "verb",
+  "forms": "istuma, istuda, istun",
+  "example": "Ma istusin Facebookis.",
+  "example_en": "I sat on Facebook."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "sõin",
+  "en": "I ate (past tense)",
+  "pos": "verb",
+  "forms": "sööma, süüa, söön",
+  "example": "Ma sõin lõunat.",
+  "example_en": "I ate lunch."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "koristasin",
+  "en": "I cleaned (past tense)",
+  "pos": "verb",
+  "forms": "koristama, koristada, koristan",
+  "example": "Ma koristasin kööki.",
+  "example_en": "I cleaned the kitchen."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "jõin",
+  "en": "I drank (past tense)",
+  "pos": "verb",
+  "forms": "jooma, juua, joon",
+  "example": "Ma jõin õlut.",
+  "example_en": "I drank beer."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "magasin",
+  "en": "I slept (past tense)",
+  "pos": "verb",
+  "forms": "magama, magada, magan",
+  "example": "Ma magasin päeval.",
+  "example_en": "I slept in the daytime."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "lugesin",
+  "en": "I read (past tense)",
+  "pos": "verb",
+  "forms": "lugema, lugeda, loen",
+  "example": "Ma lugesin uudiseid.",
+  "example_en": "I read the news."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "jalutasin",
+  "en": "I walked (past tense)",
+  "pos": "verb",
+  "forms": "jalutama, jalutada, jalutan",
+  "example": "Ma jalutasin koeraga.",
+  "example_en": "I walked with the dog."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "kuulasin",
+  "en": "I listened (past tense)",
+  "pos": "verb",
+  "forms": "kuulama, kuulata, kuulan",
+  "example": "Ma kuulasin raadiot.",
+  "example_en": "I listened to the radio."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "tõusin üles",
+  "en": "I got up (past tense)",
+  "pos": "verb",
+  "forms": "tõusma, tõusta, tõusen",
+  "example": "Ma tõusin üles kell kümme.",
+  "example_en": "I got up at ten."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "pesin",
+  "en": "I washed (past tense)",
+  "pos": "verb",
+  "forms": "pesema, pesta, pesen",
+  "example": "Ma pesin hambaid.",
+  "example_en": "I brushed my teeth."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "rääkisin",
+  "en": "I spoke, talked (past tense)",
+  "pos": "verb",
+  "forms": "rääkima, rääkida, räägin",
+  "example": "Ma rääkisin emaga.",
+  "example_en": "I talked with my mother."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "mängisin",
+  "en": "I played (past tense)",
+  "pos": "verb",
+  "forms": "mängima, mängida, mängin",
+  "example": "Ma mängisin kitarri.",
+  "example_en": "I played the guitar."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "vaatasin",
+  "en": "I watched, looked (past tense)",
+  "pos": "verb",
+  "forms": "vaatama, vaadata, vaatan",
+  "example": "Ma vaatasin televiisorit.",
+  "example_en": "I watched television."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "töötasin",
+  "en": "I worked (past tense)",
+  "pos": "verb",
+  "forms": "töötama, töötada, töötan",
+  "example": "Ma töötasin esmaspäeval.",
+  "example_en": "I worked on Monday."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "triikisin",
+  "en": "I ironed (past tense)",
+  "pos": "verb",
+  "forms": "triikima, triikida, triigin",
+  "example": "Ma triikisin T-särki.",
+  "example_en": "I ironed a T-shirt."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "ostsin",
+  "en": "I bought (past tense)",
+  "pos": "verb",
+  "forms": "ostma, osta, ostan",
+  "example": "Ma ostsin auto.",
+  "example_en": "I bought a car."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "õppisin",
+  "en": "I studied, learned (past tense)",
+  "pos": "verb",
+  "forms": "õppima, õppida, õpin",
+  "example": "Ma õppisin inglise keelt.",
+  "example_en": "I studied English."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "parandasin",
+  "en": "I repaired (past tense)",
+  "pos": "verb",
+  "forms": "parandama, parandada, parandan",
+  "example": "Ma parandasin arvutit.",
+  "example_en": "I was repairing the computer."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "sõitsin",
+  "en": "I rode, drove, travelled (past tense)",
+  "pos": "verb",
+  "forms": "sõitma, sõita, sõidan",
+  "example": "Ma sõitsin bussiga.",
+  "example_en": "I went by bus."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "panin riidesse",
+  "en": "I got dressed (past tense)",
+  "pos": "verb",
+  "forms": "panema, panna, panen",
+  "example": "Ma panin riidesse.",
+  "example_en": "I got dressed."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "tegin",
+  "en": "I did, made (past tense)",
+  "pos": "verb",
+  "forms": "tegema, teha, teen",
+  "example": "Ma tegin süüa.",
+  "example_en": "I made food / cooked."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "tantsisin",
+  "en": "I danced (past tense)",
+  "pos": "verb",
+  "forms": "tantsima, tantsida, tantsin",
+  "example": "Ma tantsisin valssi.",
+  "example_en": "I danced a waltz."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "olin",
+  "en": "I was (past tense)",
+  "pos": "verb",
+  "forms": "olema, olla, olen",
+  "example": "Eile ma olin trennis.",
+  "example_en": "Yesterday I was at training."
+ },
+ {
+  "lesson": 18,
+  "topic": "Simple past",
+  "et": "nägin",
+  "en": "I saw (past tense)",
+  "pos": "verb",
+  "forms": "nägema, näha, näen",
+  "example": "Ma nägin eile kolleegi.",
+  "example_en": "I saw a colleague yesterday."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "üleeile",
+  "en": "the day before yesterday",
+  "pos": "adv",
+  "forms": "",
+  "example": "Üleeile ma olin raamatukogus.",
+  "example_en": "The day before yesterday I was at the library."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "eile",
+  "en": "yesterday",
+  "pos": "adv",
+  "forms": "",
+  "example": "Mida sa eile tegid?",
+  "example_en": "What did you do yesterday?"
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "täna",
+  "en": "today",
+  "pos": "adv",
+  "forms": "",
+  "example": "Täna ma olen eesti keele tunnis.",
+  "example_en": "Today I am in the Estonian lesson."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "homme",
+  "en": "tomorrow",
+  "pos": "adv",
+  "forms": "",
+  "example": "Homme ma olen ülikoolis.",
+  "example_en": "Tomorrow I'll be at the university."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "Mida sa eile tegid?",
+  "en": "What did you do yesterday?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "Kus sa eile olid?",
+  "en": "Where were you yesterday?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "Ma ei mäleta.",
+  "en": "I don't remember.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mitu tundi sa eile magasid? – Ma ei mäleta.",
+  "example_en": "How many hours did you sleep yesterday? – I don't remember."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "Jah, käisin küll.",
+  "en": "Yes, I did go.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa käisid eile toidupoes? – Jah, käisin küll.",
+  "example_en": "Did you go to the grocery store yesterday? – Yes, I did."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "sularahas",
+  "en": "in cash",
+  "pos": "adv",
+  "forms": "",
+  "example": "Ma maksin sularahas.",
+  "example_en": "I paid in cash."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "kaardiga",
+  "en": "by card",
+  "pos": "adv",
+  "forms": "",
+  "example": "Kas sa maksid eile kaardiga?",
+  "example_en": "Did you pay by card yesterday?"
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "luuletus",
+  "en": "poem",
+  "pos": "noun",
+  "forms": "luuletus, luuletuse, luuletust",
+  "example": "Ma kirjutasin luuletusi.",
+  "example_en": "I wrote poems."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "lasteaed",
+  "en": "kindergarten",
+  "pos": "noun",
+  "forms": "lasteaed, lasteaia, lasteaeda",
+  "example": "Laps läks lasteaeda.",
+  "example_en": "The child went to kindergarten."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "sünnipäevalaul",
+  "en": "birthday song",
+  "pos": "noun",
+  "forms": "sünnipäevalaul, sünnipäevalaulu, sünnipäevalaulu",
+  "example": "Me laulsime sünnipäevalaulu.",
+  "example_en": "We sang the birthday song."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "uudised",
+  "en": "news (plural)",
+  "pos": "noun",
+  "forms": "uudised, uudiste, uudiseid",
+  "example": "Kas sa lugesid eile uudiseid?",
+  "example_en": "Did you read the news yesterday?"
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "raadio",
+  "en": "radio",
+  "pos": "noun",
+  "forms": "raadio, raadio, raadiot",
+  "example": "Ma kuulasin raadiot.",
+  "example_en": "I listened to the radio."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "hümn",
+  "en": "anthem",
+  "pos": "noun",
+  "forms": "hümn, hümni, hümni",
+  "example": "Me laulsime hümni.",
+  "example_en": "We sang the anthem."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "pesu",
+  "en": "laundry",
+  "pos": "noun",
+  "forms": "pesu, pesu, pesu",
+  "example": "Ma pesin eile pesu.",
+  "example_en": "I did the laundry yesterday."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "hammas",
+  "en": "tooth",
+  "pos": "noun",
+  "forms": "hammas, hamba, hammast",
+  "example": "Ma pesin hambaid.",
+  "example_en": "I brushed my teeth."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "kitarr",
+  "en": "guitar",
+  "pos": "noun",
+  "forms": "kitarr, kitarri, kitarri",
+  "example": "Ta mängis kitarri.",
+  "example_en": "He played the guitar."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "valss",
+  "en": "waltz",
+  "pos": "noun",
+  "forms": "valss, valsi, valssi",
+  "example": "Me tantsisime valssi.",
+  "example_en": "We danced a waltz."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "televiisor",
+  "en": "television",
+  "pos": "noun",
+  "forms": "televiisor, televiisori, televiisorit",
+  "example": "Ta vaatas televiisorit.",
+  "example_en": "She watched television."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "arvuti",
+  "en": "computer",
+  "pos": "noun",
+  "forms": "arvuti, arvuti, arvutit",
+  "example": "Ma istun arvutis.",
+  "example_en": "I'm sitting at the computer."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "e-kiri",
+  "en": "e-mail",
+  "pos": "noun",
+  "forms": "e-kiri, e-kirja, e-kirja",
+  "example": "Ma kirjutasin e-kirju.",
+  "example_en": "I wrote e-mails."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "toidupood",
+  "en": "grocery store",
+  "pos": "noun",
+  "forms": "toidupood, toidupoe, toidupoodi",
+  "example": "Kas sa käisid eile toidupoes?",
+  "example_en": "Did you go to the grocery store yesterday?"
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "lõunat sööma",
+  "en": "to have lunch",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma sõin kell üks lõunat.",
+  "example_en": "I had lunch at one o'clock."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "hommikust sööma",
+  "en": "to have breakfast",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mis kell sa täna hommikust sõid?",
+  "example_en": "What time did you have breakfast today?"
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "süüa tegema",
+  "en": "to cook, make food",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa tegid eile süüa?",
+  "example_en": "Did you cook yesterday?"
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "süüa ostma",
+  "en": "to buy food",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa ostsid eile süüa? Mida sa ostsid?",
+  "example_en": "Did you buy food yesterday? What did you buy?"
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "riidesse panema",
+  "en": "to get dressed",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma panen riidesse.",
+  "example_en": "I get dressed."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "üles tõusma",
+  "en": "to get up",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma tõusen üles kell kaheksa.",
+  "example_en": "I get up at eight."
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "istuma arvutis / Facebookis",
+  "en": "to sit at the computer / on Facebook",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mitu tundi sa eile Facebookis istusid?",
+  "example_en": "How many hours did you spend on Facebook yesterday?"
+ },
+ {
+  "lesson": 18,
+  "topic": "Daily activities",
+  "et": "Mitu tundi?",
+  "en": "How many hours?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mitu tundi sa eile öösel magasid?",
+  "example_en": "How many hours did you sleep last night?"
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "liiklusvahend",
+  "en": "means of transport",
+  "pos": "noun",
+  "forms": "liiklusvahend, liiklusvahendi, liiklusvahendit",
+  "example": "Mis on sinu lemmik liiklusvahend?",
+  "example_en": "What is your favourite means of transport?"
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "auto",
+  "en": "car (by car: autoga)",
+  "pos": "noun",
+  "forms": "auto, auto, autot",
+  "example": "Lähen tööle autoga.",
+  "example_en": "I go to work by car."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "takso",
+  "en": "taxi (by taxi: taksoga)",
+  "pos": "noun",
+  "forms": "takso, takso, taksot",
+  "example": "Lähen tööle taksoga.",
+  "example_en": "I go to work by taxi."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "tramm",
+  "en": "tram (by tram: trammiga)",
+  "pos": "noun",
+  "forms": "tramm, trammi, trammi",
+  "example": "Lähen tööle trammiga.",
+  "example_en": "I go to work by tram."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "troll",
+  "en": "trolleybus (by trolleybus: trolliga)",
+  "pos": "noun",
+  "forms": "troll, trolli, trolli",
+  "example": "Lähen tööle trolliga.",
+  "example_en": "I go to work by trolleybus."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "rong",
+  "en": "train (by train: rongiga)",
+  "pos": "noun",
+  "forms": "rong, rongi, rongi",
+  "example": "Lähen tööle rongiga.",
+  "example_en": "I go to work by train."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "buss",
+  "en": "bus (by bus: bussiga)",
+  "pos": "noun",
+  "forms": "buss, bussi, bussi",
+  "example": "Lähen tööle bussiga.",
+  "example_en": "I go to work by bus."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "praam",
+  "en": "ferry (by ferry: praamiga)",
+  "pos": "noun",
+  "forms": "praam, praami, praami",
+  "example": "Lähen tööle praamiga.",
+  "example_en": "I go to work by ferry."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "lennuk",
+  "en": "plane (by plane: lennukiga)",
+  "pos": "noun",
+  "forms": "lennuk, lennuki, lennukit",
+  "example": "Lähen tööle lennukiga.",
+  "example_en": "I go to work by plane."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "helikopter",
+  "en": "helicopter (by helicopter: helikopteriga)",
+  "pos": "noun",
+  "forms": "helikopter, helikopteri, helikopterit",
+  "example": "Lähen tööle helikopteriga.",
+  "example_en": "I go to work by helicopter."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "laev",
+  "en": "ship (by ship: laevaga)",
+  "pos": "noun",
+  "forms": "laev, laeva, laeva",
+  "example": "Lähen tööle laevaga.",
+  "example_en": "I go to work by ship."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "hobune",
+  "en": "horse (by horse: hobusega)",
+  "pos": "noun",
+  "forms": "hobune, hobuse, hobust",
+  "example": "Lähen tööle hobusega.",
+  "example_en": "I go to work by horse."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "jalgratas",
+  "en": "bicycle (by bicycle: jalgrattaga)",
+  "pos": "noun",
+  "forms": "jalgratas, jalgratta, jalgratast",
+  "example": "Lähen tööle jalgrattaga.",
+  "example_en": "I go to work by bicycle."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "jalgsi / jala",
+  "en": "on foot",
+  "pos": "adv",
+  "forms": "",
+  "example": "Tavaliselt tulen jalgsi, mõnikord tulen bussiga.",
+  "example_en": "Usually I come on foot, sometimes by bus."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "Millega?",
+  "en": "By what? With what?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Millega sa tööle lähed?",
+  "example_en": "How (by what) do you go to work?"
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "Kuidas sa tööle lähed?",
+  "en": "How do you get to work?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "tavaliselt",
+  "en": "usually",
+  "pos": "adv",
+  "forms": "",
+  "example": "Tavaliselt lähen tööle bussiga.",
+  "example_en": "Usually I go to work by bus."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "külla minema",
+  "en": "to go visiting",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kuidas sa emale külla lähed?",
+  "example_en": "How do you go to visit your mother?"
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "lennujaam",
+  "en": "airport",
+  "pos": "noun",
+  "forms": "lennujaam, lennujaama, lennujaama",
+  "example": "Kuidas sa Tallinna lennujaama lähed?",
+  "example_en": "How do you get to Tallinn airport?"
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "bussijaam",
+  "en": "bus station",
+  "pos": "noun",
+  "forms": "bussijaam, bussijaama, bussijaama",
+  "example": "Buss väljub bussijaamast kell kaks.",
+  "example_en": "The bus leaves the bus station at two."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "bussipeatus",
+  "en": "bus stop",
+  "pos": "noun",
+  "forms": "bussipeatus, bussipeatuse, bussipeatust",
+  "example": "Ma läksin bussipeatusesse.",
+  "example_en": "I went to the bus stop."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "pilet",
+  "en": "ticket",
+  "pos": "noun",
+  "forms": "pilet, pileti, piletit",
+  "example": "Osta pilet internetist!",
+  "example_en": "Buy a ticket online!"
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "sõiduplaan",
+  "en": "timetable",
+  "pos": "noun",
+  "forms": "sõiduplaan, sõiduplaani, sõiduplaani",
+  "example": "Vaata bussi sõiduplaani!",
+  "example_en": "Look at the bus timetable!"
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "üks suund / edasi-tagasi",
+  "en": "one way / return (ticket)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Palun üks pilet Tartusse, edasi-tagasi.",
+  "example_en": "One return ticket to Tartu, please."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "reis",
+  "en": "trip, journey",
+  "pos": "noun",
+  "forms": "reis, reisi, reisi",
+  "example": "Reis kestab kaks ja pool tundi.",
+  "example_en": "The trip takes two and a half hours."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "väljuma",
+  "en": "to depart, leave",
+  "pos": "verb",
+  "forms": "väljuma, väljuda, väljun",
+  "example": "Buss väljub Tallinnast kell pool kaks.",
+  "example_en": "The bus leaves Tallinn at half past one."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "jõudma",
+  "en": "to arrive, reach",
+  "pos": "verb",
+  "forms": "jõudma, jõuda, jõuan",
+  "example": "Buss jõuab Tartusse kella neljaks.",
+  "example_en": "The bus arrives in Tartu by four o'clock."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "kestma",
+  "en": "to last",
+  "pos": "verb",
+  "forms": "kestma, kesta, kestan",
+  "example": "Reis kestab kolm tundi.",
+  "example_en": "The trip lasts three hours."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "Kui kaua reis kestab?",
+  "en": "How long does the trip take?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "Mis kellaks?",
+  "en": "By what time?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mis kellaks buss Tartusse jõuab?",
+  "example_en": "By what time does the bus get to Tartu?"
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "kella neljaks",
+  "en": "by four o'clock",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Rong jõuab Tartusse kella neljaks.",
+  "example_en": "The train arrives in Tartu by four."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "pool kaks",
+  "en": "half past one (1.30)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Buss väljub kell pool kaks.",
+  "example_en": "The bus leaves at half past one."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "Kas sa oled käinud …?",
+  "en": "Have you been to …?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa oled käinud Saaremaal? – Jah, olen küll.",
+  "example_en": "Have you been to Saaremaa? – Yes, I have."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "tühistatud",
+  "en": "cancelled",
+  "pos": "adj",
+  "forms": "",
+  "example": "Reis on tühistatud.",
+  "example_en": "The trip is cancelled."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "torm",
+  "en": "storm",
+  "pos": "noun",
+  "forms": "torm, tormi, tormi",
+  "example": "On torm. Reis on tühistatud.",
+  "example_en": "There's a storm. The trip is cancelled."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "lumetorm",
+  "en": "snowstorm",
+  "pos": "noun",
+  "forms": "lumetorm, lumetormi, lumetormi",
+  "example": "On lumetorm.",
+  "example_en": "There's a snowstorm."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "udu",
+  "en": "fog",
+  "pos": "noun",
+  "forms": "udu, udu, udu",
+  "example": "On udu. Reis on tühistatud.",
+  "example_en": "It's foggy. The trip is cancelled."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "äike",
+  "en": "thunderstorm",
+  "pos": "noun",
+  "forms": "äike, äikese, äikest",
+  "example": "On äike.",
+  "example_en": "There's a thunderstorm."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "lörts",
+  "en": "sleet",
+  "pos": "noun",
+  "forms": "lörts, lörtsi, lörtsi",
+  "example": "Sajab lörtsi.",
+  "example_en": "It's sleeting."
+ },
+ {
+  "lesson": 19,
+  "topic": "Transport",
+  "et": "Puhub tugev tuul.",
+  "en": "A strong wind is blowing.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Euroopa",
+  "en": "Europe (from: Euroopast; to: Euroopasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan Euroopast Aasiasse.",
+  "example_en": "I travel from Europe to Asia."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Aasia",
+  "en": "Asia (from: Aasiast; to: Aasiasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Aafrika",
+  "en": "Africa (from: Aafrikast; to: Aafrikasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan Aafrikast Antarktikasse.",
+  "example_en": "I travel from Africa to Antarctica."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Austraalia",
+  "en": "Australia (from: Austraaliast; to: Austraaliasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan Eestist Austraaliasse.",
+  "example_en": "I travel from Estonia to Australia."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Ameerika",
+  "en": "America (from: Ameerikast; to: Ameerikasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Põhja-Ameerika",
+  "en": "North America (from: Põhja-Ameerikast; to: Põhja-Ameerikasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Lõuna-Ameerika",
+  "en": "South America (from: Lõuna-Ameerikast; to: Lõuna-Ameerikasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Antarktika",
+  "en": "Antarctica (from: Antarktikast; to: Antarktikasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Saksamaa",
+  "en": "Germany (from: Saksamaalt; to: Saksamaale)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan Saksamaalt Venemaale.",
+  "example_en": "I travel from Germany to Russia."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Prantsusmaa",
+  "en": "France (from: Prantsusmaalt; to: Prantsusmaale)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Venemaa",
+  "en": "Russia (from: Venemaalt; to: Venemaale)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Inglismaa",
+  "en": "England (from: Inglismaalt; to: Inglismaale)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Holland",
+  "en": "the Netherlands (from: Hollandist; to: Hollandisse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan lennukiga Hollandist Jaapanisse.",
+  "example_en": "I fly from the Netherlands to Japan."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Jaapan",
+  "en": "Japan (from: Jaapanist; to: Jaapanisse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Iisrael",
+  "en": "Israel (from: Iisraelist; to: Iisraelisse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Pakistan",
+  "en": "Pakistan (from: Pakistanist; to: Pakistani)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan lennukiga Pakistani.",
+  "example_en": "I fly to Pakistan."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Eesti",
+  "en": "Estonia (from: Eestist; to: Eestisse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Soome",
+  "en": "Finland (from: Soomest; to: Soome)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan laevaga Soome.",
+  "example_en": "I go to Finland by ship."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Rootsi",
+  "en": "Sweden (from: Rootsist; to: Rootsi)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Läti",
+  "en": "Latvia (from: Lätist; to: Lätti)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan bussiga Lätti.",
+  "example_en": "I go to Latvia by bus."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Leedu",
+  "en": "Lithuania (from: Leedust; to: Leetu)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan autoga Leetu.",
+  "example_en": "I drive to Lithuania."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Hispaania",
+  "en": "Spain (from: Hispaaniast; to: Hispaaniasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Tallinn",
+  "en": "Tallinn (from: Tallinnast; to: Tallinnasse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Sõidan rongiga Tallinnast Tartusse.",
+  "example_en": "I go by train from Tallinn to Tartu."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Tartu",
+  "en": "Tartu (from: Tartust; to: Tartusse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Kust? / Kuhu?",
+  "en": "From where? / Where to?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kust kuhu sa sõidad? – Tallinnast Tartusse.",
+  "example_en": "From where to where are you travelling? – From Tallinn to Tartu."
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Saaremaa",
+  "en": "Saaremaa island (on: Saaremaal; to: Saaremaale)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Kuidas sa Saaremaale lähed?",
+  "example_en": "How do you get to Saaremaa?"
+ },
+ {
+  "lesson": 19,
+  "topic": "Countries: from / to",
+  "et": "Helsingi",
+  "en": "Helsinki (to: Helsingisse)",
+  "pos": "noun",
+  "forms": "",
+  "example": "Kuidas sa Helsingisse lähed?",
+  "example_en": "How do you get to Helsinki?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei helistanud",
+  "en": "didn't call (past negative)",
+  "pos": "verb",
+  "forms": "helistama, helistada, helistan",
+  "example": "Ma ei helistanud eile emale.",
+  "example_en": "I didn't call my mother yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei istunud",
+  "en": "didn't sit (past negative)",
+  "pos": "verb",
+  "forms": "istuma, istuda, istun",
+  "example": "Ma ei istunud eile pubis.",
+  "example_en": "I didn't sit in the pub yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei jalutanud",
+  "en": "didn't walk (past negative)",
+  "pos": "verb",
+  "forms": "jalutama, jalutada, jalutan",
+  "example": "Ma ei jalutanud eile emaga.",
+  "example_en": "I didn't go for a walk with my mother yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei joonud",
+  "en": "didn't drink (past negative)",
+  "pos": "verb",
+  "forms": "jooma, juua, joon",
+  "example": "Ma ei joonud eile kohvi.",
+  "example_en": "I didn't drink coffee yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei kirjutanud",
+  "en": "didn't write (past negative)",
+  "pos": "verb",
+  "forms": "kirjutama, kirjutada, kirjutan",
+  "example": "Ma ei kirjutanud eile e-kirju.",
+  "example_en": "I didn't write e-mails yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei koristanud",
+  "en": "didn't clean (past negative)",
+  "pos": "verb",
+  "forms": "koristama, koristada, koristan",
+  "example": "Ma ei koristanud eile tuba.",
+  "example_en": "I didn't clean the room yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei kuulanud",
+  "en": "didn't listen (past negative)",
+  "pos": "verb",
+  "forms": "kuulama, kuulata, kuulan",
+  "example": "Ma ei kuulanud eile heavy metal'it.",
+  "example_en": "I didn't listen to heavy metal yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei käinud",
+  "en": "didn't go (and come back) (past negative)",
+  "pos": "verb",
+  "forms": "käima, käia, käin",
+  "example": "Ma ei käinud eile kinos.",
+  "example_en": "I didn't go to the cinema yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei laulnud",
+  "en": "didn't sing (past negative)",
+  "pos": "verb",
+  "forms": "laulma, laulda, laulan",
+  "example": "Ma ei laulnud eile hümni.",
+  "example_en": "I didn't sing the anthem yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei lugenud",
+  "en": "didn't read (past negative)",
+  "pos": "verb",
+  "forms": "lugema, lugeda, loen",
+  "example": "Ma ei lugenud eile raamatut.",
+  "example_en": "I didn't read a book yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei läinud",
+  "en": "didn't go (past negative)",
+  "pos": "verb",
+  "forms": "minema, minna, lähen",
+  "example": "Ma ei läinud eile bussipeatusesse.",
+  "example_en": "I didn't go to the bus stop yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei maganud",
+  "en": "didn't sleep (past negative)",
+  "pos": "verb",
+  "forms": "magama, magada, magan",
+  "example": "Ma ei maganud eile öösel.",
+  "example_en": "I didn't sleep last night."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei maksnud",
+  "en": "didn't pay (past negative)",
+  "pos": "verb",
+  "forms": "maksma, maksta, maksan",
+  "example": "Ma ei maksnud eile kaardiga.",
+  "example_en": "I didn't pay by card yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei mänginud",
+  "en": "didn't play (past negative)",
+  "pos": "verb",
+  "forms": "mängima, mängida, mängin",
+  "example": "Ma ei mänginud eile trummi.",
+  "example_en": "I didn't play the drum yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei näinud",
+  "en": "didn't see (past negative)",
+  "pos": "verb",
+  "forms": "nägema, näha, näen",
+  "example": "Ma ei näinud eile sõpra.",
+  "example_en": "I didn't see my friend yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei ostnud",
+  "en": "didn't buy (past negative)",
+  "pos": "verb",
+  "forms": "ostma, osta, ostan",
+  "example": "Ma ei ostnud eile süüa.",
+  "example_en": "I didn't buy food yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei parandanud",
+  "en": "didn't repair (past negative)",
+  "pos": "verb",
+  "forms": "parandama, parandada, parandan",
+  "example": "Ma ei parandanud eile autot.",
+  "example_en": "I didn't repair the car yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei pesnud",
+  "en": "didn't wash (past negative)",
+  "pos": "verb",
+  "forms": "pesema, pesta, pesen",
+  "example": "Ma ei pesnud eile pesu.",
+  "example_en": "I didn't do the laundry yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei rääkinud",
+  "en": "didn't talk (past negative)",
+  "pos": "verb",
+  "forms": "rääkima, rääkida, räägin",
+  "example": "Ma ei rääkinud eile sõbraga.",
+  "example_en": "I didn't talk with my friend yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei sõitnud",
+  "en": "didn't ride / go by (past negative)",
+  "pos": "verb",
+  "forms": "sõitma, sõita, sõidan",
+  "example": "Ma ei sõitnud eile taksoga.",
+  "example_en": "I didn't take a taxi yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei söönud",
+  "en": "didn't eat (past negative)",
+  "pos": "verb",
+  "forms": "sööma, süüa, söön",
+  "example": "Ma ei söönud eile hommikust.",
+  "example_en": "I didn't have breakfast yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei tantsinud",
+  "en": "didn't dance (past negative)",
+  "pos": "verb",
+  "forms": "tantsima, tantsida, tantsin",
+  "example": "Ma ei tantsinud eile tangot.",
+  "example_en": "I didn't dance the tango yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei teinud",
+  "en": "didn't do / make (past negative)",
+  "pos": "verb",
+  "forms": "tegema, teha, teen",
+  "example": "Ma ei teinud eile süüa.",
+  "example_en": "I didn't cook yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei triikinud",
+  "en": "didn't iron (past negative)",
+  "pos": "verb",
+  "forms": "triikima, triikida, triigin",
+  "example": "Ma ei triikinud eile kleiti.",
+  "example_en": "I didn't iron the dress yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei töötanud",
+  "en": "didn't work (past negative)",
+  "pos": "verb",
+  "forms": "töötama, töötada, töötan",
+  "example": "Ma ei töötanud eile.",
+  "example_en": "I didn't work yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei vaadanud",
+  "en": "didn't watch (past negative)",
+  "pos": "verb",
+  "forms": "vaatama, vaadata, vaatan",
+  "example": "Ma ei vaadanud eile filmi.",
+  "example_en": "I didn't watch a film yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei õppinud",
+  "en": "didn't study (past negative)",
+  "pos": "verb",
+  "forms": "õppima, õppida, õpin",
+  "example": "Ma ei õppinud eile eesti keelt.",
+  "example_en": "I didn't study Estonian yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei ärganud",
+  "en": "didn't wake up (past negative)",
+  "pos": "verb",
+  "forms": "ärkama, ärgata, ärkan",
+  "example": "Ma ei ärganud eile kell seitse.",
+  "example_en": "I didn't wake up at seven yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Past tense negative",
+  "et": "ei olnud",
+  "en": "wasn't, weren't (past negative)",
+  "pos": "verb",
+  "forms": "olema, olla, olen",
+  "example": "Ma ei olnud eile kodus.",
+  "example_en": "I wasn't at home yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "Ei, ei töötanud.",
+  "en": "No, I didn't (work).",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa töötasid eile? – Ei, ei töötanud.",
+  "example_en": "Did you work yesterday? – No, I didn't."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "Mida sa eile ei teinud?",
+  "en": "What didn't you do yesterday?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "Kas sa tead, et …?",
+  "en": "Do you know that …?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa tead, et jõuluvana käis eile Eestis?",
+  "example_en": "Do you know that Santa Claus was in Estonia yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "Mis asja?",
+  "en": "What? (surprise, disbelief)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mis asja? Ei käinud Eestis!",
+  "example_en": "What? He wasn't in Estonia!"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "jõuluvana",
+  "en": "Santa Claus, Father Christmas",
+  "pos": "noun",
+  "forms": "jõuluvana, jõuluvana, jõuluvana",
+  "example": "Jõuluvana käis eile Soomes.",
+  "example_en": "Santa Claus was in Finland yesterday."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "loomaaed",
+  "en": "zoo",
+  "pos": "noun",
+  "forms": "loomaaed, loomaaia, loomaaeda",
+  "example": "Kas sa käisid eile loomaaias?",
+  "example_en": "Did you go to the zoo yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "vanalinn",
+  "en": "old town",
+  "pos": "noun",
+  "forms": "vanalinn, vanalinna, vanalinna",
+  "example": "Ta jalutas vanalinnas.",
+  "example_en": "He walked in the old town."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "president",
+  "en": "president",
+  "pos": "noun",
+  "forms": "president, presidendi, presidenti",
+  "example": "Ta helistas Eesti presidendile.",
+  "example_en": "He called the president of Estonia."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "taksojuht",
+  "en": "taxi driver",
+  "pos": "noun",
+  "forms": "taksojuht, taksojuhi, taksojuhti",
+  "example": "Ta helistas taksojuhile.",
+  "example_en": "He called the taxi driver."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "sportauto",
+  "en": "sports car",
+  "pos": "noun",
+  "forms": "sportauto, sportauto, sportautot",
+  "example": "Ta ostis sportauto.",
+  "example_en": "He bought a sports car."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "pudel",
+  "en": "bottle",
+  "pos": "noun",
+  "forms": "pudel, pudeli, pudelit",
+  "example": "Ta jõi kaks pudelit vett.",
+  "example_en": "He drank two bottles of water."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "hamburger",
+  "en": "hamburger",
+  "pos": "noun",
+  "forms": "hamburger, hamburgeri, hamburgerit",
+  "example": "Ta sõi viis hamburgerit.",
+  "example_en": "He ate five hamburgers."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "naaber",
+  "en": "neighbour",
+  "pos": "noun",
+  "forms": "naaber, naabri, naabrit",
+  "example": "Kas sa nägid eile naabrit?",
+  "example_en": "Did you see your neighbour yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "elevant",
+  "en": "elephant",
+  "pos": "noun",
+  "forms": "elevant, elevandi, elevanti",
+  "example": "Kas sa nägid eile elevanti?",
+  "example_en": "Did you see an elephant yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "hapukurk",
+  "en": "pickled cucumber",
+  "pos": "noun",
+  "forms": "hapukurk, hapukurgi, hapukurki",
+  "example": "Kas sa sõid eile hapukurki?",
+  "example_en": "Did you eat pickled cucumber yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "sült",
+  "en": "jellied meat (aspic)",
+  "pos": "noun",
+  "forms": "sült, süldi, sülti",
+  "example": "Kas sa sõid eile sülti?",
+  "example_en": "Did you eat jellied meat yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "konjak",
+  "en": "cognac",
+  "pos": "noun",
+  "forms": "konjak, konjaki, konjakit",
+  "example": "Kas sa jõid eile konjakit?",
+  "example_en": "Did you drink cognac yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "šampus",
+  "en": "champagne (colloquial)",
+  "pos": "noun",
+  "forms": "šampus, šampuse, šampust",
+  "example": "Kas sa jõid eile šampust?",
+  "example_en": "Did you drink champagne yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "lift",
+  "en": "lift, elevator",
+  "pos": "noun",
+  "forms": "lift, lifti, lifti",
+  "example": "Kas sa sõitsid eile liftiga?",
+  "example_en": "Did you take the lift yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "armastuskiri",
+  "en": "love letter",
+  "pos": "noun",
+  "forms": "armastuskiri, armastuskirja, armastuskirja",
+  "example": "Kas sa lugesid eile armastuskirju? – Ei, ei lugenud.",
+  "example_en": "Did you read love letters yesterday? – No, I didn't."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "massaaž",
+  "en": "massage",
+  "pos": "noun",
+  "forms": "massaaž, massaaži, massaaži",
+  "example": "Kas sa käisid eile massaažis?",
+  "example_en": "Did you go for a massage yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "remont",
+  "en": "renovation, repair",
+  "pos": "noun",
+  "forms": "remont, remondi, remonti",
+  "example": "Kas sa tegid eile vannitoas remonti?",
+  "example_en": "Did you do renovation work in the bathroom yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "vannituba",
+  "en": "bathroom",
+  "pos": "noun",
+  "forms": "vannituba, vannitoa, vannituba",
+  "example": "Vannitoas on uus vann.",
+  "example_en": "There is a new bathtub in the bathroom."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "meik",
+  "en": "make-up",
+  "pos": "noun",
+  "forms": "meik, meigi, meiki",
+  "example": "Kas sa tegid eile meiki?",
+  "example_en": "Did you put on make-up yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "lips",
+  "en": "tie",
+  "pos": "noun",
+  "forms": "lips, lipsu, lipsu",
+  "example": "Kas sa triikisid eile lipsu?",
+  "example_en": "Did you iron a tie yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "sokk",
+  "en": "sock",
+  "pos": "noun",
+  "forms": "sokk, soki, sokki",
+  "example": "Kas sa triikisid eile sokki?",
+  "example_en": "Did you iron a sock yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "trumm",
+  "en": "drum",
+  "pos": "noun",
+  "forms": "trumm, trummi, trummi",
+  "example": "Kas sa mängisid eile trummi?",
+  "example_en": "Did you play the drum yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "duši all käima",
+  "en": "to take a shower",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kes käis eile duši all?",
+  "example_en": "Who took a shower yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "vannis käima",
+  "en": "to take a bath",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas Triinu käis vannis?",
+  "example_en": "Did Triinu take a bath?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "trammipeatus",
+  "en": "tram stop",
+  "pos": "noun",
+  "forms": "trammipeatus, trammipeatuse, trammipeatust",
+  "example": "Ta läks trammipeatusesse.",
+  "example_en": "She went to the tram stop."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "õudusfilm",
+  "en": "horror film",
+  "pos": "noun",
+  "forms": "õudusfilm, õudusfilmi, õudusfilmi",
+  "example": "Ta vaatas õudusfilme.",
+  "example_en": "She watched horror films."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "võileib",
+  "en": "sandwich",
+  "pos": "noun",
+  "forms": "võileib, võileiva, võileiba",
+  "example": "Kas Triinu sõi hommikul võileiba?",
+  "example_en": "Did Triinu eat a sandwich in the morning?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "eksam",
+  "en": "exam",
+  "pos": "noun",
+  "forms": "eksam, eksami, eksamit",
+  "example": "Kas sa tegid eile eesti keele eksami?",
+  "example_en": "Did you take the Estonian exam yesterday?"
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "natuke",
+  "en": "a little",
+  "pos": "adv",
+  "forms": "",
+  "example": "Ta istus natuke Instagramis.",
+  "example_en": "She spent a little time on Instagram."
+ },
+ {
+  "lesson": 20,
+  "topic": "Yesterday's events",
+  "et": "klassikaline muusika",
+  "en": "classical music",
+  "pos": "phrase",
+  "forms": "muusika, muusika, muusikat",
+  "example": "Kas sa kuulasid eile klassikalist muusikat?",
+  "example_en": "Did you listen to classical music yesterday?"
+ }
+]

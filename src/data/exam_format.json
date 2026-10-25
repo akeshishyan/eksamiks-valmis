@@ -1,0 +1,161 @@
+{
+  "exam": "Eesti keele A2-taseme eksam (Harno / Haridus- ja Noorteamet)",
+  "sources": {
+    "booklet": "A2 konsultatsioonivihik (A2 exam consultation booklet, 18 pages, PDF fillable version)",
+    "harno_page": "https://harno.ee/eesti-keele-tasemeeksamid",
+    "harno_page_fetched": "2026-10-25",
+    "note": "The booklet itself contains only the practice tasks and the answer key. It does NOT state minutes, points or the pass rule. Those values come from the official Harno A2 page and are marked with source='harno.ee' below. Re-check that page before exam day in case rules changed."
+  },
+  "parts": [
+    {
+      "order": 1,
+      "name_et": "Kirjutamine",
+      "name_en": "Writing",
+      "minutes": 30,
+      "points": 20,
+      "minutes_points_source": "harno.ee (not stated in booklet)",
+      "written_or_oral": "written (first part of the written session)",
+      "task_types": [
+        {
+          "name": "Esimene ülesanne: andmete kirjutamine visiitkaardilt (info ülekanne)",
+          "description_en": "You see a business card (variant A: a person; variant B: an institution) and write a text answering 4 given questions using the card's data. Minimum 25 words. Booklet variant A: 'Kellena ta töötab? Kus ta töötab? Millal ta töötab? Kuidas saab temaga kontakti?'. Variant B: 'Mis asutus see on? Kus see asub? Mida seal teha saab? Kuidas saab kontakti?'",
+          "tip": "Use EVERY piece of data on the card (name, company/salon name, street + house number, floor, city, days, hours, phone/e-mail) in full sentences, and count your words: at least 25. Spell out abbreviations: T, K, N = teisipäeval, kolmapäeval, neljapäeval; E–R = esmaspäevast reedeni; III korrus = kolmandal korrusel."
+        },
+        {
+          "name": "Teine ülesanne (A): teade (sõnum, kutse)",
+          "description_en": "Write a short message/note/invitation for a situation, covering 3 given bullet points. Minimum 30 words. Booklet example: you found your friend's wallet at your home.",
+          "tip": "Start with a greeting (Tere, Mari!), answer all three bullets in order, end with a sign-off and name. Simple present-tense sentences are enough."
+        },
+        {
+          "name": "Teine ülesanne (B): kirjeldus etteantud teemal (loovtekst)",
+          "description_en": "Write a short description on a given topic covering 3 bullet points. Minimum 30 words. Booklet example: 'Minu nädalavahetus' (Kus käite? Mida teete? Kellega kohtute?).",
+          "tip": "One or two sentences per bullet, plus an opening and closing sentence. Aim for 40-60 words so you are safely above the minimum."
+        }
+      ],
+      "notes": [
+        "Harno (official sample-performance PDF): a writing task is well done when the text is on topic, of the right length, covers the given content points, and the reader can understand what the writer wants to say. Some spelling/grammar mistakes are tolerated at A2 if meaning is clear.",
+        "Uncertain: whether variant A or B (or both) appears in a given exam. The Harno page says the second task is 'either a) a message/short note/invitation or b) a creative text'. The booklet prints both A and B variants of each task for practice."
+      ]
+    },
+    {
+      "order": 2,
+      "name_et": "Kuulamine",
+      "name_en": "Listening",
+      "minutes": 30,
+      "points": 20,
+      "minutes_points_source": "harno.ee (not stated in booklet)",
+      "written_or_oral": "written",
+      "item_count_in_booklet": 25,
+      "task_types": [
+        {
+          "name": "Esimene ülesanne (küsimused 1–7): valikvastused piltide/numbrite/sõnadega",
+          "description_en": "7 short monologues (about 20–30 s each: announcements, instructions, short descriptions). For each question tick one of three options A/B/C shown as pictures, numbers or words.",
+          "tip": "Read the question and the three options before the audio starts and guess what words you will hear (numbers, clothes, food). Distractor numbers are often mentioned too; listen for the one that answers the exact question."
+        },
+        {
+          "name": "Teine ülesanne (küsimused 8–13): õige/vale",
+          "description_en": "A dialogue/interview of about 2 minutes (booklet topic: 'Uus kodu'). Decide if each of 6 statements is true (A, õige) or false (B, vale).",
+          "tip": "The statements follow the order of the dialogue. Watch for small changes: a different number, a different vehicle, 'sageli' vs 'harva'."
+        },
+        {
+          "name": "Kolmas ülesanne (küsimused 14–19): lühivastus",
+          "description_en": "A monologue of 1–1.5 minutes (booklet topic: 'Laevareis', an announcement on a ship). Write a 1–2 word answer (word or number) to each of 6 questions.",
+          "tip": "Write only the key word or number. Harno: any answer with the right content counts; spelling/grammar mistakes that do not block understanding are not penalised (the key accepts e.g. '4' and 'neli', 'kell 13' and 'kell üks')."
+        },
+        {
+          "name": "Neljas ülesanne (küsimused 20–25): sobitamine",
+          "description_en": "A dialogue of 2–2.5 minutes about personal life (booklet: what someone does on each day of the week). Match each item (weekday) to one of the lettered options (activities A–K). Two options are left over.",
+          "tip": "Before listening, read all options aloud in your head. Cross out each option once used; two are distractors and may even be mentioned and rejected in the dialogue."
+        }
+      ],
+      "notes": [
+        "Harno: each listening text is played twice, and there is a pause before each task to read the questions.",
+        "The booklet has no transcripts. The official audio for the consultation listening test is linked on the Harno page as 'A2 kuulamistest': https://projektid.edu.ee/download/attachments/343705183/A2_Konsultatsioon_kuulamistest_veebruar2024_3.mp3?version=1&modificationDate=1771319710518&api=v2 (about 59 MB, dated February 2024). UNCERTAIN: not verified that this recording matches every question in this booklet version (the PDF also contains hidden alternative versions of listening questions 6 and 7)."
+      ]
+    },
+    {
+      "order": 3,
+      "name_et": "Lugemine",
+      "name_en": "Reading",
+      "minutes": 50,
+      "points": 20,
+      "minutes_points_source": "harno.ee (not stated in booklet)",
+      "written_or_oral": "written",
+      "item_count_in_booklet": 30,
+      "task_types": [
+        {
+          "name": "Esimene ülesanne (1–6): sobiv repliik",
+          "description_en": "6 everyday phrases/situations; choose the fitting reply from 3 options (A/B/C). Tests everyday phrases and politeness (etiquette).",
+          "tip": "Learn fixed reactions: Palju õnne! (congratulations), Jõudu! (good luck with work), Pole viga (not bad), Kohe tulen! (coming right away), Olgu nii (OK, let it be so), Aitäh! (thanks)."
+        },
+        {
+          "name": "Teine ülesanne (7–12): lause ja tekst",
+          "description_en": "Read three short texts (A, B, C; about 60 words each: ads, notices, newspaper items) and decide which text each of 6 sentences matches.",
+          "tip": "Underline key facts in each text (free/expensive, new/old, morning/evening). The sentences paraphrase the text, so look for synonyms (tasuta = ei pea maksma, soodne = odav)."
+        },
+        {
+          "name": "Kolmas ülesanne (13–17): teade + selgitus või koht + kirjeldus",
+          "description_en": "Match 5 public notices (signs, warnings) to their explanations, OR 5 place names to descriptions (A–I). Two options are left over.",
+          "tip": "Know common signs: Tasuta sissepääs, Libe põrand, Tee on suletud, Palun vaikust, Riidehoid, Ooteruum, Autokool."
+        },
+        {
+          "name": "Neljas ülesanne (18–22): tekst + valikvastused",
+          "description_en": "Read a text of about 150 words and complete 5 sentences by choosing A, B or C.",
+          "tip": "Make a small table while reading (e.g. room / what is wrong / what to do). Read negative questions carefully ('Kollast värvi EI OLE ...')."
+        },
+        {
+          "name": "Viies ülesanne (23–30): lünktekst",
+          "description_en": "A personal letter of about 100 words with 8 gaps; choose the word for each gap from 3 options (A, B, C).",
+          "tip": "Check grammar AND meaning: fixed phrases like 'jäin haigeks', 'kõrge palavik', 'mul on halb olla', 'näen sind varsti'."
+        }
+      ],
+      "notes": [
+        "Harno: the reading test has five tasks and lasts 50 minutes."
+      ]
+    },
+    {
+      "order": 4,
+      "name_et": "Rääkimine",
+      "name_en": "Speaking",
+      "minutes": 15,
+      "points": 20,
+      "minutes_points_source": "harno.ee (approx. 15 min; not stated in booklet)",
+      "written_or_oral": "oral (separate session, usually two candidates + examiner)",
+      "task_types": [
+        {
+          "name": "Sissejuhatav vestlus",
+          "description_en": "Short warm-up: the examiner asks each candidate to introduce themselves and answer a few questions (from harno.ee; not in the booklet).",
+          "tip": "Prepare 5-6 sentences about yourself: name, where you are from, where you live, work/study, family, hobbies."
+        },
+        {
+          "name": "Esimene ülesanne, I osa: pildi kirjeldamine",
+          "description_en": "Each candidate describes one picture. The pictures share a topic (booklet: 'Pere ja sugulased', two family photos) but differ. About 6–7 minutes for parts I and II together.",
+          "tip": "Use a fixed plan: Pildil on... (who) / Nad on... (where) / Nad teevad... (what) / Neil on seljas... (clothes) / Ma arvan, et... (your guess, mood)."
+        },
+        {
+          "name": "Esimene ülesanne, II osa: küsimused teemal",
+          "description_en": "The examiner picks questions from a topic sheet (booklet: 'Pere ja sugulased', question sets A and B) and each candidate answers.",
+          "tip": "Answer in 2-3 full sentences, not one word. Reuse the verb from the question: 'Kus teie sugulased elavad?' -> 'Minu sugulased elavad...'."
+        },
+        {
+          "name": "Teine ülesanne: ideekaart (küsimine ja vastamine)",
+          "description_en": "Candidates get an idea card with keywords and pictures (booklet: A 'Söök' - ask what your partner eats and when; B 'Igapäevane elu' - ask what your partner does in daily life and how often). One asks, the other answers, then roles swap with a new card. About 5–6 minutes.",
+          "tip": "You must ASK questions too. Practise question words: Mida? Millal? Kui tihti? Kus? Kellega? Kas sa...? Miks? Use frequency words in answers: iga päev, kord nädalas, mõnikord, harva, mitte kunagi."
+        }
+      ],
+      "notes": [
+        "Harno: speech is recorded and each candidate is rated independently by two raters. If the number of candidates is odd, a candidate talks with the examiner."
+      ]
+    }
+  ],
+  "pass_rule": "Total 80 points (each of the four parts gives 20). The exam is passed with at least 60% of the total, i.e. at least 48/80, AND no part may score 0 points. Source: harno.ee A2 section ('Kokku on A2-taseme testi eest võimalik saada 80 punkti. Iga osa annab 20 punkti. Eksam loetakse sooritatuks, kui testitav on kogunud vähemalt 60% võimalikust punktisummast, kusjuures ühegi osa tulemus ei tohi olla 0 punkti.'). Not stated in the booklet.",
+  "notes": [
+    "Order and timing on the day: the written part is kirjutamine, kuulamine, lugemine (30 + 30 + 50 min per harno.ee); speaking (about 15 min) is a separate oral part.",
+    "Booklet answers are given as letters for multiple-choice tasks; in the exam you tick boxes (✓) for listening task 1, listening task 2, reading task 1 and reading task 4, and write letters/words in boxes or gaps for the others.",
+    "Every task starts with a worked example marked 0 ('Näidis on tähistatud 0-ga').",
+    "UNCERTAIN: how raw item scores (25 listening items, 30 reading items) are converted to 20 points per part. For B1, Harno says raw points are weighted; for A2 the page only says each part gives 20 points.",
+    "Retake rule (harno.ee, all levels): a candidate who scores below 45% of the total, or misses the exam without good reason, can retake only after six months.",
+    "Topics listed by harno.ee for A2: personal data, house and home, surroundings, daily life, free time and entertainment, travel, relations with other people, health and body care, education, shopping, food and drink, services, places, language, weather.",
+    "The PDF of the filled booklet contains hidden alternative text layers (not visible when printed): listening Q6 'Mis kell väljub Tallinna-Moskva rong?' and Q7 'Mille kilo maksab 70 senti?', and a reading task 3 variant B (place names). Only reading 3B can be verified without audio; it is included in exam_tasks.json as an extra task."
+  ]
+}

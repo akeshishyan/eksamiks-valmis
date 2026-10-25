@@ -1,0 +1,612 @@
+[
+ {
+  "lesson": 26,
+  "title": "Kuidas sa ennast tunned? (dialogue built from exercise 1 questions and answers)",
+  "text_et": "Mari: Tere, Peeter! Kuidas sa ennast tunned?\nPeeter: Mitte väga hästi. Ma olen väsinud ja unine.\nMari: Kas su pea valutab?\nPeeter: Natuke valutab.\nMari: Kas sul on palavik?\nPeeter: Ei, ei ole. Aga mul on janu ja mu kõht valutab.\nMari: Kas sul on paha?\nPeeter: Ei, ei ole. Aga homme on mul eesti keele eksam ja ma olen närvis.\nMari: Sa oled tark. Kõik on korras!",
+  "text_en": "Mari: Hi, Peeter! How do you feel?\nPeeter: Not very well. I'm tired and sleepy.\nMari: Does your head hurt?\nPeeter: A little.\nMari: Do you have a fever?\nPeeter: No, I don't. But I'm thirsty and my stomach hurts.\nMari: Do you feel sick?\nPeeter: No, I don't. But tomorrow I have my Estonian exam and I'm nervous.\nMari: You're clever. Everything is fine!",
+  "questions": [
+   {
+    "q": "Kuidas Peeter ennast tunneb?",
+    "options": [
+     "väga hästi",
+     "ta on väsinud ja unine",
+     "ta on rõõmus",
+     "ta on vihane"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas Peetri pea valutab?",
+    "options": [
+     "Ei, ei valuta.",
+     "Natuke valutab.",
+     "Väga valutab.",
+     "Peeter ei tea."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas Peetril on palavik?",
+    "options": [
+     "Jah, on küll.",
+     "Ei, ei ole.",
+     "Natuke on.",
+     "Seda ei öelda."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis Peetril veel valutab?",
+    "options": [
+     "selg",
+     "hammas",
+     "kõht",
+     "jalg"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Miks Peeter närvis on?",
+    "options": [
+     "Tal on homme pulmad.",
+     "Tal on homme eesti keele eksam.",
+     "Ta on haige.",
+     "Tal on kiire."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 26,
+  "title": "Sinu päev (short text built from the exercise 3 situations)",
+  "text_et": "Sa oled tööl. Sinu kolleeg ütleb, et sul on ilus pluus. Sa oled rõõmus. Siis sa näed, et sinu sokk on katki. Sul on piinlik. Õhtul sa lähed koju, aga sul on kiire ja linnas on liiklusummik. Sa oled vihane. Kodus sa näed, et köögis on hiir ja toas on suur ämblik. Sul on hirm! Aga siis sa loed e-kirja: sa võitsid Bingo lotoga 200 000 eurot! Sa oled väga üllatunud ja õnnelik.",
+  "text_en": "You're at work. Your colleague says you have a nice blouse. You're glad. Then you see that your sock has a hole. You're embarrassed. In the evening you go home, but you're in a hurry and there's a traffic jam in town. You're angry. At home you see that there's a mouse in the kitchen and a big spider in the room. You're scared! But then you read an e-mail: you won 200,000 euros in the Bingo lottery! You're very surprised and happy.",
+  "questions": [
+   {
+    "q": "Mida kolleeg ütleb?",
+    "options": [
+     "Sul on ilus pluus.",
+     "Sa oled loll.",
+     "Sul on homme sünnipäev.",
+     "Sinu sokk on katki."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Miks sul on piinlik?",
+    "options": [
+     "Linnas on liiklusummik.",
+     "Sinu sokk on katki.",
+     "Köögis on hiir.",
+     "Sa oled liftis."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Miks sa õhtul vihane oled?",
+    "options": [
+     "Poes on pikk järjekord.",
+     "Linnas on liiklusummik.",
+     "Naaber kuulab muusikat.",
+     "Laps nutab."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis on köögis?",
+    "options": [
+     "sääsk",
+     "ämblik",
+     "hiir",
+     "karu"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kui palju sa lotoga võitsid?",
+    "options": [
+     "20 000 eurot",
+     "200 eurot",
+     "2000 eurot",
+     "200 000 eurot"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "lesson": 27,
+  "title": "Mis sul viga on? (dialogue built from exercises 2–7)",
+  "text_et": "Kati: Tere, Jaan! Mis sul viga on?\nJaan: Ma olen haige. Mu kurk valutab ja mul on köha ja nohu.\nKati: Kas sul on palavik ka?\nJaan: Ei, palavikku mul ei ole. Aga mul käib pea ringi.\nKati: Helista perearstile!\nJaan: Jah, ma helistan kohe. Mul on perearsti telefoninumber telefonis.\nKati: Ja mine apteeki!\nJaan: Aitäh! Ma lähen apteeki ja siis koju.",
+  "text_en": "Kati: Hi, Jaan! What's wrong with you?\nJaan: I'm ill. My throat hurts and I have a cough and a runny nose.\nKati: Do you have a fever too?\nJaan: No, I don't have a fever. But I feel dizzy.\nKati: Call your family doctor!\nJaan: Yes, I'll call right away. I have the family doctor's number in my phone.\nKati: And go to the pharmacy!\nJaan: Thanks! I'll go to the pharmacy and then home.",
+  "questions": [
+   {
+    "q": "Mis Jaanil valutab?",
+    "options": [
+     "pea",
+     "kurk",
+     "kõht",
+     "selg"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis Jaanil veel on?",
+    "options": [
+     "köha ja nohu",
+     "palavik",
+     "allergia",
+     "kõht lahti"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kas Jaanil on palavik?",
+    "options": [
+     "Jah, on.",
+     "Ei, ei ole.",
+     "Natuke on.",
+     "Ta ei tea."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kellele Jaan helistab?",
+    "options": [
+     "emale",
+     "kiirabisse",
+     "perearstile",
+     "Katile"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kuhu Jaan läheb enne koju minekut?",
+    "options": [
+     "tööle",
+     "apteeki",
+     "poodi",
+     "haiglasse"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 28,
+  "title": "Mille üle te kaebate? (exercise 6; gaps filled from the word bank)",
+  "text_et": "Arst: Mille üle te kaebate?\nPatsient: Mul on köha ja nohu.\nArst: Kas teil on palavik ka?\nPatsient: Jah. 38,2.\nArst: Millal te haigeks jäite?\nPatsient: Kaks päeva tagasi.\nArst: Kas kurk valutab ka?\nPatsient: Valutab. Ja pea valutab.\nArst: Siin on väike põletik. Teeme analüüsid. Ja ma kirjutan teile ravimi.\nPatsient: Aitäh!",
+  "text_en": "Doctor: What seems to be the problem?\nPatient: I have a cough and a runny nose.\nDoctor: Do you have a fever too?\nPatient: Yes. 38.2.\nDoctor: When did you fall ill?\nPatient: Two days ago.\nDoctor: Does your throat hurt too?\nPatient: It does. And my head hurts.\nDoctor: There's a small inflammation here. We'll do some tests. And I'll prescribe you a medicine.\nPatient: Thank you!",
+  "questions": [
+   {
+    "q": "Mille üle patsient kaebab?",
+    "options": [
+     "köha ja nohu",
+     "kõhuvalu",
+     "allergia",
+     "seljavalu"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kui kõrge on palavik?",
+    "options": [
+     "37,2",
+     "38,2",
+     "39,2",
+     "Palavikku ei ole."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Millal patsient haigeks jäi?",
+    "options": [
+     "eile",
+     "kaks nädalat tagasi",
+     "kaks päeva tagasi",
+     "täna hommikul"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis veel valutab?",
+    "options": [
+     "kurk ja pea",
+     "kõrv",
+     "hammas",
+     "jalg"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mida arst teeb?",
+    "options": [
+     "Ta saadab patsiendi koju ilma ravimita.",
+     "Ta helistab kiirabisse.",
+     "Ta teeb analüüsid ja kirjutab ravimi.",
+     "Ta ütleb, et kõik on korras."
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 28,
+  "title": "Kas ma võin ...? (doctor's orders; dialogue built from exercise 7)",
+  "text_et": "Patsient: Doktor, kas ma võin homme tööle minna?\nArst: Ei, ärge minge tööle! Olge kodus ja magage palju.\nPatsient: Kas ma võin televiisorit vaadata?\nArst: Jah, vaadake! Lugege ka raamatut.\nPatsient: Kas ma võin saunas käia?\nArst: Ärge käige saunas! Teil on palavik.\nPatsient: Kas ma võin suitsetada?\nArst: Ei! Ärge suitsetage! Jooge palju teed.\nPatsient: Ja millal ma terveks saan?\nArst: Vist nädala pärast.",
+  "text_en": "Patient: Doctor, may I go to work tomorrow?\nDoctor: No, don't go to work! Stay at home and sleep a lot.\nPatient: May I watch TV?\nDoctor: Yes, watch it! Read a book too.\nPatient: May I go to the sauna?\nDoctor: Don't go to the sauna! You have a fever.\nPatient: May I smoke?\nDoctor: No! Don't smoke! Drink lots of tea.\nPatient: And when will I get well?\nDoctor: In about a week, probably.",
+  "questions": [
+   {
+    "q": "Kas patsient võib homme tööle minna?",
+    "options": [
+     "Jah, võib.",
+     "Ei, ei või.",
+     "Ainult hommikul.",
+     "Arst ei tea."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida arst soovitab teha?",
+    "options": [
+     "sporti teha",
+     "kodus olla ja palju magada",
+     "saunas käia",
+     "reisida"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Miks patsient ei või saunas käia?",
+    "options": [
+     "Saun on kinni.",
+     "Tal on palavik.",
+     "Tal on allergia.",
+     "Tal on kiire."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida patsient peab palju jooma?",
+    "options": [
+     "õlut",
+     "kohvi",
+     "teed",
+     "piima"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Millal saab patsient arsti arvates terveks?",
+    "options": [
+     "homme",
+     "kahe päeva pärast",
+     "nädala pärast",
+     "kuu pärast"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 29,
+  "title": "Mida sa teeks? (dialogue built from exercises 3, 5 and 6)",
+  "text_et": "Lisa: Pablo, mida sa praegu süüa tahaks?\nPablo: Ma tahaks praegu pitsat süüa. Ja sina?\nLisa: Mina tahaks šokolaadi süüa. Kus sa praegu olla tahaks?\nPablo: Ma tahaks praegu rannas olla. Tööl ma praegu olla ei tahaks.\nLisa: Mida sa teeks, kui sul oleks palju raha?\nPablo: Kui mul oleks palju raha, ma reisiks palju. Ma läheks Austraaliasse.\nLisa: Ja kui sul oleks palju vaba aega?\nPablo: Siis ma õpiks eesti keelt! Kuule, kas sa tuleks minuga täna õhtul ööklubisse?\nLisa: Jah! Hea meelega!",
+  "text_en": "Lisa: Pablo, what would you like to eat right now?\nPablo: I'd like to eat pizza right now. And you?\nLisa: I'd like to eat chocolate. Where would you like to be right now?\nPablo: I'd like to be on the beach right now. I wouldn't want to be at work right now.\nLisa: What would you do if you had a lot of money?\nPablo: If I had a lot of money, I'd travel a lot. I'd go to Australia.\nLisa: And if you had a lot of free time?\nPablo: Then I'd study Estonian! Listen, would you come with me to a nightclub tonight?\nLisa: Yes! With pleasure!",
+  "questions": [
+   {
+    "q": "Mida Pablo praegu süüa tahaks?",
+    "options": [
+     "jäätist",
+     "pitsat",
+     "šokolaadi",
+     "suppi"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida Lisa süüa tahaks?",
+    "options": [
+     "pitsat",
+     "jäätist",
+     "šokolaadi",
+     "kooki"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kus Pablo praegu olla ei tahaks?",
+    "options": [
+     "rannas",
+     "kodus",
+     "tööl",
+     "ööklubis"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mida Pablo teeks, kui tal oleks palju raha?",
+    "options": [
+     "ostaks maja",
+     "reisiks palju",
+     "õpiks eesti keelt",
+     "ei teeks midagi"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida Pablo teeks, kui tal oleks palju vaba aega?",
+    "options": [
+     "magaks",
+     "õpiks eesti keelt",
+     "läheks Austraaliasse",
+     "töötaks"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida Lisa vastab, kui Pablo kutsub ta ööklubisse?",
+    "options": [
+     "Ei! Unusta ära!",
+     "Jah! Hea meelega!",
+     "Ma ei tea.",
+     "Võib-olla homme."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 30,
+  "title": "Toas (Mida tehakse talvel? exercise 2)",
+  "text_et": "Talvel me vaatame perega filme ja loeme raamatuid. Käime tihti külas ja kutsume külalisi. Nädalavahetusel mängime sõpradega lauamänge, sest see on nii tore! Kevadel koristame maja. Minu mees ja lapsed pesevad aknaid ja mina koristan kappe. Minu mees koristab ka garaaži. Kevadel mõnikord ka reisin ja käin palju poes. Suvel ma alati puhkan. Ma käin turul, ostan maasikaid ja keedan moosi. Ma söön nii palju maasikaid! Mõnikord õmblen uued kardinad. Suvel lapsed magavad kaua. Sügisel ma käin teatris ja kontserdil. Teen süüa perele ja külalistele. Sügisel ma teen ka käsitööd, sest väljas on pime ja külm ning ma olen palju toas.",
+  "text_en": "In winter we watch films and read books with the family. We often go visiting and invite guests. At the weekend we play board games with friends, because it's such fun! In spring we clean the house. My husband and the children wash the windows and I clean the cupboards. My husband also cleans the garage. In spring I sometimes also travel and go shopping a lot. In summer I always take a holiday. I go to the market, buy strawberries and make jam. I eat so many strawberries! Sometimes I sew new curtains. In summer the children sleep long. In autumn I go to the theatre and to concerts. I cook for the family and for guests. In autumn I also do handicrafts, because it's dark and cold outside and I'm indoors a lot.",
+  "questions": [
+   {
+    "q": "Mida pere talvel teeb?",
+    "options": [
+     "suusatab",
+     "vaatab filme ja loeb raamatuid",
+     "koristab garaaži",
+     "keedab moosi"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Millal mängitakse sõpradega lauamänge?",
+    "options": [
+     "nädalavahetusel",
+     "esmaspäeval",
+     "ainult suvel",
+     "hommikul"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kes koristab garaaži?",
+    "options": [
+     "lapsed",
+     "naine",
+     "mees",
+     "külalised"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mida naine suvel turult ostab?",
+    "options": [
+     "seeni",
+     "maasikaid",
+     "kardinaid",
+     "tomateid"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida lapsed suvel teevad?",
+    "options": [
+     "käivad koolis",
+     "magavad kaua",
+     "pesevad aknaid",
+     "teevad käsitööd"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Miks naine sügisel palju toas on?",
+    "options": [
+     "Ta on haige.",
+     "Väljas on pime ja külm.",
+     "Tal on palju tööd.",
+     "Lapsed on kodus."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 30,
+  "title": "Õues (Mida tehakse suvel? exercise 4)",
+  "text_et": "Talvel jalutame tihti pargis või metsas. Kui on lund, siis suusatame või uisutame. Lapsed kelgutavad ja teevad lumememme. Kevadel hingame värsket õhku. Töötame aias. Kasvatame tomateid ja kurke. Minu naine kasvatab lilli. Kui ilm on ilus, mängime tennist. Suvel sõidame ringi, avastame Eestit. Grillime sõpradega ja joome õlut. Ma käin tihti kalal. Lapsed on mitu nädalat maal vanaema juures. Mu naine käib rannas ja päevitab. Suve lõpus on ta alati nii ilus ja pruun! Sügisel käime metsas, korjame seeni ja marju. Sügisel vahetan autorehvid ära, sest teed on juba libedad. Sügisel lähevad lapsed jälle kooli.",
+  "text_en": "In winter we often walk in the park or in the forest. When there's snow, we ski or skate. The children go sledging and make a snowman. In spring we breathe fresh air. We work in the garden. We grow tomatoes and cucumbers. My wife grows flowers. When the weather is nice, we play tennis. In summer we drive around and discover Estonia. We have barbecues with friends and drink beer. I often go fishing. The children spend several weeks in the countryside at their grandmother's. My wife goes to the beach and sunbathes. At the end of summer she is always so beautiful and tanned! In autumn we go to the forest and pick mushrooms and berries. In autumn I change the car tyres, because the roads are already slippery. In autumn the children go back to school.",
+  "questions": [
+   {
+    "q": "Mida tehakse talvel, kui on lund?",
+    "options": [
+     "mängitakse tennist",
+     "suusatatakse või uisutatakse",
+     "grillitakse",
+     "korjatakse seeni"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida pere kevadel aias kasvatab?",
+    "options": [
+     "kartuleid ja sibulaid",
+     "tomateid ja kurke",
+     "maasikaid",
+     "seeni"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kus on lapsed suvel mitu nädalat?",
+    "options": [
+     "koolis",
+     "maal vanaema juures",
+     "rannas",
+     "linnas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida mees suvel tihti teeb?",
+    "options": [
+     "käib kalal",
+     "päevitab",
+     "õmbleb",
+     "suusatab"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Miks vahetab mees sügisel autorehvid ära?",
+    "options": [
+     "Rehvid on vanad.",
+     "Teed on juba libedad.",
+     "Ta sõidab ringi.",
+     "Lapsed lähevad kooli."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 31,
+  "title": "Külm suvesupp (Kordamine, exercise 6: recipe)",
+  "text_et": "KÜLM SUVESUPP\n400 g kartuleid, 1 suur sibul, 2 väikest kurki, 2 muna, 1 l keefirit, soola, suhkrut, pipart, 100 g sinki.\nKeeda ja koori kartulid ja munad. Lõika munad tükkideks. Lõika kartulid ja sibul tükkideks. Koori kurgid. Lõika kurgid ja sink tükkideks. Vala keefir kaussi. Lisa sool ja suhkur. Vala munad, kartulid, kurgid, sink ja sibul kaussi. Sega. Maitse. Söö.",
+  "text_en": "COLD SUMMER SOUP\n400 g potatoes, 1 large onion, 2 small cucumbers, 2 eggs, 1 l kefir, salt, sugar, pepper, 100 g ham.\nBoil and peel the potatoes and eggs. Cut the eggs into pieces. Cut the potatoes and the onion into pieces. Peel the cucumbers. Cut the cucumbers and the ham into pieces. Pour the kefir into a bowl. Add the salt and sugar. Put the eggs, potatoes, cucumbers, ham and onion into the bowl. Stir. Taste. Eat.",
+  "questions": [
+   {
+    "q": "Kui palju on vaja sinki?",
+    "options": [
+     "400 g",
+     "100 g",
+     "1 kg",
+     "200 g"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui palju on vaja keefirit?",
+    "options": [
+     "1 liiter",
+     "0,5 liitrit",
+     "2 liitrit",
+     "100 g"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mitu muna on vaja?",
+    "options": [
+     "üks",
+     "kaks",
+     "kolm",
+     "neli"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida peab keetma?",
+    "options": [
+     "kurgid ja singi",
+     "kartulid ja munad",
+     "sibula",
+     "keefiri"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida peab koorima?",
+    "options": [
+     "ainult sibula",
+     "kartulid, munad ja kurgid",
+     "singi",
+     "keefiri"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 31,
+  "title": "Üürile anda korter kesklinnas (Kordamine, exercise 7: flat ad)",
+  "text_et": "ÜÜRILE ANDA KORTER KESKLINNAS\nKorter asub kesklinnas, lähedal on park, bussijaam ja veekeskus. Lähedal on ka meri. Korteris on magamistuba, suur elutuba ja köök.\nHind: 450 eurot kuus. Korrus: 3. Üldpind: 48 m². Ehitusaasta: 1989. Tubade arv: 2, WC ja vannituba koos, köök.\nLisainfo: parkimine tasuta, digi-TV, internet, gaasipliit, kamin, dušš, mööbel, lifti ei ole.",
+  "text_en": "FLAT FOR RENT IN THE CITY CENTRE\nThe flat is in the city centre; nearby there is a park, the bus station and a water park. The sea is also nearby. The flat has a bedroom, a large living room and a kitchen.\nPrice: 450 euros a month. Floor: 3. Total area: 48 m². Year built: 1989. Number of rooms: 2, toilet and bathroom together, kitchen.\nExtra info: free parking, digital TV, internet, gas stove, fireplace, shower, furniture, no lift.",
+  "questions": [
+   {
+    "q": "Kus korter asub?",
+    "options": [
+     "maal",
+     "kesklinnas",
+     "mere ääres metsas",
+     "Tartus"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui suur on üür?",
+    "options": [
+     "450 eurot kuus",
+     "48 eurot kuus",
+     "1989 eurot",
+     "350 eurot kuus"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mitmendal korrusel korter on?",
+    "options": [
+     "esimesel",
+     "teisel",
+     "kolmandal",
+     "neljandal"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mitu tuba on korteris?",
+    "options": [
+     "üks",
+     "kaks",
+     "kolm",
+     "neli"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida majas ei ole?",
+    "options": [
+     "kaminat",
+     "internetti",
+     "lifti",
+     "dušši"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kui palju maksab parkimine?",
+    "options": [
+     "10 eurot kuus",
+     "Parkimine on tasuta.",
+     "Parkimist ei ole.",
+     "50 eurot kuus"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

@@ -1,0 +1,1534 @@
+[
+ {
+  "lesson": 11,
+  "id": "l11-negation-present",
+  "title": "Saying no: ei + verb (Vihma ei saja)",
+  "explanation": "The negative present is <b>ei + the verb stem</b> (the ma-form without <b>-n</b>). It is the same for every person: <i>ma ei saa, sa ei saa, nad ei saa</i>.<br><table><tr><th>positive</th><th>negative</th></tr><tr><td>Sajab vihma.</td><td>Vihma <b>ei saja</b>.</td></tr><tr><td>Puhub tuul.</td><td>Tuul <b>ei puhu</b>.</td></tr><tr><td>Päike paistab.</td><td>Päike <b>ei paista</b>.</td></tr><tr><td>Taevas on pilves.</td><td>Taevas <b>ei ole</b> pilves.</td></tr><tr><td>Mulle meeldib.</td><td>Mulle <b>ei meeldi</b>.</td></tr><tr><td>Ma lähen.</td><td>Ma <b>ei lähe</b>.</td></tr></table>Short answers repeat the verb: <i>Kas täna sajab vihma?</i> – <b>Jah, sajab küll.</b> / <b>Ei, ei saja.</b>",
+  "examples": [
+   {
+    "et": "Kas täna sajab vihma? – Ei, ei saja.",
+    "en": "Is it raining today? – No, it isn't."
+   },
+   {
+    "et": "Kas täna puhub tuul? – Jah, puhub küll.",
+    "en": "Is the wind blowing today? – Yes, it is."
+   },
+   {
+    "et": "Päike ei paista.",
+    "en": "The sun isn't shining."
+   },
+   {
+    "et": "Mulle ei meeldi tänane ilm.",
+    "en": "I don't like today's weather."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Täna vihma ___. (sadama)",
+    "answer": "ei saja",
+    "accept": [],
+    "en": "It isn't raining today."
+   },
+   {
+    "prompt": "Tuul ___. (puhuma)",
+    "answer": "ei puhu",
+    "accept": [],
+    "en": "The wind isn't blowing."
+   },
+   {
+    "prompt": "Päike ___. (paistma)",
+    "answer": "ei paista",
+    "accept": [],
+    "en": "The sun isn't shining."
+   },
+   {
+    "prompt": "Taevas ___ pilves. (olema)",
+    "answer": "ei ole",
+    "accept": [],
+    "en": "The sky isn't overcast."
+   },
+   {
+    "prompt": "Mulle ___ tänane ilm. (meeldima)",
+    "answer": "ei meeldi",
+    "accept": [],
+    "en": "I don't like today's weather."
+   },
+   {
+    "prompt": "Kas täna sajab lund? – Ei, ___. (sadama)",
+    "answer": "ei saja",
+    "accept": [],
+    "en": "Is it snowing today? – No, it isn't."
+   },
+   {
+    "prompt": "Kas täna puhub tuul? – Ei, ___. (puhuma)",
+    "answer": "ei puhu",
+    "accept": [],
+    "en": "Is the wind blowing today? – No, it isn't."
+   },
+   {
+    "prompt": "Kas täna paistab päike? – Ei, ___. (paistma)",
+    "answer": "ei paista",
+    "accept": [],
+    "en": "Is the sun shining today? – No, it isn't."
+   },
+   {
+    "prompt": "Kas sulle meeldib tänane ilm? – Ei, ___. (meeldima)",
+    "answer": "ei meeldi",
+    "accept": [],
+    "en": "Do you like today's weather? – No, I don't."
+   },
+   {
+    "prompt": "Õhtul ___ rahet. (sadama)",
+    "answer": "ei saja",
+    "accept": [],
+    "en": "In the evening it won't hail."
+   },
+   {
+    "prompt": "Praegu ___. (müristama)",
+    "answer": "ei mürista",
+    "accept": [],
+    "en": "It isn't thundering now."
+   },
+   {
+    "prompt": "Ma ___ täna tööle. (minema)",
+    "answer": "ei lähe",
+    "accept": [],
+    "en": "I'm not going to work today."
+   },
+   {
+    "prompt": "Triinu ___ hommikul kohvi. (jooma)",
+    "answer": "ei joo",
+    "accept": [],
+    "en": "Triinu doesn't drink coffee in the morning."
+   },
+   {
+    "prompt": "Me ___ täna õhtul filmi. (vaatama)",
+    "answer": "ei vaata",
+    "accept": [],
+    "en": "We aren't watching a film this evening."
+   },
+   {
+    "prompt": "Nad ___ eesti keelt. (oskama)",
+    "answer": "ei oska",
+    "accept": [],
+    "en": "They can't speak Estonian."
+   },
+   {
+    "prompt": "Sa ___ täna kodus. (olema)",
+    "answer": "ei ole",
+    "accept": [],
+    "en": "You aren't at home today."
+   },
+   {
+    "prompt": "Ma ___ täna süüa. (tegema)",
+    "answer": "ei tee",
+    "accept": [],
+    "en": "I'm not cooking today."
+   },
+   {
+    "prompt": "Ma ___ hommikul vara. (ärkama)",
+    "answer": "ei ärka",
+    "accept": [],
+    "en": "I don't wake up early in the morning."
+   }
+  ]
+ },
+ {
+  "lesson": 11,
+  "id": "l11-weather-expressions",
+  "title": "Weather phrases: sajab + partitive, puhub + wind, sooja/külma on ... kraadi",
+  "explanation": "<b>sadama</b> (to fall) takes the <b>partitive (III form)</b>: <i>sajab <b>vihma</b> / <b>lund</b> / <b>lörtsi</b> / <b>rahet</b></i> (vihm, lumi, lörts, rahe). The negative also uses the partitive: <i>Lund ei saja.</i><br><b>puhuma</b> (to blow) + nominative: <i>Puhub tuul. Puhub põhjatuul.</i><br>Winds: compass word in the <b>genitive (II form)</b> + <b>tuul</b>:<table><tr><th>direction</th><th>II form</th><th>wind</th></tr><tr><td>põhi (N)</td><td>põhja</td><td>põhjatuul</td></tr><tr><td>kirre (NE)</td><td>kirde</td><td>kirdetuul</td></tr><tr><td>ida (E)</td><td>ida</td><td>idatuul</td></tr><tr><td>kagu (SE)</td><td>kagu</td><td>kagutuul</td></tr><tr><td>lõuna (S)</td><td>lõuna</td><td>lõunatuul</td></tr><tr><td>edel (SW)</td><td>edela</td><td>edelatuul</td></tr><tr><td>lääs (W)</td><td>lääne</td><td>läänetuul</td></tr><tr><td>loe (NW)</td><td>loode</td><td>loodetuul</td></tr></table><b>on</b> + noun/adjective: <i>on udu, on sula, on äike, on torm; taevas on pilves / selge</i>. Lightning: <i>lööb välku</i>; thunder: <i>müristab</i>.<br>Temperature: <b>Sooja on</b> 5 kraadi (+5). <b>Külma on</b> 3 kraadi (−3). Question: <i>Mitu kraadi on sooja / külma?</i>",
+  "examples": [
+   {
+    "et": "Hommikul sajab lörtsi.",
+    "en": "In the morning there will be sleet."
+   },
+   {
+    "et": "Puhub edelatuul 5–15 meetrit sekundis.",
+    "en": "A southwest wind blows at 5–15 metres per second."
+   },
+   {
+    "et": "Külma on kolm kraadi.",
+    "en": "It is three degrees below zero."
+   },
+   {
+    "et": "Lääne-Eestis on äike.",
+    "en": "There is a thunderstorm in Western Estonia."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Sajab ___. (vihm)",
+    "answer": "vihma",
+    "accept": [],
+    "en": "It is raining."
+   },
+   {
+    "prompt": "Sajab ___. (lumi)",
+    "answer": "lund",
+    "accept": [],
+    "en": "It is snowing."
+   },
+   {
+    "prompt": "Hommikul sajab ___. (lörts)",
+    "answer": "lörtsi",
+    "accept": [],
+    "en": "In the morning there will be sleet."
+   },
+   {
+    "prompt": "Õhtul sajab ___. (rahe)",
+    "answer": "rahet",
+    "accept": [],
+    "en": "In the evening it will hail."
+   },
+   {
+    "prompt": "Homme ___ ei saja. (lumi)",
+    "answer": "lund",
+    "accept": [],
+    "en": "It won't snow tomorrow."
+   },
+   {
+    "prompt": "Puhub ___. (põhi + tuul)",
+    "answer": "põhjatuul",
+    "accept": [],
+    "en": "A north wind is blowing."
+   },
+   {
+    "prompt": "Puhub ___. (lääs + tuul)",
+    "answer": "läänetuul",
+    "accept": [],
+    "en": "A west wind is blowing."
+   },
+   {
+    "prompt": "Puhub ___. (loe + tuul)",
+    "answer": "loodetuul",
+    "accept": [],
+    "en": "A northwest wind is blowing."
+   },
+   {
+    "prompt": "Puhub ___. (kirre + tuul)",
+    "answer": "kirdetuul",
+    "accept": [],
+    "en": "A northeast wind is blowing."
+   },
+   {
+    "prompt": "Puhub ___. (edel + tuul)",
+    "answer": "edelatuul",
+    "accept": [],
+    "en": "A southwest wind is blowing."
+   },
+   {
+    "prompt": "Puhub ___. (ida + tuul)",
+    "answer": "idatuul",
+    "accept": [],
+    "en": "An east wind is blowing."
+   },
+   {
+    "prompt": "Puhub ___. (kagu + tuul)",
+    "answer": "kagutuul",
+    "accept": [],
+    "en": "A southeast wind is blowing."
+   },
+   {
+    "prompt": "Homme puhub ___. (lõuna + tuul)",
+    "answer": "lõunatuul",
+    "accept": [],
+    "en": "Tomorrow a south wind will blow."
+   },
+   {
+    "prompt": "+5 °C: ___ on viis kraadi. (soe)",
+    "answer": "Sooja",
+    "accept": [
+     "sooja"
+    ],
+    "en": "It is five degrees above zero."
+   },
+   {
+    "prompt": "−3 °C: ___ on kolm kraadi. (külm)",
+    "answer": "Külma",
+    "accept": [
+     "külma"
+    ],
+    "en": "It is three degrees below zero."
+   },
+   {
+    "prompt": "Mitu ___ on sooja? (kraad)",
+    "answer": "kraadi",
+    "accept": [],
+    "en": "How many degrees above zero is it?"
+   },
+   {
+    "prompt": "Praegu lööb ___. (välk)",
+    "answer": "välku",
+    "accept": [],
+    "en": "Lightning is striking now."
+   },
+   {
+    "prompt": "Kas täna ___ päike? (paistma)",
+    "answer": "paistab",
+    "accept": [],
+    "en": "Is the sun shining today?"
+   }
+  ]
+ },
+ {
+  "lesson": 12,
+  "id": "l12-kus-kuhu-kaima-minema",
+  "title": "Kus? vs Kuhu?: käin tööl – lähen tööle",
+  "explanation": "<b>Kus?</b> (where, location) uses <b>-s</b> (in) or <b>-l</b> (on/at). <b>Kuhu?</b> (where to, direction) uses <b>-sse</b> (into) or <b>-le</b> (onto/to). Both are added to the <b>genitive (II form)</b>. Some words have a <b>short form</b> for 'into' (often = the partitive).<br><b>käima</b> (go regularly / be somewhere and come back) usually goes with Kus?; <b>minema</b> (go) goes with Kuhu?<br><table><tr><th>Kus? (-s / -l)</th><th>Kuhu? (-sse / -le / short form)</th></tr><tr><td>käin tööl</td><td>lähen tööle</td></tr><tr><td>käin turul</td><td>lähen turule</td></tr><tr><td>käin koosolekul</td><td>lähen koosolekule</td></tr><tr><td>käin lõunal</td><td>lähen lõunale</td></tr><tr><td>käin eesti keele kursusel</td><td>lähen eesti keele kursusele</td></tr><tr><td>käin teatris</td><td>lähen teatrisse</td></tr><tr><td>käin kohvikus</td><td>lähen kohvikusse</td></tr><tr><td>käin poes</td><td>lähen <b>poodi</b></td></tr><tr><td>käin kinos</td><td>lähen <b>kinno</b></td></tr><tr><td>käin restoranis</td><td>lähen <b>restorani</b></td></tr><tr><td>käin trennis</td><td>lähen <b>trenni</b></td></tr><tr><td>käin ülikoolis</td><td>lähen <b>ülikooli</b></td></tr><tr><td>käin sõbral külas</td><td>lähen sõbrale külla</td></tr></table>",
+  "examples": [
+   {
+    "et": "Esmaspäeval käin eesti keele kursusel.",
+    "en": "On Monday I go to the Estonian course."
+   },
+   {
+    "et": "Ma lähen eesti keele kursusele kell kaks.",
+    "en": "I go to the Estonian course at two."
+   },
+   {
+    "et": "Ma lähen bussipeatusesse ja sõidan bussiga tööle.",
+    "en": "I go to the bus stop and take the bus to work."
+   },
+   {
+    "et": "Reedel lähen kinno.",
+    "en": "On Friday I'm going to the cinema."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Esmaspäeval käin ___. (eesti keele kursus)",
+    "answer": "eesti keele kursusel",
+    "accept": [],
+    "en": "On Monday I go to the Estonian course."
+   },
+   {
+    "prompt": "Ma lähen ___ kell kaks. (eesti keele kursus)",
+    "answer": "eesti keele kursusele",
+    "accept": [],
+    "en": "I go to the Estonian course at two."
+   },
+   {
+    "prompt": "Ma lähen ___. (kino)",
+    "answer": "kinno",
+    "accept": [
+     "kinosse"
+    ],
+    "en": "I'm going to the cinema."
+   },
+   {
+    "prompt": "Ma käin ___. (kino)",
+    "answer": "kinos",
+    "accept": [],
+    "en": "I go to the cinema."
+   },
+   {
+    "prompt": "Ma lähen ___. (pood)",
+    "answer": "poodi",
+    "accept": [],
+    "en": "I'm going to the shop."
+   },
+   {
+    "prompt": "Ta käib ___. (pood)",
+    "answer": "poes",
+    "accept": [],
+    "en": "She goes to the shop."
+   },
+   {
+    "prompt": "Õhtul lähen ___. (trenn)",
+    "answer": "trenni",
+    "accept": [],
+    "en": "In the evening I go to training."
+   },
+   {
+    "prompt": "Esmaspäeviti olen ___. (trenn)",
+    "answer": "trennis",
+    "accept": [],
+    "en": "On Mondays I'm at training."
+   },
+   {
+    "prompt": "Me läheme ___. (restoran)",
+    "answer": "restorani",
+    "accept": [
+     "restoranisse"
+    ],
+    "en": "We are going to a restaurant."
+   },
+   {
+    "prompt": "Ma lähen ___. (teater)",
+    "answer": "teatrisse",
+    "accept": [],
+    "en": "I'm going to the theatre."
+   },
+   {
+    "prompt": "Lähme ___! (kohvik)",
+    "answer": "kohvikusse",
+    "accept": [],
+    "en": "Let's go to the café!"
+   },
+   {
+    "prompt": "Ma lähen ___ kell üks. (lõuna)",
+    "answer": "lõunale",
+    "accept": [],
+    "en": "I go to lunch at one."
+   },
+   {
+    "prompt": "Laupäeval käin ___. (turg)",
+    "answer": "turul",
+    "accept": [],
+    "en": "On Saturday I go to the market."
+   },
+   {
+    "prompt": "Laupäeval lähen ___. (turg)",
+    "answer": "turule",
+    "accept": [],
+    "en": "On Saturday I'm going to the market."
+   },
+   {
+    "prompt": "Ma lähen kell kümme ___. (koosolek)",
+    "answer": "koosolekule",
+    "accept": [],
+    "en": "I go to a meeting at ten."
+   },
+   {
+    "prompt": "Ta käib ___. (ülikool)",
+    "answer": "ülikoolis",
+    "accept": [],
+    "en": "He goes to university."
+   },
+   {
+    "prompt": "Ta läheb hommikul ___. (ülikool)",
+    "answer": "ülikooli",
+    "accept": [
+     "ülikoolisse"
+    ],
+    "en": "He goes to the university in the morning."
+   },
+   {
+    "prompt": "Ma lähen ___ külla. (sõber)",
+    "answer": "sõbrale",
+    "accept": [],
+    "en": "I'm going to visit a friend."
+   },
+   {
+    "prompt": "Ma lähen ___. (bussipeatus)",
+    "answer": "bussipeatusesse",
+    "accept": [],
+    "en": "I go to the bus stop."
+   },
+   {
+    "prompt": "Ja nüüd olen ___. (töö)",
+    "answer": "tööl",
+    "accept": [],
+    "en": "And now I'm at work."
+   },
+   {
+    "prompt": "Ma sõidan bussiga ___. (töö)",
+    "answer": "tööle",
+    "accept": [],
+    "en": "I go to work by bus."
+   }
+  ]
+ },
+ {
+  "lesson": 12,
+  "id": "l12-days-ti-routine",
+  "title": "Every Monday: esmaspäeviti (-ti) + daily-routine verbs",
+  "explanation": "Add <b>-ti</b> to the day name to say that something happens <b>every week on that day</b>: <i>esmaspäev → <b>esmaspäeviti</b></i> (on Mondays). Compare <i>esmaspäeval</i> = on (this) Monday, once.<br><table><tr><th>day</th><th>every week</th></tr><tr><td>esmaspäev</td><td>esmaspäeviti</td></tr><tr><td>teisipäev</td><td>teisipäeviti</td></tr><tr><td>kolmapäev</td><td>kolmapäeviti</td></tr><tr><td>neljapäev</td><td>neljapäeviti</td></tr><tr><td>reede</td><td>reedeti</td></tr><tr><td>laupäev</td><td>laupäeviti</td></tr><tr><td>pühapäev</td><td>pühapäeviti</td></tr></table>Other habit words: <i>iga päev, alati, mõnikord, kaks korda nädalas</i>. Order of actions: <b>siis</b> (then), <b>seejärel</b> (after that), <b>pärast seda</b> (after that).<br>Routine verbs in the present: <i>ma ärkan, ta ärkab; ma pesen, ta peseb; ma panen riidesse, ta paneb riidesse; ma sõidan, ta sõidab; ma loen, ta loeb; ma söön, ta sööb</i>.",
+  "examples": [
+   {
+    "et": "Esmaspäeviti olen alati karate trennis.",
+    "en": "On Mondays I'm always at karate training."
+   },
+   {
+    "et": "Romeo mängib laupäeviti jalgpalli.",
+    "en": "Romeo plays football on Saturdays."
+   },
+   {
+    "et": "Hommikul ärkan, siis käin duši all ja pärast seda joon kohvi.",
+    "en": "In the morning I wake up, then I take a shower and after that I drink coffee."
+   },
+   {
+    "et": "Reede õhtul olen alati kodus.",
+    "en": "On Friday evening I'm always at home."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "___ käin karate trennis. (esmaspäev, every week)",
+    "answer": "Esmaspäeviti",
+    "accept": [
+     "esmaspäeviti"
+    ],
+    "en": "On Mondays I go to karate training."
+   },
+   {
+    "prompt": "Romeo mängib ___ jalgpalli. (laupäev, every week)",
+    "answer": "laupäeviti",
+    "accept": [],
+    "en": "Romeo plays football on Saturdays."
+   },
+   {
+    "prompt": "___ ja neljapäeviti käin esperanto keele kursusel. (teisipäev, every week)",
+    "answer": "Teisipäeviti",
+    "accept": [
+     "teisipäeviti"
+    ],
+    "en": "On Tuesdays and Thursdays I go to an Esperanto course."
+   },
+   {
+    "prompt": "___ käin karaokebaaris. (kolmapäev, every week)",
+    "answer": "Kolmapäeviti",
+    "accept": [
+     "kolmapäeviti"
+    ],
+    "en": "On Wednesdays I go to a karaoke bar."
+   },
+   {
+    "prompt": "Ta on ___ alati kodus. (reede, every week)",
+    "answer": "reedeti",
+    "accept": [],
+    "en": "On Fridays she is always at home."
+   },
+   {
+    "prompt": "Romeo käib ___ koosolekul. (teisipäev, every week)",
+    "answer": "teisipäeviti",
+    "accept": [],
+    "en": "Romeo goes to a meeting on Tuesdays."
+   },
+   {
+    "prompt": "___ käin poes. (neljapäev, every week)",
+    "answer": "Neljapäeviti",
+    "accept": [
+     "neljapäeviti"
+    ],
+    "en": "On Thursdays I go to the shop."
+   },
+   {
+    "prompt": "Ma magan ___ kaua. (pühapäev, every week)",
+    "answer": "pühapäeviti",
+    "accept": [],
+    "en": "On Sundays I sleep long."
+   },
+   {
+    "prompt": "Triinu ___ umbes kell üheksa. (ärkama)",
+    "answer": "ärkab",
+    "accept": [],
+    "en": "Triinu wakes up at about nine."
+   },
+   {
+    "prompt": "Siis ta ___ duši all. (käima)",
+    "answer": "käib",
+    "accept": [],
+    "en": "Then she takes a shower."
+   },
+   {
+    "prompt": "Ta ___ hambaid. (pesema)",
+    "answer": "peseb",
+    "accept": [],
+    "en": "She brushes her teeth."
+   },
+   {
+    "prompt": "Ta ___ riidesse. (panema)",
+    "answer": "paneb",
+    "accept": [],
+    "en": "She gets dressed."
+   },
+   {
+    "prompt": "Ta ___ bussiga tööle. (sõitma)",
+    "answer": "sõidab",
+    "accept": [],
+    "en": "She goes to work by bus."
+   },
+   {
+    "prompt": "Ma ___ kaks küpsist. (sööma)",
+    "answer": "söön",
+    "accept": [],
+    "en": "I eat two biscuits."
+   },
+   {
+    "prompt": "Ma ___ uudiseid internetist. (lugema)",
+    "answer": "loen",
+    "accept": [],
+    "en": "I read the news on the internet."
+   },
+   {
+    "prompt": "Ma ___ juukseid. (kammima)",
+    "answer": "kammin",
+    "accept": [],
+    "en": "I comb my hair."
+   },
+   {
+    "prompt": "Ma ___ kell seitse üles. (tõusma)",
+    "answer": "tõusen",
+    "accept": [],
+    "en": "I get up at seven."
+   },
+   {
+    "prompt": "Ta ___ natuke Facebookis. (istuma)",
+    "answer": "istub",
+    "accept": [],
+    "en": "She spends a little time on Facebook."
+   }
+  ]
+ },
+ {
+  "lesson": 13,
+  "id": "l13-allative-kellele",
+  "title": "Kellele? To whom: mulle, sulle, talle ... (+ külla minema / tulema)",
+  "explanation": "The ending <b>-le</b> answers <b>Kellele?</b> (to whom / for whom). Personal pronouns have special forms:<br><table><tr><th>who</th><th>to whom</th><th>who</th><th>to whom</th></tr><tr><td>mina</td><td><b>mulle</b></td><td>meie</td><td><b>meile</b></td></tr><tr><td>sina</td><td><b>sulle</b></td><td>teie</td><td><b>teile</b></td></tr><tr><td>tema</td><td><b>talle</b></td><td>nemad</td><td><b>neile</b></td></tr></table>Names and nouns: genitive (II form) + -le: <i>Anna → Annale, Jüri → Jürile, Albert → Albertile, ema → emale, sõber → sõbrale</i>.<br>Used with <i>helistama</i> (Helista mulle!), <i>külla minema / tulema</i> (Tule mulle külla!), <i>tooma, laenama, ostma</i>, and 'for you': <i>See on sulle!</i><br><b>külla minema</b> (go visiting): ma lähen, sa lähed, ta läheb, me läheme, te lähete, nad lähevad; ma ei lähe.<br><b>külla tulema</b> (come visiting): ma tulen, sa tuled, ta tuleb, me tuleme, te tulete, nad tulevad; ma ei tule.",
+  "examples": [
+   {
+    "et": "Helista mulle!",
+    "en": "Call me!"
+   },
+   {
+    "et": "Tule mulle pühapäeval külla!",
+    "en": "Come and visit me on Sunday!"
+   },
+   {
+    "et": "Pühapäeval lähen külla emale.",
+    "en": "On Sunday I'm going to visit my mother."
+   },
+   {
+    "et": "See väike purk mett on sulle!",
+    "en": "This little jar of honey is for you!"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Helista ___! (mina)",
+    "answer": "mulle",
+    "accept": [],
+    "en": "Call me!"
+   },
+   {
+    "prompt": "Ma helistan ___. (sina)",
+    "answer": "sulle",
+    "accept": [],
+    "en": "I'll call you."
+   },
+   {
+    "prompt": "Helista ___! (tema)",
+    "answer": "talle",
+    "accept": [],
+    "en": "Call him/her!"
+   },
+   {
+    "prompt": "Helista ___! (meie)",
+    "answer": "meile",
+    "accept": [],
+    "en": "Call us!"
+   },
+   {
+    "prompt": "Ma helistan ___. (teie)",
+    "answer": "teile",
+    "accept": [],
+    "en": "I'll call you (pl.)."
+   },
+   {
+    "prompt": "Helista ___! (nemad)",
+    "answer": "neile",
+    "accept": [],
+    "en": "Call them!"
+   },
+   {
+    "prompt": "Helista ___! (Anna)",
+    "answer": "Annale",
+    "accept": [
+     "annale"
+    ],
+    "en": "Call Anna!"
+   },
+   {
+    "prompt": "Helista ___! (Jüri)",
+    "answer": "Jürile",
+    "accept": [
+     "jürile"
+    ],
+    "en": "Call Jüri!"
+   },
+   {
+    "prompt": "Helista ___! (Albert)",
+    "answer": "Albertile",
+    "accept": [
+     "albertile"
+    ],
+    "en": "Call Albert!"
+   },
+   {
+    "prompt": "See väike purk mett on ___! (sina)",
+    "answer": "sulle",
+    "accept": [],
+    "en": "This little jar of honey is for you!"
+   },
+   {
+    "prompt": "Pühapäeval lähen külla ___. (ema)",
+    "answer": "emale",
+    "accept": [],
+    "en": "On Sunday I go to visit my mother."
+   },
+   {
+    "prompt": "Jõulude ajal lähen külla ___. (isa)",
+    "answer": "isale",
+    "accept": [],
+    "en": "At Christmas I visit my father."
+   },
+   {
+    "prompt": "Tule ___ külla! (mina)",
+    "answer": "mulle",
+    "accept": [],
+    "en": "Come and visit me!"
+   },
+   {
+    "prompt": "___ sa lähed külla? (kes → to whom)",
+    "answer": "Kellele",
+    "accept": [
+     "kellele"
+    ],
+    "en": "Whom are you going to visit?"
+   },
+   {
+    "prompt": "Me ___ teile külla. (minema)",
+    "answer": "läheme",
+    "accept": [],
+    "en": "We are going to visit you."
+   },
+   {
+    "prompt": "Nad ___ meile külla. (tulema)",
+    "answer": "tulevad",
+    "accept": [],
+    "en": "They are coming to visit us."
+   },
+   {
+    "prompt": "Kas te ___ laupäeval meile külla? (tulema)",
+    "answer": "tulete",
+    "accept": [],
+    "en": "Are you coming to visit us on Saturday?"
+   },
+   {
+    "prompt": "Kahjuks ma ___ külla. (minema, negative)",
+    "answer": "ei lähe",
+    "accept": [],
+    "en": "Unfortunately I'm not going visiting."
+   },
+   {
+    "prompt": "Eva ja Eduard ___ ka. (tulema)",
+    "answer": "tulevad",
+    "accept": [],
+    "en": "Eva and Eduard are coming too."
+   }
+  ]
+ },
+ {
+  "lesson": 13,
+  "id": "l13-conditional-polite",
+  "title": "Would you...? Conditional -ks (Kas sa tuleks mulle külla?)",
+  "explanation": "The conditional (<i>would</i>) = present stem (ma-form without -n) + <b>-ksin, -ksid, -ks, -ksime, -ksite, -ksid</b>. In speech the short form <b>-ks</b> is used for all persons.<br><table><tr><th>full</th><th>short</th></tr><tr><td>ma mängiksin</td><td>ma mängiks</td></tr><tr><td>sa mängiksid</td><td>sa mängiks</td></tr><tr><td>ta mängiks</td><td>ta mängiks</td></tr><tr><td>me mängiksime</td><td>me mängiks</td></tr><tr><td>te mängiksite</td><td>te mängiks</td></tr><tr><td>nad mängiksid</td><td>nad mängiks</td></tr></table>Negative: <b>ei + -ks</b> form for everyone: <i>ma ei mängiks</i>.<br>A polite request turns the imperative into a conditional question: <i>Tule mulle külla! → <b>Kas sa tuleks mulle külla?</b></i><br>More stems: tulen → tuleks, teen → teeks, laulan → laulaks, toon → tooks, joon → jooks, ostan → ostaks, lähen → läheks, olen → oleks (<i>See oleks tore!</i>).",
+  "examples": [
+   {
+    "et": "Kas sa tuleks mulle külla?",
+    "en": "Would you come and visit me?"
+   },
+   {
+    "et": "Kas sa teeks mulle pannkooke?",
+    "en": "Would you make me pancakes?"
+   },
+   {
+    "et": "See oleks tore!",
+    "en": "That would be nice!"
+   },
+   {
+    "et": "Ma ei mängiks täna.",
+    "en": "I wouldn't play today."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Tule mulle külla! → Kas sa ___ mulle külla? (tulema)",
+    "answer": "tuleks",
+    "accept": [
+     "tuleksid"
+    ],
+    "en": "Would you come and visit me?"
+   },
+   {
+    "prompt": "Tule minuga õhtul pubisse! → Kas sa ___ minuga õhtul pubisse? (tulema)",
+    "answer": "tuleks",
+    "accept": [
+     "tuleksid"
+    ],
+    "en": "Would you come to the pub with me tonight?"
+   },
+   {
+    "prompt": "Mängi mulle kitarri! → Kas sa ___ mulle kitarri? (mängima)",
+    "answer": "mängiks",
+    "accept": [
+     "mängiksid"
+    ],
+    "en": "Would you play the guitar for me?"
+   },
+   {
+    "prompt": "Tee mulle pannkooke! → Kas sa ___ mulle pannkooke? (tegema)",
+    "answer": "teeks",
+    "accept": [
+     "teeksid"
+    ],
+    "en": "Would you make me pancakes?"
+   },
+   {
+    "prompt": "Laula mulle unelaulu! → Kas sa ___ mulle unelaulu? (laulma)",
+    "answer": "laulaks",
+    "accept": [
+     "laulaksid"
+    ],
+    "en": "Would you sing me a lullaby?"
+   },
+   {
+    "prompt": "Too mulle kommi! → Kas sa ___ mulle kommi? (tooma)",
+    "answer": "tooks",
+    "accept": [
+     "tooksid"
+    ],
+    "en": "Would you bring me some sweets?"
+   },
+   {
+    "prompt": "Joo minuga homme hommikul kohvi! → Kas sa ___ minuga homme hommikul kohvi? (jooma)",
+    "answer": "jooks",
+    "accept": [
+     "jooksid"
+    ],
+    "en": "Would you have coffee with me tomorrow morning?"
+   },
+   {
+    "prompt": "Korista minu tuba! → Kas sa ___ minu tuba? (koristama)",
+    "answer": "koristaks",
+    "accept": [
+     "koristaksid"
+    ],
+    "en": "Would you tidy my room?"
+   },
+   {
+    "prompt": "Tantsi minuga! → Kas sa ___ minuga? (tantsima)",
+    "answer": "tantsiks",
+    "accept": [
+     "tantsiksid"
+    ],
+    "en": "Would you dance with me?"
+   },
+   {
+    "prompt": "Laena mulle viis eurot! → Kas sa ___ mulle viis eurot? (laenama)",
+    "answer": "laenaks",
+    "accept": [
+     "laenaksid"
+    ],
+    "en": "Would you lend me five euros?"
+   },
+   {
+    "prompt": "Osta mulle auto! → Kas sa ___ mulle auto? (ostma)",
+    "answer": "ostaks",
+    "accept": [
+     "ostaksid"
+    ],
+    "en": "Would you buy me a car?"
+   },
+   {
+    "prompt": "Helista mulle! → Kas sa ___ mulle? (helistama)",
+    "answer": "helistaks",
+    "accept": [
+     "helistaksid"
+    ],
+    "en": "Would you call me?"
+   },
+   {
+    "prompt": "See ___ tore! (olema)",
+    "answer": "oleks",
+    "accept": [],
+    "en": "That would be nice!"
+   },
+   {
+    "prompt": "Ma ___ hea meelega. (tulema; full form, I would)",
+    "answer": "tuleksin",
+    "accept": [
+     "tuleks"
+    ],
+    "en": "I would come with pleasure."
+   },
+   {
+    "prompt": "Me ___ lauamänge. (mängima; full form, we would)",
+    "answer": "mängiksime",
+    "accept": [
+     "mängiks"
+    ],
+    "en": "We would play board games."
+   },
+   {
+    "prompt": "Kas te ___ meile külla? (tulema; full form, you pl. would)",
+    "answer": "tuleksite",
+    "accept": [
+     "tuleks"
+    ],
+    "en": "Would you (pl.) come and visit us?"
+   },
+   {
+    "prompt": "Kahjuks ma ___. (tulema, negative conditional)",
+    "answer": "ei tuleks",
+    "accept": [],
+    "en": "Unfortunately I wouldn't come."
+   }
+  ]
+ },
+ {
+  "lesson": 13,
+  "id": "l13-quantity-partitive",
+  "title": "A jar of honey: container + partitive (purk mett)",
+  "explanation": "After a container or amount word (<b>purk</b> jar/can, <b>pudel</b> bottle, <b>karp</b> box, <b>tass</b> cup) the contents are in the <b>partitive (III form)</b>.<br><table><tr><th>I form</th><th>II form</th><th>III form</th><th>example</th></tr><tr><td>vein</td><td>veini</td><td>veini</td><td>pudel veini</td></tr><tr><td>moos</td><td>moosi</td><td>moosi</td><td>purk moosi</td></tr><tr><td>šokolaad</td><td>šokolaadi</td><td>šokolaadi</td><td>karp šokolaadi</td></tr><tr><td>konjak</td><td>konjaki</td><td>konjakit</td><td>pudel konjakit</td></tr><tr><td>šampus</td><td>šampuse</td><td>šampust</td><td>pudel šampust</td></tr><tr><td>jäätis</td><td>jäätise</td><td>jäätist</td><td>karp jäätist</td></tr><tr><td>mesi</td><td>mee</td><td>mett</td><td>purk mett</td></tr><tr><td>õlu</td><td>õlle</td><td>õlut</td><td>purk õlut</td></tr><tr><td>limonaad</td><td>limonaadi</td><td>limonaadi</td><td>pudel limonaadi</td></tr></table>Giving a present: <i>See väike purk mett on sulle! – Oi, mulle? Tänan!</i>",
+  "examples": [
+   {
+    "et": "See väike purk mett on sulle!",
+    "en": "This little jar of honey is for you!"
+   },
+   {
+    "et": "Mis ma kaasa võtan? – Pudel veini.",
+    "en": "What shall I bring? – A bottle of wine."
+   },
+   {
+    "et": "Laual on karp šokolaadi.",
+    "en": "There is a box of chocolate on the table."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "See pudel ___ on sulle! (vein)",
+    "answer": "veini",
+    "accept": [],
+    "en": "This bottle of wine is for you!"
+   },
+   {
+    "prompt": "See väike purk ___ on sulle! (mesi)",
+    "answer": "mett",
+    "accept": [],
+    "en": "This little jar of honey is for you!"
+   },
+   {
+    "prompt": "Mul on purk ___. (moos)",
+    "answer": "moosi",
+    "accept": [],
+    "en": "I have a jar of jam."
+   },
+   {
+    "prompt": "See karp ___ on sulle! (šokolaad)",
+    "answer": "šokolaadi",
+    "accept": [],
+    "en": "This box of chocolate is for you!"
+   },
+   {
+    "prompt": "Mul on pudel ___. (konjak)",
+    "answer": "konjakit",
+    "accept": [],
+    "en": "I have a bottle of cognac."
+   },
+   {
+    "prompt": "Kapis on pudel ___. (šampus)",
+    "answer": "šampust",
+    "accept": [],
+    "en": "There is a bottle of champagne in the cupboard."
+   },
+   {
+    "prompt": "Külmkapis on karp ___. (jäätis)",
+    "answer": "jäätist",
+    "accept": [],
+    "en": "There is a box of ice cream in the fridge."
+   },
+   {
+    "prompt": "Külmkapis on purk ___. (õlu)",
+    "answer": "õlut",
+    "accept": [],
+    "en": "There is a can of beer in the fridge."
+   },
+   {
+    "prompt": "Laual on pudel ___. (limonaad)",
+    "answer": "limonaadi",
+    "accept": [],
+    "en": "There is a bottle of lemonade on the table."
+   },
+   {
+    "prompt": "Mul on pudel ___. (vesi)",
+    "answer": "vett",
+    "accept": [],
+    "en": "I have a bottle of water."
+   },
+   {
+    "prompt": "Laual on tass ___. (kohv)",
+    "answer": "kohvi",
+    "accept": [],
+    "en": "There is a cup of coffee on the table."
+   },
+   {
+    "prompt": "Laual on tass ___. (tee)",
+    "answer": "teed",
+    "accept": [],
+    "en": "There is a cup of tea on the table."
+   },
+   {
+    "prompt": "Külmkapis on pudel ___. (piim)",
+    "answer": "piima",
+    "accept": [],
+    "en": "There is a bottle of milk in the fridge."
+   },
+   {
+    "prompt": "Mul on pudel ___. (mahl)",
+    "answer": "mahla",
+    "accept": [],
+    "en": "I have a bottle of juice."
+   },
+   {
+    "prompt": "Mis ma kaasa võtan? – Pudel ___. (vein)",
+    "answer": "veini",
+    "accept": [],
+    "en": "What shall I bring? – A bottle of wine."
+   },
+   {
+    "prompt": "Too mulle purk ___! (mesi)",
+    "answer": "mett",
+    "accept": [],
+    "en": "Bring me a jar of honey!"
+   }
+  ]
+ },
+ {
+  "lesson": 14,
+  "id": "l14-pean-hakkan-ma-inf",
+  "title": "Must: ma pean + MA-infinitive (also hakkan + MA)",
+  "explanation": "<b>pidama</b> = must, have to. It is followed by the <b>ma-infinitive</b>. <b>hakkama</b> (start, be going to) also takes the ma-infinitive.<br><table><tr><th>pidama</th><th>hakkama</th></tr><tr><td>ma pean</td><td>ma hakkan</td></tr><tr><td>sa pead</td><td>sa hakkad</td></tr><tr><td>ta peab</td><td>ta hakkab</td></tr><tr><td>me peame</td><td>me hakkame</td></tr><tr><td>te peate</td><td>te hakkate</td></tr><tr><td>nad peavad</td><td>nad hakkavad</td></tr><tr><td>ma ei pea</td><td>ma ei hakka</td></tr></table>From the ma-form to the ma-infinitive: <i>koristan → koristama, triigin → triikima, pesen → pesema, viin → viima, käin → käima, teen → tegema</i>.<br>Short answers: <i>Kas sa pead esmaspäeval autot parandama?</i> – <b>Jah, pean küll.</b> / <b>Ei, ei pea.</b>",
+  "examples": [
+   {
+    "et": "Ma pean remonti tegema.",
+    "en": "I have to do repairs."
+   },
+   {
+    "et": "Ma hakkan remonti tegema.",
+    "en": "I'm going to start renovating."
+   },
+   {
+    "et": "Kas sa pead esmaspäeval autot parandama? – Ei, ei pea.",
+    "en": "Do you have to repair the car on Monday? – No, I don't."
+   },
+   {
+    "et": "Nad peavad prügi välja viima.",
+    "en": "They have to take out the rubbish."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma ___ tuba koristama. (pidama)",
+    "answer": "pean",
+    "accept": [],
+    "en": "I have to tidy the room."
+   },
+   {
+    "prompt": "Sa ___ autot parandama. (pidama)",
+    "answer": "pead",
+    "accept": [],
+    "en": "You have to repair the car."
+   },
+   {
+    "prompt": "Ta ___ pesu triikima. (pidama)",
+    "answer": "peab",
+    "accept": [],
+    "en": "She has to iron the laundry."
+   },
+   {
+    "prompt": "Me ___ aknaid pesema. (pidama)",
+    "answer": "peame",
+    "accept": [],
+    "en": "We have to wash the windows."
+   },
+   {
+    "prompt": "Te ___ prügi välja viima. (pidama)",
+    "answer": "peate",
+    "accept": [],
+    "en": "You (pl.) have to take out the rubbish."
+   },
+   {
+    "prompt": "Nad ___ remonti tegema. (pidama)",
+    "answer": "peavad",
+    "accept": [],
+    "en": "They have to do repairs."
+   },
+   {
+    "prompt": "Kas sa ___ täna kööki koristama? (pidama)",
+    "answer": "pead",
+    "accept": [],
+    "en": "Do you have to clean the kitchen today?"
+   },
+   {
+    "prompt": "Kas sa pead esmaspäeval autot parandama? – Ei, ___. (pidama, negative)",
+    "answer": "ei pea",
+    "accept": [],
+    "en": "Do you have to repair the car on Monday? – No, I don't."
+   },
+   {
+    "prompt": "Kas sa pead täna süüa tegema? – Jah, ___ küll. (pidama)",
+    "answer": "pean",
+    "accept": [],
+    "en": "Do you have to cook today? – Yes, I do."
+   },
+   {
+    "prompt": "Ma pean täna süüa ___. (teen → ma-inf)",
+    "answer": "tegema",
+    "accept": [],
+    "en": "I have to cook today."
+   },
+   {
+    "prompt": "Ma pean prügi välja ___. (viin → ma-inf)",
+    "answer": "viima",
+    "accept": [],
+    "en": "I have to take out the rubbish."
+   },
+   {
+    "prompt": "Ma pean poes ___. (käin → ma-inf)",
+    "answer": "käima",
+    "accept": [],
+    "en": "I have to go to the shop."
+   },
+   {
+    "prompt": "Ma pean pesu ___. (triigin → ma-inf)",
+    "answer": "triikima",
+    "accept": [],
+    "en": "I have to iron the laundry."
+   },
+   {
+    "prompt": "Ma pean nõusid ___. (pesen → ma-inf)",
+    "answer": "pesema",
+    "accept": [],
+    "en": "I have to wash the dishes."
+   },
+   {
+    "prompt": "Nädalavahetusel hakkan remonti ___. (teen → ma-inf)",
+    "answer": "tegema",
+    "accept": [],
+    "en": "At the weekend I'm going to start renovating."
+   },
+   {
+    "prompt": "Ma hakkan asju ___. (sorteerin → ma-inf)",
+    "answer": "sorteerima",
+    "accept": [],
+    "en": "I'm going to start sorting things."
+   },
+   {
+    "prompt": "Ta ___ köögis remonti tegema. (hakkama)",
+    "answer": "hakkab",
+    "accept": [],
+    "en": "He is going to start renovating the kitchen."
+   }
+  ]
+ },
+ {
+  "lesson": 14,
+  "id": "l14-vaja-da-inf",
+  "title": "Mul on vaja / meeldib / oskan / tahan + DA-infinitive",
+  "explanation": "These expressions take the <b>da-infinitive</b>:<ul><li><b>mul on vaja</b> (I need to) – <i>Mul on vaja remonti teha.</i></li><li><b>mulle meeldib</b> (I like to) – <i>Mulle meeldib remonti teha.</i></li><li><b>ma oskan</b> (I can, know how) – <i>Ma oskan remonti teha.</i></li><li><b>ma tahan</b> (I want to) – <i>Ma tahan remonti teha.</i></li></ul>But <b>ma pean</b> and <b>ma hakkan</b> take the <b>ma-infinitive</b>: <i>Ma pean remonti tegema.</i><br><table><tr><th>MA-form</th><th>DA-form</th></tr><tr><td>koristama</td><td>koristada</td></tr><tr><td>parandama</td><td>parandada</td></tr><tr><td>sorteerima</td><td>sorteerida</td></tr><tr><td>triikima</td><td>triikida</td></tr><tr><td>pesema</td><td>pesta</td></tr><tr><td>viima</td><td>viia</td></tr><tr><td>käima</td><td>käia</td></tr><tr><td>tegema</td><td>teha</td></tr><tr><td>õppima</td><td>õppida</td></tr><tr><td>jalutama</td><td>jalutada</td></tr></table>Short answers: <i>Kas sul on vaja ...?</i> – <b>Jah, on küll vaja.</b> / <b>Ei, ei ole vaja.</b>",
+  "examples": [
+   {
+    "et": "Mul on vaja nõusid pesta.",
+    "en": "I need to wash the dishes."
+   },
+   {
+    "et": "Mulle meeldib süüa teha.",
+    "en": "I like cooking."
+   },
+   {
+    "et": "Kas sa oskad autot parandada?",
+    "en": "Can you repair a car?"
+   },
+   {
+    "et": "Ma pean tuba koristama, aga mul ei ole vaja aknaid pesta.",
+    "en": "I have to tidy the room, but I don't need to wash the windows."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Mul on vaja nõusid ___. (pesema)",
+    "answer": "pesta",
+    "accept": [],
+    "en": "I need to wash the dishes."
+   },
+   {
+    "prompt": "Mul on vaja tuba ___. (koristama)",
+    "answer": "koristada",
+    "accept": [],
+    "en": "I need to tidy the room."
+   },
+   {
+    "prompt": "Mulle meeldib süüa ___. (tegema)",
+    "answer": "teha",
+    "accept": [],
+    "en": "I like cooking."
+   },
+   {
+    "prompt": "Ma oskan autot ___. (parandama)",
+    "answer": "parandada",
+    "accept": [],
+    "en": "I can repair a car."
+   },
+   {
+    "prompt": "Mul on vaja prügi välja ___. (viima)",
+    "answer": "viia",
+    "accept": [],
+    "en": "I need to take out the rubbish."
+   },
+   {
+    "prompt": "Mulle ei meeldi poes ___. (käima)",
+    "answer": "käia",
+    "accept": [],
+    "en": "I don't like going shopping."
+   },
+   {
+    "prompt": "Mul on vaja pesu ___. (triikima)",
+    "answer": "triikida",
+    "accept": [],
+    "en": "I need to iron the laundry."
+   },
+   {
+    "prompt": "Ma tahan täna asju ___. (sorteerima)",
+    "answer": "sorteerida",
+    "accept": [],
+    "en": "I want to sort things today."
+   },
+   {
+    "prompt": "Ma ei taha täna õhtul aknaid ___. (pesema)",
+    "answer": "pesta",
+    "accept": [],
+    "en": "I don't want to wash the windows tonight."
+   },
+   {
+    "prompt": "Kas sa oskad jalgratast ___? (parandama)",
+    "answer": "parandada",
+    "accept": [],
+    "en": "Can you fix a bicycle?"
+   },
+   {
+    "prompt": "Kas sulle meeldib WC-d ___? (koristama)",
+    "answer": "koristada",
+    "accept": [],
+    "en": "Do you like cleaning the toilet?"
+   },
+   {
+    "prompt": "Mul on vaja vannitoas remonti ___. (tegema)",
+    "answer": "teha",
+    "accept": [],
+    "en": "I need to renovate the bathroom."
+   },
+   {
+    "prompt": "Kas sul on vaja esmaspäeviti eesti keelt ___? (õppima)",
+    "answer": "õppida",
+    "accept": [],
+    "en": "Do you need to study Estonian on Mondays?"
+   },
+   {
+    "prompt": "Mul on vaja koeraga ___. (jalutama)",
+    "answer": "jalutada",
+    "accept": [],
+    "en": "I need to walk the dog."
+   },
+   {
+    "prompt": "Ma pean kassi ___. (pesema)",
+    "answer": "pesema",
+    "accept": [],
+    "en": "I have to wash the cat."
+   },
+   {
+    "prompt": "Mul on vaja kassi ___. (pesema)",
+    "answer": "pesta",
+    "accept": [],
+    "en": "I need to wash the cat."
+   },
+   {
+    "prompt": "Ma hakkan pesu ___. (pesema)",
+    "answer": "pesema",
+    "accept": [],
+    "en": "I'm going to start doing the laundry."
+   },
+   {
+    "prompt": "Kas sul on vaja autot parandada? – Ei, ___ vaja. (olema, negative)",
+    "answer": "ei ole",
+    "accept": [],
+    "en": "Do you need to repair the car? – No, there's no need."
+   }
+  ]
+ },
+ {
+  "lesson": 15,
+  "id": "l15-clothes-partitive",
+  "title": "Mul ei ole punast kleiti: adjective + noun in the partitive",
+  "explanation": "With <b>Mul on ...</b> the thing is in the nominative (I form). With the negative <b>Mul ei ole ...</b> and with <b>kandma</b> (to wear) it is in the <b>partitive (III form)</b>. The adjective takes the <b>same case</b> as the noun.<br><i>Jah, mul on <b>punane kleit</b>. – Ei, mul ei ole <b>punast kleiti</b>. – Ma kannan kodus <b>ruudulist pidžaamat</b>.</i><br><table><tr><th>I form</th><th>II form</th><th>III form</th></tr><tr><td>punane</td><td>punase</td><td>punast</td></tr><tr><td>sinine</td><td>sinise</td><td>sinist</td></tr><tr><td>triibuline</td><td>triibulise</td><td>triibulist</td></tr><tr><td>valge</td><td>valge</td><td>valget</td></tr><tr><td>roosa</td><td>roosa</td><td>roosat</td></tr><tr><td>kirju</td><td>kirju</td><td>kirjut</td></tr><tr><td>must</td><td>musta</td><td>musta</td></tr><tr><td>pikk</td><td>pika</td><td>pikka</td></tr><tr><td>kleit</td><td>kleidi</td><td>kleiti</td></tr><tr><td>seelik</td><td>seeliku</td><td>seelikut</td></tr><tr><td>ülikond</td><td>ülikonna</td><td>ülikonda</td></tr><tr><td>mantel</td><td>mantli</td><td>mantlit</td></tr><tr><td>jope</td><td>jope</td><td>jopet</td></tr></table>",
+  "examples": [
+   {
+    "et": "Kas sinu riidekapis on punane lips? – Ei, ei ole.",
+    "en": "Is there a red tie in your wardrobe? – No, there isn't."
+   },
+   {
+    "et": "Ei, mul ei ole punast kleiti.",
+    "en": "No, I don't have a red dress."
+   },
+   {
+    "et": "Ma kannan kodus ruudulist pidžaamat.",
+    "en": "At home I wear checked pyjamas."
+   },
+   {
+    "et": "Jah, mul on väike must kleit.",
+    "en": "Yes, I have a little black dress."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ei, mul ei ole ___. (punane kleit)",
+    "answer": "punast kleiti",
+    "accept": [],
+    "en": "No, I don't have a red dress."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (sinine seelik)",
+    "answer": "sinist seelikut",
+    "accept": [],
+    "en": "No, I don't have a blue skirt."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (must ülikond)",
+    "answer": "musta ülikonda",
+    "accept": [],
+    "en": "No, I don't have a black suit."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (valge T-särk)",
+    "answer": "valget T-särki",
+    "accept": [],
+    "en": "No, I don't have a white T-shirt."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (roosa pluus)",
+    "answer": "roosat pluusi",
+    "accept": [],
+    "en": "No, I don't have a pink blouse."
+   },
+   {
+    "prompt": "Ma kannan kodus ___. (ruuduline pidžaama)",
+    "answer": "ruudulist pidžaamat",
+    "accept": [],
+    "en": "At home I wear checked pyjamas."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (triibuline lips)",
+    "answer": "triibulist lipsu",
+    "accept": [],
+    "en": "No, I don't have a striped tie."
+   },
+   {
+    "prompt": "Ma kannan ___. (kollane jope)",
+    "answer": "kollast jopet",
+    "accept": [],
+    "en": "I'm wearing a yellow jacket."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (täpiline kleit)",
+    "answer": "täpilist kleiti",
+    "accept": [],
+    "en": "No, I don't have a polka-dot dress."
+   },
+   {
+    "prompt": "Ta kannab ___. (hall müts)",
+    "answer": "halli mütsi",
+    "accept": [],
+    "en": "He is wearing a grey hat."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (pruun mantel)",
+    "answer": "pruuni mantlit",
+    "accept": [],
+    "en": "No, I don't have a brown coat."
+   },
+   {
+    "prompt": "Ma kannan ___. (lilla sall)",
+    "answer": "lillat salli",
+    "accept": [],
+    "en": "I'm wearing a purple scarf."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (pikk seelik)",
+    "answer": "pikka seelikut",
+    "accept": [],
+    "en": "No, I don't have a long skirt."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (roheline kampsun)",
+    "answer": "rohelist kampsunit",
+    "accept": [],
+    "en": "No, I don't have a green sweater."
+   },
+   {
+    "prompt": "Ta kannab ___. (kirju kleit)",
+    "answer": "kirjut kleiti",
+    "accept": [],
+    "en": "She is wearing a colourful dress."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (oranž müts)",
+    "answer": "oranži mütsi",
+    "accept": [],
+    "en": "No, I don't have an orange hat."
+   },
+   {
+    "prompt": "Ma kannan ___. (lilleline seelik)",
+    "answer": "lillelist seelikut",
+    "accept": [],
+    "en": "I'm wearing a flowery skirt."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (väike must kleit)",
+    "answer": "väikest musta kleiti",
+    "accept": [],
+    "en": "No, I don't have a little black dress."
+   }
+  ]
+ },
+ {
+  "lesson": 15,
+  "id": "l15-genitive-ga",
+  "title": "With blue sneakers: -ga with adjective + noun (siniste tennistega)",
+  "explanation": "<b>-ga</b> (with) is added to the <b>genitive (II form)</b>. The adjective is also in the genitive, but only the <b>last word</b> gets <b>-ga</b>.<br>Singular: <i>punane kleit → punase kleidi → <b>punase kleidiga</b></i>; <i>must ülikond → <b>musta ülikonnaga</b></i>.<br>Plural: plural genitive (mitmuse II vorm) + -ga: <i>sinised tennised → siniste tenniste → <b>siniste tennistega</b></i>.<br><table><tr><th>mitmuse I vorm</th><th>mitmuse II vorm</th></tr><tr><td>rohelised kingad</td><td>roheliste kingade</td></tr><tr><td>kollased plätud</td><td>kollaste plätude</td></tr><tr><td>sinised sokid</td><td>siniste sokkide</td></tr><tr><td>sinised tennised</td><td>siniste tenniste</td></tr><tr><td>triibulised kindad</td><td>triibuliste kinnaste</td></tr><tr><td>ruudulised püksid</td><td>ruuduliste pükste</td></tr><tr><td>õhukesed sukkpüksid</td><td>õhukeste sukkpükste</td></tr><tr><td>täpilised kummikud</td><td>täpiliste kummikute</td></tr><tr><td>mustad teksad</td><td>mustade teksade</td></tr><tr><td>lillad sussid</td><td>lillade susside</td></tr><tr><td>roosad prillid</td><td>roosade prillide</td></tr><tr><td>hallid dressid</td><td>hallide dresside</td></tr><tr><td>pruunid saapad</td><td>pruunide saabaste</td></tr><tr><td>valged tossud</td><td>valgete tossude</td></tr><tr><td>kirjud ujumisriided</td><td>kirjude ujumisriiete</td></tr></table><b>sobima + -ga</b> = to go with: <i>Roosa seelik sobib siniste sokkidega. Lilla lips ei sobi roheliste kingadega.</i>",
+  "examples": [
+   {
+    "et": "Lähen peole siniste tennistega.",
+    "en": "I'm going to the party in blue sneakers."
+   },
+   {
+    "et": "Roosa seelik sobib siniste sokkidega.",
+    "en": "A pink skirt goes with blue socks."
+   },
+   {
+    "et": "Lilla lips ei sobi roheliste kingadega.",
+    "en": "A purple tie doesn't go with green shoes."
+   },
+   {
+    "et": "Lähen ööklubisse punase kleidiga.",
+    "en": "I'm going to the nightclub in a red dress."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Lähen peole ___. (sinised tennised)",
+    "answer": "siniste tennistega",
+    "accept": [],
+    "en": "I'm going to the party in blue sneakers."
+   },
+   {
+    "prompt": "Roosa seelik sobib ___. (sinised sokid)",
+    "answer": "siniste sokkidega",
+    "accept": [],
+    "en": "A pink skirt goes with blue socks."
+   },
+   {
+    "prompt": "Lilla lips ei sobi ___. (rohelised kingad)",
+    "answer": "roheliste kingadega",
+    "accept": [],
+    "en": "A purple tie doesn't go with green shoes."
+   },
+   {
+    "prompt": "Lähen randa ___. (kollased plätud)",
+    "answer": "kollaste plätudega",
+    "accept": [],
+    "en": "I'm going to the beach in yellow flip-flops."
+   },
+   {
+    "prompt": "Lähen metsa ___. (täpilised kummikud)",
+    "answer": "täpiliste kummikutega",
+    "accept": [],
+    "en": "I'm going to the forest in polka-dot rubber boots."
+   },
+   {
+    "prompt": "Lähen ööklubisse ___. (mustad teksad)",
+    "answer": "mustade teksadega",
+    "accept": [],
+    "en": "I'm going to the nightclub in black jeans."
+   },
+   {
+    "prompt": "Ta on kodus ___. (lillad sussid)",
+    "answer": "lillade sussidega",
+    "accept": [],
+    "en": "She is at home in purple slippers."
+   },
+   {
+    "prompt": "Lähen trenni ___. (hallid dressid)",
+    "answer": "hallide dressidega",
+    "accept": [],
+    "en": "I'm going to training in a grey tracksuit."
+   },
+   {
+    "prompt": "Lähen metsa ___. (pruunid saapad)",
+    "answer": "pruunide saabastega",
+    "accept": [],
+    "en": "I'm going to the forest in brown boots."
+   },
+   {
+    "prompt": "Lähen tööle ___. (valged tossud)",
+    "answer": "valgete tossudega",
+    "accept": [],
+    "en": "I'm going to work in white trainers."
+   },
+   {
+    "prompt": "Lähen randa ___. (kirjud ujumisriided)",
+    "answer": "kirjude ujumisriietega",
+    "accept": [],
+    "en": "I'm going to the beach in colourful swimwear."
+   },
+   {
+    "prompt": "Lähen teatrisse ___. (õhukesed sukkpüksid)",
+    "answer": "õhukeste sukkpükstega",
+    "accept": [],
+    "en": "I'm going to the theatre in thin tights."
+   },
+   {
+    "prompt": "Mees ___ on minu isa. (roosad prillid)",
+    "answer": "roosade prillidega",
+    "accept": [],
+    "en": "The man with pink glasses is my father."
+   },
+   {
+    "prompt": "Lähen metsa ___. (triibulised kindad)",
+    "answer": "triibuliste kinnastega",
+    "accept": [],
+    "en": "I'm going to the forest in striped gloves."
+   },
+   {
+    "prompt": "Lähen teatrisse ___. (ruudulised püksid)",
+    "answer": "ruuduliste pükstega",
+    "accept": [],
+    "en": "I'm going to the theatre in checked trousers."
+   },
+   {
+    "prompt": "Lähen ööklubisse ___. (punane kleit)",
+    "answer": "punase kleidiga",
+    "accept": [],
+    "en": "I'm going to the nightclub in a red dress."
+   },
+   {
+    "prompt": "Lähen teatrisse ___. (must ülikond)",
+    "answer": "musta ülikonnaga",
+    "accept": [],
+    "en": "I'm going to the theatre in a black suit."
+   },
+   {
+    "prompt": "Valge T-särk sobib ___. (sinine seelik)",
+    "answer": "sinise seelikuga",
+    "accept": [],
+    "en": "A white T-shirt goes with a blue skirt."
+   },
+   {
+    "prompt": "Lähen peole ___. (sinine särk)",
+    "answer": "sinise särgiga",
+    "accept": [],
+    "en": "I'm going to the party in a blue shirt."
+   }
+  ]
+ }
+]

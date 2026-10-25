@@ -1,0 +1,926 @@
+[
+ {
+  "lesson": 1,
+  "title": "Bob Browni pass (adapted from the passport card)",
+  "text_et": "Minu eesnimi on Bob ja minu perekonnanimi on Brown. Ma olen austraallane. Ma olen pärit Austraaliast, Canberrast. Minu sünnipäev on seitsmeteistkümnendal oktoobril. Ma olen 57 aastat vana. Ma elan Jõhvis, Kirsi tänaval. Ma elan kaheksandal korrusel. Ma räägin inglise keelt, prantsuse keelt ja eesti keelt. Ma olen filmirežissöör. Ma olen karismaatiline, ebatavaline ja rahutu. Mulle meeldib tangot tantsida ja muusikat kuulata.",
+  "text_en": "My first name is Bob and my surname is Brown. I am Australian. I am from Australia, from Canberra. My birthday is on the 17th of October. I am 57 years old. I live in Jõhvi, on Kirsi Street. I live on the eighth floor. I speak English, French and Estonian. I am a film director. I am charismatic, unusual and restless. I like dancing the tango and listening to music.",
+  "questions": [
+   {
+    "q": "Kust Bob pärit on?",
+    "options": [
+     "Eestist",
+     "Austraaliast",
+     "Prantsusmaalt",
+     "Inglismaalt"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitmendal korrusel Bob elab?",
+    "options": [
+     "kolmandal",
+     "viiendal",
+     "kaheksandal",
+     "kümnendal"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Millal on Bobi sünnipäev?",
+    "options": [
+     "17. oktoobril",
+     "7. oktoobril",
+     "17. augustil",
+     "27. oktoobril"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mis on Bobi amet?",
+    "options": [
+     "õpetaja",
+     "arst",
+     "filmirežissöör",
+     "muusik"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis Bobile meeldib?",
+    "options": [
+     "süüa teha",
+     "tangot tantsida",
+     "jalgpalli mängida",
+     "ujuda"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 1,
+  "title": "Kas sulle meeldib? Kas sa oskad? (questions and short answers)",
+  "text_et": "A: Tere! Kas sa oskad eesti keelt?\nB: Jah, oskan küll. Natuke.\nA: Kas sa räägid ka vene keelt?\nB: Ei, ei räägi. Aga ma oskan hispaania keelt.\nA: Kas sulle meeldib kinos käia?\nB: Jah, meeldib küll! Mulle meeldib märulifilme vaadata.\nA: Kas sa oskad ujuda?\nB: Ei, ei oska. Aga mulle meeldib saunas käia.",
+  "text_en": "A: Hello! Do you know Estonian?\nB: Yes, I do. A little.\nA: Do you speak Russian too?\nB: No, I don't. But I know Spanish.\nA: Do you like going to the cinema?\nB: Yes, I do! I like watching action films.\nA: Can you swim?\nB: No, I can't. But I like going to the sauna.",
+  "questions": [
+   {
+    "q": "Kas B räägib vene keelt?",
+    "options": [
+     "Jah, räägib küll.",
+     "Ei, ei räägi."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis keelt B veel oskab?",
+    "options": [
+     "jaapani keelt",
+     "hispaania keelt",
+     "prantsuse keelt",
+     "saksa keelt"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis filme B-le meeldib vaadata?",
+    "options": [
+     "multifilme",
+     "märulifilme",
+     "Netflixis filme",
+     "vanu filme"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas B oskab ujuda?",
+    "options": [
+     "Jah, oskab küll.",
+     "Ei, ei oska."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 2,
+  "title": "Mida tähendab VIP? (listening dialogue; gaps reconstructed)",
+  "text_et": "Triinu: Kuule! Mida tähendab VIP?\nPaul: Kuidas palun?\nTriinu: Mida tähendab VIP? Ma ei saa aru.\nPaul: See on inglise keeles very important person.\nTriinu: Jah. Ja eesti keeles? Ma ei oska inglise keelt.\nPaul: Eesti keeles väga tähtis persoon.\nTriinu: Hmm.\nPaul: Nagu sina. Sina oled väga tähtis persoon.\nTriinu: Jaa, muidugi!",
+  "text_en": "Triinu: Hey! What does VIP mean?\nPaul: Pardon?\nTriinu: What does VIP mean? I don't understand.\nPaul: In English it's 'very important person'.\nTriinu: Yes. And in Estonian? I don't know English.\nPaul: In Estonian, 'väga tähtis persoon'.\nTriinu: Hmm.\nPaul: Like you. You are a very important person.\nTriinu: Yes, of course!",
+  "questions": [
+   {
+    "q": "Mida Triinu küsib?",
+    "options": [
+     "Mis kell on?",
+     "Mida tähendab VIP?",
+     "Kus Paul elab?",
+     "Mis Pauli nimi on?"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas Triinu oskab inglise keelt?",
+    "options": [
+     "Jah, oskab küll.",
+     "Ei, ei oska."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What does 'väga tähtis persoon' mean?",
+    "options": [
+     "very interesting person",
+     "very important person",
+     "very nice person",
+     "very busy person"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which phrase means 'Pardon?'",
+    "options": [
+     "Kuidas palun?",
+     "Kas nii?",
+     "Just!",
+     "Selge!"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "lesson": 2,
+  "title": "Mis su e-posti aadress on? (listening dialogue; addresses invented)",
+  "text_et": "Paul: Mis su e-posti aadress on?\nTriinu: triinu.tamm@mail.ee.\nPaul: Mida? Korda palun!\nTriinu: triinu punkt tamm ät mail punkt ee.\nPaul: Tänan.\nTriinu: Ja mis sinu e-posti aadress on?\nPaul: Minu e-post on: paul.kask@mail.ee.\nTriinu: Oota! Ütle uuesti!\nPaul: paul punkt kask ät mail punkt ee.\nTriinu: Kas nii?\nPaul: Just, õige!",
+  "text_en": "Paul: What's your e-mail address?\nTriinu: triinu.tamm@mail.ee.\nPaul: What? Repeat, please!\nTriinu: triinu dot tamm at mail dot ee.\nPaul: Thanks.\nTriinu: And what's your e-mail address?\nPaul: My e-mail is paul.kask@mail.ee.\nTriinu: Wait! Say it again!\nPaul: paul dot kask at mail dot ee.\nTriinu: Like this?\nPaul: Exactly, right!",
+  "questions": [
+   {
+    "q": "What does 'Korda palun!' mean?",
+    "options": [
+     "Wait, please!",
+     "Repeat, please!",
+     "Write, please!",
+     "Thank you!"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What does Triinu say when she wants Paul to say it again?",
+    "options": [
+     "Kas nii?",
+     "Ütle uuesti!",
+     "Tänan.",
+     "Just, õige!"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "How does Paul confirm that Triinu wrote it correctly?",
+    "options": [
+     "Ma ei saa aru.",
+     "Kuidas palun?",
+     "Just, õige!",
+     "Oota!"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 3,
+  "title": "Kes elavad selles majas?",
+  "text_et": "Selles majas on kümme korrust. Esimesel korrusel elab Uku koos oma koeraga. Uku peal elab Külli. Ta elab üksi. Maarja elab viiendal korrusel. Tema elab ka üksi. Maarja all elab Alo ja Maarja peal elab Jüri koos oma emaga. Alo all elab Riho. Üheksandal korrusel elab Hasso, aga praegu ta ei ole Eestis. Ta on Hispaanias. Hasso all elavad Anne ja Tõnu. Nad on abielus. Anne ja Tõnu all elab Tiina koos oma kassiga. Kümnendal korrusel on pööning. Seal elab üks nahkhiir.",
+  "text_en": "This building has ten floors. Uku lives on the first floor with his dog. Külli lives above Uku. She lives alone. Maarja lives on the fifth floor. She also lives alone. Alo lives below Maarja, and Jüri lives above Maarja with his mother. Riho lives below Alo. Hasso lives on the ninth floor, but at the moment he is not in Estonia. He is in Spain. Anne and Tõnu live below Hasso. They are married. Tiina lives below Anne and Tõnu with her cat. On the tenth floor there is an attic. A bat lives there.",
+  "questions": [
+   {
+    "q": "Kes elab teisel korrusel?",
+    "options": [
+     "Uku",
+     "Külli",
+     "Riho",
+     "Alo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitmendal korrusel elab Riho?",
+    "options": [
+     "kolmandal",
+     "neljandal",
+     "teisel",
+     "kuuendal"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mitmendal korrusel elab Jüri?",
+    "options": [
+     "neljandal",
+     "viiendal",
+     "kuuendal",
+     "seitsmendal"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kes elab seitsmendal korrusel?",
+    "options": [
+     "Tiina ja kass",
+     "Anne ja Tõnu",
+     "Hasso",
+     "Maarja"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kus on Hasso praegu?",
+    "options": [
+     "Eestis",
+     "Soomes",
+     "Hispaanias",
+     "Itaalias"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kes elab kümnendal korrusel?",
+    "options": [
+     "Hasso",
+     "nahkhiir",
+     "Uku koer",
+     "keegi ei ela"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 3,
+  "title": "Minu unistuste maja",
+  "text_et": "Mul on uus kodu. Ma elan nüüd peaaegu maal. Minu aadress on Seene tänav üheksateist. See siin on minu maja. Majas on kaks korrust: esimene korrus ja teine korrus. Esimesel korrusel on väike esik ja koridor. Esimesel korrusel on veel elutuba ja töötuba ja köök. Teisel korrusel on suur magamistuba ning vannituba ja WC. Mul on ka ilus rõdu ja suur kelder. Keldris on minu kodukino, jõusaal ja raamatukogu. Ja mul on maja taga aed! Aias on suured õunapuud. Sügisel ma teen õunaveini. Ma olen nii õnnelik! Minu maja on väga suur – koos garaažiga 140 ruutmeetrit! Minu maja on valge, aga katus on pruun. Minu maja lähedal on park, toidupood ja järv.",
+  "text_en": "I have a new home. I now live almost in the countryside. My address is 19 Seene Street. This here is my house. The house has two floors: the first floor and the second floor. On the first floor there is a small entrance hall and a corridor. On the first floor there is also a living room, a study and a kitchen. On the second floor there is a big bedroom, a bathroom and a toilet. I also have a beautiful balcony and a big cellar. In the cellar there is my home cinema, a gym and a library. And I have a garden behind the house! In the garden there are big apple trees. In autumn I make apple wine. I'm so happy! My house is very big – 140 square metres including the garage! My house is white, but the roof is brown. Near my house there is a park, a grocery store and a lake.",
+  "questions": [
+   {
+    "q": "Mis tänaval ta elab?",
+    "options": [
+     "Kirsi tänaval",
+     "Seene tänaval",
+     "Marja tänaval",
+     "Pargi tänaval"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitu korrust majas on?",
+    "options": [
+     "üks",
+     "kaks",
+     "kolm",
+     "kümme"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitmendal korrusel on magamistuba?",
+    "options": [
+     "esimesel",
+     "teisel",
+     "keldris",
+     "kolmandal"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis on keldris?",
+    "options": [
+     "köök ja WC",
+     "kodukino, jõusaal ja raamatukogu",
+     "garaaž",
+     "magamistuba"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis värvi on maja katus?",
+    "options": [
+     "valge",
+     "punane",
+     "pruun",
+     "must"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kui suur on maja koos garaažiga?",
+    "options": [
+     "40 ruutmeetrit",
+     "104 ruutmeetrit",
+     "140 ruutmeetrit",
+     "90 ruutmeetrit"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 4,
+  "title": "Üürile anda: uus korter kesklinnas",
+  "text_et": "ÜÜRILE ANDA UUS KORTER KESKLINNAS\nKorter asub kesklinnas, lähedal on kauplus, kool, lasteaed ja turg. Lähedal on ka meri. Korteris on magamistuba, elutuba ja väike köök.\nHind: 350 eurot kuus. Korrus: 5. Üldpind: 34 m². Ehitusaasta: 2020. Tubade arv: 2 (magamistuba ja elutuba). WC ja vannituba koos, köök 8 m².\nLisainfo: parkimine tasuta, digi-TV, internet, elektripliit, trepikoda lukus, dušš, uus mööbel, lifti ei ole.",
+  "text_en": "NEW FLAT IN THE CITY CENTRE FOR RENT\nThe flat is in the city centre; nearby there is a shop, a school, a kindergarten and a market. The sea is also nearby. The flat has a bedroom, a living room and a small kitchen.\nPrice: 350 euros a month. Floor: 5. Total area: 34 m². Year built: 2020. Number of rooms: 2 (bedroom and living room). Toilet and bathroom together, kitchen 8 m².\nAdditional info: free parking, digital TV, internet, electric stove, locked stairwell, shower, new furniture, no lift.",
+  "questions": [
+   {
+    "q": "Kui suur on üür?",
+    "options": [
+     "250 eurot kuus",
+     "350 eurot kuus",
+     "700 eurot kuus",
+     "34 eurot kuus"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitmendal korrusel korter on?",
+    "options": [
+     "esimesel",
+     "kolmandal",
+     "viiendal",
+     "kaheksandal"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mitu tuba on korteris?",
+    "options": [
+     "üks",
+     "kaks",
+     "kolm",
+     "neli"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas majas on lift?",
+    "options": [
+     "Jah, on küll.",
+     "Ei, ei ole."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis on korteri lähedal?",
+    "options": [
+     "kaubanduskeskus ja kino",
+     "kauplus, kool, lasteaed ja turg",
+     "lennujaam",
+     "mets ja järv"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 4,
+  "title": "Üürile anda: ilus korter vanas majas",
+  "text_et": "ÜÜRILE ANDA ILUS KORTER VANAS MAJAS\nKorter asub äärelinnas, kesklinna umbes 45 minutit autoga, lähedal on uus kaubanduskeskus, kino, park, mänguväljak. Korteris on 4 tuba, moodne köök ja suur esik, vannituba, WC.\nHind: 700 eurot kuus. Korrus: 1. Üldpind: 90 m². Ehitusaasta: 1920. Tubade arv: 4 (2 magamistuba, elutuba, töötuba). WC ja vannituba eraldi.\nLisainfo: digi-TV, internet, gaasipliit, trepikoda lukus, vann ja dušikabiin, naaber on sõbralik.",
+  "text_en": "BEAUTIFUL FLAT IN AN OLD BUILDING FOR RENT\nThe flat is in the suburbs, about 45 minutes by car to the city centre; nearby there is a new shopping centre, a cinema, a park and a playground. The flat has 4 rooms, a modern kitchen and a big entrance hall, bathroom and toilet.\nPrice: 700 euros a month. Floor: 1. Total area: 90 m². Year built: 1920. Number of rooms: 4 (2 bedrooms, living room, study). Toilet and bathroom separate.\nAdditional info: digital TV, internet, gas stove, locked stairwell, bathtub and shower cabin, the neighbour is friendly.",
+  "questions": [
+   {
+    "q": "Kus korter asub?",
+    "options": [
+     "kesklinnas",
+     "äärelinnas",
+     "vanalinnas",
+     "maal"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis on ehitusaasta?",
+    "options": [
+     "2020",
+     "1933",
+     "1920",
+     "1990"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mul on kolm last ja koer. Kumb korter sobib mulle?",
+    "options": [
+     "korter kesklinnas",
+     "korter vanas majas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Ma töötan kodukontoris. Kumb korter sobib mulle?",
+    "options": [
+     "korter kesklinnas",
+     "korter vanas majas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis pliit on köögis?",
+    "options": [
+     "elektripliit",
+     "gaasipliit"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 5,
+  "title": "Loe ja joonista! (a room)",
+  "text_et": "Toa keskel on väike voodi. Nurgas on suur kass. Seinal on vana foto. Akna all on jalgratas. Põrandal on ilus vaip. Laes on moodne lamp. Ukse juures on nagi.",
+  "text_en": "In the middle of the room there is a small bed. In the corner there is a big cat. On the wall there is an old photo. Under the window there is a bicycle. On the floor there is a beautiful rug. On the ceiling there is a modern lamp. By the door there is a coat rack.",
+  "questions": [
+   {
+    "q": "Mis on toa keskel?",
+    "options": [
+     "suur kass",
+     "väike voodi",
+     "jalgratas",
+     "nagi"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kus on kass?",
+    "options": [
+     "voodi peal",
+     "nurgas",
+     "akna all",
+     "ukse juures"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis on akna all?",
+    "options": [
+     "vaip",
+     "foto",
+     "jalgratas",
+     "lamp"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kus on nagi?",
+    "options": [
+     "seinal",
+     "laes",
+     "ukse juures",
+     "toa keskel"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What does 'Laes on moodne lamp' mean?",
+    "options": [
+     "There is a modern lamp on the ceiling.",
+     "There is a modern lamp on the floor.",
+     "There is an old lamp on the wall.",
+     "The lamp is next to the bed."
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "lesson": 6,
+  "title": "Horoskoop (four signs)",
+  "text_et": "JÄÄR (21. märts – 20. aprill). Jäär on väga ambitsioonikas ja töökas. Ta on alati tööl ja talle väga meeldib töötada. Kodus on jäär mõnikord laisk, talle ei meeldi koristada. Ta võiks töötada poliitikuna.\nSÕNN (21. aprill – 21. mai). Sõnn on väga sportlik ja sõbralik. Talle meeldib trennis käia ja puuvilja süüa. Sõnn on tugev nagu Kalevipoeg! Ta võiks töötada personaaltreenerina.\nVÄHK (22. juuni – 23. juuli). Vähk on vaikne ja intelligentne. Talle meeldib raamatuid lugeda ja üksinda kunstinäitusel käia. Ta võiks töötada professorina.\nKALJUKITS (22. detsember – 20. jaanuar). Kaljukits on julge ja temperamentne. Talle meeldib jalgpalli mängida ja pärast saunas käia. Talle meeldib ka talvel meres ujuda. Ta võiks töötada kaskadöörina.",
+  "text_en": "ARIES (21 March – 20 April). Aries is very ambitious and hard-working. He/She is always at work and really likes working. At home Aries is sometimes lazy and doesn't like cleaning. He/She could work as a politician.\nTAURUS (21 April – 21 May). Taurus is very sporty and friendly. He/She likes going to training and eating fruit. Taurus is as strong as Kalevipoeg! He/She could work as a personal trainer.\nCANCER (22 June – 23 July). Cancer is quiet and intelligent. He/She likes reading books and going to art exhibitions alone. He/She could work as a professor.\nCAPRICORN (22 December – 20 January). Capricorn is brave and temperamental. He/She likes playing football and going to the sauna afterwards. He/She also likes swimming in the sea in winter. He/She could work as a stuntman.",
+  "questions": [
+   {
+    "q": "Missugune on jäär kodus?",
+    "options": [
+     "töökas",
+     "mõnikord laisk",
+     "väga sportlik",
+     "vaikne"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis sõnnile meeldib?",
+    "options": [
+     "raamatuid lugeda",
+     "trennis käia ja puuvilja süüa",
+     "jalgpalli mängida",
+     "koristada"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Missugune on vähk?",
+    "options": [
+     "julge ja temperamentne",
+     "vaikne ja intelligentne",
+     "sportlik ja sõbralik",
+     "ambitsioonikas ja töökas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kes võiks töötada kaskadöörina?",
+    "options": [
+     "jäär",
+     "sõnn",
+     "vähk",
+     "kaljukits"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Millal meeldib kaljukitsele meres ujuda?",
+    "options": [
+     "suvel",
+     "talvel",
+     "kevadel",
+     "sügisel"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 7,
+  "title": "Kas sa oled abielus? (listening dialogue; gaps reconstructed)",
+  "text_et": "Triinu: Kas sa oled abielus?\nPaul: Jah, olen küll.\nTriinu: Mis su naise nimi on?\nPaul: Janne.\nTriinu: Päriselt? See on väga ilus nimi! Kas te olete õnnelikud?\nPaul: Jah! Me oleme väga õnnelikud. Kas sina oled abielus?\nTriinu: Ei, ei ole. Aga mul on poiss-sõber juba pool aastat. Me elame koos.\nPaul: Mis su poiss-sõbra nimi on?\nTriinu: Tead, tema nimi on ka Janne.\nPaul: Janne? Aga Janne on ju naise nimi.\nTriinu: Ma tean. Aga tema on mees. Minu Janne on soomlane.\nPaul: Huvitav!",
+  "text_en": "Triinu: Are you married?\nPaul: Yes, I am.\nTriinu: What's your wife's name?\nPaul: Janne.\nTriinu: Really? That's a very beautiful name! Are you happy?\nPaul: Yes! We are very happy. Are you married?\nTriinu: No, I'm not. But I've had a boyfriend for half a year already. We live together.\nPaul: What's your boyfriend's name?\nTriinu: You know, his name is Janne too.\nPaul: Janne? But Janne is a woman's name.\nTriinu: I know. But he is a man. My Janne is a Finn.\nPaul: Interesting!",
+  "questions": [
+   {
+    "q": "Kas Paul on abielus?",
+    "options": [
+     "Jah, on küll.",
+     "Ei, ei ole."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mis on Pauli naise nimi?",
+    "options": [
+     "Jaanika",
+     "Janne",
+     "Triinu",
+     "Janek"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas Triinu on abielus?",
+    "options": [
+     "Jah, on küll.",
+     "Ei, ei ole."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui kaua on Triinul poiss-sõber?",
+    "options": [
+     "üks aasta",
+     "pool aastat",
+     "kaks aastat",
+     "üks kuu"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis rahvusest on Triinu poiss-sõber?",
+    "options": [
+     "eestlane",
+     "lätlane",
+     "soomlane",
+     "venelane"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 7,
+  "title": "Rollikaardid: Indrek, Karin ja Jaanus",
+  "text_et": "Minu nimi on Indrek. Ma olen 45 aastat vana. Ma elan Tallinnas. Minu aadress on Marja tänav 17. Mul on kaks tütart ja üks poeg. Ma olen abielus. Ma töötan haiglas, olen arst ja minu naine on meditsiiniõde.\n\nMina olen Karin. Ma olen 12 aastat vana. Ma käin koolis. Mul on üks õde, tema on 8 aastat vana, ja mul on üks vend. Minu vend õpib Tartu Ülikoolis. Ta elab Tartus. Minu ema on meditsiiniõde. Minu isa on arst.\n\nMina olen Jaanus. Ma olen 19 aastat vana. Ma elan praegu Tartus, aga ma olen pärit Tallinnast. Tallinnas elavad minu vanemad ja kaks õde. Minu isa on arst ja minu ema on meditsiiniõde. Mina õpin Tartu Ülikoolis füüsikat.",
+  "text_en": "My name is Indrek. I am 45 years old. I live in Tallinn. My address is 17 Marja Street. I have two daughters and one son. I am married. I work in a hospital, I'm a doctor and my wife is a nurse.\n\nI am Karin. I am 12 years old. I go to school. I have one sister, she is 8 years old, and I have one brother. My brother studies at the University of Tartu. He lives in Tartu. My mother is a nurse. My father is a doctor.\n\nI am Jaanus. I am 19 years old. I live in Tartu now, but I'm from Tallinn. My parents and two sisters live in Tallinn. My father is a doctor and my mother is a nurse. I study physics at the University of Tartu.",
+  "questions": [
+   {
+    "q": "Mitu last on Indrekul?",
+    "options": [
+     "kaks",
+     "kolm",
+     "neli",
+     "üks"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kus Indrek töötab?",
+    "options": [
+     "koolis",
+     "ülikoolis",
+     "haiglas",
+     "poes"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kui vana on Karini õde?",
+    "options": [
+     "8 aastat",
+     "12 aastat",
+     "19 aastat",
+     "45 aastat"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mida Jaanus õpib?",
+    "options": [
+     "eesti keelt",
+     "füüsikat",
+     "meditsiini",
+     "muusikat"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kes on Jaanuse isa?",
+    "options": [
+     "Indrek",
+     "Karin",
+     "Tarmo",
+     "Leo"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "lesson": 8,
+  "title": "Mida sa tavaliselt iseseisvuspäeval teed?",
+  "text_et": "Eesti iseseisvuspäeval ma ei tööta ja tavaliselt ma olen kodus. Ma ärkan vara ja lähen hommikul Toompeale. Ma laulan seal Eesti hümni. Käin kohvikus ja söön hernesuppi. Siis ma jalutan linnas ja vaatan paraadi. Siis ma sõidan bussiga koju. Käin toidupoes ja ostan süüa. Kodus teen süüa. Ma ei korista, sest on pidupäev! Pärastlõunal kuulan natuke klassikalist muusikat, istun arvutis ja loen uudiseid. Võib-olla magan natuke. Õhtul vaatan televiisorit ja kuulan presidendi kõnet. Joon šampust ja söön kiluvõileiba. Helistan emale ja soovin: „Head vabariigi aastapäeva!”",
+  "text_en": "On Estonian Independence Day I don't work and usually I'm at home. I wake up early and in the morning I go to Toompea. There I sing the Estonian anthem. I go to a café and eat pea soup. Then I walk around town and watch the parade. Then I go home by bus. I go to the grocery store and buy food. At home I cook. I don't clean, because it's a holiday! In the afternoon I listen to a little classical music, sit at the computer and read the news. Maybe I sleep a little. In the evening I watch TV and listen to the president's speech. I drink champagne and eat a sprat sandwich. I call my mother and wish her 'Happy anniversary of the Republic!'",
+  "questions": [
+   {
+    "q": "Kuhu ta hommikul läheb?",
+    "options": [
+     "tööle",
+     "Toompeale",
+     "toidupoodi",
+     "emale külla"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida ta kohvikus sööb?",
+    "options": [
+     "kiluvõileiba",
+     "hernesuppi",
+     "jäätist",
+     "kooki"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Miks ta ei korista?",
+    "options": [
+     "Ta on väsinud.",
+     "Ta on haige.",
+     "On pidupäev.",
+     "Ta ei ole kodus."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mida ta õhtul kuulab?",
+    "options": [
+     "presidendi kõnet",
+     "rokkmuusikat",
+     "raadiot",
+     "emat"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kellele ta helistab?",
+    "options": [
+     "sõbrale",
+     "kolleegile",
+     "emale",
+     "vennale"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 8,
+  "title": "Meie pere traditsioonid",
+  "text_et": "Sünnipäeva hommikul me helistame emale. Sünnipäeva hommikul me laulame emale sünnipäevalaulu. Sünnipäeva õhtul läheme emale külla. Sünnipäeval kingime emale lilled. Sünnipäeval kirjutame kolleegile sünnipäevakaardi. Jõulude ajal saadame vanaemale jõulukaardi. Jõulude ajal soovime emale ja isale „Häid pühi!”.",
+  "text_en": "On the morning of the birthday we call mother. On the morning of the birthday we sing mother a birthday song. On the evening of the birthday we go to visit mother. On the birthday we give mother flowers. On a birthday we write a colleague a birthday card. At Christmas we send grandmother a Christmas card. At Christmas we wish mother and father 'Happy holidays!'.",
+  "questions": [
+   {
+    "q": "Kellele nad saadavad jõulukaardi?",
+    "options": [
+     "emale",
+     "vanaemale",
+     "kolleegile",
+     "isale"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida nad kingivad emale sünnipäeval?",
+    "options": [
+     "šokolaadi",
+     "raamatu",
+     "lilled",
+     "jõulukaardi"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mida nad soovivad jõulude ajal?",
+    "options": [
+     "Palju õnne!",
+     "Head reisi!",
+     "Häid pühi!",
+     "Head isu!"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Millal nad lähevad emale külla?",
+    "options": [
+     "sünnipäeva hommikul",
+     "sünnipäeva õhtul",
+     "jõulude ajal",
+     "nädalavahetusel"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 9,
+  "title": "Loe! Leia õige pilt! (descriptions)",
+  "text_et": "A. Tal on habe ja vuntsid ja tal on prillid. Ta on kiilakas.\nB. Tal on pruunid silmad ja lühikesed tumedad juuksed. Tal on prillid.\nC. Tal on sinised silmad ja lühikesed hallid juuksed. Tal on vuntsid, habe ja prillid.\nD. Tal on hallid silmad ja lühikesed lokkis hallid juuksed. Tal on prillid.\nE. Tal on pruunid silmad ja lühikesed tumedad juuksed. Tal on ainult vuntsid.\nG. Tal on pruunid silmad ja tumedad poolpikad väga lokkis juuksed.\nH. Tal on sinised silmad ja pikad punased lokkis juuksed.\nI. Tal on helepruunid silmad ja pikad helepruunid juuksed. Tal on tukk ja hobusesaba.",
+  "text_en": "A. This person has a beard and a moustache and wears glasses. He is bald.\nB. This person has brown eyes and short dark hair and wears glasses.\nC. This person has blue eyes and short grey hair, a moustache, a beard and glasses.\nD. This person has grey eyes and short curly grey hair and wears glasses.\nE. This person has brown eyes and short dark hair, and only a moustache.\nG. This person has brown eyes and dark, medium-length, very curly hair.\nH. This person has blue eyes and long red curly hair.\nI. This person has light brown eyes and long light brown hair, with a fringe and a ponytail.",
+  "questions": [
+   {
+    "q": "Kes on kiilakas?",
+    "options": [
+     "A",
+     "B",
+     "D",
+     "H"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kellel on pikad punased lokkis juuksed?",
+    "options": [
+     "D",
+     "G",
+     "H",
+     "I"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kellel on tukk ja hobusesaba?",
+    "options": [
+     "C",
+     "E",
+     "G",
+     "I"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Mis värvi silmad on C-l?",
+    "options": [
+     "pruunid",
+     "sinised",
+     "hallid",
+     "rohelised"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What does 'Tal on ainult vuntsid' mean?",
+    "options": [
+     "He only has a beard.",
+     "He only has a moustache.",
+     "He only has glasses.",
+     "He has no hair."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 10,
+  "title": "Kliendikaart (listening dialogue; gaps partly reconstructed)",
+  "text_et": "Klient: Tere!\nTeenindaja: Tere! Kas teil kliendikaart on?\nKlient: Ei, ei ole.\nTeenindaja: Kas te soovite kliendikaarti?\nKlient: Võib-olla. Kui palju see maksab?\nTeenindaja: See on tasuta.\nKlient: Väga hea! Siis muidugi soovin.\nTeenindaja: Täitke palun see ankeet!\nKlient: Oi, ma ei näe. Mu prillid on kodus.\nTeenindaja: Pole midagi! Siia kirjutage oma eesnimi! Siia kirjutage perekonnanimi! Ja siia kirjutage palun e-posti aadress! Siia kirjutage palun kuupäev! Ja siia kirjutage allkiri!\nKlient: Hästi!\nTeenindaja: Tänan. Palun, siin on teie kliendikaart.\nKlient: Väga hea! Aitäh! Nägemist!",
+  "text_en": "Customer: Hello!\nAssistant: Hello! Do you have a loyalty card?\nCustomer: No, I don't.\nAssistant: Would you like a loyalty card?\nCustomer: Maybe. How much does it cost?\nAssistant: It's free.\nCustomer: Very good! Then of course I'd like one.\nAssistant: Please fill in this form!\nCustomer: Oh, I can't see. My glasses are at home.\nAssistant: Never mind! Write your first name here! Write your surname here! And please write your e-mail address here! Please write the date here! And write your signature here!\nCustomer: Fine!\nAssistant: Thank you. Here is your loyalty card.\nCustomer: Very good! Thank you! Goodbye!",
+  "questions": [
+   {
+    "q": "Kas kliendil on kliendikaart?",
+    "options": [
+     "Jah, on küll.",
+     "Ei, ei ole."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui palju kliendikaart maksab?",
+    "options": [
+     "5 eurot",
+     "10 eurot",
+     "See on tasuta.",
+     "1 euro"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kus on kliendi prillid?",
+    "options": [
+     "tööl",
+     "kodus",
+     "autos",
+     "poes"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What does 'Pole midagi!' mean here?",
+    "options": [
+     "Nothing is there.",
+     "Never mind! / No problem!",
+     "I have nothing.",
+     "It's closed."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 10,
+  "title": "Raamatupood (shop sign from the workbook; last sentence added)",
+  "text_et": "RAAMATUPOOD – 2. KORRUS\nAVATUD E–R 10.00–18.00\nL, P SULETUD\n\nRaamatupood asub teisel korrusel. Pood on avatud esmaspäevast reedeni kümnest kuueni. Laupäeval ja pühapäeval on raamatupood suletud. Toidupood asub esimesel korrusel ja on avatud iga päev kaheksast üheksani.",
+  "text_en": "BOOKSHOP – 2ND FLOOR\nOPEN MON–FRI 10.00–18.00\nSAT, SUN CLOSED\n\nThe bookshop is on the second floor. The shop is open from Monday to Friday from ten to six. On Saturday and Sunday the bookshop is closed. The grocery store is on the first floor and is open every day from eight to nine.",
+  "questions": [
+   {
+    "q": "Mitmendal korrusel asub raamatupood?",
+    "options": [
+     "esimesel",
+     "teisel",
+     "kolmandal",
+     "viiendal"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas raamatupood on laupäeval avatud?",
+    "options": [
+     "Jah, on küll.",
+     "Ei, ei ole."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis kellast on raamatupood esmaspäeval avatud?",
+    "options": [
+     "kaheksast",
+     "üheksast",
+     "kümnest",
+     "kuuest"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis kellani on raamatupood esmaspäeval avatud?",
+    "options": [
+     "viieni",
+     "kuueni",
+     "seitsmeni",
+     "kümneni"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Millal on toidupood avatud?",
+    "options": [
+     "esmaspäevast reedeni",
+     "iga päev kaheksast üheksani",
+     "laupäeval ja pühapäeval",
+     "kümnest kuueni"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

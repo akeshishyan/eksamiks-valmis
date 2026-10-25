@@ -1,0 +1,1473 @@
+[
+ {
+  "lesson": 21,
+  "id": "l21-comparative-kui",
+  "title": "Comparing: 'julgem kui' (braver than)",
+  "explanation": "To compare two things, use the <b>comparative</b> + <b>kui</b> (than). The comparative is built on the <b>genitive (II form)</b> + <b>-m</b>: <i>suur → suure → suurem</i>.<br>In short (two-syllable) genitives the last vowel <b>-a/-u</b> becomes <b>-e</b>: <i>tark → targa → targem, nõrk → nõrga → nõrgem, pikk → pika → pikem, vana → vanem</i>. Longer words just add -m: <i>rumala → rumalam, tugeva → tugevam</i>.<br><table><tr><th>I form</th><th>II form</th><th>Comparative</th></tr><tr><td>julge</td><td>julge</td><td>julgem</td></tr><tr><td>kiire</td><td>kiire</td><td>kiirem</td></tr><tr><td>suur</td><td>suure</td><td>suurem</td></tr><tr><td>rumal</td><td>rumala</td><td>rumalam</td></tr><tr><td>tugev</td><td>tugeva</td><td>tugevam</td></tr><tr><td>tark</td><td>targa</td><td>targem</td></tr><tr><td>nõrk</td><td>nõrga</td><td>nõrgem</td></tr><tr><td>arg</td><td>ara</td><td>arem</td></tr><tr><td>laisk</td><td>laisa</td><td>laisem</td></tr><tr><td>väike</td><td>väikse</td><td>väiksem</td></tr><tr><td>aeglane</td><td>aeglase</td><td>aeglasem</td></tr><tr><td>töökas</td><td>tööka</td><td>töökam</td></tr></table>Irregular: <b>hea → parem</b>, <b>lühike → lühem</b>. Superlative = <b>kõige</b> + comparative: <i>kõige suurem</i> (the biggest).",
+  "examples": [
+   {
+    "et": "Jänes on nõrgem kui siil, aga siil on targem kui jänes.",
+    "en": "The hare is weaker than the hedgehog, but the hedgehog is cleverer than the hare."
+   },
+   {
+    "et": "Ma olen julgem kui karu.",
+    "en": "I am braver than a bear."
+   },
+   {
+    "et": "Rebane on suurem kui siil.",
+    "en": "The fox is bigger than the hedgehog."
+   },
+   {
+    "et": "Liblikas on ilusam kui kärbes.",
+    "en": "A butterfly is prettier than a fly."
+   },
+   {
+    "et": "Karu on kõige tugevam.",
+    "en": "The bear is the strongest."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma olen ___ kui karu. (julge)",
+    "answer": "julgem",
+    "accept": [],
+    "en": "I am braver than a bear."
+   },
+   {
+    "prompt": "Hobune on ___ kui siil. (kiire)",
+    "answer": "kiirem",
+    "accept": [],
+    "en": "The horse is faster than the hedgehog."
+   },
+   {
+    "prompt": "Põder on ___ kui jänes. (suur)",
+    "answer": "suurem",
+    "accept": [],
+    "en": "The elk is bigger than the hare."
+   },
+   {
+    "prompt": "Kana on ___ kui koer. (rumal)",
+    "answer": "rumalam",
+    "accept": [],
+    "en": "The hen is sillier than the dog."
+   },
+   {
+    "prompt": "Karu on ___ kui hunt. (tugev)",
+    "answer": "tugevam",
+    "accept": [],
+    "en": "The bear is stronger than the wolf."
+   },
+   {
+    "prompt": "Siil on ___ kui jänes. (tark)",
+    "answer": "targem",
+    "accept": [],
+    "en": "The hedgehog is cleverer than the hare."
+   },
+   {
+    "prompt": "Jänes on ___ kui siil. (nõrk)",
+    "answer": "nõrgem",
+    "accept": [],
+    "en": "The hare is weaker than the hedgehog."
+   },
+   {
+    "prompt": "Jänes on ___ kui rebane. (arg)",
+    "answer": "arem",
+    "accept": [],
+    "en": "The hare is more timid than the fox."
+   },
+   {
+    "prompt": "Minu kass on ___ kui minu koer. (laisk)",
+    "answer": "laisem",
+    "accept": [],
+    "en": "My cat is lazier than my dog."
+   },
+   {
+    "prompt": "Hiir on ___ kui kass. (väike)",
+    "answer": "väiksem",
+    "accept": [],
+    "en": "A mouse is smaller than a cat."
+   },
+   {
+    "prompt": "Siil on ___ kui orav. (aeglane)",
+    "answer": "aeglasem",
+    "accept": [],
+    "en": "The hedgehog is slower than the squirrel."
+   },
+   {
+    "prompt": "Sipelgas on ___ kui kärbes. (töökas)",
+    "answer": "töökam",
+    "accept": [],
+    "en": "The ant is more hard-working than the fly."
+   },
+   {
+    "prompt": "Liblikas on ___ kui kärbes. (ilus)",
+    "answer": "ilusam",
+    "accept": [],
+    "en": "The butterfly is prettier than the fly."
+   },
+   {
+    "prompt": "Uss on ___ kui konn. (pikk)",
+    "answer": "pikem",
+    "accept": [],
+    "en": "The snake is longer than the frog."
+   },
+   {
+    "prompt": "Minu vend on ___ kui mina. (vana)",
+    "answer": "vanem",
+    "accept": [],
+    "en": "My brother is older than me."
+   },
+   {
+    "prompt": "Sooduspilet on ___ kui täispilet. (odav)",
+    "answer": "odavam",
+    "accept": [],
+    "en": "A discount ticket is cheaper than a full ticket."
+   },
+   {
+    "prompt": "Minu ema on ___ kokk kui mina. (hea)",
+    "answer": "parem",
+    "accept": [],
+    "en": "My mother is a better cook than me."
+   },
+   {
+    "prompt": "Minu tööpäev on ___ kui sinu tööpäev. (lühike)",
+    "answer": "lühem",
+    "accept": [],
+    "en": "My working day is shorter than yours."
+   }
+  ]
+ },
+ {
+  "lesson": 21,
+  "id": "l21-antonyms-eba",
+  "title": "Opposites: the prefix eba- and antonym pairs",
+  "explanation": "Many adjectives form their opposite with the prefix <b>eba-</b> (un-, im-): <i>viisakas → ebaviisakas</i> (polite → rude), <i>sõbralik → ebasõbralik, sportlik → ebasportlik, tavaline → ebatavaline</i>. The word is declined like the base word: <i>ebaviisakas, ebaviisaka, ebaviisakat</i>.<br>Other opposites are separate words and must be learnt in pairs:<br><table><tr><td>julge – arg</td><td>tark – rumal (loll)</td></tr><tr><td>rõõmus – kurb</td><td>õnnelik – õnnetu</td></tr><tr><td>ilus – inetu</td><td>huvitav – igav</td></tr><tr><td>vaikne – jutukas</td><td>töökas – laisk</td></tr><tr><td>rahulik – rahutu</td><td>optimistlik – pessimistlik</td></tr><tr><td>odav – kallis</td><td>pikk – lühike</td></tr><tr><td>noor – vana</td><td>uus – vana</td></tr><tr><td>suur – väike</td><td>tugev – nõrk</td></tr><tr><td>kiire – aeglane</td><td></td></tr></table>Useful answer pattern: <i>Kas sa oled jutukas inimene? – Ei, ei ole. Ma olen vaikne inimene.</i>",
+  "examples": [
+   {
+    "et": "Ta ei ole viisakas, ta on ebaviisakas.",
+    "en": "He isn't polite, he is rude."
+   },
+   {
+    "et": "Kas sa oled sportlik inimene? – Ei, ei ole. Ma olen ebasportlik inimene.",
+    "en": "Are you a sporty person? – No. I'm an unsporty person."
+   },
+   {
+    "et": "Jänes ei ole julge, jänes on arg.",
+    "en": "The hare isn't brave, the hare is timid."
+   },
+   {
+    "et": "Minu arvates on siil armas, mitte inetu.",
+    "en": "In my opinion the hedgehog is cute, not ugly."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ta ei ole viisakas, ta on ___. (eba- + viisakas)",
+    "answer": "ebaviisakas",
+    "accept": [],
+    "en": "He isn't polite, he's rude."
+   },
+   {
+    "prompt": "Ma ei ole sportlik, ma olen ___. (eba- + sportlik)",
+    "answer": "ebasportlik",
+    "accept": [],
+    "en": "I'm not sporty, I'm unsporty."
+   },
+   {
+    "prompt": "See koer ei ole sõbralik, see on ___. (eba- + sõbralik)",
+    "answer": "ebasõbralik",
+    "accept": [],
+    "en": "This dog isn't friendly, it's unfriendly."
+   },
+   {
+    "prompt": "See ei ole tavaline loom, see on ___ loom. (eba- + tavaline)",
+    "answer": "ebatavaline",
+    "accept": [],
+    "en": "It isn't an ordinary animal, it's an unusual animal."
+   },
+   {
+    "prompt": "Jänes ei ole julge, jänes on ___. (opposite of julge)",
+    "answer": "arg",
+    "accept": [],
+    "en": "The hare isn't brave, the hare is timid."
+   },
+   {
+    "prompt": "Ma ei ole kurb, ma olen ___. (opposite of kurb)",
+    "answer": "rõõmus",
+    "accept": [],
+    "en": "I'm not sad, I'm cheerful."
+   },
+   {
+    "prompt": "Film ei olnud huvitav, film oli ___. (opposite of huvitav)",
+    "answer": "igav",
+    "accept": [],
+    "en": "The film wasn't interesting, it was boring."
+   },
+   {
+    "prompt": "Ta ei ole jutukas, ta on ___. (opposite of jutukas)",
+    "answer": "vaikne",
+    "accept": [],
+    "en": "She isn't talkative, she's quiet."
+   },
+   {
+    "prompt": "Kass ei ole töökas, kass on ___. (opposite of töökas)",
+    "answer": "laisk",
+    "accept": [],
+    "en": "The cat isn't hard-working, the cat is lazy."
+   },
+   {
+    "prompt": "Ta ei ole õnnetu, ta on ___. (opposite of õnnetu)",
+    "answer": "õnnelik",
+    "accept": [],
+    "en": "She isn't unhappy, she's happy."
+   },
+   {
+    "prompt": "Täispilet ei ole odav, see on ___. (opposite of odav)",
+    "answer": "kallis",
+    "accept": [],
+    "en": "The full ticket isn't cheap, it's expensive."
+   },
+   {
+    "prompt": "Koer ei ole rahutu, koer on ___. (opposite of rahutu)",
+    "answer": "rahulik",
+    "accept": [],
+    "en": "The dog isn't restless, the dog is calm."
+   },
+   {
+    "prompt": "Ma ei ole pessimistlik, ma olen ___. (opposite of pessimistlik)",
+    "answer": "optimistlik",
+    "accept": [],
+    "en": "I'm not pessimistic, I'm optimistic."
+   },
+   {
+    "prompt": "Minu vanaema ei ole noor, ta on ___. (opposite of noor)",
+    "answer": "vana",
+    "accept": [],
+    "en": "My grandmother isn't young, she's old."
+   },
+   {
+    "prompt": "Siil ei ole kiire, siil on ___. (opposite of kiire)",
+    "answer": "aeglane",
+    "accept": [],
+    "en": "The hedgehog isn't fast, it's slow."
+   },
+   {
+    "prompt": "Karu ei ole nõrk, karu on ___. (opposite of nõrk)",
+    "answer": "tugev",
+    "accept": [],
+    "en": "The bear isn't weak, the bear is strong."
+   },
+   {
+    "prompt": "Minu tööpäev ei ole pikk, see on ___. (opposite of pikk)",
+    "answer": "lühike",
+    "accept": [],
+    "en": "My working day isn't long, it's short."
+   }
+  ]
+ },
+ {
+  "lesson": 22,
+  "id": "l22-perfect-kainud",
+  "title": "Present perfect: 'Kas sa oled kunagi ... käinud?'",
+  "explanation": "The present perfect (<b>täisminevik</b>) = present of <b>olema</b> + the <b>-nud</b> participle. It talks about experience up to now, often with <b>kunagi</b> (ever).<br><table><tr><td>Mina olen</td><td rowspan='6'>laulupeol käinud</td></tr><tr><td>Sina oled</td></tr><tr><td>Tema on</td></tr><tr><td>Meie oleme</td></tr><tr><td>Teie olete</td></tr><tr><td>Nemad on</td></tr></table>Negative: <b>ei ole + -nud</b> for every person: <i>Ma ei ole kunagi laulupeol käinud.</i><br>The -nud form comes from the ma-infinitive stem: <i>käima → käinud, töötama → töötanud, elama → elanud, õppima → õppinud</i>. Learn the irregular ones: <i>tegema → teinud, nägema → näinud, sööma → söönud, jooma → joonud, vaatama → vaadanud, minema → läinud, tulema → tulnud, olema → olnud</i>.<br>Compare with the simple past for a finished, dated event: <i>Millal sa viimati kinos käisid? – Viimati ma käisin kinos detsembris.</i>",
+  "examples": [
+   {
+    "et": "Kas sa oled kunagi laulupeol käinud? – Jah, olen küll.",
+    "en": "Have you ever been to the song festival? – Yes, I have."
+   },
+   {
+    "et": "Ma ei ole kunagi kanuumatkal käinud.",
+    "en": "I have never been on a canoe trip."
+   },
+   {
+    "et": "Kellena sa varem oled töötanud? – Ma olen töötanud müüjana.",
+    "en": "What have you worked as before? – I have worked as a shop assistant."
+   },
+   {
+    "et": "Millal sa viimati teatris käisid? – Eile.",
+    "en": "When did you last go to the theatre? – Yesterday."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Kas sa oled kunagi rokikontserdil ___? (käima)",
+    "answer": "käinud",
+    "accept": [],
+    "en": "Have you ever been to a rock concert?"
+   },
+   {
+    "prompt": "Kas sa ___ kunagi laulupeol käinud? (olema)",
+    "answer": "oled",
+    "accept": [],
+    "en": "Have you ever been to the song festival?"
+   },
+   {
+    "prompt": "Jah, ma ___ laulupeol käinud. (olema)",
+    "answer": "olen",
+    "accept": [],
+    "en": "Yes, I have been to the song festival."
+   },
+   {
+    "prompt": "Ei, ma ei ___ kunagi jõululaadal käinud. (olema)",
+    "answer": "ole",
+    "accept": [],
+    "en": "No, I have never been to a Christmas fair."
+   },
+   {
+    "prompt": "Meie ___ kanuumatkal käinud. (olema)",
+    "answer": "oleme",
+    "accept": [],
+    "en": "We have been on a canoe trip."
+   },
+   {
+    "prompt": "Paul ___ kunagi jalgpallivõistlusel käinud. (olema)",
+    "answer": "on",
+    "accept": [],
+    "en": "Paul has been to a football match at some point."
+   },
+   {
+    "prompt": "Kellena sa varem oled ___? (töötama)",
+    "answer": "töötanud",
+    "accept": [],
+    "en": "What have you worked as before?"
+   },
+   {
+    "prompt": "Ma olen Tartus kaks aastat ___. (elama)",
+    "answer": "elanud",
+    "accept": [],
+    "en": "I have lived in Tartu for two years."
+   },
+   {
+    "prompt": "Kas sa oled kunagi põtra ___? (nägema)",
+    "answer": "näinud",
+    "accept": [],
+    "en": "Have you ever seen an elk?"
+   },
+   {
+    "prompt": "Kas sa oled kunagi Eesti leiba ___? (sööma)",
+    "answer": "söönud",
+    "accept": [],
+    "en": "Have you ever eaten Estonian rye bread?"
+   },
+   {
+    "prompt": "Ma ei ole kunagi keefirit ___. (jooma)",
+    "answer": "joonud",
+    "accept": [],
+    "en": "I have never drunk kefir."
+   },
+   {
+    "prompt": "Kas sa oled seda filmi ___? (vaatama)",
+    "answer": "vaadanud",
+    "accept": [],
+    "en": "Have you watched this film?"
+   },
+   {
+    "prompt": "Ma olen eesti keelt kaks aastat ___. (õppima)",
+    "answer": "õppinud",
+    "accept": [],
+    "en": "I have studied Estonian for two years."
+   },
+   {
+    "prompt": "Kas sa oled kunagi kama ___? (tegema)",
+    "answer": "teinud",
+    "accept": [],
+    "en": "Have you ever made kama?"
+   },
+   {
+    "prompt": "Ta on täna juba kolm piletit ___. (ostma)",
+    "answer": "ostnud",
+    "accept": [],
+    "en": "She has already bought three tickets today."
+   },
+   {
+    "prompt": "Kas sa oled kunagi laulupeol ___? (laulma)",
+    "answer": "laulnud",
+    "accept": [],
+    "en": "Have you ever sung at the song festival?"
+   },
+   {
+    "prompt": "Millal sa viimati kinos ___? (käima, past)",
+    "answer": "käisid",
+    "accept": [],
+    "en": "When did you last go to the cinema?"
+   },
+   {
+    "prompt": "Viimati ma ___ kinos detsembris. (käima, past)",
+    "answer": "käisin",
+    "accept": [],
+    "en": "The last time I went to the cinema was in December."
+   }
+  ]
+ },
+ {
+  "lesson": 22,
+  "id": "l22-events-where",
+  "title": "Where did you go? Events with -l (kontserdil), places with -s (kinos)",
+  "explanation": "With <b>käima</b> (to go, visit, attend) Estonian uses the <b>where?</b> case, built on the genitive (II form).<br><b>Events</b> and activities usually take <b>-l</b> (adessive): <i>kontserdil, laadal, matkal, koolitusel, etendusel, võistlusel, festivalil, konverentsil, laulupeol</i>.<br><b>Buildings / places</b> take <b>-s</b> (inessive): <i>kinos, teatris, muuseumis, töötoas, saalis</i>.<br><table><tr><th>I form</th><th>II form</th><th>Kus?</th></tr><tr><td>kontsert</td><td>kontserdi</td><td>kontserdil</td></tr><tr><td>laat</td><td>laada</td><td>laadal</td></tr><tr><td>laulupidu</td><td>laulupeo</td><td>laulupeol</td></tr><tr><td>matk</td><td>matka</td><td>matkal</td></tr><tr><td>koolitus</td><td>koolituse</td><td>koolitusel</td></tr><tr><td>etendus</td><td>etenduse</td><td>etendusel</td></tr><tr><td>võistlus</td><td>võistluse</td><td>võistlusel</td></tr><tr><td>festival</td><td>festivali</td><td>festivalil</td></tr><tr><td>konverents</td><td>konverentsi</td><td>konverentsil</td></tr><tr><td>töötuba</td><td>töötoa</td><td>töötoas</td></tr><tr><td>kino</td><td>kino</td><td>kinos</td></tr><tr><td>teater</td><td>teatri</td><td>teatris</td></tr></table>Compounds change only the last part: <i>jõulu<b>laadal</b>, kanuu<b>matkal</b>, filmi<b>festivalil</b></i>.",
+  "examples": [
+   {
+    "et": "Kas sa oled kunagi konverentsil käinud?",
+    "en": "Have you ever been to a conference?"
+   },
+   {
+    "et": "Ma käisin eile teatris.",
+    "en": "I went to the theatre yesterday."
+   },
+   {
+    "et": "Me käisime jõululaadal.",
+    "en": "We went to the Christmas fair."
+   },
+   {
+    "et": "Kas sa oled kunagi keraamika töötoas käinud?",
+    "en": "Have you ever been to a ceramics workshop?"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Kas sa oled kunagi ___ käinud? (kontsert)",
+    "answer": "kontserdil",
+    "accept": [],
+    "en": "Have you ever been to a concert?"
+   },
+   {
+    "prompt": "Millal sa viimati ___ käisid? (kino)",
+    "answer": "kinos",
+    "accept": [],
+    "en": "When did you last go to the cinema?"
+   },
+   {
+    "prompt": "Millal sa viimati ___ käisid? (teater)",
+    "answer": "teatris",
+    "accept": [],
+    "en": "When did you last go to the theatre?"
+   },
+   {
+    "prompt": "Millal sa viimati ___ käisid? (muuseum)",
+    "answer": "muuseumis",
+    "accept": [],
+    "en": "When did you last go to a museum?"
+   },
+   {
+    "prompt": "Kas sa oled kunagi ___ käinud? (laulupidu)",
+    "answer": "laulupeol",
+    "accept": [],
+    "en": "Have you ever been to the song festival?"
+   },
+   {
+    "prompt": "Me käisime detsembris ___. (jõululaat)",
+    "answer": "jõululaadal",
+    "accept": [],
+    "en": "We went to the Christmas fair in December."
+   },
+   {
+    "prompt": "Kas sa oled kunagi ___ käinud? (kanuumatk)",
+    "answer": "kanuumatkal",
+    "accept": [],
+    "en": "Have you ever been on a canoe trip?"
+   },
+   {
+    "prompt": "Ema käis eile ___. (arvutikoolitus)",
+    "answer": "arvutikoolitusel",
+    "accept": [],
+    "en": "Mum went on a computer course yesterday."
+   },
+   {
+    "prompt": "Kas sa oled kunagi ___ käinud? (tsirkuseetendus)",
+    "answer": "tsirkuseetendusel",
+    "accept": [],
+    "en": "Have you ever been to a circus show?"
+   },
+   {
+    "prompt": "Ma olen käinud ___. (spordivõistlus)",
+    "answer": "spordivõistlusel",
+    "accept": [],
+    "en": "I have been to a sports competition."
+   },
+   {
+    "prompt": "Suvel käisin ___. (filmifestival)",
+    "answer": "filmifestivalil",
+    "accept": [],
+    "en": "In summer I went to a film festival."
+   },
+   {
+    "prompt": "Kas sa oled kunagi ___ käinud? (konverents)",
+    "answer": "konverentsil",
+    "accept": [],
+    "en": "Have you ever been to a conference?"
+   },
+   {
+    "prompt": "Ma käisin keraamika ___. (töötuba)",
+    "answer": "töötoas",
+    "accept": [],
+    "en": "I went to a ceramics workshop."
+   },
+   {
+    "prompt": "Etendus toimub suures ___. (saal)",
+    "answer": "saalis",
+    "accept": [],
+    "en": "The show takes place in the big hall."
+   },
+   {
+    "prompt": "Kas sa oled kunagi ___ käinud? (käsitöölaat)",
+    "answer": "käsitöölaadal",
+    "accept": [],
+    "en": "Have you ever been to a handicraft fair?"
+   },
+   {
+    "prompt": "Laupäeval käisime ___. (džässikontsert)",
+    "answer": "džässikontserdil",
+    "accept": [],
+    "en": "On Saturday we went to a jazz concert."
+   }
+  ]
+ },
+ {
+  "lesson": 23,
+  "id": "l23-essive-na",
+  "title": "Kellena? Working AS something: the essive -na",
+  "explanation": "To say what you work <b>as</b>, use the <b>essive</b>: genitive (II form) + <b>-na</b>. Question: <b>Kellena sa töötad?</b><br>Compare: <i>Ma olen kokk.</i> (I am a cook – nominative) but <i>Ma töötan kokana.</i> (I work as a cook – essive).<br><table><tr><th>I form</th><th>II form</th><th>Kellena?</th></tr><tr><td>õpetaja</td><td>õpetaja</td><td>õpetajana</td></tr><tr><td>juuksur</td><td>juuksuri</td><td>juuksurina</td></tr><tr><td>arst</td><td>arsti</td><td>arstina</td></tr><tr><td>politseinik</td><td>politseiniku</td><td>politseinikuna</td></tr><tr><td>medõde</td><td>medõe</td><td>medõena</td></tr><tr><td>kokk</td><td>koka</td><td>kokana</td></tr><tr><td>projektijuht</td><td>projektijuhi</td><td>projektijuhina</td></tr><tr><td>turvamees</td><td>turvamehe</td><td>turvamehena</td></tr></table>Also used for past and wished jobs: <i>Ma olen töötanud müüjana. Ma tahaksin töötada näitlejana.</i>",
+  "examples": [
+   {
+    "et": "Töötan restoranis kokana.",
+    "en": "I work in a restaurant as a cook."
+   },
+   {
+    "et": "Minu abikaasa töötab arstina.",
+    "en": "My spouse works as a doctor."
+   },
+   {
+    "et": "Kellena sa praegu töötad? – Ma töötan õpetajana.",
+    "en": "What do you work as now? – I work as a teacher."
+   },
+   {
+    "et": "Tegelikult tahaksin töötada näitlejana.",
+    "en": "Actually I would like to work as an actor."
+   },
+   {
+    "et": "Mu ema töötab treenerina.",
+    "en": "My mother works as a coach."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma töötan restoranis ___. (kokk)",
+    "answer": "kokana",
+    "accept": [],
+    "en": "I work in a restaurant as a cook."
+   },
+   {
+    "prompt": "Minu abikaasa töötab ___. (arst)",
+    "answer": "arstina",
+    "accept": [],
+    "en": "My spouse works as a doctor."
+   },
+   {
+    "prompt": "Ta töötab koolis ___. (õpetaja)",
+    "answer": "õpetajana",
+    "accept": [],
+    "en": "She works at a school as a teacher."
+   },
+   {
+    "prompt": "Minu vend töötab ___. (politseinik)",
+    "answer": "politseinikuna",
+    "accept": [],
+    "en": "My brother works as a police officer."
+   },
+   {
+    "prompt": "Ta töötab haiglas ___. (medõde)",
+    "answer": "medõena",
+    "accept": [],
+    "en": "She works at the hospital as a nurse."
+   },
+   {
+    "prompt": "Ma töötan Wise'is ___. (projektijuht)",
+    "answer": "projektijuhina",
+    "accept": [],
+    "en": "I work at Wise as a project manager."
+   },
+   {
+    "prompt": "Ta töötab ilusalongis ___. (juuksur)",
+    "answer": "juuksurina",
+    "accept": [],
+    "en": "She works at a beauty salon as a hairdresser."
+   },
+   {
+    "prompt": "Ta töötab restoranis ___. (ettekandja)",
+    "answer": "ettekandjana",
+    "accept": [],
+    "en": "She works in a restaurant as a waitress."
+   },
+   {
+    "prompt": "Minu isa töötab ___. (bussijuht)",
+    "answer": "bussijuhina",
+    "accept": [],
+    "en": "My father works as a bus driver."
+   },
+   {
+    "prompt": "Ta töötab firmas ___. (sekretär)",
+    "answer": "sekretärina",
+    "accept": [],
+    "en": "She works at a company as a secretary."
+   },
+   {
+    "prompt": "Minu abikaasa töötab ___. (turvamees)",
+    "answer": "turvamehena",
+    "accept": [],
+    "en": "My spouse works as a security guard."
+   },
+   {
+    "prompt": "Ta töötab ___. (hambaarst)",
+    "answer": "hambaarstina",
+    "accept": [],
+    "en": "She works as a dentist."
+   },
+   {
+    "prompt": "Ma olen töötanud Boltis ___. (kuller)",
+    "answer": "kullerina",
+    "accept": [],
+    "en": "I have worked at Bolt as a courier."
+   },
+   {
+    "prompt": "Ta töötab ehitusel ___. (ehitaja)",
+    "answer": "ehitajana",
+    "accept": [],
+    "en": "He works on a building site as a builder."
+   },
+   {
+    "prompt": "Minu naine töötab ___. (raamatupidaja)",
+    "answer": "raamatupidajana",
+    "accept": [],
+    "en": "My wife works as an accountant."
+   },
+   {
+    "prompt": "Jaan töötab spordiklubis ___. (treener)",
+    "answer": "treenerina",
+    "accept": [],
+    "en": "Jaan works at a sports club as a coach."
+   },
+   {
+    "prompt": "Ma tahaksin töötada ___. (näitleja)",
+    "answer": "näitlejana",
+    "accept": [],
+    "en": "I would like to work as an actor."
+   },
+   {
+    "prompt": "Ta töötab ___. (IT-spetsialist)",
+    "answer": "IT-spetsialistina",
+    "accept": [],
+    "en": "He works as an IT specialist."
+   },
+   {
+    "prompt": "Ta töötab ___. (taksojuht)",
+    "answer": "taksojuhina",
+    "accept": [],
+    "en": "He works as a taxi driver."
+   }
+  ]
+ },
+ {
+  "lesson": 23,
+  "id": "l23-workplace-kus",
+  "title": "Kus sa töötad? Workplaces with -s and -l",
+  "explanation": "<b>Where</b> you work is the genitive (II form) + <b>-s</b> (in) or <b>-l</b> (on/at).<br>Most workplaces take <b>-s</b>: <i>haiglas, firmas, spordiklubis, koolis, restoranis, kontoris, tehases, poes, laos</i>. Shop and company names too: <i>Prismas, Selveris, Wise'is, Pipedrive'is</i>.<br>Some take <b>-l</b>: <i>ehitusel</i> (on a building site), <i>merel</i> (at sea), and <i>tööl</i> (at work).<br><table><tr><th>I form</th><th>II form</th><th>Kus?</th></tr><tr><td>kool</td><td>kooli</td><td>koolis</td></tr><tr><td>pood</td><td>poe</td><td>poes</td></tr><tr><td>ladu</td><td>lao</td><td>laos</td></tr><tr><td>ehitus</td><td>ehituse</td><td>ehitusel</td></tr><tr><td>meri</td><td>mere</td><td>merel</td></tr><tr><td>Wise</td><td>Wise'i</td><td>Wise'is</td></tr></table>A full answer often has both: <i>Ta töötab restoranis ettekandjana.</i>",
+  "examples": [
+   {
+    "et": "Kus ta töötab? – Ta töötab restoranis.",
+    "en": "Where does she work? – She works in a restaurant."
+   },
+   {
+    "et": "Anneli töötab laos komplekteerijana.",
+    "en": "Anneli works in a warehouse as an order picker."
+   },
+   {
+    "et": "Minu isa töötab merel.",
+    "en": "My father works at sea."
+   },
+   {
+    "et": "Ehitaja töötab ehitusel.",
+    "en": "The builder works on a building site."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Arst töötab ___. (haigla)",
+    "answer": "haiglas",
+    "accept": [],
+    "en": "The doctor works at the hospital."
+   },
+   {
+    "prompt": "Õpetaja töötab ___. (kool)",
+    "answer": "koolis",
+    "accept": [],
+    "en": "The teacher works at a school."
+   },
+   {
+    "prompt": "Müüja töötab ___. (pood)",
+    "answer": "poes",
+    "accept": [],
+    "en": "The shop assistant works in a shop."
+   },
+   {
+    "prompt": "Anneli töötab ___. (ladu)",
+    "answer": "laos",
+    "accept": [],
+    "en": "Anneli works in a warehouse."
+   },
+   {
+    "prompt": "Ehitaja töötab ___. (ehitus)",
+    "answer": "ehitusel",
+    "accept": [],
+    "en": "The builder works on a building site."
+   },
+   {
+    "prompt": "Minu isa töötab ___. (meri)",
+    "answer": "merel",
+    "accept": [],
+    "en": "My father works at sea."
+   },
+   {
+    "prompt": "Kokk töötab ___. (restoran)",
+    "answer": "restoranis",
+    "accept": [],
+    "en": "The cook works in a restaurant."
+   },
+   {
+    "prompt": "Sekretär töötab ___. (kontor)",
+    "answer": "kontoris",
+    "accept": [],
+    "en": "The secretary works in an office."
+   },
+   {
+    "prompt": "Jaan töötab ___. (spordiklubi)",
+    "answer": "spordiklubis",
+    "accept": [],
+    "en": "Jaan works at a sports club."
+   },
+   {
+    "prompt": "Ma töötan suures ___. (firma)",
+    "answer": "firmas",
+    "accept": [],
+    "en": "I work at a big company."
+   },
+   {
+    "prompt": "Ta töötab ___. (tehas)",
+    "answer": "tehases",
+    "accept": [],
+    "en": "He works at a factory."
+   },
+   {
+    "prompt": "Meelis töötab ___ pagarina. (pagariäri)",
+    "answer": "pagariäris",
+    "accept": [],
+    "en": "Meelis works in a bakery as a baker."
+   },
+   {
+    "prompt": "Ta töötab ___ müüjana. (Prisma)",
+    "answer": "Prismas",
+    "accept": [],
+    "en": "She works at Prisma as a shop assistant."
+   },
+   {
+    "prompt": "Ta töötab ___ kassapidajana. (Selver)",
+    "answer": "Selveris",
+    "accept": [],
+    "en": "He works at Selver as a cashier."
+   },
+   {
+    "prompt": "Minu õde töötab ___ projektijuhina. (Wise)",
+    "answer": "Wise'is",
+    "accept": [
+     "Wise´is",
+     "Wise’is"
+    ],
+    "en": "My sister works at Wise as a project manager."
+   },
+   {
+    "prompt": "Ema töötab ___ medõena. (haigla)",
+    "answer": "haiglas",
+    "accept": [],
+    "en": "Mum works at the hospital as a nurse."
+   }
+  ]
+ },
+ {
+  "lesson": 24,
+  "id": "l24-years",
+  "title": "Years: 'aastal 1988' (tuhat üheksasada kaheksakümmend kaheksa)",
+  "explanation": "Say <b>in (year)</b> with <b>aastal</b> + the year read as a normal cardinal number: <i>Ma sündisin aastal 1988.</i> Question: <b>Mis aastal?</b><br>Building blocks: <b>tuhat</b> (1000), <b>kaks tuhat</b> (2000), <b>üheksasada</b> (900), <b>kaheksakümmend</b> (80), <b>üksteist … üheksateist</b> (11–19).<br><table><tr><td>1988</td><td>tuhat üheksasada kaheksakümmend kaheksa</td></tr><tr><td>1991</td><td>tuhat üheksasada üheksakümmend üks</td></tr><tr><td>2004</td><td>kaks tuhat neli</td></tr><tr><td>2011</td><td>kaks tuhat üksteist</td></tr><tr><td>2019</td><td>kaks tuhat üheksateist</td></tr><tr><td>2023</td><td>kaks tuhat kakskümmend kolm</td></tr></table>In writing you will also see <i>1988. aastal</i> (with a full stop = ordinal); for now, read years in the <i>aastal + number</i> pattern.",
+  "examples": [
+   {
+    "et": "Mis aastal sa sündisid? – Ma sündisin aastal 1988.",
+    "en": "What year were you born? – I was born in 1988."
+   },
+   {
+    "et": "Ma tulin Eestisse aastal 2019 (kaks tuhat üheksateist).",
+    "en": "I came to Estonia in 2019."
+   },
+   {
+    "et": "Aasta 2023 on minu jaoks oluline.",
+    "en": "The year 2023 is important for me."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "1991 = ___ (write in words)",
+    "answer": "tuhat üheksasada üheksakümmend üks",
+    "accept": [],
+    "en": "1991"
+   },
+   {
+    "prompt": "2004 = ___ (write in words)",
+    "answer": "kaks tuhat neli",
+    "accept": [],
+    "en": "2004"
+   },
+   {
+    "prompt": "2011 = ___ (write in words)",
+    "answer": "kaks tuhat üksteist",
+    "accept": [],
+    "en": "2011"
+   },
+   {
+    "prompt": "2019 = ___ (write in words)",
+    "answer": "kaks tuhat üheksateist",
+    "accept": [],
+    "en": "2019"
+   },
+   {
+    "prompt": "2023 = ___ (write in words)",
+    "answer": "kaks tuhat kakskümmend kolm",
+    "accept": [],
+    "en": "2023"
+   },
+   {
+    "prompt": "1988 = ___ (write in words)",
+    "answer": "tuhat üheksasada kaheksakümmend kaheksa",
+    "accept": [],
+    "en": "1988"
+   },
+   {
+    "prompt": "1999 = ___ (write in words)",
+    "answer": "tuhat üheksasada üheksakümmend üheksa",
+    "accept": [],
+    "en": "1999"
+   },
+   {
+    "prompt": "2000 = ___ (write in words)",
+    "answer": "kaks tuhat",
+    "accept": [],
+    "en": "2000"
+   },
+   {
+    "prompt": "2015 = ___ (write in words)",
+    "answer": "kaks tuhat viisteist",
+    "accept": [],
+    "en": "2015"
+   },
+   {
+    "prompt": "1975 = ___ (write in words)",
+    "answer": "tuhat üheksasada seitsekümmend viis",
+    "accept": [],
+    "en": "1975"
+   },
+   {
+    "prompt": "2026 = ___ (write in words)",
+    "answer": "kaks tuhat kakskümmend kuus",
+    "accept": [],
+    "en": "2026"
+   },
+   {
+    "prompt": "1984 = ___ (write in words)",
+    "answer": "tuhat üheksasada kaheksakümmend neli",
+    "accept": [],
+    "en": "1984"
+   },
+   {
+    "prompt": "2010 = ___ (write in words)",
+    "answer": "kaks tuhat kümme",
+    "accept": [],
+    "en": "2010"
+   },
+   {
+    "prompt": "1967 = ___ (write in words)",
+    "answer": "tuhat üheksasada kuuskümmend seitse",
+    "accept": [],
+    "en": "1967"
+   },
+   {
+    "prompt": "2007 = ___ (write in words)",
+    "answer": "kaks tuhat seitse",
+    "accept": [],
+    "en": "2007"
+   },
+   {
+    "prompt": "2022 = ___ (write in words)",
+    "answer": "kaks tuhat kakskümmend kaks",
+    "accept": [],
+    "en": "2022"
+   }
+  ]
+ },
+ {
+  "lesson": 24,
+  "id": "l24-past-life-events",
+  "title": "Simple past for life events: sündisin, läksin, lõpetasin",
+  "explanation": "A CV story uses the <b>simple past</b> (lihtminevik). Regular verbs add <b>-sin, -sid, -s, -sime, -site, -sid</b> to the ma-infinitive stem; for <i>-ma</i> verbs with stem ending in a vowel, just remove -ma: <i>lõpeta-ma → lõpetasin</i>.<br><table><tr><th>ma-inf</th><th>ma</th><th>sa</th><th>ta</th></tr><tr><td>sündima</td><td>sündisin</td><td>sündisid</td><td>sündis</td></tr><tr><td>lõpetama</td><td>lõpetasin</td><td>lõpetasid</td><td>lõpetas</td></tr><tr><td>abielluma</td><td>abiellusin</td><td>abiellusid</td><td>abiellus</td></tr><tr><td>hakkama</td><td>hakkasin</td><td>hakkasid</td><td>hakkas</td></tr><tr><td>ostma</td><td>ostsin</td><td>ostsid</td><td>ostis</td></tr><tr><td>minema</td><td>läksin</td><td>läksid</td><td>läks</td></tr><tr><td>tulema</td><td>tulin</td><td>tulid</td><td>tuli</td></tr></table>Negative: <b>ei + -nud</b>: <i>Ma ei läinud tööle. Ta ei lõpetanud kooli.</i><br>Phrases: <i>Ma läksin kooli</i> (I started school), <i>Ma läksin tööle</i> (I started work), <i>Mul sündis poeg</i> (my son was born), <i>Ma hakkasin eesti keelt õppima</i> (I started learning Estonian).",
+  "examples": [
+   {
+    "et": "Ma sündisin aastal 1990.",
+    "en": "I was born in 1990."
+   },
+   {
+    "et": "Mis aastal sa kooli lõpetasid?",
+    "en": "What year did you finish school?"
+   },
+   {
+    "et": "Ma tulin Eestisse aastal 2019.",
+    "en": "I came to Estonia in 2019."
+   },
+   {
+    "et": "Maarika teenindas Boltis kliente.",
+    "en": "Maarika served customers at Bolt."
+   },
+   {
+    "et": "Ma hakkasin eesti keelt õppima aastal 2023.",
+    "en": "I started learning Estonian in 2023."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma ___ aastal 1990. (sündima)",
+    "answer": "sündisin",
+    "accept": [],
+    "en": "I was born in 1990."
+   },
+   {
+    "prompt": "Mis aastal sa ___? (sündima)",
+    "answer": "sündisid",
+    "accept": [],
+    "en": "What year were you born?"
+   },
+   {
+    "prompt": "Ma ___ kooli aastal 1997. (minema)",
+    "answer": "läksin",
+    "accept": [],
+    "en": "I started school in 1997."
+   },
+   {
+    "prompt": "Mis aastal sa kooli ___? (lõpetama)",
+    "answer": "lõpetasid",
+    "accept": [],
+    "en": "What year did you finish school?"
+   },
+   {
+    "prompt": "Ma ___ kooli aastal 2008. (lõpetama)",
+    "answer": "lõpetasin",
+    "accept": [],
+    "en": "I finished school in 2008."
+   },
+   {
+    "prompt": "Ma ___ aastal 2015. (abielluma)",
+    "answer": "abiellusin",
+    "accept": [],
+    "en": "I got married in 2015."
+   },
+   {
+    "prompt": "Ma ___ korteri aastal 2018. (ostma)",
+    "answer": "ostsin",
+    "accept": [],
+    "en": "I bought a flat in 2018."
+   },
+   {
+    "prompt": "Ma ___ Eestisse aastal 2019. (tulema)",
+    "answer": "tulin",
+    "accept": [],
+    "en": "I came to Estonia in 2019."
+   },
+   {
+    "prompt": "Ma ___ eesti keelt õppima aastal 2023. (hakkama)",
+    "answer": "hakkasin",
+    "accept": [],
+    "en": "I started learning Estonian in 2023."
+   },
+   {
+    "prompt": "Mis aastal sa Eestisse ___? (tulema)",
+    "answer": "tulid",
+    "accept": [],
+    "en": "What year did you come to Estonia?"
+   },
+   {
+    "prompt": "Mis aastal sa tööle ___? (minema)",
+    "answer": "läksid",
+    "accept": [],
+    "en": "What year did you start work?"
+   },
+   {
+    "prompt": "Mul ___ tütar aastal 2020. (sündima)",
+    "answer": "sündis",
+    "accept": [],
+    "en": "My daughter was born in 2020."
+   },
+   {
+    "prompt": "Maarika ___ ülikoolis psühholoogiat. (õppima)",
+    "answer": "õppis",
+    "accept": [],
+    "en": "Maarika studied psychology at university."
+   },
+   {
+    "prompt": "Ta ___ Boltis kullerina. (töötama)",
+    "answer": "töötas",
+    "accept": [],
+    "en": "She worked at Bolt as a courier."
+   },
+   {
+    "prompt": "Ma ___ kliente. (teenindama)",
+    "answer": "teenindasin",
+    "accept": [],
+    "en": "I served customers."
+   },
+   {
+    "prompt": "Ta ___ ülikooli aastal 2021. (lõpetama)",
+    "answer": "lõpetas",
+    "accept": [],
+    "en": "She graduated from university in 2021."
+   },
+   {
+    "prompt": "Ta ___ kooli aastal 2007. (minema)",
+    "answer": "läks",
+    "accept": [],
+    "en": "She started school in 2007."
+   },
+   {
+    "prompt": "Ma ei ___ eile tööle. (minema)",
+    "answer": "läinud",
+    "accept": [],
+    "en": "I didn't go to work yesterday."
+   }
+  ]
+ },
+ {
+  "lesson": 25,
+  "id": "l25-quantity-partitive",
+  "title": "Quantities: 'klaas piima', 'kaks klaasi piima'",
+  "explanation": "After a <b>quantity word</b> (kilo, klaas, purk, pakk, kott, tükk, tass, gramm, liiter, pudel, lusikatäis) the substance is in the <b>partitive (III form)</b>: <i>klaas piima, tükk kooki, tass kohvi</i>.<br>Mass nouns use the partitive singular (<i>piima, moosi, võid, soola, mahla, veini</i>); countable things use the <b>partitive plural</b>: <i>kilo õunu, kott kartuleid, kilo sibulaid</i>.<br>After a <b>number</b> (2, 3, …) the quantity word itself is also partitive singular: <i>kaks klaasi piima, kaks liitrit mahla, kolm tükki kooki</i>.<br><table><tr><th>I + III</th><th>number + III + III</th></tr><tr><td>kilo õunu</td><td>kaks kilo õunu</td></tr><tr><td>klaas piima</td><td>kaks klaasi piima</td></tr><tr><td>purk moosi</td><td>kaks purki moosi</td></tr><tr><td>pakk võid</td><td>kaks pakki võid</td></tr><tr><td>kott kartuleid</td><td>kaks kotti kartuleid</td></tr><tr><td>tükk kooki</td><td>kaks tükki kooki</td></tr><tr><td>tass kohvi</td><td>kaks tassi kohvi</td></tr><tr><td>gramm soola</td><td>kaks grammi soola</td></tr><tr><td>liiter mahla</td><td>kaks liitrit mahla</td></tr><tr><td>pudel veini</td><td>kaks pudelit veini</td></tr></table>",
+  "examples": [
+   {
+    "et": "Liiter mahla ja klaas piima, palun!",
+    "en": "A litre of juice and a glass of milk, please!"
+   },
+   {
+    "et": "Palun kaks kilo õunu.",
+    "en": "Two kilos of apples, please."
+   },
+   {
+    "et": "Lisa lusikatäis suhkrut!",
+    "en": "Add a spoonful of sugar!"
+   },
+   {
+    "et": "Ostsin kaks pudelit veini ja koti kartuleid.",
+    "en": "I bought two bottles of wine and a bag of potatoes."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Klaas ___, palun! (piim)",
+    "answer": "piima",
+    "accept": [],
+    "en": "A glass of milk, please!"
+   },
+   {
+    "prompt": "Tass ___, palun! (kohv)",
+    "answer": "kohvi",
+    "accept": [],
+    "en": "A cup of coffee, please!"
+   },
+   {
+    "prompt": "Tükk ___, palun! (kook)",
+    "answer": "kooki",
+    "accept": [],
+    "en": "A piece of cake, please!"
+   },
+   {
+    "prompt": "Pakk ___, palun! (või)",
+    "answer": "võid",
+    "accept": [],
+    "en": "A packet of butter, please!"
+   },
+   {
+    "prompt": "Purk ___, palun! (moos)",
+    "answer": "moosi",
+    "accept": [],
+    "en": "A jar of jam, please!"
+   },
+   {
+    "prompt": "Liiter ___, palun! (mahl)",
+    "answer": "mahla",
+    "accept": [],
+    "en": "A litre of juice, please!"
+   },
+   {
+    "prompt": "Lisa lusikatäis ___! (suhkur)",
+    "answer": "suhkrut",
+    "accept": [],
+    "en": "Add a spoonful of sugar!"
+   },
+   {
+    "prompt": "Pudel ___, palun! (õlu)",
+    "answer": "õlut",
+    "accept": [],
+    "en": "A bottle of beer, please!"
+   },
+   {
+    "prompt": "Kilo ___, palun! (õun, plural)",
+    "answer": "õunu",
+    "accept": [
+     "õunasid"
+    ],
+    "en": "A kilo of apples, please!"
+   },
+   {
+    "prompt": "Kott ___, palun! (kartul, plural)",
+    "answer": "kartuleid",
+    "accept": [],
+    "en": "A bag of potatoes, please!"
+   },
+   {
+    "prompt": "Kilo ___, palun! (sibul, plural)",
+    "answer": "sibulaid",
+    "accept": [],
+    "en": "A kilo of onions, please!"
+   },
+   {
+    "prompt": "Kaks ___ piima, palun! (klaas)",
+    "answer": "klaasi",
+    "accept": [],
+    "en": "Two glasses of milk, please!"
+   },
+   {
+    "prompt": "Kaks ___ mahla, palun! (liiter)",
+    "answer": "liitrit",
+    "accept": [],
+    "en": "Two litres of juice, please!"
+   },
+   {
+    "prompt": "Kaks ___ veini, palun! (pudel)",
+    "answer": "pudelit",
+    "accept": [],
+    "en": "Two bottles of wine, please!"
+   },
+   {
+    "prompt": "Kolm ___ kooki, palun! (tükk)",
+    "answer": "tükki",
+    "accept": [],
+    "en": "Three pieces of cake, please!"
+   },
+   {
+    "prompt": "Kaks ___ moosi, palun! (purk)",
+    "answer": "purki",
+    "accept": [],
+    "en": "Two jars of jam, please!"
+   },
+   {
+    "prompt": "Kaks ___ kartuleid, palun! (kott)",
+    "answer": "kotti",
+    "accept": [],
+    "en": "Two bags of potatoes, please!"
+   },
+   {
+    "prompt": "Kaks ___ võid, palun! (pakk)",
+    "answer": "pakki",
+    "accept": [],
+    "en": "Two packets of butter, please!"
+   },
+   {
+    "prompt": "Sada grammi ___, palun! (sool)",
+    "answer": "soola",
+    "accept": [],
+    "en": "A hundred grams of salt, please!"
+   }
+  ]
+ },
+ {
+  "lesson": 25,
+  "id": "l25-imperative-cooking",
+  "title": "Cooking instructions: Sega! – Ära sega! (command and prohibition)",
+  "explanation": "A recipe uses the <b>imperative</b> (käskiv kõneviis) for one person. It equals the 1st person present <b>without -n</b>: <i>segan → <b>Sega!</b>, keedan → <b>Keeda!</b>, lõikan → <b>Lõika!</b></i><br><b>Don't!</b> = <b>Ära</b> + the same form: <i>Ära sega! Ära keeda!</i> (Several people / polite: <i>Segage! Ärge segage!</i>)<br><table><tr><th>mina</th><th>käsk (do!)</th><th>keeld (don't!)</th></tr><tr><td>segan tainast</td><td>Sega tainast!</td><td>Ära sega tainast!</td></tr><tr><td>võtan jahu</td><td>Võta jahu!</td><td>Ära võta jahu!</td></tr><tr><td>maitsen suppi</td><td>Maitse suppi!</td><td>Ära maitse suppi!</td></tr><tr><td>lisan soola</td><td>Lisa soola!</td><td>Ära lisa soola!</td></tr><tr><td>valan piima</td><td>Vala piima!</td><td>Ära vala piima!</td></tr><tr><td>määrin võid</td><td>Määri võid!</td><td>Ära määri võid!</td></tr><tr><td>koorin kartulit</td><td>Koori kartulit!</td><td>Ära koori kartulit!</td></tr><tr><td>lõikan tomatit</td><td>Lõika tomatit!</td><td>Ära lõika tomatit!</td></tr><tr><td>keedan vett</td><td>Keeda vett!</td><td>Ära keeda vett!</td></tr></table>Also: <i>söön → Söö!, joon → Joo!, panen → Pane!</i>",
+  "examples": [
+   {
+    "et": "Võta tass! Vala keefir tassi!",
+    "en": "Take a cup! Pour the kefir into the cup!"
+   },
+   {
+    "et": "Lisa lusikatäis suhkrut ja lusikatäis kama! Sega!",
+    "en": "Add a spoonful of sugar and a spoonful of kama! Stir!"
+   },
+   {
+    "et": "Ära lisa soola!",
+    "en": "Don't add salt!"
+   },
+   {
+    "et": "Keeda kartulid koos koorega!",
+    "en": "Boil the potatoes in their skins!"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "___ tainast! (segama)",
+    "answer": "Sega",
+    "accept": [
+     "sega"
+    ],
+    "en": "Mix the dough!"
+   },
+   {
+    "prompt": "___ jahu! (võtma)",
+    "answer": "Võta",
+    "accept": [
+     "võta"
+    ],
+    "en": "Take the flour!"
+   },
+   {
+    "prompt": "___ suppi! (maitsma)",
+    "answer": "Maitse",
+    "accept": [
+     "maitse"
+    ],
+    "en": "Taste the soup!"
+   },
+   {
+    "prompt": "___ soola! (lisama)",
+    "answer": "Lisa",
+    "accept": [
+     "lisa"
+    ],
+    "en": "Add salt!"
+   },
+   {
+    "prompt": "___ piima! (valama)",
+    "answer": "Vala",
+    "accept": [
+     "vala"
+    ],
+    "en": "Pour milk!"
+   },
+   {
+    "prompt": "___ võid leivale! (määrima)",
+    "answer": "Määri",
+    "accept": [
+     "määri"
+    ],
+    "en": "Spread butter on the bread!"
+   },
+   {
+    "prompt": "___ kartulit! (koorima)",
+    "answer": "Koori",
+    "accept": [
+     "koori"
+    ],
+    "en": "Peel a potato!"
+   },
+   {
+    "prompt": "___ tomatit! (lõikama)",
+    "answer": "Lõika",
+    "accept": [
+     "lõika"
+    ],
+    "en": "Slice the tomato!"
+   },
+   {
+    "prompt": "___ vett! (keetma)",
+    "answer": "Keeda",
+    "accept": [
+     "keeda"
+    ],
+    "en": "Boil water!"
+   },
+   {
+    "prompt": "___ kõik kaussi! (panema)",
+    "answer": "Pane",
+    "accept": [
+     "pane"
+    ],
+    "en": "Put everything in the bowl!"
+   },
+   {
+    "prompt": "Ära ___ soola! (lisama)",
+    "answer": "lisa",
+    "accept": [],
+    "en": "Don't add salt!"
+   },
+   {
+    "prompt": "Ära ___ suppi! (maitsma)",
+    "answer": "maitse",
+    "accept": [],
+    "en": "Don't taste the soup!"
+   },
+   {
+    "prompt": "Ära ___ vett! (keetma)",
+    "answer": "keeda",
+    "accept": [],
+    "en": "Don't boil the water!"
+   },
+   {
+    "prompt": "Ära ___ šokolaadi! (sööma)",
+    "answer": "söö",
+    "accept": [],
+    "en": "Don't eat chocolate!"
+   },
+   {
+    "prompt": "Ära ___ piima! (jooma)",
+    "answer": "joo",
+    "accept": [],
+    "en": "Don't drink milk!"
+   },
+   {
+    "prompt": "___ tainast! (segama, negative)",
+    "answer": "Ära sega",
+    "accept": [
+     "ära sega"
+    ],
+    "en": "Don't mix the dough!"
+   },
+   {
+    "prompt": "___ tomatit! (lõikama, negative)",
+    "answer": "Ära lõika",
+    "accept": [
+     "ära lõika"
+    ],
+    "en": "Don't slice the tomato!"
+   },
+   {
+    "prompt": "___ võid! (määrima, negative)",
+    "answer": "Ära määri",
+    "accept": [
+     "ära määri"
+    ],
+    "en": "Don't spread butter!"
+   }
+  ]
+ },
+ {
+  "lesson": 25,
+  "id": "l25-object-ara",
+  "title": "Söö šokolaadi! vs Söö šokolaad ära! (partial and total object)",
+  "explanation": "With a command, the object can be <b>partial</b> or <b>total</b>.<br><b>Partitive (III form)</b> = some of it / the activity: <i>Söö šokolaadi!</i> (Have some chocolate!), <i>Joo piima!</i><br><b>Nominative (I form)</b> = all of it, finished; often with <b>ära</b> (up, completely): <i>Söö šokolaad ära!</i> (Eat up the chocolate!), <i>Joo piim ära!</i> In plural: <i>Koori kartulid!</i> (Peel the potatoes – all of them).<br>A <b>negative command</b> always takes the <b>partitive</b>: <i>Ära söö šokolaadi! Ära söö šokolaadi ära!</i><br><table><tr><th></th><th>some</th><th>all of it</th></tr><tr><td>do!</td><td>Söö šokolaadi!</td><td>Söö šokolaad ära!</td></tr><tr><td>don't!</td><td>Ära söö šokolaadi!</td><td>Ära söö šokolaadi ära!</td></tr></table>Careful: <b>ära</b> at the start = don't; <b>ära</b> after the object = up/completely.",
+  "examples": [
+   {
+    "et": "Söö kommi!",
+    "en": "Have a sweet!"
+   },
+   {
+    "et": "Söö komm ära!",
+    "en": "Eat up the sweet!"
+   },
+   {
+    "et": "Ära joo mahla ära!",
+    "en": "Don't drink up all the juice!"
+   },
+   {
+    "et": "Koori kartulid ja lõika need tükkideks!",
+    "en": "Peel the potatoes and cut them into pieces!"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Söö ___ ära! (šokolaad)",
+    "answer": "šokolaad",
+    "accept": [],
+    "en": "Eat up the chocolate!"
+   },
+   {
+    "prompt": "Söö ___! (šokolaad, some)",
+    "answer": "šokolaadi",
+    "accept": [],
+    "en": "Have some chocolate!"
+   },
+   {
+    "prompt": "Ära söö ___! (šokolaad)",
+    "answer": "šokolaadi",
+    "accept": [],
+    "en": "Don't eat chocolate!"
+   },
+   {
+    "prompt": "Joo ___ ära! (piim)",
+    "answer": "piim",
+    "accept": [],
+    "en": "Drink up the milk!"
+   },
+   {
+    "prompt": "Joo ___! (piim, some)",
+    "answer": "piima",
+    "accept": [],
+    "en": "Drink some milk!"
+   },
+   {
+    "prompt": "Ära joo ___ ära! (mahl)",
+    "answer": "mahla",
+    "accept": [],
+    "en": "Don't drink up all the juice!"
+   },
+   {
+    "prompt": "Joo ___ ära! (mahl)",
+    "answer": "mahl",
+    "accept": [],
+    "en": "Drink up the juice!"
+   },
+   {
+    "prompt": "Söö ___ ära! (komm)",
+    "answer": "komm",
+    "accept": [],
+    "en": "Eat up the sweet!"
+   },
+   {
+    "prompt": "Ära söö ___! (komm)",
+    "answer": "kommi",
+    "accept": [],
+    "en": "Don't eat sweets!"
+   },
+   {
+    "prompt": "Söö ___ ära! (supp)",
+    "answer": "supp",
+    "accept": [],
+    "en": "Eat up the soup!"
+   },
+   {
+    "prompt": "Ära söö ___ ära! (kook)",
+    "answer": "kooki",
+    "accept": [],
+    "en": "Don't eat up the cake!"
+   },
+   {
+    "prompt": "Söö ___ ära! (kook)",
+    "answer": "kook",
+    "accept": [],
+    "en": "Eat up the cake!"
+   },
+   {
+    "prompt": "Koori ___! (kartul, plural, all of them)",
+    "answer": "kartulid",
+    "accept": [],
+    "en": "Peel the potatoes!"
+   },
+   {
+    "prompt": "Keeda ka ___! (muna, plural, all of them)",
+    "answer": "munad",
+    "accept": [],
+    "en": "Boil the eggs too!"
+   },
+   {
+    "prompt": "Joo ___ ära! (kohv)",
+    "answer": "kohv",
+    "accept": [],
+    "en": "Drink up your coffee!"
+   },
+   {
+    "prompt": "Ära joo ___! (kohv)",
+    "answer": "kohvi",
+    "accept": [],
+    "en": "Don't drink coffee!"
+   }
+  ]
+ }
+]

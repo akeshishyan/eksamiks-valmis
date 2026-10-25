@@ -1,0 +1,1514 @@
+[
+ {
+  "lesson": 16,
+  "id": "l16-see-need-liiga",
+  "title": "See / need + liiga + adjective (too big, too small)",
+  "explanation": "<b>See</b> = this (one thing), <b>need</b> = these (plural). The adjective after <b>on</b> agrees in number with the subject: singular subject → singular adjective, plural subject → plural adjective (-d).<br><b>liiga</b> = too: <i>See kleit on liiga suur. Need püksid on liiga suured.</i><br>Some clothes are always plural: <b>püksid, kingad, prillid, kummikud, teksad, sokid</b> → use <b>need</b> and a plural adjective.<br><table><tr><th>singular</th><th>plural</th><th>meaning</th></tr><tr><td>suur</td><td>suured</td><td>big</td></tr><tr><td>väike</td><td>väikesed</td><td>small</td></tr><tr><td>pikk</td><td>pikad</td><td>long</td></tr><tr><td>lühike</td><td>lühikesed</td><td>short</td></tr><tr><td>kitsas</td><td>kitsad</td><td>tight, narrow</td></tr><tr><td>lai</td><td>laiad</td><td>wide, loose</td></tr><tr><td>kallis</td><td>kallid</td><td>expensive</td></tr><tr><td>odav</td><td>odavad</td><td>cheap</td></tr></table>Questions: <b>Mis see on?</b> – <i>See on müts.</i> / <b>Mis need on?</b> – <i>Need on kingad.</i>",
+  "examples": [
+   {
+    "et": "See kleit on liiga pikk.",
+    "en": "This dress is too long."
+   },
+   {
+    "et": "Need püksid on liiga lühikesed.",
+    "en": "These trousers are too short."
+   },
+   {
+    "et": "See särk on liiga kitsas.",
+    "en": "This shirt is too tight."
+   },
+   {
+    "et": "Need prillid on liiga kallid.",
+    "en": "These glasses are too expensive."
+   },
+   {
+    "et": "Mis need on? – Need on kummikud.",
+    "en": "What are these? – These are rubber boots."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "See kleit on liiga ___. (suur)",
+    "answer": "suur",
+    "accept": [],
+    "en": "This dress is too big."
+   },
+   {
+    "prompt": "Need püksid on liiga ___. (suur)",
+    "answer": "suured",
+    "accept": [],
+    "en": "These trousers are too big."
+   },
+   {
+    "prompt": "See seelik on liiga ___. (lühike)",
+    "answer": "lühike",
+    "accept": [],
+    "en": "This skirt is too short."
+   },
+   {
+    "prompt": "Need püksid on liiga ___. (lühike)",
+    "answer": "lühikesed",
+    "accept": [],
+    "en": "These trousers are too short."
+   },
+   {
+    "prompt": "See müts on liiga ___. (väike)",
+    "answer": "väike",
+    "accept": [],
+    "en": "This hat is too small."
+   },
+   {
+    "prompt": "Need kingad on liiga ___. (väike)",
+    "answer": "väikesed",
+    "accept": [],
+    "en": "These shoes are too small."
+   },
+   {
+    "prompt": "See särk on liiga ___. (kitsas)",
+    "answer": "kitsas",
+    "accept": [],
+    "en": "This shirt is too tight."
+   },
+   {
+    "prompt": "Need püksid on liiga ___. (kitsas)",
+    "answer": "kitsad",
+    "accept": [],
+    "en": "These trousers are too tight."
+   },
+   {
+    "prompt": "See kleit on liiga ___. (kallis)",
+    "answer": "kallis",
+    "accept": [],
+    "en": "This dress is too expensive."
+   },
+   {
+    "prompt": "Need prillid on liiga ___. (kallis)",
+    "answer": "kallid",
+    "accept": [],
+    "en": "These glasses are too expensive."
+   },
+   {
+    "prompt": "See kleit on liiga ___. (odav)",
+    "answer": "odav",
+    "accept": [],
+    "en": "This dress is too cheap."
+   },
+   {
+    "prompt": "Need kummikud on liiga ___. (odav)",
+    "answer": "odavad",
+    "accept": [],
+    "en": "These rubber boots are too cheap."
+   },
+   {
+    "prompt": "Need püksid on liiga ___. (pikk)",
+    "answer": "pikad",
+    "accept": [],
+    "en": "These trousers are too long."
+   },
+   {
+    "prompt": "See mantel on liiga ___. (pikk)",
+    "answer": "pikk",
+    "accept": [],
+    "en": "This coat is too long."
+   },
+   {
+    "prompt": "Need püksid on liiga ___. (lai)",
+    "answer": "laiad",
+    "accept": [],
+    "en": "These trousers are too wide."
+   },
+   {
+    "prompt": "___ kingad on liiga suured. (see / need)",
+    "answer": "Need",
+    "accept": [
+     "need"
+    ],
+    "en": "These shoes are too big."
+   },
+   {
+    "prompt": "___ müts on liiga väike. (see / need)",
+    "answer": "See",
+    "accept": [
+     "see"
+    ],
+    "en": "This hat is too small."
+   },
+   {
+    "prompt": "Mis need on? – ___ on prillid. (see / need)",
+    "answer": "Need",
+    "accept": [
+     "need"
+    ],
+    "en": "What are these? – These are glasses."
+   }
+  ]
+ },
+ {
+  "lesson": 16,
+  "id": "l16-shop-requests-da-inf",
+  "title": "In the shop: võin / saan / soovite + da-infinitive",
+  "explanation": "Polite shop questions use a modal verb + the <b>da-infinitive</b> (2nd dictionary form):<ul><li><b>Kas ma võin</b> + da-inf? = May I …? <i>Kas ma võin proovida?</i></li><li><b>Kas ma saan</b> + da-inf? = Can I …? <i>Kas ma saan teid aidata?</i> (teid = you, formal)</li><li><b>Kas soovite</b> + da-inf? = Would you like to …? <i>Kas soovite kilekotti ka osta?</i></li></ul>The shop assistant speaks formally with the <b>-ge</b> imperative: <i>Tulge! Proovige! Vaadake!</i> and <b>Lähme kassasse!</b> = Let's go to the checkout.<br><table><tr><th>ma-inf</th><th>da-inf</th></tr><tr><td>proovima</td><td>proovida</td></tr><tr><td>aitama</td><td>aidata</td></tr><tr><td>näitama</td><td>näidata</td></tr><tr><td>maksma</td><td>maksta</td></tr><tr><td>ostma</td><td>osta</td></tr><tr><td>võtma</td><td>võtta</td></tr><tr><td>vaatama</td><td>vaadata</td></tr></table>",
+  "examples": [
+   {
+    "et": "Kas ma saan teid aidata?",
+    "en": "Can I help you?"
+   },
+   {
+    "et": "Kas ma võin seda kleiti proovida?",
+    "en": "May I try on this dress?"
+   },
+   {
+    "et": "Kas ma saan kaardiga maksta?",
+    "en": "Can I pay by card?"
+   },
+   {
+    "et": "Kas soovite kilekotti ka osta?",
+    "en": "Would you also like to buy a plastic bag?"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Kas ma võin seda kleiti ___? (proovima)",
+    "answer": "proovida",
+    "accept": [],
+    "en": "May I try on this dress?"
+   },
+   {
+    "prompt": "Kas ma saan teid ___? (aitama)",
+    "answer": "aidata",
+    "accept": [],
+    "en": "Can I help you?"
+   },
+   {
+    "prompt": "Kas ma saan kaardiga ___? (maksma)",
+    "answer": "maksta",
+    "accept": [],
+    "en": "Can I pay by card?"
+   },
+   {
+    "prompt": "Kas soovite kilekotti ka ___? (ostma)",
+    "answer": "osta",
+    "accept": [],
+    "en": "Would you also like to buy a plastic bag?"
+   },
+   {
+    "prompt": "Kas te saate mulle teed ___? (näitama)",
+    "answer": "näidata",
+    "accept": [],
+    "en": "Can you show me the way?"
+   },
+   {
+    "prompt": "Kas ma võin seda mantlit ___? (vaatama)",
+    "answer": "vaadata",
+    "accept": [],
+    "en": "May I look at this coat?"
+   },
+   {
+    "prompt": "Kas ma võin need kingad ___? (võtma)",
+    "answer": "võtta",
+    "accept": [],
+    "en": "May I take these shoes?"
+   },
+   {
+    "prompt": "Kas ma saan sularahas ___? (maksma)",
+    "answer": "maksta",
+    "accept": [],
+    "en": "Can I pay in cash?"
+   },
+   {
+    "prompt": "Kas ma võin neid pükse ___? (proovima)",
+    "answer": "proovida",
+    "accept": [],
+    "en": "May I try on these trousers?"
+   },
+   {
+    "prompt": "Ma tahan uut jopet ___. (ostma)",
+    "answer": "osta",
+    "accept": [],
+    "en": "I want to buy a new jacket."
+   },
+   {
+    "prompt": "Kas soovite seda kleiti ___? (proovima)",
+    "answer": "proovida",
+    "accept": [],
+    "en": "Would you like to try on this dress?"
+   },
+   {
+    "prompt": "Kas ma võin homme ___? (tulema)",
+    "answer": "tulla",
+    "accept": [],
+    "en": "May I come tomorrow?"
+   },
+   {
+    "prompt": "Kas ma võin natuke ___? (istuma)",
+    "answer": "istuda",
+    "accept": [],
+    "en": "May I sit down for a bit?"
+   },
+   {
+    "prompt": "Kas ma võin midagi ___? (küsima)",
+    "answer": "küsida",
+    "accept": [],
+    "en": "May I ask something?"
+   },
+   {
+    "prompt": "Kas ma võin proovikabiini ___? (minema)",
+    "answer": "minna",
+    "accept": [],
+    "en": "May I go to the fitting room?"
+   },
+   {
+    "prompt": "Kas te saate mind ___? (aitama)",
+    "answer": "aidata",
+    "accept": [],
+    "en": "Can you help me?"
+   }
+  ]
+ },
+ {
+  "lesson": 17,
+  "id": "l17-mine-nouns",
+  "title": "-mine nouns: jooksmine, ujumine (Mulle meeldib joonistamine)",
+  "explanation": "To name an activity as a noun, replace <b>-ma</b> of the ma-infinitive with <b>-mine</b>: <i>joonistama → joonistamine</i> (drawing).<br>It is a normal noun: <b>-mine, -mise, -mist</b> (joonistamine, joonistamise, joonistamist).<br>With <b>meeldima</b> you can use either the -mine noun or the da-infinitive: <i>Mulle meeldib ujumine.</i> = <i>Mulle meeldib ujuda.</i><br>Words that belong to the activity come first: <i>filmi vaatamine, rattaga sõitmine, pargis jalutamine</i>.<br><table><tr><th>ma-inf</th><th>-mine noun</th></tr><tr><td>jooksma</td><td>jooksmine</td></tr><tr><td>ujuma</td><td>ujumine</td></tr><tr><td>sööma</td><td>söömine</td></tr><tr><td>jooma</td><td>joomine</td></tr><tr><td>lugema</td><td>lugemine</td></tr><tr><td>reisima</td><td>reisimine</td></tr><tr><td>suusatama</td><td>suusatamine</td></tr><tr><td>tantsima</td><td>tantsimine</td></tr><tr><td>laulma</td><td>laulmine</td></tr></table>Negative: <i>Reisimine mulle ei meeldi.</i> / <i>Mulle üldse ei meeldi suitsetamine.</i>",
+  "examples": [
+   {
+    "et": "Mulle meeldib jooksmine ja ujumine.",
+    "en": "I like running and swimming."
+   },
+   {
+    "et": "Rattaga sõitmine mulle väga ei meeldi.",
+    "en": "I don't really like cycling."
+   },
+   {
+    "et": "Talvel meeldib mulle uisutamine ja joonistamine.",
+    "en": "In winter I like skating and drawing."
+   },
+   {
+    "et": "Mis mulle üldse ei meeldi – joomine ja suitsetamine!",
+    "en": "What I don't like at all – drinking and smoking!"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Mulle meeldib ___. (jooksma)",
+    "answer": "jooksmine",
+    "accept": [],
+    "en": "I like running."
+   },
+   {
+    "prompt": "Mulle meeldib ___. (ujuma)",
+    "answer": "ujumine",
+    "accept": [],
+    "en": "I like swimming."
+   },
+   {
+    "prompt": "Talvel meeldib mulle ___. (suusatama)",
+    "answer": "suusatamine",
+    "accept": [],
+    "en": "In winter I like skiing."
+   },
+   {
+    "prompt": "Talvel meeldib mulle ___. (uisutama)",
+    "answer": "uisutamine",
+    "accept": [],
+    "en": "In winter I like ice skating."
+   },
+   {
+    "prompt": "Suvel meeldib mulle rannas ___. (päevitama)",
+    "answer": "päevitamine",
+    "accept": [],
+    "en": "In summer I like sunbathing on the beach."
+   },
+   {
+    "prompt": "___ mulle ei meeldi. (reisima)",
+    "answer": "Reisimine",
+    "accept": [
+     "reisimine"
+    ],
+    "en": "I don't like travelling."
+   },
+   {
+    "prompt": "___ meeldib mulle ka! (tantsima)",
+    "answer": "Tantsimine",
+    "accept": [
+     "tantsimine"
+    ],
+    "en": "I like dancing too!"
+   },
+   {
+    "prompt": "Mulle meeldib sügisel pargis ___. (jalutama)",
+    "answer": "jalutamine",
+    "accept": [],
+    "en": "I like walking in the park in autumn."
+   },
+   {
+    "prompt": "Mulle üldse ei meeldi ___. (suitsetama)",
+    "answer": "suitsetamine",
+    "accept": [],
+    "en": "I don't like smoking at all."
+   },
+   {
+    "prompt": "Talvel meeldib mulle filmi ___. (vaatama)",
+    "answer": "vaatamine",
+    "accept": [],
+    "en": "In winter I like watching films."
+   },
+   {
+    "prompt": "Rattaga ___ mulle väga ei meeldi. (sõitma)",
+    "answer": "sõitmine",
+    "accept": [],
+    "en": "I don't really like cycling."
+   },
+   {
+    "prompt": "Minu hobi on ___. (joonistama)",
+    "answer": "joonistamine",
+    "accept": [],
+    "en": "My hobby is drawing."
+   },
+   {
+    "prompt": "Mulle meeldib ___. (lugema)",
+    "answer": "lugemine",
+    "accept": [],
+    "en": "I like reading."
+   },
+   {
+    "prompt": "Mulle meeldib ___. (laulma)",
+    "answer": "laulmine",
+    "accept": [],
+    "en": "I like singing."
+   },
+   {
+    "prompt": "Mulle meeldib ___. (sööma)",
+    "answer": "söömine",
+    "accept": [],
+    "en": "I like eating."
+   },
+   {
+    "prompt": "Mulle ei meeldi ___. (jooma)",
+    "answer": "joomine",
+    "accept": [],
+    "en": "I don't like drinking."
+   },
+   {
+    "prompt": "Mulle meeldib ___. (šoppama)",
+    "answer": "šoppamine",
+    "accept": [],
+    "en": "I like shopping."
+   }
+  ]
+ },
+ {
+  "lesson": 17,
+  "id": "l17-kaima-mas",
+  "title": "Käin + -mas: käin ujumas, käin tantsimas",
+  "explanation": "To say that you regularly go somewhere to do an activity (and come back), use <b>käima</b> + the <b>-mas</b> form: replace <b>-ma</b> with <b>-mas</b>: <i>ujuma → Ma käin ujumas.</i> (I go swimming.)<br>The -mas form never changes; only <b>käima</b> is conjugated: <i>ma käin, sa käid, ta käib, me käime, te käite, nad käivad</i>.<br>Place and object come before it: <i>käin pubis istumas, käin piljardit mängimas, käin metsas jooksmas</i>.<br>With a place noun, <b>käima</b> takes the 'where' case: <i>käin tööl, käin peol, käin trennis, käin koolis, käin poes</i>.<br><table><tr><th>ma-inf</th><th>-mas</th></tr><tr><td>jalutama</td><td>jalutamas</td></tr><tr><td>ujuma</td><td>ujumas</td></tr><tr><td>tantsima</td><td>tantsimas</td></tr><tr><td>sööma</td><td>söömas</td></tr><tr><td>šoppama</td><td>šoppamas</td></tr><tr><td>mängima</td><td>mängimas</td></tr><tr><td>istuma</td><td>istumas</td></tr><tr><td>jooksma</td><td>jooksmas</td></tr><tr><td>laulma</td><td>laulmas</td></tr></table>Short answers: <i>Kas sa käid ujumas? – Jah, käin küll. / Ei, ei käi.</i>",
+  "examples": [
+   {
+    "et": "Ma käin kolmapäeval ja reedel metsas jooksmas.",
+    "en": "I go running in the forest on Wednesday and Friday."
+   },
+   {
+    "et": "Kes käib talvel ujumas?",
+    "en": "Who goes swimming in winter?"
+   },
+   {
+    "et": "Me käime iga päev kolleegidega lõunat söömas.",
+    "en": "Every day we go to have lunch with colleagues."
+   },
+   {
+    "et": "Kas sa käid tantsimas? – Ei, ei käi.",
+    "en": "Do you go dancing? – No, I don't."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma käin linnas ___. (jalutama)",
+    "answer": "jalutamas",
+    "accept": [],
+    "en": "I go walking in town."
+   },
+   {
+    "prompt": "Ma käin talvel ___. (ujuma)",
+    "answer": "ujumas",
+    "accept": [],
+    "en": "I go swimming in winter."
+   },
+   {
+    "prompt": "Ta käib öösiti ___. (tantsima)",
+    "answer": "tantsimas",
+    "accept": [],
+    "en": "She goes dancing at night."
+   },
+   {
+    "prompt": "Me käime kolleegidega lõunat ___. (sööma)",
+    "answer": "söömas",
+    "accept": [],
+    "en": "We go to have lunch with colleagues."
+   },
+   {
+    "prompt": "Ma käin harva ___. (šoppama)",
+    "answer": "šoppamas",
+    "accept": [],
+    "en": "I rarely go shopping."
+   },
+   {
+    "prompt": "Nad käivad piljardit ___. (mängima)",
+    "answer": "mängimas",
+    "accept": [],
+    "en": "They go to play billiards."
+   },
+   {
+    "prompt": "Ma käin pubis ___. (istuma)",
+    "answer": "istumas",
+    "accept": [],
+    "en": "I go to sit in the pub."
+   },
+   {
+    "prompt": "Ma käin iga nädal ___. (jooksma)",
+    "answer": "jooksmas",
+    "accept": [],
+    "en": "I go running every week."
+   },
+   {
+    "prompt": "Kes käib karaokebaaris ___? (laulma)",
+    "answer": "laulmas",
+    "accept": [],
+    "en": "Who goes singing in a karaoke bar?"
+   },
+   {
+    "prompt": "Kes käib pubis õlut ___? (jooma)",
+    "answer": "joomas",
+    "accept": [],
+    "en": "Who goes to the pub to drink beer?"
+   },
+   {
+    "prompt": "Kes käib eesti keelt ___? (õppima)",
+    "answer": "õppimas",
+    "accept": [],
+    "en": "Who goes to study Estonian?"
+   },
+   {
+    "prompt": "Kas sa ___ tantsimas? (käima)",
+    "answer": "käid",
+    "accept": [],
+    "en": "Do you go dancing?"
+   },
+   {
+    "prompt": "Ta ___ iga nädal jooksmas. (käima)",
+    "answer": "käib",
+    "accept": [],
+    "en": "He goes running every week."
+   },
+   {
+    "prompt": "Me ___ talvel ujumas. (käima)",
+    "answer": "käime",
+    "accept": [],
+    "en": "We go swimming in winter."
+   },
+   {
+    "prompt": "Nad ___ reedel tantsimas. (käima)",
+    "answer": "käivad",
+    "accept": [],
+    "en": "They go dancing on Friday."
+   },
+   {
+    "prompt": "Kas sa käid ujumas? – Jah, ___ küll. (käima)",
+    "answer": "käin",
+    "accept": [],
+    "en": "Do you go swimming? – Yes, I do."
+   },
+   {
+    "prompt": "Kas sa käid šoppamas? – Ei, ei ___. (käima)",
+    "answer": "käi",
+    "accept": [],
+    "en": "Do you go shopping? – No, I don't."
+   }
+  ]
+ },
+ {
+  "lesson": 18,
+  "id": "l18-past-tense-forms",
+  "title": "Simple past (lihtminevik): ma ärkasin, ma sõin",
+  "explanation": "The simple past has two patterns. Take the stem of the ma-infinitive (drop -ma) and add:<ul><li><b>-si-</b> endings (most verbs): <b>-sin, -sid, -s, -sime, -site, -sid</b>. <i>magama → ma magasin, ta magas</i>. After a consonant the 3rd person is <b>-is</b>: <i>ostis, sõitis, laulis, maksis</i>.</li><li><b>-i-</b> endings (a small group of common verbs): <b>-in, -id, -i, -ime, -ite, -id</b>. <i>pesema → ma pesin, ta pesi</i>.</li></ul><table><tr><th></th><th>olema</th><th>tegema</th><th>sööma</th><th>magama</th><th>minema</th></tr><tr><td>ma</td><td>olin</td><td>tegin</td><td>sõin</td><td>magasin</td><td>läksin</td></tr><tr><td>sa</td><td>olid</td><td>tegid</td><td>sõid</td><td>magasid</td><td>läksid</td></tr><tr><td>ta</td><td>oli</td><td>tegi</td><td>sõi</td><td>magas</td><td>läks</td></tr><tr><td>me</td><td>olime</td><td>tegime</td><td>sõime</td><td>magasime</td><td>läksime</td></tr><tr><td>te</td><td>olite</td><td>tegite</td><td>sõite</td><td>magasite</td><td>läksite</td></tr><tr><td>nad</td><td>olid</td><td>tegid</td><td>sõid</td><td>magasid</td><td>läksid</td></tr></table><b>-i- verbs to memorise:</b> olema → olin, pesema → pesin, tegema → tegin, nägema → nägin, sööma → sõin, jooma → jõin, panema → panin, tulema → tulin.<br>Watch the stem: <i>sööma → sõin, jooma → jõin, minema → läksin</i>.<br>Time words: <b>üleeile</b> (day before yesterday), <b>eile</b> (yesterday), <b>täna</b>, <b>homme</b>.",
+  "examples": [
+   {
+    "et": "Ma ärkasin kell üheksa.",
+    "en": "I woke up at nine."
+   },
+   {
+    "et": "Eile ma olin trennis.",
+    "en": "Yesterday I was at training."
+   },
+   {
+    "et": "Ta jõi kohvi ja luges uudiseid.",
+    "en": "He drank coffee and read the news."
+   },
+   {
+    "et": "Me sõitsime bussiga.",
+    "en": "We went by bus."
+   },
+   {
+    "et": "Mida sa eile tegid?",
+    "en": "What did you do yesterday?"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Eile ma ___ kodus. (olema)",
+    "answer": "olin",
+    "accept": [],
+    "en": "Yesterday I was at home."
+   },
+   {
+    "prompt": "Ma ___ kell seitse. (ärkama)",
+    "answer": "ärkasin",
+    "accept": [],
+    "en": "I woke up at seven."
+   },
+   {
+    "prompt": "Ma ___ eile õlut. (jooma)",
+    "answer": "jõin",
+    "accept": [],
+    "en": "I drank beer yesterday."
+   },
+   {
+    "prompt": "Ma ___ kell üks lõunat. (sööma)",
+    "answer": "sõin",
+    "accept": [],
+    "en": "I ate lunch at one."
+   },
+   {
+    "prompt": "Ma ___ eile poes. (käima)",
+    "answer": "käisin",
+    "accept": [],
+    "en": "I went to the shop yesterday."
+   },
+   {
+    "prompt": "Ma ___ lasteaeda. (minema)",
+    "answer": "läksin",
+    "accept": [],
+    "en": "I went to the kindergarten."
+   },
+   {
+    "prompt": "Ma ___ päeval. (magama)",
+    "answer": "magasin",
+    "accept": [],
+    "en": "I slept in the daytime."
+   },
+   {
+    "prompt": "Ma ___ uudiseid. (lugema)",
+    "answer": "lugesin",
+    "accept": [],
+    "en": "I read the news."
+   },
+   {
+    "prompt": "Ma ___ sularahas. (maksma)",
+    "answer": "maksin",
+    "accept": [],
+    "en": "I paid in cash."
+   },
+   {
+    "prompt": "Ma ___ sünnipäevalaulu. (laulma)",
+    "answer": "laulsin",
+    "accept": [],
+    "en": "I sang the birthday song."
+   },
+   {
+    "prompt": "Ma ___ hambaid. (pesema)",
+    "answer": "pesin",
+    "accept": [],
+    "en": "I brushed my teeth."
+   },
+   {
+    "prompt": "Ma ___ süüa. (tegema)",
+    "answer": "tegin",
+    "accept": [],
+    "en": "I cooked."
+   },
+   {
+    "prompt": "Ma ___ auto. (ostma)",
+    "answer": "ostsin",
+    "accept": [],
+    "en": "I bought a car."
+   },
+   {
+    "prompt": "Ma ___ bussiga. (sõitma)",
+    "answer": "sõitsin",
+    "accept": [],
+    "en": "I went by bus."
+   },
+   {
+    "prompt": "Ma ___ inglise keelt. (õppima)",
+    "answer": "õppisin",
+    "accept": [],
+    "en": "I studied English."
+   },
+   {
+    "prompt": "Ma ___ emaga. (rääkima)",
+    "answer": "rääkisin",
+    "accept": [],
+    "en": "I talked with my mother."
+   },
+   {
+    "prompt": "Ma ___ T-särki. (triikima)",
+    "answer": "triikisin",
+    "accept": [],
+    "en": "I ironed a T-shirt."
+   },
+   {
+    "prompt": "Ma ___ eile kolleegi. (nägema)",
+    "answer": "nägin",
+    "accept": [],
+    "en": "I saw a colleague yesterday."
+   },
+   {
+    "prompt": "Ma ___ üles kell kümme. (tõusma)",
+    "answer": "tõusin",
+    "accept": [],
+    "en": "I got up at ten."
+   },
+   {
+    "prompt": "Ma ___ riidesse. (panema)",
+    "answer": "panin",
+    "accept": [],
+    "en": "I got dressed."
+   }
+  ]
+ },
+ {
+  "lesson": 18,
+  "id": "l18-past-tense-persons",
+  "title": "Simple past in all persons and in questions (Kas sa käisid …?)",
+  "explanation": "Past tense personal endings:<table><tr><th></th><th>-i- type (pesema)</th><th>-si- type (vaatama)</th><th>-si- type, consonant stem (ostma)</th></tr><tr><td>ma</td><td>pesin</td><td>vaatasin</td><td>ostsin</td></tr><tr><td>sa</td><td>pesid</td><td>vaatasid</td><td>ostsid</td></tr><tr><td>ta</td><td>pesi</td><td>vaatas</td><td>ostis</td></tr><tr><td>me</td><td>pesime</td><td>vaatasime</td><td>ostsime</td></tr><tr><td>te</td><td>pesite</td><td>vaatasite</td><td>ostsite</td></tr><tr><td>nad</td><td>pesid</td><td>vaatasid</td><td>ostsid</td></tr></table>Note: <b>sa</b> and <b>nad</b> have the same form (-id / -sid).<br>Questions: <b>Kas sa käisid eile toidupoes?</b> – <i>Jah, käisin küll.</i> / <b>Mis kell sa täna ärkasid?</b> – <i>Ma ärkasin kell 8.</i><br>3rd person in 'who' questions: <i>Kes pesi eile hambaid? Kes käis eile kinos? Kes jõi eile õlut? Kes sõitis eile bussiga?</i>",
+  "examples": [
+   {
+    "et": "Kas sa käisid eile toidupoes? – Jah, käisin küll.",
+    "en": "Did you go to the grocery store yesterday? – Yes, I did."
+   },
+   {
+    "et": "Mitu tundi sa eile öösel magasid?",
+    "en": "How many hours did you sleep last night?"
+   },
+   {
+    "et": "Kes ostis eile auto?",
+    "en": "Who bought a car yesterday?"
+   },
+   {
+    "et": "Me tantsisime valssi.",
+    "en": "We danced a waltz."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Mis kell sa täna hommikul ___? (ärkama)",
+    "answer": "ärkasid",
+    "accept": [],
+    "en": "What time did you wake up this morning?"
+   },
+   {
+    "prompt": "Mitu tundi sa eile öösel ___? (magama)",
+    "answer": "magasid",
+    "accept": [],
+    "en": "How many hours did you sleep last night?"
+   },
+   {
+    "prompt": "Mida sa hommikul ___? (sööma)",
+    "answer": "sõid",
+    "accept": [],
+    "en": "What did you eat in the morning?"
+   },
+   {
+    "prompt": "Mida sa eile õhtul ___? (jooma)",
+    "answer": "jõid",
+    "accept": [],
+    "en": "What did you drink last night?"
+   },
+   {
+    "prompt": "Kas sa ___ eile kaardiga? (maksma)",
+    "answer": "maksid",
+    "accept": [],
+    "en": "Did you pay by card yesterday?"
+   },
+   {
+    "prompt": "Kas sa ___ eile sõbrale? (helistama)",
+    "answer": "helistasid",
+    "accept": [],
+    "en": "Did you call a friend yesterday?"
+   },
+   {
+    "prompt": "Kes ___ eile hambaid? (pesema)",
+    "answer": "pesi",
+    "accept": [],
+    "en": "Who brushed their teeth yesterday?"
+   },
+   {
+    "prompt": "Kes ___ eile kinos? (käima)",
+    "answer": "käis",
+    "accept": [],
+    "en": "Who went to the cinema yesterday?"
+   },
+   {
+    "prompt": "Kes ___ eile õlut? (jooma)",
+    "answer": "jõi",
+    "accept": [],
+    "en": "Who drank beer yesterday?"
+   },
+   {
+    "prompt": "Kes ___ eile päeval? (magama)",
+    "answer": "magas",
+    "accept": [],
+    "en": "Who slept in the daytime yesterday?"
+   },
+   {
+    "prompt": "Kes ___ eile auto? (ostma)",
+    "answer": "ostis",
+    "accept": [],
+    "en": "Who bought a car yesterday?"
+   },
+   {
+    "prompt": "Kes ___ eile bussiga? (sõitma)",
+    "answer": "sõitis",
+    "accept": [],
+    "en": "Who went by bus yesterday?"
+   },
+   {
+    "prompt": "Kes ___ eile sünnipäevalaulu? (laulma)",
+    "answer": "laulis",
+    "accept": [],
+    "en": "Who sang the birthday song yesterday?"
+   },
+   {
+    "prompt": "Kes ___ eile eesti keelt? (õppima)",
+    "answer": "õppis",
+    "accept": [],
+    "en": "Who studied Estonian yesterday?"
+   },
+   {
+    "prompt": "Eile me ___ kinos. (olema)",
+    "answer": "olime",
+    "accept": [],
+    "en": "Yesterday we were at the cinema."
+   },
+   {
+    "prompt": "Eile me ___ valssi. (tantsima)",
+    "answer": "tantsisime",
+    "accept": [],
+    "en": "Yesterday we danced a waltz."
+   },
+   {
+    "prompt": "Kas te ___ eile filmi? (vaatama)",
+    "answer": "vaatasite",
+    "accept": [],
+    "en": "Did you (pl.) watch a film yesterday?"
+   },
+   {
+    "prompt": "Eile nad ___ tööle. (minema)",
+    "answer": "läksid",
+    "accept": [],
+    "en": "Yesterday they went to work."
+   },
+   {
+    "prompt": "Kas sa õppisid eile eesti keelt? – Jah, ___ küll. (õppima)",
+    "answer": "õppisin",
+    "accept": [],
+    "en": "Did you study Estonian yesterday? – Yes, I did."
+   },
+   {
+    "prompt": "Ta ___ eile hommikul kohvi ja luges uudiseid. (jooma)",
+    "answer": "jõi",
+    "accept": [],
+    "en": "Yesterday morning she drank coffee and read the news."
+   }
+  ]
+ },
+ {
+  "lesson": 19,
+  "id": "l19-comitative-ga",
+  "title": "Millega? By bus, with a friend: -ga (comitative)",
+  "explanation": "<b>-ga</b> = with / by (means of transport, company, instrument). Add <b>-ga</b> to the genitive (II form): <i>buss → bussi → bussiga</i>.<br>Question: <b>Millega?</b> (by what?) / <b>Kellega?</b> (with whom?)<br><table><tr><th>I form</th><th>II form</th><th>-ga</th></tr><tr><td>auto</td><td>auto</td><td>autoga</td></tr><tr><td>takso</td><td>takso</td><td>taksoga</td></tr><tr><td>tramm</td><td>trammi</td><td>trammiga</td></tr><tr><td>troll</td><td>trolli</td><td>trolliga</td></tr><tr><td>rong</td><td>rongi</td><td>rongiga</td></tr><tr><td>buss</td><td>bussi</td><td>bussiga</td></tr><tr><td>praam</td><td>praami</td><td>praamiga</td></tr><tr><td>lennuk</td><td>lennuki</td><td>lennukiga</td></tr><tr><td>helikopter</td><td>helikopteri</td><td>helikopteriga</td></tr><tr><td>laev</td><td>laeva</td><td>laevaga</td></tr><tr><td>hobune</td><td>hobuse</td><td>hobusega</td></tr><tr><td>jalgratas</td><td>jalgratta</td><td>jalgrattaga</td></tr></table><b>NB!</b> on foot = <b>jalgsi</b> or <b>jala</b> (no -ga).<br>Usually with <b>sõitma</b> (to ride, drive, travel): <i>Sõidan rongiga Tallinnast Tartusse.</i> Also: <i>maksan kaardiga, räägin emaga, jalutan koeraga</i>.",
+  "examples": [
+   {
+    "et": "Sõidan rongiga Tallinnast Tartusse.",
+    "en": "I go by train from Tallinn to Tartu."
+   },
+   {
+    "et": "Tavaliselt tulen jalgsi, mõnikord tulen bussiga.",
+    "en": "Usually I come on foot, sometimes by bus."
+   },
+   {
+    "et": "Kas sa oskad jalgrattaga sõita?",
+    "en": "Can you ride a bicycle?"
+   },
+   {
+    "et": "Ma jalutasin koeraga.",
+    "en": "I walked with the dog."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Lähen tööle ___. (buss)",
+    "answer": "bussiga",
+    "accept": [],
+    "en": "I go to work by bus."
+   },
+   {
+    "prompt": "Sõidan Tallinnast Tartusse ___. (rong)",
+    "answer": "rongiga",
+    "accept": [],
+    "en": "I go from Tallinn to Tartu by train."
+   },
+   {
+    "prompt": "Lähen tööle ___. (tramm)",
+    "answer": "trammiga",
+    "accept": [],
+    "en": "I go to work by tram."
+   },
+   {
+    "prompt": "Lähen tööle ___. (troll)",
+    "answer": "trolliga",
+    "accept": [],
+    "en": "I go to work by trolleybus."
+   },
+   {
+    "prompt": "Sõidan Saaremaale ___. (praam)",
+    "answer": "praamiga",
+    "accept": [],
+    "en": "I go to Saaremaa by ferry."
+   },
+   {
+    "prompt": "Sõidan Helsingisse ___. (laev)",
+    "answer": "laevaga",
+    "accept": [],
+    "en": "I go to Helsinki by ship."
+   },
+   {
+    "prompt": "Kas sulle meeldib ___ sõita? (lennuk)",
+    "answer": "lennukiga",
+    "accept": [],
+    "en": "Do you like flying?"
+   },
+   {
+    "prompt": "Kas sa oskad ___ sõita? (jalgratas)",
+    "answer": "jalgrattaga",
+    "accept": [],
+    "en": "Can you ride a bicycle?"
+   },
+   {
+    "prompt": "Kas sa oskad ___ sõita? (auto)",
+    "answer": "autoga",
+    "accept": [],
+    "en": "Can you drive a car?"
+   },
+   {
+    "prompt": "Õhtul lähen koju ___. (takso)",
+    "answer": "taksoga",
+    "accept": [],
+    "en": "In the evening I go home by taxi."
+   },
+   {
+    "prompt": "Lähen tööle ___. (hobune)",
+    "answer": "hobusega",
+    "accept": [],
+    "en": "I go to work by horse."
+   },
+   {
+    "prompt": "Sõidan Tallinnast Helsingisse ___. (helikopter)",
+    "answer": "helikopteriga",
+    "accept": [],
+    "en": "I fly by helicopter from Tallinn to Helsinki."
+   },
+   {
+    "prompt": "Ma maksin ___. (kaart)",
+    "answer": "kaardiga",
+    "accept": [],
+    "en": "I paid by card."
+   },
+   {
+    "prompt": "Ma rääkisin eile ___. (ema)",
+    "answer": "emaga",
+    "accept": [],
+    "en": "I talked with my mother yesterday."
+   },
+   {
+    "prompt": "Ma jalutasin ___. (koer)",
+    "answer": "koeraga",
+    "accept": [],
+    "en": "I walked with the dog."
+   },
+   {
+    "prompt": "Kas sa sõitsid eile ___? (lift)",
+    "answer": "liftiga",
+    "accept": [],
+    "en": "Did you take the lift yesterday?"
+   },
+   {
+    "prompt": "___ sa tööle lähed? – Bussiga. (mis)",
+    "answer": "Millega",
+    "accept": [
+     "millega"
+    ],
+    "en": "How (by what) do you go to work? – By bus."
+   }
+  ]
+ },
+ {
+  "lesson": 19,
+  "id": "l19-kust-kuhu-countries",
+  "title": "Kust? Kuhu? From and to countries and cities",
+  "explanation": "<b>Kust?</b> (from where) and <b>Kuhu?</b> (where to) with place names:<ul><li>Most countries and cities: <b>-st</b> (from) and <b>-sse</b> (to): <i>Euroopast → Ameerikasse, Tallinnast → Tartusse</i>. If the name ends in a consonant, add a vowel first: <i>Holland → Hollandist, Jaapan → Jaapanisse</i>.</li><li>Countries ending in <b>-maa</b> (and islands like Saaremaa) use <b>-lt</b> (from) and <b>-le</b> (to): <i>Prantsusmaalt, Saksamaale, Venemaale, Saaremaale</i>.</li><li>Some names have a short 'to' form: <i>Soome, Rootsi, Lätti, Leetu, Pakistani, Iraaki</i>.</li></ul><table><tr><th>name</th><th>Kust?</th><th>Kuhu?</th></tr><tr><td>Eesti</td><td>Eestist</td><td>Eestisse</td></tr><tr><td>Euroopa</td><td>Euroopast</td><td>Euroopasse</td></tr><tr><td>Austraalia</td><td>Austraaliast</td><td>Austraaliasse</td></tr><tr><td>Jaapan</td><td>Jaapanist</td><td>Jaapanisse</td></tr><tr><td>Iisrael</td><td>Iisraelist</td><td>Iisraelisse</td></tr><tr><td>Saksamaa</td><td>Saksamaalt</td><td>Saksamaale</td></tr><tr><td>Prantsusmaa</td><td>Prantsusmaalt</td><td>Prantsusmaale</td></tr><tr><td>Soome</td><td>Soomest</td><td>Soome</td></tr><tr><td>Läti</td><td>Lätist</td><td>Lätti</td></tr></table>Pattern: <b>Sõidan</b> + -ga + Kust + Kuhu: <i>Sõidan lennukiga Nigeeriast Hispaaniasse.</i>",
+  "examples": [
+   {
+    "et": "Sõidan lennukiga Nigeeriast Hispaaniasse.",
+    "en": "I fly from Nigeria to Spain."
+   },
+   {
+    "et": "Sõidan Eestist Austraaliasse.",
+    "en": "I travel from Estonia to Australia."
+   },
+   {
+    "et": "Sõidan Saksamaalt Venemaale.",
+    "en": "I travel from Germany to Russia."
+   },
+   {
+    "et": "Kuidas sa Narvast Tallinnasse lähed?",
+    "en": "How do you get from Narva to Tallinn?"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Sõidan Eestist ___. (Austraalia)",
+    "answer": "Austraaliasse",
+    "accept": [],
+    "en": "I travel from Estonia to Australia."
+   },
+   {
+    "prompt": "Sõidan ___ Euroopasse. (Austraalia)",
+    "answer": "Austraaliast",
+    "accept": [],
+    "en": "I travel from Australia to Europe."
+   },
+   {
+    "prompt": "Sõidan Euroopast ___. (Aasia)",
+    "answer": "Aasiasse",
+    "accept": [],
+    "en": "I travel from Europe to Asia."
+   },
+   {
+    "prompt": "Sõidan Aafrikast ___. (Antarktika)",
+    "answer": "Antarktikasse",
+    "accept": [],
+    "en": "I travel from Africa to Antarctica."
+   },
+   {
+    "prompt": "Sõidan Põhja-Ameerikast ___. (Saksamaa)",
+    "answer": "Saksamaale",
+    "accept": [],
+    "en": "I travel from North America to Germany."
+   },
+   {
+    "prompt": "Sõidan ___ Venemaale. (Saksamaa)",
+    "answer": "Saksamaalt",
+    "accept": [],
+    "en": "I travel from Germany to Russia."
+   },
+   {
+    "prompt": "Sõidan Venemaalt ___. (Prantsusmaa)",
+    "answer": "Prantsusmaale",
+    "accept": [],
+    "en": "I travel from Russia to France."
+   },
+   {
+    "prompt": "Sõidan ___ Põhja-Ameerikasse. (Lõuna-Ameerika)",
+    "answer": "Lõuna-Ameerikast",
+    "accept": [],
+    "en": "I travel from South America to North America."
+   },
+   {
+    "prompt": "Sõidan rongiga ___ Tartusse. (Tallinn)",
+    "answer": "Tallinnast",
+    "accept": [],
+    "en": "I go by train from Tallinn to Tartu."
+   },
+   {
+    "prompt": "Sõidan rongiga Tallinnast ___. (Tartu)",
+    "answer": "Tartusse",
+    "accept": [],
+    "en": "I go by train from Tallinn to Tartu."
+   },
+   {
+    "prompt": "Sõidan lennukiga ___ Jaapanisse. (Holland)",
+    "answer": "Hollandist",
+    "accept": [],
+    "en": "I fly from the Netherlands to Japan."
+   },
+   {
+    "prompt": "Sõidan lennukiga Hollandist ___. (Jaapan)",
+    "answer": "Jaapanisse",
+    "accept": [],
+    "en": "I fly from the Netherlands to Japan."
+   },
+   {
+    "prompt": "Sõidan Inglismaalt ___. (Iisrael)",
+    "answer": "Iisraelisse",
+    "accept": [],
+    "en": "I travel from England to Israel."
+   },
+   {
+    "prompt": "Sõidan ___ Ameerikasse. (Euroopa)",
+    "answer": "Euroopast",
+    "accept": [],
+    "en": "I travel from Europe to America."
+   },
+   {
+    "prompt": "Sõidan lennukiga Nigeeriast ___. (Hispaania)",
+    "answer": "Hispaaniasse",
+    "accept": [],
+    "en": "I fly from Nigeria to Spain."
+   },
+   {
+    "prompt": "Kuidas sa ___ lähed? (Saaremaa)",
+    "answer": "Saaremaale",
+    "accept": [],
+    "en": "How do you get to Saaremaa?"
+   },
+   {
+    "prompt": "Kuidas sa ___ lähed? (Helsingi)",
+    "answer": "Helsingisse",
+    "accept": [],
+    "en": "How do you get to Helsinki?"
+   },
+   {
+    "prompt": "Sõidan Prantsusmaalt ___. (Inglismaa)",
+    "answer": "Inglismaale",
+    "accept": [],
+    "en": "I travel from France to England."
+   }
+  ]
+ },
+ {
+  "lesson": 19,
+  "id": "l19-mis-kellaks",
+  "title": "Mis kellaks? By what time: kella neljaks (-ks)",
+  "explanation": "<b>Mis kellaks?</b> = by what time? Answer: <b>kella</b> + number in the II form + <b>-ks</b>: <i>kella neljaks</i> = by four o'clock.<br>Compare: <b>Mis kell?</b> – <i>kell neli</i> (at four) / <b>Mis kellaks?</b> – <i>kella neljaks</i> (by four).<br><table><tr><th>I form</th><th>II form</th><th>Mis kellaks?</th></tr><tr><td>üks</td><td>ühe</td><td>kella üheks</td></tr><tr><td>kaks</td><td>kahe</td><td>kella kaheks</td></tr><tr><td>kolm</td><td>kolme</td><td>kella kolmeks</td></tr><tr><td>neli</td><td>nelja</td><td>kella neljaks</td></tr><tr><td>viis</td><td>viie</td><td>kella viieks</td></tr><tr><td>kuus</td><td>kuue</td><td>kella kuueks</td></tr><tr><td>seitse</td><td>seitsme</td><td>kella seitsmeks</td></tr><tr><td>kaheksa</td><td>kaheksa</td><td>kella kaheksaks</td></tr><tr><td>üheksa</td><td>üheksa</td><td>kella üheksaks</td></tr><tr><td>kümme</td><td>kümne</td><td>kella kümneks</td></tr><tr><td>üksteist</td><td>üheteistkümne</td><td>kella üheteistkümneks</td></tr><tr><td>kaksteist</td><td>kaheteistkümne</td><td>kella kaheteistkümneks</td></tr></table>Timetable sentences: <i>Buss väljub Tallinnast kell pool kaks. Buss jõuab Tartusse kella neljaks. Reis kestab kaks ja pool tundi.</i> (pool kaks = 1.30)",
+  "examples": [
+   {
+    "et": "Buss jõuab Tartusse kella neljaks.",
+    "en": "The bus arrives in Tartu by four o'clock."
+   },
+   {
+    "et": "Mis kellaks buss Tartusse jõuab?",
+    "en": "By what time does the bus get to Tartu?"
+   },
+   {
+    "et": "Rong jõuab Viljandisse kella seitsmeks.",
+    "en": "The train arrives in Viljandi by seven."
+   },
+   {
+    "et": "Reis kestab kaks ja pool tundi.",
+    "en": "The trip lasts two and a half hours."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Rong jõuab Tartusse kella ___. (üks)",
+    "answer": "üheks",
+    "accept": [],
+    "en": "The train arrives in Tartu by one."
+   },
+   {
+    "prompt": "Buss jõuab Pärnusse kella ___. (kaks)",
+    "answer": "kaheks",
+    "accept": [],
+    "en": "The bus arrives in Pärnu by two."
+   },
+   {
+    "prompt": "Rong jõuab Viljandisse kella ___. (kolm)",
+    "answer": "kolmeks",
+    "accept": [],
+    "en": "The train arrives in Viljandi by three."
+   },
+   {
+    "prompt": "Buss jõuab Paidesse kella ___. (neli)",
+    "answer": "neljaks",
+    "accept": [],
+    "en": "The bus arrives in Paide by four."
+   },
+   {
+    "prompt": "Buss jõuab Põlvasse kella ___. (viis)",
+    "answer": "viieks",
+    "accept": [],
+    "en": "The bus arrives in Põlva by five."
+   },
+   {
+    "prompt": "Buss jõuab Kärdlasse kella ___. (kuus)",
+    "answer": "kuueks",
+    "accept": [],
+    "en": "The bus arrives in Kärdla by six."
+   },
+   {
+    "prompt": "Rong jõuab Elvasse kella ___. (seitse)",
+    "answer": "seitsmeks",
+    "accept": [],
+    "en": "The train arrives in Elva by seven."
+   },
+   {
+    "prompt": "Rong jõuab Raplasse kella ___. (kaheksa)",
+    "answer": "kaheksaks",
+    "accept": [],
+    "en": "The train arrives in Rapla by eight."
+   },
+   {
+    "prompt": "Laev jõuab Helsingisse kella ___. (üheksa)",
+    "answer": "üheksaks",
+    "accept": [],
+    "en": "The ship arrives in Helsinki by nine."
+   },
+   {
+    "prompt": "Lennuk jõuab Moskvasse kella ___. (kümme)",
+    "answer": "kümneks",
+    "accept": [],
+    "en": "The plane arrives in Moscow by ten."
+   },
+   {
+    "prompt": "Buss jõuab Maardusse kella ___. (üksteist)",
+    "answer": "üheteistkümneks",
+    "accept": [],
+    "en": "The bus arrives in Maardu by eleven."
+   },
+   {
+    "prompt": "Lennuk jõuab Tallinnasse kella ___. (kaksteist)",
+    "answer": "kaheteistkümneks",
+    "accept": [],
+    "en": "The plane arrives in Tallinn by twelve."
+   },
+   {
+    "prompt": "Mis ___ buss Tartusse jõuab? (kell)",
+    "answer": "kellaks",
+    "accept": [],
+    "en": "By what time does the bus get to Tartu?"
+   },
+   {
+    "prompt": "Buss väljub Tallinnast kell 16.30 ja jõuab Viljandisse kella ___. (seitse)",
+    "answer": "seitsmeks",
+    "accept": [],
+    "en": "The bus leaves Tallinn at 16.30 and arrives in Viljandi by seven."
+   },
+   {
+    "prompt": "Buss Tartu–Narva väljub kell viis ja jõuab kohale kella ___. (kaheksa)",
+    "answer": "kaheksaks",
+    "accept": [],
+    "en": "The Tartu–Narva bus leaves at five and arrives by eight."
+   },
+   {
+    "prompt": "Buss väljub Põlvast kell pool seitse ja jõuab Tallinnasse kella ___. (kümme)",
+    "answer": "kümneks",
+    "accept": [],
+    "en": "The bus leaves Põlva at half past six and arrives in Tallinn by ten."
+   }
+  ]
+ },
+ {
+  "lesson": 20,
+  "id": "l20-past-negative",
+  "title": "Past tense negative: ma ei koristanud (ei + -nud)",
+  "explanation": "Negative past = <b>ei</b> + the <b>-nud</b> form. The -nud form is the <b>same for all persons</b>: <i>ma/sa/ta/me/te/nad ei pesnud</i>.<br>How to make it: take the <b>da-infinitive</b>, remove <b>-da / -ta / -a</b> and add <b>-nud</b>:<br><i>lugeda → lugenud, magada → maganud, vaadata → vaadanud, ärgata → ärganud, õppida → õppinud, pesta → pesnud, osta → ostnud, sõita → sõitnud, maksta → maksnud, laulda → laulnud, käia → käinud</i>.<br><b>Irregular – learn by heart:</b><table><tr><th>ma-inf</th><th>past (ma)</th><th>negative</th></tr><tr><td>olema</td><td>olin</td><td>ei olnud</td></tr><tr><td>tegema</td><td>tegin</td><td>ei teinud</td></tr><tr><td>nägema</td><td>nägin</td><td>ei näinud</td></tr><tr><td>sööma</td><td>sõin</td><td>ei söönud</td></tr><tr><td>jooma</td><td>jõin</td><td>ei joonud</td></tr><tr><td>minema</td><td>läksin</td><td>ei läinud</td></tr><tr><td>panema</td><td>panin</td><td>ei pannud</td></tr><tr><td>tulema</td><td>tulin</td><td>ei tulnud</td></tr></table>Short answers: <i>Kas sa töötasid eile? – Jah, töötasin küll. / Ei, ei töötanud.</i><br>Contradicting: <i>Ei käinud restoranis! Ta käis karaokebaaris.</i>",
+  "examples": [
+   {
+    "et": "Ma ei koristanud eile tuba.",
+    "en": "I didn't clean the room yesterday."
+   },
+   {
+    "et": "Ta ei pesnud eile hambaid.",
+    "en": "He didn't brush his teeth yesterday."
+   },
+   {
+    "et": "Kas sa lugesid eile armastuskirju? – Ei, ei lugenud.",
+    "en": "Did you read love letters yesterday? – No, I didn't."
+   },
+   {
+    "et": "Me ei käinud eile kinos.",
+    "en": "We didn't go to the cinema yesterday."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma ei ___ eile emale. (helistama)",
+    "answer": "helistanud",
+    "accept": [],
+    "en": "I didn't call my mother yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile pubis. (istuma)",
+    "answer": "istunud",
+    "accept": [],
+    "en": "I didn't sit in the pub yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile kohvi. (jooma)",
+    "answer": "joonud",
+    "accept": [],
+    "en": "I didn't drink coffee yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile e-kirju. (kirjutama)",
+    "answer": "kirjutanud",
+    "accept": [],
+    "en": "I didn't write e-mails yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile tuba. (koristama)",
+    "answer": "koristanud",
+    "accept": [],
+    "en": "I didn't clean the room yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile kinos. (käima)",
+    "answer": "käinud",
+    "accept": [],
+    "en": "I didn't go to the cinema yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile hümni. (laulma)",
+    "answer": "laulnud",
+    "accept": [],
+    "en": "I didn't sing the anthem yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile raamatut. (lugema)",
+    "answer": "lugenud",
+    "accept": [],
+    "en": "I didn't read a book yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile bussipeatusesse. (minema)",
+    "answer": "läinud",
+    "accept": [],
+    "en": "I didn't go to the bus stop yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile öösel. (magama)",
+    "answer": "maganud",
+    "accept": [],
+    "en": "I didn't sleep last night."
+   },
+   {
+    "prompt": "Ma ei ___ eile kaardiga. (maksma)",
+    "answer": "maksnud",
+    "accept": [],
+    "en": "I didn't pay by card yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile sõpra. (nägema)",
+    "answer": "näinud",
+    "accept": [],
+    "en": "I didn't see my friend yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile süüa. (ostma)",
+    "answer": "ostnud",
+    "accept": [],
+    "en": "I didn't buy food yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile pesu. (pesema)",
+    "answer": "pesnud",
+    "accept": [],
+    "en": "I didn't do the laundry yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile sõbraga. (rääkima)",
+    "answer": "rääkinud",
+    "accept": [],
+    "en": "I didn't talk with my friend yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile taksoga. (sõitma)",
+    "answer": "sõitnud",
+    "accept": [],
+    "en": "I didn't take a taxi yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile hommikust. (sööma)",
+    "answer": "söönud",
+    "accept": [],
+    "en": "I didn't have breakfast yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile süüa. (tegema)",
+    "answer": "teinud",
+    "accept": [],
+    "en": "I didn't cook yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile filmi. (vaatama)",
+    "answer": "vaadanud",
+    "accept": [],
+    "en": "I didn't watch a film yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile kell seitse. (ärkama)",
+    "answer": "ärganud",
+    "accept": [],
+    "en": "I didn't wake up at seven yesterday."
+   },
+   {
+    "prompt": "Ma ei ___ eile eesti keelt. (õppima)",
+    "answer": "õppinud",
+    "accept": [],
+    "en": "I didn't study Estonian yesterday."
+   },
+   {
+    "prompt": "Me ei ___ eile kodus. (olema)",
+    "answer": "olnud",
+    "accept": [],
+    "en": "We weren't at home yesterday."
+   },
+   {
+    "prompt": "Nad ei ___ eile tangot. (tantsima)",
+    "answer": "tantsinud",
+    "accept": [],
+    "en": "They didn't dance the tango yesterday."
+   }
+  ]
+ },
+ {
+  "lesson": 20,
+  "id": "l20-past-short-answers",
+  "title": "Did you …? Yes / no answers in the past (Jah, pesin küll. / Ei, ei pesnud.)",
+  "explanation": "Answer a past-tense <b>Kas</b>-question by repeating the verb:<ul><li><b>Yes:</b> past form (ma-person) + <b>küll</b>: <i>Kas sa pesid eile hambaid? – Jah, pesin küll.</i></li><li><b>No:</b> <b>Ei, ei</b> + -nud form: <i>Ei, ei pesnud.</i></li></ul>To contradict a claim, repeat the negative and give the right fact:<br><i>Kas sa tead, et jõuluvana käis eile Eestis? – Mis asja? Ei käinud Eestis! Ta käis Soomes.</i><br>NB! After a negative verb the object goes into the partitive: <i>Ta ostis sportauto.</i> → <i>Ta ei ostnud sportautot.</i>",
+  "examples": [
+   {
+    "et": "Kas sa töötasid eile? – Jah, töötasin küll.",
+    "en": "Did you work yesterday? – Yes, I did."
+   },
+   {
+    "et": "Kas sa käisid eile loomaaias? – Ei, ei käinud.",
+    "en": "Did you go to the zoo yesterday? – No, I didn't."
+   },
+   {
+    "et": "Mis asja? Ei käinud restoranis! Ta käis karaokebaaris.",
+    "en": "What? He didn't go to a restaurant! He went to a karaoke bar."
+   },
+   {
+    "et": "Ta ei ostnud sportautot. Ta ostis lennuki.",
+    "en": "He didn't buy a sports car. He bought a plane."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Kas sa pesid eile hambaid? – Jah, ___ küll. (pesema)",
+    "answer": "pesin",
+    "accept": [],
+    "en": "Did you brush your teeth yesterday? – Yes, I did."
+   },
+   {
+    "prompt": "Kas sa pesid eile autot? – Ei, ei ___. (pesema)",
+    "answer": "pesnud",
+    "accept": [],
+    "en": "Did you wash the car yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa töötasid eile? – Jah, ___ küll. (töötama)",
+    "answer": "töötasin",
+    "accept": [],
+    "en": "Did you work yesterday? – Yes, I did."
+   },
+   {
+    "prompt": "Kas sa töötasid eile? – Ei, ei ___. (töötama)",
+    "answer": "töötanud",
+    "accept": [],
+    "en": "Did you work yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa lugesid eile uudiseid? – Jah, ___ küll. (lugema)",
+    "answer": "lugesin",
+    "accept": [],
+    "en": "Did you read the news yesterday? – Yes, I did."
+   },
+   {
+    "prompt": "Kas sa lugesid eile armastuskirju? – Ei, ei ___. (lugema)",
+    "answer": "lugenud",
+    "accept": [],
+    "en": "Did you read love letters yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa nägid eile elevanti? – Ei, ei ___. (nägema)",
+    "answer": "näinud",
+    "accept": [],
+    "en": "Did you see an elephant yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa nägid eile naabrit? – Jah, ___ küll. (nägema)",
+    "answer": "nägin",
+    "accept": [],
+    "en": "Did you see your neighbour yesterday? – Yes, I did."
+   },
+   {
+    "prompt": "Kas sa jõid eile konjakit? – Ei, ei ___. (jooma)",
+    "answer": "joonud",
+    "accept": [],
+    "en": "Did you drink cognac yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa sõid eile hapukurki? – Jah, ___ küll. (sööma)",
+    "answer": "sõin",
+    "accept": [],
+    "en": "Did you eat pickled cucumber yesterday? – Yes, I did."
+   },
+   {
+    "prompt": "Kas sa tegid eile meiki? – Ei, ei ___. (tegema)",
+    "answer": "teinud",
+    "accept": [],
+    "en": "Did you put on make-up yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa sõitsid eile liftiga? – Jah, ___ küll. (sõitma)",
+    "answer": "sõitsin",
+    "accept": [],
+    "en": "Did you take the lift yesterday? – Yes, I did."
+   },
+   {
+    "prompt": "Kas sa käisid eile massaažis? – Ei, ei ___. (käima)",
+    "answer": "käinud",
+    "accept": [],
+    "en": "Did you go for a massage yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa triikisid eile lipsu? – Ei, ei ___. (triikima)",
+    "answer": "triikinud",
+    "accept": [],
+    "en": "Did you iron a tie yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa kammisid eile koera? – Ei, ei ___. (kammima)",
+    "answer": "kamminud",
+    "accept": [],
+    "en": "Did you comb the dog yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Kas sa suitsetasid eile? – Ei, ei ___. (suitsetama)",
+    "answer": "suitsetanud",
+    "accept": [],
+    "en": "Did you smoke yesterday? – No, I didn't."
+   },
+   {
+    "prompt": "Jõuluvana käis eile Eestis? – Mis asja? Ei ___ Eestis! Ta käis Soomes. (käima)",
+    "answer": "käinud",
+    "accept": [],
+    "en": "Santa was in Estonia yesterday? – What? He wasn't in Estonia! He was in Finland."
+   },
+   {
+    "prompt": "Jõuluvana helistas presidendile? – Ei ___ presidendile! Ta helistas taksojuhile. (helistama)",
+    "answer": "helistanud",
+    "accept": [],
+    "en": "Santa called the president? – He didn't call the president! He called a taxi driver."
+   },
+   {
+    "prompt": "Jõuluvana jalutas loomaaias? – Ei jalutanud loomaaias! Ta ___ vanalinnas. (jalutama)",
+    "answer": "jalutas",
+    "accept": [],
+    "en": "Santa walked in the zoo? – He didn't walk in the zoo! He walked in the old town."
+   }
+  ]
+ }
+]

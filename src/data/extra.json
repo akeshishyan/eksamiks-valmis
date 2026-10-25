@@ -1,0 +1,823 @@
+{
+ "speaking_topics": [
+  {
+   "et": "Isikuandmed",
+   "en": "Personal details",
+   "q": [
+    "Mis su nimi on?",
+    "Kust sa pärit oled?",
+    "Kus sa praegu elad?",
+    "Mis keeli sa räägid?",
+    "Mis on sinu amet?",
+    "Kui kaua sa oled Eestis elanud?",
+    "Miks sa elad Eestis?"
+   ],
+   "starters": [
+    "Minu nimi on …",
+    "Ma olen pärit …st.",
+    "Ma elan …s.",
+    "Ma räägin inglise ja … keelt.",
+    "Ma töötan …na.",
+    "Ma olen Eestis elanud … aastat."
+   ]
+  },
+  {
+   "et": "Maja ja kodu",
+   "en": "House and home",
+   "q": [
+    "Kas sa elad majas või korteris?",
+    "Mitmendal korrusel sa elad?",
+    "Mitu tuba sinu korteris on?",
+    "Milline on sinu lemmiktuba? Miks?",
+    "Mis mööbel on sinu elutoas?",
+    "Kas sinu kodus on rõdu või aed?",
+    "Mis sulle sinu kodus meeldib?"
+   ],
+   "starters": [
+    "Ma elan korteris / majas.",
+    "Ma elan kolmandal korrusel.",
+    "Minu korteris on kaks tuba ja köök.",
+    "Elutoas on diivan, laud ja kaks tooli.",
+    "Mulle meeldib minu köök, sest see on suur ja valge."
+   ]
+  },
+  {
+   "et": "Ümbruskond",
+   "en": "Neighbourhood",
+   "q": [
+    "Milline on sinu kodukoht?",
+    "Mis on sinu kodu lähedal?",
+    "Kas sinu kodu lähedal on pood?",
+    "Kuidas sa tööle või kooli lähed?",
+    "Kas sinu kodukoht on vaikne või lärmakas?"
+   ],
+   "starters": [
+    "Minu kodu lähedal on pood, park ja bussipeatus.",
+    "Ma lähen tööle bussiga / jalgsi / autoga.",
+    "Minu kodukoht on vaikne ja roheline."
+   ]
+  },
+  {
+   "et": "Igapäevaelu",
+   "en": "Daily life",
+   "q": [
+    "Mis kell sa hommikul ärkad?",
+    "Mida sa hommikul sööd?",
+    "Mis kell sa tööle lähed?",
+    "Milline on sinu tavaline tööpäev?",
+    "Mida sa õhtul teed?",
+    "Mis kell sa magama lähed?"
+   ],
+   "starters": [
+    "Ma ärkan kell seitse.",
+    "Hommikul ma joon kohvi ja söön putru.",
+    "Ma töötan kella üheksast viieni.",
+    "Õhtul ma teen süüa ja vaatan telekat.",
+    "Ma lähen magama kell üksteist."
+   ]
+  },
+  {
+   "et": "Vaba aeg ja meelelahutus",
+   "en": "Free time",
+   "q": [
+    "Mida sa vabal ajal teed?",
+    "Mida sa nädalavahetusel teed?",
+    "Kas sa teed sporti?",
+    "Kas sa käid kinos või teatris?",
+    "Mis muusika sulle meeldib?",
+    "Mis on sinu hobi?"
+   ],
+   "starters": [
+    "Vabal ajal ma loen raamatuid ja jalutan.",
+    "Nädalavahetusel ma käin sõpradega kohvikus.",
+    "Ma käin kaks korda nädalas jõusaalis.",
+    "Mulle meeldib rokkmuusika."
+   ]
+  },
+  {
+   "et": "Reisimine",
+   "en": "Travel",
+   "q": [
+    "Kus sa oled reisinud?",
+    "Kuhu sa tahaksid reisida?",
+    "Kuidas sulle meeldib reisida: lennuki, rongi või autoga?",
+    "Kas sa oled Eestis reisinud?",
+    "Milline Eesti linn sulle meeldib?"
+   ],
+   "starters": [
+    "Ma olen käinud Soomes ja Lätis.",
+    "Ma tahaksin sõita Itaaliasse.",
+    "Mulle meeldib reisida rongiga, sest see on mugav.",
+    "Mulle meeldib Tartu, sest see on ilus ja rahulik linn."
+   ]
+  },
+  {
+   "et": "Suhted teiste inimestega",
+   "en": "Family and relationships",
+   "q": [
+    "Räägi oma perest.",
+    "Kas sul on vendi või õdesid?",
+    "Kus sinu vanemad elavad?",
+    "Kes on sinu parim sõber?",
+    "Kuidas sa oma sünnipäeva tähistad?"
+   ],
+   "starters": [
+    "Minu pere on väike: mina, mu naine/mees ja meie poeg.",
+    "Mul on üks vend ja üks õde.",
+    "Minu vanemad elavad …s.",
+    "Minu parim sõber on …. Ta on rõõmsameelne ja abivalmis."
+   ]
+  },
+  {
+   "et": "Tervis ja kehahooldus",
+   "en": "Health",
+   "q": [
+    "Kuidas su tervis on?",
+    "Mida sa teed, kui sa oled haige?",
+    "Kui tihti sa käid arsti juures?",
+    "Mida sa teed, et terve olla?",
+    "Mis sul valutab, kui sa oled haige?"
+   ],
+   "starters": [
+    "Mu tervis on hea.",
+    "Kui ma olen haige, ma jään koju ja joon teed.",
+    "Ma käin arsti juures üks kord aastas.",
+    "Ma söön palju puuvilju ja teen sporti."
+   ]
+  },
+  {
+   "et": "Haridus",
+   "en": "Education",
+   "q": [
+    "Kus sa oled õppinud?",
+    "Mida sa ülikoolis õppisid?",
+    "Kus sa eesti keelt õpid?",
+    "Mis on eesti keeles kõige raskem?",
+    "Kas sulle meeldib õppida?"
+   ],
+   "starters": [
+    "Ma õppisin ülikoolis …",
+    "Ma õpin eesti keelt keelekursusel.",
+    "Eesti keeles on käänded rasked."
+   ]
+  },
+  {
+   "et": "Sisseostude tegemine",
+   "en": "Shopping",
+   "q": [
+    "Kus sa tavaliselt toitu ostad?",
+    "Mida sa poest ostad?",
+    "Kas sa ostad riideid internetist?",
+    "Mis on sinu lemmikpood?",
+    "Mis kell sinu lähedal olev pood avatakse?"
+   ],
+   "starters": [
+    "Ma ostan toitu supermarketist.",
+    "Ma ostan leiba, piima, juustu ja puuvilju.",
+    "Pood on avatud kaheksast kümneni."
+   ]
+  },
+  {
+   "et": "Söök ja jook",
+   "en": "Food and drink",
+   "q": [
+    "Mis on sinu lemmiktoit?",
+    "Mida sa hommikusöögiks sööd?",
+    "Kas sa oskad süüa teha?",
+    "Kas sa käid tihti restoranis?",
+    "Mida sa meelsasti jood?"
+   ],
+   "starters": [
+    "Minu lemmiktoit on …",
+    "Hommikusöögiks ma söön võileiba.",
+    "Ma oskan teha suppi.",
+    "Ma käin restoranis üks kord kuus."
+   ]
+  },
+  {
+   "et": "Teenused",
+   "en": "Services",
+   "q": [
+    "Kas sa käid juuksuris? Kui tihti?",
+    "Kuidas sa arsti juurde aja paned?",
+    "Kas sa kasutad internetipanka?",
+    "Kus on sinu kodu lähedal pakiautomaat?"
+   ],
+   "starters": [
+    "Ma käin juuksuris üks kord kuus.",
+    "Ma helistan perearstile ja panen aja.",
+    "Pakiautomaat on poe kõrval."
+   ]
+  },
+  {
+   "et": "Kohad",
+   "en": "Places",
+   "q": [
+    "Mis on sinu lemmikkoht oma linnas?",
+    "Kus sa tavaliselt sõpradega kohtud?",
+    "Mis kohti sa soovitaksid turistile?",
+    "Kus asub sinu töökoht?"
+   ],
+   "starters": [
+    "Minu lemmikkoht on vanalinn.",
+    "Me kohtume tavaliselt kohvikus.",
+    "Turist peaks minema Kadriorgu."
+   ]
+  },
+  {
+   "et": "Keel",
+   "en": "Language",
+   "q": [
+    "Mis keeli sa räägid?",
+    "Miks sa õpid eesti keelt?",
+    "Kuidas sa eesti keelt õpid?",
+    "Kas eesti keel on raske?",
+    "Kus sa eesti keelt räägid?"
+   ],
+   "starters": [
+    "Ma räägin inglise keelt ja natuke eesti keelt.",
+    "Ma õpin eesti keelt, sest ma elan Eestis.",
+    "Ma räägin eesti keelt poes ja tööl."
+   ]
+  },
+  {
+   "et": "Ilm",
+   "en": "Weather",
+   "q": [
+    "Milline ilm täna on?",
+    "Mis aastaaeg sulle meeldib? Miks?",
+    "Milline ilm on Eestis talvel?",
+    "Milline ilm on sinu kodumaal?",
+    "Mida sa teed, kui sajab vihma?"
+   ],
+   "starters": [
+    "Täna on külm ja sajab vihma.",
+    "Mulle meeldib suvi, sest on soe ja päike paistab.",
+    "Talvel on Eestis külm ja sajab lund.",
+    "Kui sajab vihma, ma olen kodus ja loen."
+   ]
+  }
+ ],
+ "roleplay_cards": [
+  {
+   "topic": "Sünnipäev",
+   "en": "Birthday",
+   "keys": [
+    "millal?",
+    "kus?",
+    "mitu külalist?",
+    "kingitus?"
+   ],
+   "model": [
+    "Millal sinu sünnipäev on?",
+    "Kus sa sünnipäeva pead?",
+    "Mitu külalist tuleb?",
+    "Mida sa kingiks tahad?"
+   ]
+  },
+  {
+   "topic": "Korter",
+   "en": "Flat",
+   "keys": [
+    "kus?",
+    "mitu tuba?",
+    "üür?",
+    "korrus?"
+   ],
+   "model": [
+    "Kus sinu korter asub?",
+    "Mitu tuba sinu korteris on?",
+    "Kui suur on üür?",
+    "Mitmendal korrusel sa elad?"
+   ]
+  },
+  {
+   "topic": "Pood",
+   "en": "Shop",
+   "keys": [
+    "avatud?",
+    "kus?",
+    "mida müüakse?",
+    "allahindlus?"
+   ],
+   "model": [
+    "Mis kell pood avatakse?",
+    "Kus pood asub?",
+    "Mida seal müüakse?",
+    "Kas poes on täna allahindlus?"
+   ]
+  },
+  {
+   "topic": "Nädalavahetus",
+   "en": "Weekend",
+   "keys": [
+    "mida teed?",
+    "kellega?",
+    "kuhu lähed?",
+    "ilm?"
+   ],
+   "model": [
+    "Mida sa nädalavahetusel teed?",
+    "Kellega sa koos oled?",
+    "Kuhu sa lähed?",
+    "Milline ilm nädalavahetusel tuleb?"
+   ]
+  },
+  {
+   "topic": "Perekond",
+   "en": "Family",
+   "keys": [
+    "kui suur?",
+    "õed-vennad?",
+    "vanemad – kus?",
+    "lapsed?"
+   ],
+   "model": [
+    "Kui suur on sinu perekond?",
+    "Kas sul on õdesid või vendi?",
+    "Kus sinu vanemad elavad?",
+    "Kas sul on lapsi?"
+   ]
+  },
+  {
+   "topic": "Reis",
+   "en": "Trip",
+   "keys": [
+    "kuhu?",
+    "millal?",
+    "kellega?",
+    "millega?"
+   ],
+   "model": [
+    "Kuhu sa sõidad?",
+    "Millal sa lähed?",
+    "Kellega sa reisid?",
+    "Millega sa sõidad: rongi, bussi või lennukiga?"
+   ]
+  },
+  {
+   "topic": "Söök",
+   "en": "Food",
+   "keys": [
+    "lemmiktoit?",
+    "kus lõunat?",
+    "ise süüa teha?",
+    "hommikul jood?"
+   ],
+   "model": [
+    "Mis on sinu lemmiktoit?",
+    "Kus sa tavaliselt lõunat sööd?",
+    "Kas sa teed ise süüa?",
+    "Mida sa hommikul jood?"
+   ]
+  },
+  {
+   "topic": "Vaba aeg",
+   "en": "Free time",
+   "keys": [
+    "hobi?",
+    "kui tihti?",
+    "kus?",
+    "kellega?"
+   ],
+   "model": [
+    "Mis on sinu hobi?",
+    "Kui tihti sa sellega tegeled?",
+    "Kus sa trenni teed?",
+    "Kellega sa koos käid?"
+   ]
+  },
+  {
+   "topic": "Tervis",
+   "en": "Health",
+   "keys": [
+    "enesetunne?",
+    "mis valutab?",
+    "arst – millal?",
+    "ravim?"
+   ],
+   "model": [
+    "Kuidas sa ennast tunned?",
+    "Mis sul valutab?",
+    "Millal sa arsti juurde lähed?",
+    "Kas sa võtad ravimeid?"
+   ]
+  },
+  {
+   "topic": "Ilm",
+   "en": "Weather",
+   "keys": [
+    "täna?",
+    "homme?",
+    "lemmikaastaaeg?",
+    "talvel selga?"
+   ],
+   "model": [
+    "Milline ilm täna on?",
+    "Milline ilm homme tuleb?",
+    "Mis aastaaeg sulle meeldib?",
+    "Mida sa talvel selga paned?"
+   ]
+  },
+  {
+   "topic": "Töö",
+   "en": "Work",
+   "keys": [
+    "kus?",
+    "tööpäev algab?",
+    "kuidas tööle?",
+    "meeldib?"
+   ],
+   "model": [
+    "Kus sa töötad?",
+    "Mis kell sinu tööpäev algab?",
+    "Kuidas sa tööle lähed?",
+    "Kas sinu töö meeldib sulle?"
+   ]
+  },
+  {
+   "topic": "Eesti keel",
+   "en": "Estonian",
+   "keys": [
+    "kus õpid?",
+    "kui kaua?",
+    "mis on raske?",
+    "miks?"
+   ],
+   "model": [
+    "Kus sa eesti keelt õpid?",
+    "Kui kaua sa oled eesti keelt õppinud?",
+    "Mis on eesti keeles raske?",
+    "Miks sa eesti keelt õpid?"
+   ]
+  }
+ ],
+ "writing_cards": [
+  {
+   "kind": "person",
+   "card": [
+    "Anna Tamm",
+    "hambaarst",
+    "Kesklinna Hambakliinik",
+    "Narva mnt 15, Tallinn",
+    "E–R 9.00–17.00",
+    "tel 5123 4567",
+    "anna.tamm@hambakliinik.ee"
+   ],
+   "prompts": [
+    "Mis on tema amet?",
+    "Kus ta töötab?",
+    "Millal ta töötab?",
+    "Kuidas temaga ühendust võtta?"
+   ],
+   "model": "Anna Tamm on hambaarst. Ta töötab Kesklinna Hambakliinikus. Kliinik asub Tallinnas, Narva maanteel 15. Ta töötab esmaspäevast reedeni kella üheksast viieni. Temaga saab ühendust telefoni teel numbril 5123 4567 või e-posti teel aadressil anna.tamm@hambakliinik.ee."
+  },
+  {
+   "kind": "person",
+   "card": [
+    "Mart Kask",
+    "automehaanik",
+    "AutoAbi OÜ",
+    "Peterburi tee 40, Tallinn",
+    "E–L 8.00–18.00",
+    "tel 5555 1234"
+   ],
+   "prompts": [
+    "Mis on tema amet?",
+    "Kus ta töötab?",
+    "Millal ta töötab?",
+    "Kuidas temaga ühendust võtta?"
+   ],
+   "model": "Mart Kask on automehaanik. Ta töötab firmas AutoAbi. Firma asub Tallinnas, Peterburi teel 40. Ta töötab esmaspäevast laupäevani kella kaheksast kuueni. Kui sul on autoga probleem, võid talle helistada numbril 5555 1234."
+  },
+  {
+   "kind": "place",
+   "card": [
+    "Kalamaja Raamatukogu",
+    "Kotzebue 9, Tallinn",
+    "T–R 11–19, L 10–17",
+    "raamatud, ajakirjad, tasuta internet",
+    "tel 683 1111"
+   ],
+   "prompts": [
+    "Mis asutus see on?",
+    "Kus see asub?",
+    "Mida seal saab teha?",
+    "Millal see on avatud ja kuidas ühendust võtta?"
+   ],
+   "model": "See on Kalamaja raamatukogu. Raamatukogu asub Tallinnas, Kotzebue tänaval 9. Seal saab lugeda raamatuid ja ajakirju ning kasutada tasuta internetti. Raamatukogu on avatud teisipäevast reedeni kella üheteistkümnest seitsmeni ja laupäeval kella kümnest viieni. Telefoninumber on 683 1111."
+  },
+  {
+   "kind": "place",
+   "card": [
+    "Spordiklubi Energia",
+    "Pärnu mnt 22, Tallinn",
+    "E–P 6.00–23.00",
+    "jõusaal, ujula, jooga",
+    "tel 600 2020, www.energia.ee"
+   ],
+   "prompts": [
+    "Mis asutus see on?",
+    "Kus see asub?",
+    "Mida seal saab teha?",
+    "Millal see on avatud ja kuidas ühendust võtta?"
+   ],
+   "model": "See on spordiklubi Energia. Klubi asub Tallinnas, Pärnu maanteel 22. Seal saab käia jõusaalis ja ujumas ning teha joogat. Klubi on avatud iga päev kella kuuest hommikul kella üheteistkümneni õhtul. Lisainfot saab telefonil 600 2020 või kodulehelt www.energia.ee."
+  },
+  {
+   "kind": "place",
+   "card": [
+    "Kohvik Mesi",
+    "Rüütli 5, Tartu",
+    "E–R 8–20, L–P 10–18",
+    "kohv, kook, hommikusöök",
+    "tel 740 0123"
+   ],
+   "prompts": [
+    "Mis asutus see on?",
+    "Kus see asub?",
+    "Mida seal saab teha?",
+    "Millal see on avatud ja kuidas ühendust võtta?"
+   ],
+   "model": "See on kohvik Mesi. Kohvik asub Tartus, Rüütli tänaval 5. Seal saab juua kohvi, süüa kooki ja hommikusööki. Kohvik on avatud tööpäeviti kella kaheksast kaheksani ja nädalavahetusel kella kümnest kuueni. Laua saab broneerida telefonil 740 0123."
+  }
+ ],
+ "writing_notes": [
+  {
+   "title": "Kutse ära öelda",
+   "en": "Decline an invitation",
+   "task": "Sinu sõber Kati kutsus sind laupäeval kinno, aga sa ei saa minna. Kirjuta Katile sõnum (vähemalt 30 sõna).",
+   "points": [
+    "täna kutse eest",
+    "ütle, miks sa ei saa tulla",
+    "paku uus aeg"
+   ],
+   "model": "Tere, Kati!\nAitäh kutse eest! Kahjuks ma ei saa laupäeval kinno tulla, sest mu ema tuleb mulle külla. Kas me võiksime minna pühapäeva õhtul? Film algab kell seitse. Ma ostan piletid. Anna teada!\nKallistades\nAleks"
+  },
+  {
+   "title": "Sünnipäevakutse",
+   "en": "Birthday invitation",
+   "task": "Kutsu oma naaber sünnipäevapeole. Kirjuta kutse (vähemalt 30 sõna).",
+   "points": [
+    "millal pidu on",
+    "kus pidu on",
+    "mida kaasa võtta"
+   ],
+   "model": "Tere, Liis!\nMul on järgmisel laupäeval, 14. novembril sünnipäev. Kutsun sind oma sünnipäevapeole! Pidu algab kell kuus minu korteris, Lille tänav 3–12. Palun võta kaasa hea tuju ja tantsukingad! Kingitust pole vaja.\nOotan sind!\nAleks"
+  },
+  {
+   "title": "Haige kolleeg",
+   "en": "Off sick",
+   "task": "Sa oled haige ja ei saa tööle tulla. Kirjuta kolleeg Peetrile sõnum (vähemalt 30 sõna).",
+   "points": [
+    "mis sul viga on",
+    "kui kaua sa kodus oled",
+    "palu temalt abi"
+   ],
+   "model": "Tere, Peeter!\nMa olen haige. Mul on palavik ja kurk valutab. Arst ütles, et pean kolm päeva kodus olema. Ma tulen tööle tagasi neljapäeval. Kas sa saaksid homme minu asemel koosolekul käia? Suur aitäh!\nTervitades\nAleks"
+  },
+  {
+   "title": "Teade naabritele",
+   "en": "Note to neighbours",
+   "task": "Sa korraldad reedel kodus peo. Kirjuta teade majaelanikele (vähemalt 30 sõna).",
+   "points": [
+    "millal pidu on",
+    "vabanda müra pärast",
+    "jäta oma kontakt"
+   ],
+   "model": "Head naabrid!\nReedel, 20. novembril on minu korteris number 8 pidu. Pidu algab kell seitse õhtul ja lõpeb kell üksteist. Vabandan juba ette, kui on natuke lärmakas. Kui müra segab, palun helistage mulle numbril 5123 4567.\nTänan!\nAleks, korter 8"
+  },
+  {
+   "title": "Minu nädalavahetus",
+   "en": "Short text: my weekend",
+   "task": "Kirjuta lühike tekst „Minu nädalavahetus“ (vähemalt 30 sõna).",
+   "points": [
+    "mida sa teed laupäeval",
+    "mida sa teed pühapäeval",
+    "kellega sa aega veedad"
+   ],
+   "model": "Minu nädalavahetus on tavaliselt rahulik. Laupäeva hommikul ma magan kaua. Pärast lõunat ma käin poes ja koristan kodu. Õhtul ma kohtun sõpradega kohvikus. Pühapäeval ma jalutan pargis ja loen raamatut. Õhtul ma valmistan ette uue nädala."
+  },
+  {
+   "title": "Minu tööpäev",
+   "en": "Short text: my working day",
+   "task": "Kirjuta lühike tekst „Minu tööpäev“ (vähemalt 30 sõna).",
+   "points": [
+    "millal päev algab",
+    "mida sa tööl teed",
+    "mida sa pärast tööd teed"
+   ],
+   "model": "Minu tööpäev algab kell üheksa. Ma ärkan kell seitse, joon kohvi ja sõidan bussiga tööle. Tööl ma kirjutan e-kirju ja käin koosolekutel. Lõunat söön kell kaksteist. Ma lõpetan töö kell viis. Pärast tööd ma lähen jõusaali ja siis koju."
+  },
+  {
+   "title": "Minu kodu",
+   "en": "Short text: my home",
+   "task": "Kirjuta lühike tekst „Minu kodu“ (vähemalt 30 sõna).",
+   "points": [
+    "kus sinu kodu on",
+    "milline see on",
+    "mis sulle seal meeldib"
+   ],
+   "model": "Ma elan Tallinnas, Kalamajas. Minu korter on kolmandal korrusel. Korteris on kaks tuba, köök ja vannituba. Elutoas on suur diivan ja raamaturiiul. Mulle meeldib minu kodu, sest see on valge, hele ja vaikne. Maja lähedal on park."
+  },
+  {
+   "title": "Minu pere",
+   "en": "Short text: my family",
+   "task": "Kirjuta lühike tekst „Minu pere“ (vähemalt 30 sõna).",
+   "points": [
+    "kes on sinu peres",
+    "kus nad elavad",
+    "mida te koos teete"
+   ],
+   "model": "Minu pere ei ole suur. Mul on naine ja üks poeg. Poeg on viis aastat vana ja käib lasteaias. Minu vanemad ja vend elavad välismaal. Nädalavahetusel me käime koos pargis või metsas jalutamas. Suvel sõidame mere äärde."
+  }
+ ],
+ "plan": [
+  {
+   "day": 1,
+   "date": "Mon 26 Oct",
+   "lessons": [
+    11,
+    12
+   ],
+   "focus": "Weather and your day + business-card writing",
+   "tasks": [
+    "Read lessons 11–12 in the workbook, then do their grammar drills here",
+    "Learn the new words for lessons 11–12 (Words tab, filter L11–L12)",
+    "Writing: do 2 business-card tasks (Task 1) and count your words: 25+",
+    "Read the Exam guide tab once, top to bottom",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 2,
+   "date": "Tue 27 Oct",
+   "lessons": [
+    13,
+    14
+   ],
+   "focus": "Visiting, housework + reading tasks",
+   "tasks": [
+    "Lessons 13–14: workbook, then grammar drills here",
+    "Learn the words for lessons 13–14",
+    "Reading: booklet tasks 1–2 (Reading tab, Exam-style tasks)",
+    "Review all due words",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 3,
+   "date": "Wed 28 Oct",
+   "lessons": [
+    15,
+    16
+   ],
+   "focus": "Clothes and shopping + your self-introduction",
+   "tasks": [
+    "Lessons 15–16: workbook, then grammar drills here",
+    "Learn the words for lessons 15–16",
+    "Speaking: write your self-introduction, check it with AI, and say it aloud 5 times",
+    "Review all due words",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 4,
+   "date": "Thu 29 Oct",
+   "lessons": [
+    17,
+    18
+   ],
+   "focus": "Hobbies, past tense + messages",
+   "tasks": [
+    "Lessons 17–18: workbook, then grammar drills (the past tense is key)",
+    "Learn the words for lessons 17–18",
+    "Writing: 2 messages/invitations (Task 2), 30+ words, all 3 points covered",
+    "Drill your Mistakes list",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 5,
+   "date": "Fri 30 Oct",
+   "lessons": [
+    19,
+    20
+   ],
+   "focus": "Travel, past-tense negative + listening",
+   "tasks": [
+    "Lessons 19–20: workbook, then grammar drills here",
+    "Learn the words for lessons 19–20",
+    "Listening: play the official Harno MP3 (linked in each listening task) and answer before reading",
+    "Review all due words",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 6,
+   "date": "Sat 31 Oct",
+   "lessons": [
+    21,
+    22
+   ],
+   "focus": "MOCK EXAM 1 + nature, tickets",
+   "tasks": [
+    "Mock exam: writing 30 min → listening (MP3) → reading 50 min, timed, no breaks",
+    "Speaking: answer 10 topic questions aloud, 2–3 sentences each",
+    "Lessons 21–22: workbook, grammar drills, words",
+    "Note your weakest part and spend extra time on it tomorrow",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 7,
+   "date": "Sun 1 Nov",
+   "lessons": [
+    23,
+    24
+   ],
+   "focus": "Jobs, CV + asking questions (speaking task 2)",
+   "tasks": [
+    "Lessons 23–24: workbook, then grammar drills here",
+    "Learn the words for lessons 23–24",
+    "Speaking: 6 question cards (Ask questions tab), compare with the models",
+    "Drill your Mistakes list",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 8,
+   "date": "Mon 2 Nov",
+   "lessons": [
+    25,
+    26
+   ],
+   "focus": "Food quantities, health + the reader",
+   "tasks": [
+    "Lessons 25–26: workbook, then grammar drills here",
+    "Learn the words for lessons 25–26",
+    "Reading: Margus chapters 1–2 with questions",
+    "Review all due words",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 9,
+   "date": "Tue 3 Nov",
+   "lessons": [
+    27,
+    28
+   ],
+   "focus": "At the doctor, complaints + writing feedback",
+   "tasks": [
+    "Lessons 27–28: workbook, then grammar drills here",
+    "Learn the words for lessons 27–28",
+    "Writing: 3 texts (1 card + 2 messages) with AI feedback",
+    "Reading: Margus chapters 3–4",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 10,
+   "date": "Wed 4 Nov",
+   "lessons": [
+    29,
+    30
+   ],
+   "focus": "Conditional, impersonal + AI examiner",
+   "tasks": [
+    "Lessons 29–30: workbook, then grammar drills here",
+    "Learn the words for lessons 29–30",
+    "Speaking: 3 conversations with the AI examiner on different topics",
+    "Review all due words",
+    "Keeleklikk (free, keeleklikk.ee): watch one chapter's animated dialogues and grammar video on today's topic, ~20 min"
+   ]
+  },
+  {
+   "day": 11,
+   "date": "Thu 5 Nov",
+   "lessons": [
+    31
+   ],
+   "focus": "MOCK EXAM 2 + book review section",
+   "tasks": [
+    "Mock exam 2: all written parts, timed, as on exam day",
+    "Workbook review section (Kordamine) and its drills here",
+    "Drill your whole Mistakes list",
+    "Re-read your corrected texts (Writing → past texts)"
+   ]
+  },
+  {
+   "day": 12,
+   "date": "Fri 6 Nov",
+   "lessons": [],
+   "focus": "Light review and rest",
+   "tasks": [
+    "Due words only, plus Mistakes drill, max 1 hour",
+    "Say your self-introduction aloud 3 times",
+    "Read the phrase bank: message openings/closings, speaking fillers",
+    "Pack an ID card, passport or residence permit, a blue/black pen, water and a snack. Sleep early."
+   ]
+  }
+ ]
+}

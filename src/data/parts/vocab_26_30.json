@@ -1,0 +1,2892 @@
+[
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "enesetunne",
+  "en": "how one feels, well-being",
+  "pos": "noun",
+  "forms": "enesetunne, enesetunde, enesetunnet",
+  "example": "Kuidas su enesetunne on?",
+  "example_en": "How are you feeling?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Kuidas sa ennast tunned?",
+  "en": "How do you feel?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kuidas sa ennast tunned? – Hästi, aitäh!",
+  "example_en": "How do you feel? – Fine, thanks!"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "tundma",
+  "en": "to feel; to know (a person)",
+  "pos": "verb",
+  "forms": "tundma, tunda, tunnen",
+  "example": "Ma tunnen ennast hästi.",
+  "example_en": "I feel good."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Mul on kõik korras.",
+  "en": "I'm fine / everything is OK.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ära muretse, mul on kõik korras!",
+  "example_en": "Don't worry, I'm fine!"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Mul on kõik hästi.",
+  "en": "I'm doing well.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mul on kõik hästi, aitäh!",
+  "example_en": "I'm doing well, thanks!"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "korras",
+  "en": "in order, OK",
+  "pos": "other",
+  "forms": "",
+  "example": "Kõik on korras.",
+  "example_en": "Everything is OK."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Kõik on OK.",
+  "en": "Everything is OK.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kõik on OK, mul ei valuta midagi.",
+  "example_en": "Everything is OK, nothing hurts."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "emotsioon",
+  "en": "emotion",
+  "pos": "noun",
+  "forms": "emotsioon, emotsiooni, emotsiooni",
+  "example": "Kirjuta emotsioon!",
+  "example_en": "Write the emotion!"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "uhke",
+  "en": "proud",
+  "pos": "adj",
+  "forms": "uhke, uhke, uhket",
+  "example": "Ma olen oma lapse üle uhke.",
+  "example_en": "I'm proud of my child."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "üllatunud",
+  "en": "surprised",
+  "pos": "adj",
+  "forms": "üllatunud, üllatunu, üllatunut",
+  "example": "Ma olen väga üllatunud!",
+  "example_en": "I'm very surprised!"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "õnnelik",
+  "en": "happy",
+  "pos": "adj",
+  "forms": "õnnelik, õnneliku, õnnelikku",
+  "example": "Kas sa oled õnnelik?",
+  "example_en": "Are you happy?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "vihane",
+  "en": "angry",
+  "pos": "adj",
+  "forms": "vihane, vihase, vihast",
+  "example": "Ülemus ütleb, et sa oled loll. Sa oled vihane.",
+  "example_en": "Your boss says you're stupid. You're angry."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "segaduses",
+  "en": "confused",
+  "pos": "other",
+  "forms": "",
+  "example": "Ma olen segaduses, ma ei saa aru.",
+  "example_en": "I'm confused, I don't understand."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "kurb",
+  "en": "sad",
+  "pos": "adj",
+  "forms": "kurb, kurva, kurba",
+  "example": "Sõbrad lahutavad. Ma olen kurb.",
+  "example_en": "My friends are getting divorced. I'm sad."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "rõõmus",
+  "en": "glad, cheerful",
+  "pos": "adj",
+  "forms": "rõõmus, rõõmsa, rõõmsat",
+  "example": "Laps naerab. Ma olen rõõmus.",
+  "example_en": "The child is laughing. I'm glad."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "närvis",
+  "en": "nervous",
+  "pos": "other",
+  "forms": "",
+  "example": "Homme on eksam ja ma olen närvis.",
+  "example_en": "Tomorrow is the exam and I'm nervous."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "mures",
+  "en": "worried",
+  "pos": "other",
+  "forms": "",
+  "example": "Ema on mures, sest laps on haige.",
+  "example_en": "Mother is worried because the child is ill."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "hirm",
+  "en": "fear",
+  "pos": "noun",
+  "forms": "hirm, hirmu, hirmu",
+  "example": "Toas on suur ämblik. Mul on hirm!",
+  "example_en": "There's a big spider in the room. I'm scared!"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "hirmul",
+  "en": "scared, frightened",
+  "pos": "other",
+  "forms": "",
+  "example": "Ma olen metsas ja näen karu. Ma olen hirmul.",
+  "example_en": "I'm in the forest and I see a bear. I'm scared."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "armunud",
+  "en": "in love",
+  "pos": "adj",
+  "forms": "armunud, armunu, armunut",
+  "example": "Ma olen armunud!",
+  "example_en": "I'm in love!"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "piinlik",
+  "en": "embarrassing; embarrassed (Mul on piinlik)",
+  "pos": "adj",
+  "forms": "piinlik, piinliku, piinlikku",
+  "example": "Mu sokk on katki. Mul on piinlik.",
+  "example_en": "My sock has a hole. I'm embarrassed."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "stress",
+  "en": "stress",
+  "pos": "noun",
+  "forms": "stress, stressi, stressi",
+  "example": "Mul on kiire ja mul on stress.",
+  "example_en": "I'm in a hurry and I'm stressed."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "mõtlik",
+  "en": "thoughtful, pensive",
+  "pos": "adj",
+  "forms": "mõtlik, mõtliku, mõtlikku",
+  "example": "Miks sa nii mõtlik oled?",
+  "example_en": "Why are you so pensive?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "unine",
+  "en": "sleepy",
+  "pos": "adj",
+  "forms": "unine, unise, unist",
+  "example": "Kas sa oled unine?",
+  "example_en": "Are you sleepy?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "väsinud",
+  "en": "tired",
+  "pos": "adj",
+  "forms": "väsinud, väsinu, väsinut",
+  "example": "Kas sa oled väsinud?",
+  "example_en": "Are you tired?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "terve",
+  "en": "healthy; whole",
+  "pos": "adj",
+  "forms": "terve, terve, tervet",
+  "example": "Kas sa oled terve?",
+  "example_en": "Are you healthy?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "optimistlik",
+  "en": "optimistic",
+  "pos": "adj",
+  "forms": "optimistlik, optimistliku, optimistlikku",
+  "example": "Kas sa oled optimistlik?",
+  "example_en": "Are you optimistic?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Mul on kõht täis.",
+  "en": "I'm full (have eaten enough).",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Aitäh, mul on kõht täis.",
+  "example_en": "Thanks, I'm full."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Mul on kõht tühi.",
+  "en": "I'm hungry.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mul on kõht tühi, ma tahan süüa.",
+  "example_en": "I'm hungry, I want to eat."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "täis",
+  "en": "full",
+  "pos": "adj",
+  "forms": "",
+  "example": "Kas sul on kõht täis?",
+  "example_en": "Are you full?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Mul on paha.",
+  "en": "I feel sick / unwell.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sul on paha? – Ei, ei ole.",
+  "example_en": "Do you feel sick? – No, I don't."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "janu",
+  "en": "thirst",
+  "pos": "noun",
+  "forms": "janu, janu, janu",
+  "example": "Kas sul on janu?",
+  "example_en": "Are you thirsty?"
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Mul on kiire.",
+  "en": "I'm in a hurry.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mul on kiire ja poes on pikk järjekord.",
+  "example_en": "I'm in a hurry and there's a long queue in the shop."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Kas su pea valutab?",
+  "en": "Does your head hurt?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas su pea valutab? – Jah, valutab küll.",
+  "example_en": "Does your head hurt? – Yes, it does."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Jah, valutab küll.",
+  "en": "Yes, it does hurt.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas su selg valutab? – Jah, valutab küll.",
+  "example_en": "Does your back hurt? – Yes, it does."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Natuke valutab.",
+  "en": "It hurts a little.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas su kõht valutab? – Natuke valutab.",
+  "example_en": "Does your stomach hurt? – A little."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "Ei, ei valuta.",
+  "en": "No, it doesn't hurt.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas su hammas valutab? – Ei, ei valuta.",
+  "example_en": "Does your tooth hurt? – No, it doesn't."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "nutma",
+  "en": "to cry",
+  "pos": "verb",
+  "forms": "nutma, nutta, nutan",
+  "example": "Sinu laps nutab.",
+  "example_en": "Your child is crying."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "naerma",
+  "en": "to laugh",
+  "pos": "verb",
+  "forms": "naerma, naerda, naeran",
+  "example": "Sinu laps naerab.",
+  "example_en": "Your child is laughing."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "kutsuma",
+  "en": "to invite; to call",
+  "pos": "verb",
+  "forms": "kutsuma, kutsuda, kutsun",
+  "example": "Kolleegid kutsuvad sind sauna.",
+  "example_en": "Your colleagues invite you to the sauna."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "lahutama",
+  "en": "to divorce; to separate",
+  "pos": "verb",
+  "forms": "lahutama, lahutada, lahutan",
+  "example": "Sinu sõbrad lahutavad.",
+  "example_en": "Your friends are getting divorced."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "võitma",
+  "en": "to win",
+  "pos": "verb",
+  "forms": "võitma, võita, võidan",
+  "example": "Sa võitsid lotoga 200 000 eurot.",
+  "example_en": "You won 200,000 euros in the lottery."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "loto",
+  "en": "lottery",
+  "pos": "noun",
+  "forms": "loto, loto, lotot",
+  "example": "Ta võitis Bingo lotoga.",
+  "example_en": "He won the Bingo lottery."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "pulmad",
+  "en": "wedding (plural word)",
+  "pos": "noun",
+  "forms": "pulmad, pulmade, pulmi",
+  "example": "Sul on homme pulmad.",
+  "example_en": "Tomorrow is your wedding."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "eksam",
+  "en": "exam",
+  "pos": "noun",
+  "forms": "eksam, eksami, eksamit",
+  "example": "Sul on homme eesti keele eksam.",
+  "example_en": "Tomorrow you have the Estonian exam."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "tulemus",
+  "en": "result",
+  "pos": "noun",
+  "forms": "tulemus, tulemuse, tulemust",
+  "example": "Sinu tulemus on 100 protsenti.",
+  "example_en": "Your result is 100 percent."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "protsent",
+  "en": "percent",
+  "pos": "noun",
+  "forms": "protsent, protsendi, protsenti",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "ülemus",
+  "en": "boss",
+  "pos": "noun",
+  "forms": "ülemus, ülemuse, ülemust",
+  "example": "Sinu ülemus ütleb, et sa oled loll.",
+  "example_en": "Your boss says you are stupid."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "loll",
+  "en": "stupid, silly",
+  "pos": "adj",
+  "forms": "loll, lolli, lolli",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "katki",
+  "en": "broken; torn, with a hole",
+  "pos": "other",
+  "forms": "",
+  "example": "Sa näed, et sinu sokk on katki.",
+  "example_en": "You see that your sock has a hole."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "sokk",
+  "en": "sock",
+  "pos": "noun",
+  "forms": "sokk, soki, sokki",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "pluus",
+  "en": "blouse",
+  "pos": "noun",
+  "forms": "pluus, pluusi, pluusi",
+  "example": "Kolleeg ütleb, et sul on ilus pluus.",
+  "example_en": "A colleague says you have a nice blouse."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "pidžaama",
+  "en": "pyjamas",
+  "pos": "noun",
+  "forms": "pidžaama, pidžaama, pidžaamat",
+  "example": "Sinu voodis on pidžaama, aga see ei ole sinu pidžaama.",
+  "example_en": "There are pyjamas in your bed, but they're not yours."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "voodi",
+  "en": "bed",
+  "pos": "noun",
+  "forms": "voodi, voodi, voodit",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "liiklusummik",
+  "en": "traffic jam",
+  "pos": "noun",
+  "forms": "liiklusummik, liiklusummiku, liiklusummikut",
+  "example": "Linnas on liiklusummik.",
+  "example_en": "There's a traffic jam in town."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "järjekord",
+  "en": "queue, line",
+  "pos": "noun",
+  "forms": "järjekord, järjekorra, järjekorda",
+  "example": "Poes on pikk järjekord.",
+  "example_en": "There's a long queue in the shop."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "hiir",
+  "en": "mouse",
+  "pos": "noun",
+  "forms": "hiir, hiire, hiirt",
+  "example": "Sinu köögis on hiir.",
+  "example_en": "There's a mouse in your kitchen."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "ämblik",
+  "en": "spider",
+  "pos": "noun",
+  "forms": "ämblik, ämbliku, ämblikku",
+  "example": "Toas on suur ämblik.",
+  "example_en": "There's a big spider in the room."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "sääsk",
+  "en": "mosquito",
+  "pos": "noun",
+  "forms": "sääsk, sääse, sääske",
+  "example": "Sinu toas on sääsk.",
+  "example_en": "There's a mosquito in your room."
+ },
+ {
+  "lesson": 26,
+  "topic": "Feelings",
+  "et": "karu",
+  "en": "bear",
+  "pos": "noun",
+  "forms": "karu, karu, karu",
+  "example": "Sa oled metsas ja näed karu.",
+  "example_en": "You're in the forest and see a bear."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "Mis sul viga on?",
+  "en": "What's wrong with you?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mis sul viga on? – Mu pea valutab.",
+  "example_en": "What's wrong? – My head hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "viga",
+  "en": "fault, mistake; what's wrong",
+  "pos": "noun",
+  "forms": "viga, vea, viga",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "Mis sul valutab?",
+  "en": "What hurts?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mis sul valutab? – Mu selg valutab.",
+  "example_en": "What hurts? – My back hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "valutama",
+  "en": "to ache, hurt",
+  "pos": "verb",
+  "forms": "valutama, valutada, valutan",
+  "example": "Mu pea valutab.",
+  "example_en": "My head hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "pea",
+  "en": "head",
+  "pos": "noun",
+  "forms": "pea, pea, pead",
+  "example": "Mu pea valutab.",
+  "example_en": "My head hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "juuksed",
+  "en": "hair (plural)",
+  "pos": "noun",
+  "forms": "juuksed, juuste, juukseid",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "silm",
+  "en": "eye",
+  "pos": "noun",
+  "forms": "silm, silma, silma",
+  "example": "Mu silm valutab.",
+  "example_en": "My eye hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "kõrv",
+  "en": "ear",
+  "pos": "noun",
+  "forms": "kõrv, kõrva, kõrva",
+  "example": "Mu kõrv valutab.",
+  "example_en": "My ear hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "nina",
+  "en": "nose",
+  "pos": "noun",
+  "forms": "nina, nina, nina",
+  "example": "Mu nina valutab.",
+  "example_en": "My nose hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "suu",
+  "en": "mouth",
+  "pos": "noun",
+  "forms": "suu, suu, suud",
+  "example": "Mu suu valutab.",
+  "example_en": "My mouth hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "hammas",
+  "en": "tooth",
+  "pos": "noun",
+  "forms": "hammas, hamba, hammast",
+  "example": "Mu hammas valutab.",
+  "example_en": "My tooth hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "keel",
+  "en": "tongue; language",
+  "pos": "noun",
+  "forms": "keel, keele, keelt",
+  "example": "Mu keel valutab.",
+  "example_en": "My tongue hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "lõug",
+  "en": "chin",
+  "pos": "noun",
+  "forms": "lõug, lõua, lõuga",
+  "example": "Mu lõug valutab.",
+  "example_en": "My chin hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "kael",
+  "en": "neck",
+  "pos": "noun",
+  "forms": "kael, kaela, kaela",
+  "example": "Mu kael valutab.",
+  "example_en": "My neck hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "kurk",
+  "en": "throat",
+  "pos": "noun",
+  "forms": "kurk, kurgu, kurku",
+  "example": "Mu kurk valutab.",
+  "example_en": "My throat hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "õlg",
+  "en": "shoulder",
+  "pos": "noun",
+  "forms": "õlg, õla, õlga",
+  "example": "Mu õlg valutab.",
+  "example_en": "My shoulder hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "käsi",
+  "en": "hand, arm",
+  "pos": "noun",
+  "forms": "käsi, käe, kätt",
+  "example": "Mu käsi valutab.",
+  "example_en": "My hand hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "küünarnukk",
+  "en": "elbow",
+  "pos": "noun",
+  "forms": "küünarnukk, küünarnuki, küünarnukki",
+  "example": "Mu küünarnukk valutab.",
+  "example_en": "My elbow hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "sõrm",
+  "en": "finger",
+  "pos": "noun",
+  "forms": "sõrm, sõrme, sõrme",
+  "example": "Mu sõrm valutab.",
+  "example_en": "My finger hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "selg",
+  "en": "back",
+  "pos": "noun",
+  "forms": "selg, selja, selga",
+  "example": "Mu selg valutab.",
+  "example_en": "My back hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "kõht",
+  "en": "stomach, belly",
+  "pos": "noun",
+  "forms": "kõht, kõhu, kõhtu",
+  "example": "Mu kõht valutab.",
+  "example_en": "My stomach hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "naba",
+  "en": "navel, belly button",
+  "pos": "noun",
+  "forms": "naba, naba, naba",
+  "example": "Mu naba valutab.",
+  "example_en": "My belly button hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "süda",
+  "en": "heart",
+  "pos": "noun",
+  "forms": "süda, südame, südant",
+  "example": "Mu süda valutab.",
+  "example_en": "My heart hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "jalg",
+  "en": "leg, foot",
+  "pos": "noun",
+  "forms": "jalg, jala, jalga",
+  "example": "Mu jalg valutab.",
+  "example_en": "My leg hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "põlv",
+  "en": "knee",
+  "pos": "noun",
+  "forms": "põlv, põlve, põlve",
+  "example": "Mu põlv valutab.",
+  "example_en": "My knee hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Body parts",
+  "et": "varvas",
+  "en": "toe",
+  "pos": "noun",
+  "forms": "varvas, varba, varvast",
+  "example": "Mu varvas valutab.",
+  "example_en": "My toe hurts."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "tervisehäda",
+  "en": "health problem",
+  "pos": "noun",
+  "forms": "tervisehäda, tervisehäda, tervisehäda",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "haige",
+  "en": "ill, sick; patient",
+  "pos": "adj",
+  "forms": "haige, haige, haiget",
+  "example": "Ma olen haige.",
+  "example_en": "I'm ill."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "palavik",
+  "en": "fever",
+  "pos": "noun",
+  "forms": "palavik, palaviku, palavikku",
+  "example": "Mul on palavik. / Mul ei ole palavikku.",
+  "example_en": "I have a fever. / I don't have a fever."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "nohu",
+  "en": "runny nose, head cold",
+  "pos": "noun",
+  "forms": "nohu, nohu, nohu",
+  "example": "Mul on nohu.",
+  "example_en": "I have a runny nose."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "köha",
+  "en": "cough",
+  "pos": "noun",
+  "forms": "köha, köha, köha",
+  "example": "Mul on köha.",
+  "example_en": "I have a cough."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "viirus",
+  "en": "virus",
+  "pos": "noun",
+  "forms": "viirus, viiruse, viirust",
+  "example": "Mul on viirus.",
+  "example_en": "I have a virus."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "põletik",
+  "en": "inflammation, infection",
+  "pos": "noun",
+  "forms": "põletik, põletiku, põletikku",
+  "example": "Mul on põletik.",
+  "example_en": "I have an inflammation."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "allergia",
+  "en": "allergy",
+  "pos": "noun",
+  "forms": "allergia, allergia, allergiat",
+  "example": "Mul on allergia.",
+  "example_en": "I have an allergy."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "pissihäda",
+  "en": "need to pee",
+  "pos": "noun",
+  "forms": "pissihäda, pissihäda, pissihäda",
+  "example": "Mul on pissihäda.",
+  "example_en": "I need to pee."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "rase",
+  "en": "pregnant",
+  "pos": "adj",
+  "forms": "rase, raseda, rasedat",
+  "example": "Ma olen rase.",
+  "example_en": "I'm pregnant."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "vaktsineeritud",
+  "en": "vaccinated",
+  "pos": "adj",
+  "forms": "vaktsineeritud, vaktsineeritu, vaktsineeritut",
+  "example": "Ma olen vaktsineeritud.",
+  "example_en": "I'm vaccinated."
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "Mul on süda paha.",
+  "en": "I feel nauseous.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "Mul käib pea ringi.",
+  "en": "I feel dizzy.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "Mul on kõht lahti.",
+  "en": "I have diarrhoea.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "Mul on kõht kinni.",
+  "en": "I'm constipated.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "Mul jookseb nina verd.",
+  "en": "My nose is bleeding.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Health problems",
+  "et": "Mul on nohu.",
+  "en": "I have a runny nose.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mul on nohu. – Mul ei ole nohu.",
+  "example_en": "I have a runny nose. – I don't have a runny nose."
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "hädaabi",
+  "en": "emergency help",
+  "pos": "noun",
+  "forms": "hädaabi, hädaabi, hädaabi",
+  "example": "Eesti hädaabi telefoninumber on 112.",
+  "example_en": "The Estonian emergency number is 112."
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "telefoninumber",
+  "en": "phone number",
+  "pos": "noun",
+  "forms": "telefoninumber, telefoninumbri, telefoninumbrit",
+  "example": "Mis on sinu perearsti telefoninumber?",
+  "example_en": "What is your family doctor's phone number?"
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "perearst",
+  "en": "family doctor, GP",
+  "pos": "noun",
+  "forms": "perearst, perearsti, perearsti",
+  "example": "Kes on sinu perearst?",
+  "example_en": "Who is your family doctor?"
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "nõuandeliin",
+  "en": "advice line",
+  "pos": "noun",
+  "forms": "nõuandeliin, nõuandeliini, nõuandeliini",
+  "example": "Mis on perearsti nõuandeliini telefoninumber?",
+  "example_en": "What is the family doctor advice line number?"
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "helistamine",
+  "en": "calling (on the phone)",
+  "pos": "noun",
+  "forms": "helistamine, helistamise, helistamist",
+  "example": "Kas nõuandeliinile helistamine on tasuline?",
+  "example_en": "Is calling the advice line paid?"
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "tasuline",
+  "en": "paid, chargeable",
+  "pos": "adj",
+  "forms": "tasuline, tasulise, tasulist",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "apteek",
+  "en": "pharmacy",
+  "pos": "noun",
+  "forms": "apteek, apteegi, apteeki",
+  "example": "Mine apteeki!",
+  "example_en": "Go to the pharmacy!"
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "kiirabi",
+  "en": "ambulance, emergency medical service",
+  "pos": "noun",
+  "forms": "kiirabi, kiirabi, kiirabi",
+  "example": "Helista kiirabisse!",
+  "example_en": "Call an ambulance!"
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "nõu",
+  "en": "advice",
+  "pos": "noun",
+  "forms": "nõu, nõu, nõu",
+  "example": "Ütle, mis sul viga on! Anna nõu!",
+  "example_en": "Say what's wrong with you! Give advice!"
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "Helista kiirabisse!",
+  "en": "Call an ambulance!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "Helista perearstile!",
+  "en": "Call your family doctor!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "Helista emale!",
+  "en": "Call your mum!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "Mine apteeki!",
+  "en": "Go to the pharmacy!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 27,
+  "topic": "Getting help",
+  "et": "Mine koju!",
+  "en": "Go home!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "Mille üle te kaebate?",
+  "en": "What seems to be the problem? (lit. What are you complaining about?)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Arst: Tere! Mille üle te kaebate?",
+  "example_en": "Doctor: Hello! What seems to be the problem?"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "kaebama",
+  "en": "to complain",
+  "pos": "verb",
+  "forms": "kaebama, kaevata, kaeban",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "arst",
+  "en": "doctor",
+  "pos": "noun",
+  "forms": "arst, arsti, arsti",
+  "example": "Ma lähen arsti juurde.",
+  "example_en": "I'm going to the doctor."
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "patsient",
+  "en": "patient",
+  "pos": "noun",
+  "forms": "patsient, patsiendi, patsienti",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "haigeks jääma",
+  "en": "to fall ill",
+  "pos": "verb",
+  "forms": "jääma, jääda, jään",
+  "example": "Millal te haigeks jäite?",
+  "example_en": "When did you fall ill?"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "terveks saama",
+  "en": "to get well, recover",
+  "pos": "verb",
+  "forms": "saama, saada, saan",
+  "example": "Ma sain kiiresti terveks.",
+  "example_en": "I recovered quickly."
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "Saa ruttu terveks!",
+  "en": "Get well soon!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "kraad",
+  "en": "degree",
+  "pos": "noun",
+  "forms": "kraad, kraadi, kraadi",
+  "example": "Mul on palavik, 38 kraadi.",
+  "example_en": "I have a fever, 38 degrees."
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "täpsemalt",
+  "en": "more precisely",
+  "pos": "adv",
+  "forms": "",
+  "example": "38 kraadi, täpsemalt 38,2.",
+  "example_en": "38 degrees, 38.2 to be exact."
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "vist",
+  "en": "probably, I think",
+  "pos": "adv",
+  "forms": "",
+  "example": "Vist eile.",
+  "example_en": "Yesterday, I think."
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "tegelikult",
+  "en": "actually, in fact",
+  "pos": "adv",
+  "forms": "",
+  "example": "Ei, tegelikult juba kaks päeva tagasi.",
+  "example_en": "No, actually already two days ago."
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "Tehke suu lahti!",
+  "en": "Open your mouth!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "lahti",
+  "en": "open; loose",
+  "pos": "adv",
+  "forms": "",
+  "example": "Tehke suu lahti!",
+  "example_en": "Open your mouth!"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "Kurk on punane.",
+  "en": "The throat is red.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "Mis nüüd saab?",
+  "en": "What happens now?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "analüüs",
+  "en": "(medical) test, analysis",
+  "pos": "noun",
+  "forms": "analüüs, analüüsi, analüüsi",
+  "example": "Teeme analüüsid.",
+  "example_en": "Let's do some tests."
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "ravim",
+  "en": "medicine, drug",
+  "pos": "noun",
+  "forms": "ravim, ravimi, ravimit",
+  "example": "Ma kirjutan teile ravimi.",
+  "example_en": "I'll prescribe you a medicine."
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "Ma kirjutan teile ravimi.",
+  "en": "I'll prescribe you some medicine.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "Kas ma võin ...?",
+  "en": "May I ...?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin päeval magada?",
+  "example_en": "May I sleep in the daytime?"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "võima",
+  "en": "may, to be allowed; can",
+  "pos": "verb",
+  "forms": "võima, võida, võin",
+  "example": "Kas ma võin ujuda?",
+  "example_en": "May I swim?"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "käsk",
+  "en": "order, command",
+  "pos": "noun",
+  "forms": "käsk, käsu, käsku",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "keeld",
+  "en": "ban, prohibition",
+  "pos": "noun",
+  "forms": "keeld, keelu, keeldu",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "Ärge ...!",
+  "en": "Don't ...! (to several people / politely)",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ärge suitsetage!",
+  "example_en": "Don't smoke!"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "ujuma",
+  "en": "to swim",
+  "pos": "verb",
+  "forms": "ujuma, ujuda, ujun",
+  "example": "Ujuge!",
+  "example_en": "Swim!"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "tantsima",
+  "en": "to dance",
+  "pos": "verb",
+  "forms": "tantsima, tantsida, tantsin",
+  "example": "Tantsige!",
+  "example_en": "Dance!"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "sõitma",
+  "en": "to ride, drive, travel",
+  "pos": "verb",
+  "forms": "sõitma, sõita, sõidan",
+  "example": "Kas ma võin jalgrattaga sõita?",
+  "example_en": "May I ride a bicycle?"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "tagasi tulema",
+  "en": "to come back",
+  "pos": "verb",
+  "forms": "tulema, tulla, tulen",
+  "example": "Kas ma võin homme tagasi tulla?",
+  "example_en": "May I come back tomorrow?"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "vanaema",
+  "en": "grandmother",
+  "pos": "noun",
+  "forms": "vanaema, vanaema, vanaema",
+  "example": "Mida sinu vanaema ütleb?",
+  "example_en": "What does your grandmother say?"
+ },
+ {
+  "lesson": 28,
+  "topic": "At the doctor's",
+  "et": "kogu aeg",
+  "en": "all the time",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma olen kogu aeg väsinud.",
+  "example_en": "I'm tired all the time."
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "Millal?",
+  "en": "When?",
+  "pos": "other",
+  "forms": "",
+  "example": "Millal te haigeks jäite?",
+  "example_en": "When did you fall ill?"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "tagasi",
+  "en": "ago; back",
+  "pos": "other",
+  "forms": "",
+  "example": "kaks päeva tagasi",
+  "example_en": "two days ago"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "pärast",
+  "en": "in, after (time)",
+  "pos": "other",
+  "forms": "",
+  "example": "kahe päeva pärast",
+  "example_en": "in two days"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "ammu",
+  "en": "long ago",
+  "pos": "adv",
+  "forms": "",
+  "example": "Ma jäin haigeks väga ammu.",
+  "example_en": "I fell ill a very long time ago."
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "praegu",
+  "en": "now, at the moment",
+  "pos": "adv",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "minut",
+  "en": "minute",
+  "pos": "noun",
+  "forms": "minut, minuti, minutit",
+  "example": "kaks minutit tagasi / kahe minuti pärast",
+  "example_en": "two minutes ago / in two minutes"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "tund",
+  "en": "hour; lesson",
+  "pos": "noun",
+  "forms": "tund, tunni, tundi",
+  "example": "kaks tundi tagasi / kahe tunni pärast",
+  "example_en": "two hours ago / in two hours"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "päev",
+  "en": "day",
+  "pos": "noun",
+  "forms": "päev, päeva, päeva",
+  "example": "kaks päeva tagasi / kahe päeva pärast",
+  "example_en": "two days ago / in two days"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "nädal",
+  "en": "week",
+  "pos": "noun",
+  "forms": "nädal, nädala, nädalat",
+  "example": "kaks nädalat tagasi / kahe nädala pärast",
+  "example_en": "two weeks ago / in two weeks"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "kuu",
+  "en": "month; moon",
+  "pos": "noun",
+  "forms": "kuu, kuu, kuud",
+  "example": "kaks kuud tagasi / kahe kuu pärast",
+  "example_en": "two months ago / in two months"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "aasta",
+  "en": "year",
+  "pos": "noun",
+  "forms": "aasta, aasta, aastat",
+  "example": "kaks aastat tagasi / kahe aasta pärast",
+  "example_en": "two years ago / in two years"
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "kaks päeva tagasi",
+  "en": "two days ago",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma jäin haigeks kaks päeva tagasi.",
+  "example_en": "I fell ill two days ago."
+ },
+ {
+  "lesson": 28,
+  "topic": "When? (ago / in)",
+  "et": "kahe päeva pärast",
+  "en": "in two days",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma saan terveks kahe päeva pärast.",
+  "example_en": "I'll get well in two days."
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Töötage! / Ärge töötage!",
+  "en": "Work! / Don't work!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin aias töötada? – Töötage!",
+  "example_en": "May I work in the garden? – Go ahead and work!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Magage!",
+  "en": "Sleep!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin päeval magada? – Magage!",
+  "example_en": "May I sleep during the day? – Sleep!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Jalutage!",
+  "en": "Go for a walk!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin linnas jalutada? – Jalutage!",
+  "example_en": "May I walk in town? – Do!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Suitsetage! / Ärge suitsetage!",
+  "en": "Smoke! / Don't smoke!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin suitsetada? – Ärge suitsetage!",
+  "example_en": "May I smoke? – Don't smoke!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Ujuge!",
+  "en": "Swim!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Lugege!",
+  "en": "Read!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin raamatut lugeda? – Lugege!",
+  "example_en": "May I read a book? – Read!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Rääkige!",
+  "en": "Speak! Talk!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Laulge!",
+  "en": "Sing!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Sööge!",
+  "en": "Eat!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin šokolaadi süüa? – Sööge!",
+  "example_en": "May I eat chocolate? – Eat!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Jooge!",
+  "en": "Drink!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin õlut juua? – Ärge jooge!",
+  "example_en": "May I drink beer? – Don't drink!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Käige!",
+  "en": "Go (regularly)! Visit!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin saunas käia? – Käige!",
+  "example_en": "May I go to the sauna? – Go!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Olge!",
+  "en": "Be!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin perega koos olla? – Olge!",
+  "example_en": "May I be together with my family? – Do!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Tulge!",
+  "en": "Come!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin homme tagasi tulla? – Tulge!",
+  "example_en": "May I come back tomorrow? – Come!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Minge!",
+  "en": "Go!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin tööle minna? – Ärge minge!",
+  "example_en": "May I go to work? – Don't go!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Vaadake! / Ärge vaadake!",
+  "en": "Watch! / Don't watch!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin televiisorit vaadata? – Vaadake!",
+  "example_en": "May I watch TV? – Watch!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Kuulake!",
+  "en": "Listen!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Peske!",
+  "en": "Wash!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin aknaid pesta? – Peske!",
+  "example_en": "May I wash the windows? – Wash them!"
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Sõitke!",
+  "en": "Ride! Drive!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 28,
+  "topic": "Doctor's orders (teie-imperative)",
+  "et": "Tehke!",
+  "en": "Do! Make!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas ma võin sporti teha? – Tehke!",
+  "example_en": "May I do sports? – Do!"
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "ma oleksin / ma oleks",
+  "en": "I would be",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kui ma oleks loom, ma oleks kass.",
+  "example_en": "If I were an animal, I'd be a cat."
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "mul oleks",
+  "en": "I would have",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kui mul oleks 10 eurot, ma ostaks raamatu.",
+  "example_en": "If I had 10 euros, I'd buy a book."
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "ma teeksin / ma teeks",
+  "en": "I would do / make",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "ma läheksin / ma läheks",
+  "en": "I would go",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "ma ostaksin / ma ostaks",
+  "en": "I would buy",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "ma ei tahaks",
+  "en": "I wouldn't want",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma ei tahaks praegu tööl olla.",
+  "example_en": "I wouldn't want to be at work now."
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "Kas sa koristaks ...?",
+  "en": "Would you clean ...?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa koristaks nädalavahetusel minu korterit?",
+  "example_en": "Would you clean my flat at the weekend?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "Kas sa teeks mulle kohvi?",
+  "en": "Would you make me a coffee?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa teeks mulle praegu kohvi?",
+  "example_en": "Would you make me a coffee now?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "Kas sa läheks külla?",
+  "en": "Would you go visiting?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "kodumasin",
+  "en": "household appliance",
+  "pos": "noun",
+  "forms": "kodumasin, kodumasina, kodumasinat",
+  "example": "Kui sa oleks kodumasin, mis kodumasin sa oleks?",
+  "example_en": "If you were a household appliance, which one would you be?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Conditional phrases",
+  "et": "mobiiltelefon",
+  "en": "mobile phone",
+  "pos": "noun",
+  "forms": "mobiiltelefon, mobiiltelefoni, mobiiltelefoni",
+  "example": "Mida sa teeks, kui sul ei oleks mobiiltelefoni?",
+  "example_en": "What would you do if you didn't have a mobile phone?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "tahtma",
+  "en": "to want",
+  "pos": "verb",
+  "forms": "tahtma, tahta, tahan",
+  "example": "Ma tahaks praegu jäätist süüa.",
+  "example_en": "I'd like to eat ice cream now."
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "Ma tahaks(in) ...",
+  "en": "I would like ...",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma tahaksin kohvi.",
+  "example_en": "I would like coffee."
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "Ma tahaks praegu ... süüa.",
+  "en": "I'd like to eat ... right now.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ma tahaks praegu pitsat süüa.",
+  "example_en": "I'd like to eat pizza right now."
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "Kas sa tuleks minuga ...?",
+  "en": "Would you come with me ...?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kas sa tuleks minuga täna õhtul ööklubisse?",
+  "example_en": "Would you come with me to a nightclub tonight?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "Hea meelega!",
+  "en": "With pleasure! Gladly!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Jah! Hea meelega!",
+  "example_en": "Yes! With pleasure!"
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "Unusta ära!",
+  "en": "Forget it!",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Ei! Unusta ära!",
+  "example_en": "No! Forget it!"
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "unustama",
+  "en": "to forget",
+  "pos": "verb",
+  "forms": "unustama, unustada, unustan",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "ööklubi",
+  "en": "nightclub",
+  "pos": "noun",
+  "forms": "ööklubi, ööklubi, ööklubi",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "laenama",
+  "en": "to lend; to borrow",
+  "pos": "verb",
+  "forms": "laenama, laenata, laenan",
+  "example": "Kas sa laenaks mulle oma pükse?",
+  "example_en": "Would you lend me your trousers?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "püksid",
+  "en": "trousers (plural)",
+  "pos": "noun",
+  "forms": "püksid, pükste, pükse",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "pudel",
+  "en": "bottle",
+  "pos": "noun",
+  "forms": "pudel, pudeli, pudelit",
+  "example": "Kas sa ostaks mulle pudeli veini?",
+  "example_en": "Would you buy me a bottle of wine?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "vein",
+  "en": "wine",
+  "pos": "noun",
+  "forms": "vein, veini, veini",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "joonistama",
+  "en": "to draw",
+  "pos": "verb",
+  "forms": "joonistama, joonistada, joonistan",
+  "example": "Kas sa joonistaks mulle kassi?",
+  "example_en": "Would you draw me a cat?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "hümn",
+  "en": "anthem",
+  "pos": "noun",
+  "forms": "hümn, hümni, hümni",
+  "example": "Kas sa laulaks mulle oma riigi hümni?",
+  "example_en": "Would you sing me your country's anthem?"
+ },
+ {
+  "lesson": 29,
+  "topic": "Wishes and requests",
+  "et": "parim",
+  "en": "best",
+  "pos": "adj",
+  "forms": "parim, parima, parimat",
+  "example": "Mis on sinu parima sõbra nimi?",
+  "example_en": "What is your best friend's name?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "kui",
+  "en": "if; when",
+  "pos": "other",
+  "forms": "",
+  "example": "Kui mul oleks palju vaba aega, ma õpiks eesti keelt.",
+  "example_en": "If I had a lot of free time, I'd study Estonian."
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "Kui ma oleks ...",
+  "en": "If I were ...",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Kui ma oleks värv, ma oleks sinine.",
+  "example_en": "If I were a colour, I'd be blue."
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "Mida sa teeks, kui ...?",
+  "en": "What would you do if ...?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mida sa teeks, kui täna oleks pühapäev?",
+  "example_en": "What would you do if today were Sunday?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "värv",
+  "en": "colour; paint",
+  "pos": "noun",
+  "forms": "värv, värvi, värvi",
+  "example": "Kui sa oleks värv, mis värv sa oleks?",
+  "example_en": "If you were a colour, which colour would you be?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "putukas",
+  "en": "insect",
+  "pos": "noun",
+  "forms": "putukas, putuka, putukat",
+  "example": "Kui sa oleks putukas, kes sa oleks?",
+  "example_en": "If you were an insect, what would you be?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "jook",
+  "en": "drink",
+  "pos": "noun",
+  "forms": "jook, joogi, jooki",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "söök",
+  "en": "food, dish",
+  "pos": "noun",
+  "forms": "söök, söögi, sööki",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "ilm",
+  "en": "weather",
+  "pos": "noun",
+  "forms": "ilm, ilma, ilma",
+  "example": "Kui sa oleks ilm, missugune ilm sa oleks?",
+  "example_en": "If you were weather, what kind of weather would you be?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "riik",
+  "en": "country, state",
+  "pos": "noun",
+  "forms": "riik, riigi, riiki",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "loom",
+  "en": "animal",
+  "pos": "noun",
+  "forms": "loom, looma, looma",
+  "example": "Kui sa oleks loom, kes sa oleks?",
+  "example_en": "If you were an animal, what would you be?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "nädalapäev",
+  "en": "day of the week",
+  "pos": "noun",
+  "forms": "nädalapäev, nädalapäeva, nädalapäeva",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "number",
+  "en": "number",
+  "pos": "noun",
+  "forms": "number, numbri, numbrit",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "peaminister",
+  "en": "prime minister",
+  "pos": "noun",
+  "forms": "peaminister, peaministri, peaministrit",
+  "example": "Mida sa teeks, kui sa oleks Eesti peaminister?",
+  "example_en": "What would you do if you were Estonia's prime minister?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "president",
+  "en": "president",
+  "pos": "noun",
+  "forms": "president, presidendi, presidenti",
+  "example": "Mida sa ütleks, kui sa näeks Eesti presidenti?",
+  "example_en": "What would you say if you saw the President of Estonia?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "kuulus",
+  "en": "famous",
+  "pos": "adj",
+  "forms": "kuulus, kuulsa, kuulsat",
+  "example": "Kui sa oleks kuulus naine, kes sa oleks?",
+  "example_en": "If you were a famous woman, who would you be?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "raha",
+  "en": "money",
+  "pos": "noun",
+  "forms": "raha, raha, raha",
+  "example": "Mida sa teeks, kui sul oleks palju raha?",
+  "example_en": "What would you do if you had a lot of money?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "vaba aeg",
+  "en": "free time",
+  "pos": "phrase",
+  "forms": "aeg, aja, aega",
+  "example": "Kui mul oleks palju vaba aega, ma õpiks eesti keelt.",
+  "example_en": "If I had a lot of free time, I'd study Estonian."
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "miljon",
+  "en": "million",
+  "pos": "num",
+  "forms": "miljon, miljoni, miljonit",
+  "example": "Mida sa ostaks, kui sul oleks miljon eurot?",
+  "example_en": "What would you buy if you had a million euros?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "kindlasti",
+  "en": "definitely, certainly",
+  "pos": "adv",
+  "forms": "",
+  "example": "Mida sa kindlasti ei ostaks?",
+  "example_en": "What would you definitely not buy?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "jälle",
+  "en": "again",
+  "pos": "adv",
+  "forms": "",
+  "example": "Mida sa teeks, kui sa oleks jälle laps?",
+  "example_en": "What would you do if you were a child again?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "Kuu",
+  "en": "the Moon",
+  "pos": "noun",
+  "forms": "Kuu, Kuu, Kuud",
+  "example": "Mida sa teeks, kui su sõbrad elaks Kuu peal?",
+  "example_en": "What would you do if your friends lived on the Moon?"
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "tädi",
+  "en": "aunt",
+  "pos": "noun",
+  "forms": "tädi, tädi, tädi",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 29,
+  "topic": "If I were ...",
+  "et": "ratas",
+  "en": "wheel",
+  "pos": "noun",
+  "forms": "ratas, ratta, ratast",
+  "example": "Kui tädil oleks rattad, oleks ...?",
+  "example_en": "If (my) aunt had wheels, she would be ...? (joke saying)"
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "aastaaeg",
+  "en": "season",
+  "pos": "noun",
+  "forms": "aastaaeg, aastaaja, aastaaega",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "talv",
+  "en": "winter",
+  "pos": "noun",
+  "forms": "talv, talve, talve",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "kevad",
+  "en": "spring",
+  "pos": "noun",
+  "forms": "kevad, kevade, kevadet",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "suvi",
+  "en": "summer",
+  "pos": "noun",
+  "forms": "suvi, suve, suve",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "sügis",
+  "en": "autumn",
+  "pos": "noun",
+  "forms": "sügis, sügise, sügist",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "talvel",
+  "en": "in winter",
+  "pos": "adv",
+  "forms": "",
+  "example": "Talvel me vaatame perega filme.",
+  "example_en": "In winter we watch films with the family."
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "kevadel",
+  "en": "in spring",
+  "pos": "adv",
+  "forms": "",
+  "example": "Kevadel koristame maja.",
+  "example_en": "In spring we clean the house."
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "suvel",
+  "en": "in summer",
+  "pos": "adv",
+  "forms": "",
+  "example": "Suvel ma alati puhkan.",
+  "example_en": "In summer I always take a holiday."
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "sügisel",
+  "en": "in autumn",
+  "pos": "adv",
+  "forms": "",
+  "example": "Sügisel ma käin teatris ja kontserdil.",
+  "example_en": "In autumn I go to the theatre and to concerts."
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "suve lõpus",
+  "en": "at the end of summer",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Suve lõpus on ta alati nii ilus ja pruun!",
+  "example_en": "At the end of summer she is always so beautiful and tanned!"
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "Mida tehakse talvel?",
+  "en": "What do people do in winter?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "Mida tehakse talvel? – Talvel suusatatakse.",
+  "example_en": "What do people do in winter? – In winter people ski."
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "Siin jalutatakse.",
+  "en": "People walk here.",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "Mida kindlasti ei tehta?",
+  "en": "What is definitely not done?",
+  "pos": "phrase",
+  "forms": "",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "toas",
+  "en": "indoors, in the room",
+  "pos": "other",
+  "forms": "",
+  "example": "Mida sa teed toas?",
+  "example_en": "What do you do indoors?"
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "õues",
+  "en": "outdoors, outside",
+  "pos": "other",
+  "forms": "",
+  "example": "Mida sa teed õues?",
+  "example_en": "What do you do outdoors?"
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "väljas",
+  "en": "outside",
+  "pos": "other",
+  "forms": "",
+  "example": "Väljas on pime ja külm.",
+  "example_en": "It's dark and cold outside."
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "pime",
+  "en": "dark",
+  "pos": "adj",
+  "forms": "pime, pimeda, pimedat",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "külm",
+  "en": "cold",
+  "pos": "adj",
+  "forms": "külm, külma, külma",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "tihti",
+  "en": "often",
+  "pos": "adv",
+  "forms": "",
+  "example": "Käime tihti külas.",
+  "example_en": "We often go visiting."
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "kaua",
+  "en": "for a long time",
+  "pos": "adv",
+  "forms": "",
+  "example": "Suvel lapsed magavad kaua.",
+  "example_en": "In summer the children sleep long."
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "tore",
+  "en": "nice, great, fun",
+  "pos": "adj",
+  "forms": "tore, toreda, toredat",
+  "example": "See on nii tore!",
+  "example_en": "It's so much fun!"
+ },
+ {
+  "lesson": 30,
+  "topic": "Seasons",
+  "et": "aastavahetus",
+  "en": "New Year's Eve, turn of the year",
+  "pos": "noun",
+  "forms": "aastavahetus, aastavahetuse, aastavahetust",
+  "example": "Mida tehakse aastavahetusel?",
+  "example_en": "What do people do at New Year?"
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "külas käima",
+  "en": "to visit (people)",
+  "pos": "phrase",
+  "forms": "käima, käia, käin",
+  "example": "Käime tihti külas.",
+  "example_en": "We often go visiting."
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "külaline",
+  "en": "guest",
+  "pos": "noun",
+  "forms": "külaline, külalise, külalist",
+  "example": "Kutsume külalisi.",
+  "example_en": "We invite guests."
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "lauamäng",
+  "en": "board game",
+  "pos": "noun",
+  "forms": "lauamäng, lauamängu, lauamängu",
+  "example": "Mängime sõpradega lauamänge.",
+  "example_en": "We play board games with friends."
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "aknaid pesema",
+  "en": "to wash windows",
+  "pos": "phrase",
+  "forms": "pesema, pesta, pesen",
+  "example": "Minu mees ja lapsed pesevad aknaid.",
+  "example_en": "My husband and the children wash the windows."
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "turg",
+  "en": "market",
+  "pos": "noun",
+  "forms": "turg, turu, turgu",
+  "example": "Ma käin turul.",
+  "example_en": "I go to the market."
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "maasikas",
+  "en": "strawberry",
+  "pos": "noun",
+  "forms": "maasikas, maasika, maasikat",
+  "example": "Ma söön nii palju maasikaid!",
+  "example_en": "I eat so many strawberries!"
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "moos",
+  "en": "jam",
+  "pos": "noun",
+  "forms": "moos, moosi, moosi",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "keetma",
+  "en": "to boil, cook; to make (jam, soup)",
+  "pos": "verb",
+  "forms": "keetma, keeta, keedan",
+  "example": "Ma keedan moosi.",
+  "example_en": "I make jam."
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "õmblema",
+  "en": "to sew",
+  "pos": "verb",
+  "forms": "õmblema, õmmelda, õmblen",
+  "example": "Mõnikord õmblen uued kardinad.",
+  "example_en": "Sometimes I sew new curtains."
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "teater",
+  "en": "theatre",
+  "pos": "noun",
+  "forms": "teater, teatri, teatrit",
+  "example": "Sügisel ma käin teatris.",
+  "example_en": "In autumn I go to the theatre."
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "kontsert",
+  "en": "concert",
+  "pos": "noun",
+  "forms": "kontsert, kontserdi, kontserti",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Indoors",
+  "et": "käsitöö",
+  "en": "handicraft",
+  "pos": "noun",
+  "forms": "käsitöö, käsitöö, käsitööd",
+  "example": "Sügisel ma teen käsitööd.",
+  "example_en": "In autumn I do handicrafts."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "suusatama",
+  "en": "to ski",
+  "pos": "verb",
+  "forms": "suusatama, suusatada, suusatan",
+  "example": "Kui on lund, siis suusatame.",
+  "example_en": "When there's snow, we ski."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "uisutama",
+  "en": "to skate",
+  "pos": "verb",
+  "forms": "uisutama, uisutada, uisutan",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "kelgutama",
+  "en": "to go sledging",
+  "pos": "verb",
+  "forms": "kelgutama, kelgutada, kelgutan",
+  "example": "Lapsed kelgutavad.",
+  "example_en": "The children go sledging."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "lumi",
+  "en": "snow",
+  "pos": "noun",
+  "forms": "lumi, lume, lund",
+  "example": "Kui on lund, siis suusatame.",
+  "example_en": "When there's snow, we ski."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "lumememm",
+  "en": "snowman",
+  "pos": "noun",
+  "forms": "lumememm, lumememme, lumememme",
+  "example": "Lapsed teevad lumememme.",
+  "example_en": "The children make a snowman."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "hingama",
+  "en": "to breathe",
+  "pos": "verb",
+  "forms": "hingama, hingata, hingan",
+  "example": "Kevadel hingame värsket õhku.",
+  "example_en": "In spring we breathe fresh air."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "värske",
+  "en": "fresh",
+  "pos": "adj",
+  "forms": "värske, värske, värsket",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "õhk",
+  "en": "air",
+  "pos": "noun",
+  "forms": "õhk, õhu, õhku",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "kasvatama",
+  "en": "to grow, raise",
+  "pos": "verb",
+  "forms": "kasvatama, kasvatada, kasvatan",
+  "example": "Kasvatame tomateid ja kurke.",
+  "example_en": "We grow tomatoes and cucumbers."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "tomat",
+  "en": "tomato",
+  "pos": "noun",
+  "forms": "tomat, tomati, tomatit",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "kurk",
+  "en": "cucumber",
+  "pos": "noun",
+  "forms": "kurk, kurgi, kurki",
+  "example": "Kasvatame tomateid ja kurke.",
+  "example_en": "We grow tomatoes and cucumbers."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "taim",
+  "en": "plant",
+  "pos": "noun",
+  "forms": "taim, taime, taime",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "tennis",
+  "en": "tennis",
+  "pos": "noun",
+  "forms": "tennis, tennise, tennist",
+  "example": "Kui ilm on ilus, mängime tennist.",
+  "example_en": "When the weather is nice, we play tennis."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "hoki",
+  "en": "ice hockey",
+  "pos": "noun",
+  "forms": "hoki, hoki, hokit",
+  "example": "Talvel mängitakse hokit.",
+  "example_en": "In winter people play hockey."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "ringi sõitma",
+  "en": "to drive around",
+  "pos": "phrase",
+  "forms": "sõitma, sõita, sõidan",
+  "example": "Suvel sõidame ringi.",
+  "example_en": "In summer we drive around."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "avastama",
+  "en": "to discover",
+  "pos": "verb",
+  "forms": "avastama, avastada, avastan",
+  "example": "Avastame Eestit.",
+  "example_en": "We discover Estonia."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "grillima",
+  "en": "to grill, have a barbecue",
+  "pos": "verb",
+  "forms": "grillima, grillida, grillin",
+  "example": "Grillime sõpradega.",
+  "example_en": "We have barbecues with friends."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "õlu",
+  "en": "beer",
+  "pos": "noun",
+  "forms": "õlu, õlle, õlut",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "kalal käima",
+  "en": "to go fishing",
+  "pos": "phrase",
+  "forms": "käima, käia, käin",
+  "example": "Ma käin tihti kalal.",
+  "example_en": "I often go fishing."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "päevitama",
+  "en": "to sunbathe",
+  "pos": "verb",
+  "forms": "päevitama, päevitada, päevitan",
+  "example": "Mu naine käib rannas ja päevitab.",
+  "example_en": "My wife goes to the beach and sunbathes."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "pruun",
+  "en": "brown; tanned",
+  "pos": "adj",
+  "forms": "pruun, pruuni, pruuni",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "korjama",
+  "en": "to pick, gather",
+  "pos": "verb",
+  "forms": "korjama, korjata, korjan",
+  "example": "Korjame seeni ja marju.",
+  "example_en": "We pick mushrooms and berries."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "seen",
+  "en": "mushroom",
+  "pos": "noun",
+  "forms": "seen, seene, seent",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "mari",
+  "en": "berry",
+  "pos": "noun",
+  "forms": "mari, marja, marja",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "vahetama",
+  "en": "to change, exchange",
+  "pos": "verb",
+  "forms": "vahetama, vahetada, vahetan",
+  "example": "Sügisel vahetan autorehvid ära.",
+  "example_en": "In autumn I change the car tyres."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "autorehv",
+  "en": "car tyre",
+  "pos": "noun",
+  "forms": "autorehv, autorehvi, autorehvi",
+  "example": "",
+  "example_en": ""
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "tee",
+  "en": "road, way; tea",
+  "pos": "noun",
+  "forms": "tee, tee, teed",
+  "example": "Teed on juba libedad.",
+  "example_en": "The roads are already slippery."
+ },
+ {
+  "lesson": 30,
+  "topic": "Outdoors",
+  "et": "libe",
+  "en": "slippery",
+  "pos": "adj",
+  "forms": "libe, libeda, libedat",
+  "example": "",
+  "example_en": ""
+ }
+]

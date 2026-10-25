@@ -1,0 +1,438 @@
+[
+ {
+  "lesson": 16,
+  "title": "Riidepoes 1 (video dialogue; customer's lines reconstructed from context)",
+  "text_et": "Müüja: Tere päevast! Kas ma saan teid aidata?\nKlient: Jah. Kas teil on talvemantleid?\nMüüja: Tulge, ma näitan!\nKlient: Tänan. Kui palju see mantel maksab?\nMüüja: See maksab 40 eurot.\nKlient: Kas ma võin seda proovida?\nMüüja: Aga palun!\nKlient: Oh, ilus! Ma võtan selle.\nMüüja: Väga hea! Lähme kassasse!",
+  "text_en": "Shop assistant: Good afternoon! Can I help you?\nCustomer: Yes. Do you have winter coats?\nShop assistant: Come, I'll show you!\nCustomer: Thank you. How much does this coat cost?\nShop assistant: It costs 40 euros.\nCustomer: May I try it on?\nShop assistant: Go ahead!\nCustomer: Oh, beautiful! I'll take it.\nShop assistant: Very good! Let's go to the checkout!",
+  "questions": [
+   {
+    "q": "Kui palju mantel maksab?",
+    "options": [
+     "25 eurot",
+     "40 eurot",
+     "14 eurot",
+     "45 eurot"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida klient küsib müüjalt?",
+    "options": [
+     "Kas ma võin seda proovida?",
+     "Kas ma saan kaardiga maksta?",
+     "Kus on kingapood?",
+     "Mis kell pood suletakse?"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mida ütleb müüja, kui klient tahab mantlit näha?",
+    "options": [
+     "Lähme kassasse!",
+     "Tulge, ma näitan!",
+     "Proovikabiinid on seal.",
+     "Kas soovite kilekotti?"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida klient lõpuks teeb?",
+    "options": [
+     "Ta ei osta midagi.",
+     "Ta ostab mantli.",
+     "Ta proovib kleiti.",
+     "Ta läheb teise poodi."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kuhu müüja ja klient lõpuks lähevad?",
+    "options": [
+     "proovikabiini",
+     "kassasse",
+     "kingapoodi",
+     "koju"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 16,
+  "title": "Riidepoes 2: kleit on liiga väike (video dialogue; customer's lines reconstructed from context)",
+  "text_et": "Müüja: Tere, kas ma saan teid aidata?\nKlient: Jah. Kui palju see kleit maksab?\nMüüja: See on soodushinnaga. Kohe vaatame. See kleit maksab 25 eurot.\nKlient: Tore! Kas ma võin seda proovida?\nMüüja: Muidugi! Proovikabiinid on seal.\nKlient: Aitäh.\nMüüja: Kuidas sobis?\nKlient: See kleit on liiga väike.\nMüüja: Vaatame, äkki on siin suurem number. Ongi! Proovige seda!\nKlient: Aitäh!\nMüüja: Kuidas see sobis?\nKlient: See sobis väga hästi. Ma võtan selle.\nMüüja: Tore! Lähme kassasse! Kas soovite kilekotti ka osta?\nKlient: Jah, palun.\nMüüja: 25 eurot ja kakskümmend senti siis, palun.",
+  "text_en": "Shop assistant: Hello, can I help you?\nCustomer: Yes. How much does this dress cost?\nShop assistant: It's on sale. Let's have a look. This dress costs 25 euros.\nCustomer: Great! May I try it on?\nShop assistant: Of course! The fitting rooms are over there.\nCustomer: Thanks.\nShop assistant: How did it fit?\nCustomer: This dress is too small.\nShop assistant: Let's see, maybe there's a bigger size here. There is! Try this one!\nCustomer: Thank you!\nShop assistant: How did this one fit?\nCustomer: It fitted very well. I'll take it.\nShop assistant: Great! Let's go to the checkout! Would you also like to buy a plastic bag?\nCustomer: Yes, please.\nShop assistant: 25 euros and twenty cents then, please.",
+  "questions": [
+   {
+    "q": "Kui palju kleit maksab?",
+    "options": [
+     "20 eurot",
+     "25 eurot",
+     "40 eurot",
+     "52 eurot"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Miks on kleit odav?",
+    "options": [
+     "See on vana.",
+     "See on soodushinnaga.",
+     "See on liiga väike.",
+     "See on lastekleit."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kus on proovikabiinid?",
+    "options": [
+     "kassas",
+     "seal",
+     "teisel korrusel",
+     "kingapoes"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis oli esimese kleidiga probleem?",
+    "options": [
+     "See oli liiga suur.",
+     "See oli liiga väike.",
+     "See oli liiga kallis.",
+     "See oli liiga pikk."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida müüja kliendile toob?",
+    "options": [
+     "väiksema numbri",
+     "suurema numbri",
+     "teise värvi",
+     "mantli"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui palju klient kokku maksab?",
+    "options": [
+     "25 eurot",
+     "25 eurot ja 20 senti",
+     "20 eurot ja 25 senti",
+     "40 eurot"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 17,
+  "title": "Enn, Kadri ja Pilvi: mis neile meeldib?",
+  "text_et": "ENN: Ma teen palju sporti, täpsemalt triatloni. Mulle meeldib jooksmine ja ujumine, aga rattaga sõitmine mulle väga ei meeldi. Talvel ma triatlonit ei tee, siis meeldib mulle söömine ja filmi vaatamine.\n\nKADRI: Suvel meeldib mulle rannas päevitamine ja lugemine. Talvel meeldib mulle suusatamine. Reisimine mulle ei meeldi. Mulle meeldib kodus olla. Tantsimine meeldib mulle ka!\n\nPILVI: Mulle meeldib sügisel pargis jalutamine. Puud on siis nii ilusad: kollased ja punased! Talvel meeldib mulle uisutamine ja joonistamine. Aga mis mulle üldse ei meeldi – joomine ja suitsetamine!",
+  "text_en": "ENN: I do a lot of sport, more precisely triathlon. I like running and swimming, but I don't really like cycling. In winter I don't do triathlon; then I like eating and watching films.\n\nKADRI: In summer I like sunbathing and reading on the beach. In winter I like skiing. I don't like travelling. I like being at home. I like dancing too!\n\nPILVI: In autumn I like walking in the park. The trees are so beautiful then: yellow and red! In winter I like ice skating and drawing. But what I don't like at all – drinking and smoking!",
+  "questions": [
+   {
+    "q": "Mis spordiala Enn teeb?",
+    "options": [
+     "tennist",
+     "triatlonit",
+     "jalgpalli",
+     "suusatamist"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis Ennule ei meeldi?",
+    "options": [
+     "ujumine",
+     "jooksmine",
+     "rattaga sõitmine",
+     "filmi vaatamine"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis Kadrile ei meeldi?",
+    "options": [
+     "reisimine",
+     "tantsimine",
+     "lugemine",
+     "suusatamine"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mis Kadrile talvel meeldib?",
+    "options": [
+     "uisutamine",
+     "suusatamine",
+     "päevitamine",
+     "jooksmine"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kus Pilvile sügisel jalutada meeldib?",
+    "options": [
+     "rannas",
+     "metsas",
+     "pargis",
+     "linnas"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis Pilvile üldse ei meeldi?",
+    "options": [
+     "joonistamine ja uisutamine",
+     "joomine ja suitsetamine",
+     "söömine ja reisimine",
+     "tantsimine ja laulmine"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 18,
+  "title": "Mida sa eile tegid? (interview built from the workbook question cards; answers are sample answers)",
+  "text_et": "A: Mis kell sa täna hommikul ärkasid?\nB: Ma ärkasin kell kaheksa.\nA: Mida sa hommikul sõid?\nB: Ma sõin võileiba ja jõin kohvi.\nA: Kas sa käisid eile toidupoes?\nB: Jah, käisin küll. Ma ostsin süüa ja maksin kaardiga.\nA: Mida sa eile õhtul tegid?\nB: Ma tegin süüa, lugesin uudiseid ja helistasin sõbrale. Siis ma istusin natuke Facebookis.\nA: Mitu tundi sa Facebookis istusid?\nB: Ma ei mäleta. Võib-olla kaks tundi.\nA: Mitu tundi sa eile öösel magasid?\nB: Ma magasin seitse tundi.",
+  "text_en": "A: What time did you wake up this morning?\nB: I woke up at eight.\nA: What did you eat in the morning?\nB: I ate a sandwich and drank coffee.\nA: Did you go to the grocery store yesterday?\nB: Yes, I did. I bought food and paid by card.\nA: What did you do yesterday evening?\nB: I cooked, read the news and called a friend. Then I spent a little time on Facebook.\nA: How many hours did you spend on Facebook?\nB: I don't remember. Maybe two hours.\nA: How many hours did you sleep last night?\nB: I slept seven hours.",
+  "questions": [
+   {
+    "q": "Mis kell B täna ärkas?",
+    "options": [
+     "kell seitse",
+     "kell kaheksa",
+     "kell üheksa",
+     "kell kaks"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida B hommikul jõi?",
+    "options": [
+     "teed",
+     "vett",
+     "kohvi",
+     "õlut"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kuidas B poes maksis?",
+    "options": [
+     "sularahas",
+     "kaardiga",
+     "ta ei maksnud",
+     "telefoniga"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kellele B eile helistas?",
+    "options": [
+     "emale",
+     "sõbrale",
+     "kolleegile",
+     "arstile"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitu tundi B eile öösel magas?",
+    "options": [
+     "kaks tundi",
+     "kuus tundi",
+     "seitse tundi",
+     "kaheksa tundi"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 19,
+  "title": "Bussiga Eestis: sõiduplaan (from exercise 8; sentences for the other routes written to match the model)",
+  "text_et": "Tallinn–Tartu 13.30–16.00\nBuss väljub Tallinnast kell pool kaks. Buss jõuab Tartusse kella neljaks. Reis kestab kaks ja pool tundi.\n\nTallinn–Viljandi 16.30–19.00\nBuss väljub Tallinnast kell pool viis. Buss jõuab Viljandisse kella seitsmeks. Reis kestab kaks ja pool tundi.\n\nTartu–Narva 17.00–20.00\nBuss väljub Tartust kell viis. Buss jõuab kohale kella kaheksaks. Reis kestab kolm tundi.\n\nPõlva–Tallinn 18.30–22.00\nBuss väljub Põlvast kell pool seitse. Buss jõuab Tallinnasse kella kümneks. Reis kestab kolm ja pool tundi.",
+  "text_en": "Tallinn–Tartu 13.30–16.00\nThe bus leaves Tallinn at half past one. The bus arrives in Tartu by four. The trip lasts two and a half hours.\n\nTallinn–Viljandi 16.30–19.00\nThe bus leaves Tallinn at half past four. It arrives in Viljandi by seven. The trip lasts two and a half hours.\n\nTartu–Narva 17.00–20.00\nThe bus leaves Tartu at five. It arrives by eight. The trip lasts three hours.\n\nPõlva–Tallinn 18.30–22.00\nThe bus leaves Põlva at half past six. It arrives in Tallinn by ten. The trip lasts three and a half hours.",
+  "questions": [
+   {
+    "q": "Mis kell buss Tallinnast Tartusse väljub?",
+    "options": [
+     "kell pool kaks",
+     "kell pool üks",
+     "kell kaks",
+     "kell pool kolm"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mis kellaks buss Viljandisse jõuab?",
+    "options": [
+     "kella kuueks",
+     "kella seitsmeks",
+     "kella kaheksaks",
+     "kella viieks"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui kaua kestab reis Tartust Narva?",
+    "options": [
+     "kaks tundi",
+     "kaks ja pool tundi",
+     "kolm tundi",
+     "kolm ja pool tundi"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kust väljub buss kell pool seitse?",
+    "options": [
+     "Tallinnast",
+     "Tartust",
+     "Põlvast",
+     "Viljandist"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis reis on kõige pikem?",
+    "options": [
+     "Tallinn–Tartu",
+     "Tallinn–Viljandi",
+     "Tartu–Narva",
+     "Põlva–Tallinn"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "lesson": 19,
+  "title": "Kuidas sa tööle lähed? (questions from exercise 3; answers are sample answers)",
+  "text_et": "A: Kuidas sa tööle lähed?\nB: Tavaliselt lähen tööle bussiga, mõnikord jalgsi.\nA: Kuidas sa õhtul koju lähed?\nB: Õhtul lähen koju trammiga.\nA: Kas sa oskad autoga sõita?\nB: Jah, oskan küll, aga mulle ei meeldi autoga sõita.\nA: Kuidas sa Helsingisse lähed?\nB: Helsingisse sõidan laevaga.\nA: Kuidas sa Tallinnast Tartusse lähed?\nB: Tallinnast Tartusse sõidan rongiga. Mulle meeldib rongiga sõita.\nA: Kas sa oled käinud Saaremaal?\nB: Jah, olen küll. Saaremaale sõitsin autoga ja praamiga.",
+  "text_en": "A: How do you go to work?\nB: Usually I go to work by bus, sometimes on foot.\nA: How do you go home in the evening?\nB: In the evening I go home by tram.\nA: Can you drive a car?\nB: Yes, I can, but I don't like driving.\nA: How do you get to Helsinki?\nB: I go to Helsinki by ship.\nA: How do you get from Tallinn to Tartu?\nB: From Tallinn to Tartu I go by train. I like travelling by train.\nA: Have you been to Saaremaa?\nB: Yes, I have. I went to Saaremaa by car and ferry.",
+  "questions": [
+   {
+    "q": "Kuidas B tavaliselt tööle läheb?",
+    "options": [
+     "trammiga",
+     "bussiga",
+     "autoga",
+     "jalgrattaga"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kuidas B õhtul koju läheb?",
+    "options": [
+     "jalgsi",
+     "taksoga",
+     "trammiga",
+     "bussiga"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kuidas B Helsingisse sõidab?",
+    "options": [
+     "lennukiga",
+     "laevaga",
+     "rongiga",
+     "bussiga"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis B-le ei meeldi?",
+    "options": [
+     "rongiga sõita",
+     "autoga sõita",
+     "laevaga sõita",
+     "jalgsi käia"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kuidas B Saaremaale sõitis?",
+    "options": [
+     "rongiga",
+     "lennukiga",
+     "autoga ja praamiga",
+     "bussiga"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "lesson": 20,
+  "title": "Jõuluvana käis eile Eestis? (built from the exercise 5 cards)",
+  "text_et": "A: Kas sa tead, et jõuluvana käis eile Eestis!\nB: Mis asja? Ei käinud Eestis! Ta käis Soomes.\nA: Aga kas sa tead, et jõuluvana käis restoranis?\nB: Mis asja? Ei käinud restoranis! Ta käis karaokebaaris.\nA: Aga kas sa tead, et jõuluvana jõi kaks pudelit valget veini?\nB: Mis asja? Ei joonud veini! Ta jõi kaks pudelit vett.\nA: Aga kas sa tead, et jõuluvana sõi neli hamburgerit?\nB: Mis asja? Ei söönud nelja hamburgerit! Ta sõi viis hamburgerit.\nA: Aga kas sa tead, et jõuluvana helistas Eesti presidendile?\nB: Mis asja? Ei helistanud presidendile! Ta helistas taksojuhile.\nA: Aga kas sa tead, et jõuluvana ostis sportauto?\nB: Mis asja? Ei ostnud sportautot! Ta ostis lennuki.\nA: Aga kas sa tead, et jõuluvana jalutas loomaaias?\nB: Mis asja? Ei jalutanud loomaaias! Ta jalutas vanalinnas.\nA: Aga kas sa tead, et jõuluvana rääkis minuga?\nB: Mis asja? Ei rääkinud sinuga! Ta rääkis sinu emaga.",
+  "text_en": "A: Do you know that Santa Claus was in Estonia yesterday!\nB: What? He wasn't in Estonia! He was in Finland.\nA: But do you know that Santa went to a restaurant?\nB: What? He didn't go to a restaurant! He went to a karaoke bar.\nA: But do you know that Santa drank two bottles of white wine?\nB: What? He didn't drink wine! He drank two bottles of water.\nA: But do you know that Santa ate four hamburgers?\nB: What? He didn't eat four hamburgers! He ate five hamburgers.\nA: But do you know that Santa called the President of Estonia?\nB: What? He didn't call the president! He called a taxi driver.\nA: But do you know that Santa bought a sports car?\nB: What? He didn't buy a sports car! He bought a plane.\nA: But do you know that Santa walked in the zoo?\nB: What? He didn't walk in the zoo! He walked in the old town.\nA: But do you know that Santa talked to me?\nB: What? He didn't talk to you! He talked to your mother.",
+  "questions": [
+   {
+    "q": "Kus jõuluvana eile tegelikult käis?",
+    "options": [
+     "Eestis",
+     "Soomes",
+     "Rootsis",
+     "Lätis"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida jõuluvana jõi?",
+    "options": [
+     "valget veini",
+     "õlut",
+     "vett",
+     "kohvi"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mitu hamburgerit jõuluvana sõi?",
+    "options": [
+     "neli",
+     "viis",
+     "kaks",
+     "kuus"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kellele jõuluvana helistas?",
+    "options": [
+     "presidendile",
+     "taksojuhile",
+     "emale",
+     "sõbrale"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida jõuluvana ostis?",
+    "options": [
+     "sportauto",
+     "lennuki",
+     "laeva",
+     "jalgratta"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kus jõuluvana jalutas?",
+    "options": [
+     "loomaaias",
+     "pargis",
+     "vanalinnas",
+     "rannas"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

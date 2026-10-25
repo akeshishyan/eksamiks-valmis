@@ -1,0 +1,438 @@
+[
+ {
+  "lesson": 21,
+  "title": "Vaata, seal on siil! (dialogue built from the exercise prompts)",
+  "text_et": "A: Kas sa oled julge inimene?\nB: Jah, olen küll. Ma olen julgem kui karu!\nA: Kas sa oled jutukas inimene?\nB: Ei, ei ole. Ma olen vaikne inimene.\nA: Mina arvan, et hunt on ohtlik.\nB: Jah, olen nõus.\nA: Mina arvan, et siil on vastik.\nB: Ei, minu arvates on siil armas.\nA: Mis loomi sa Eestis nägid?\nB: Nägin Eestis põtra, rebast ja siili. Jänes on nõrgem kui siil, aga siil on targem kui jänes.",
+  "text_en": "A: Are you a brave person?\nB: Yes, I am. I'm braver than a bear!\nA: Are you a talkative person?\nB: No, I'm not. I'm a quiet person.\nA: I think the wolf is dangerous.\nB: Yes, I agree.\nA: I think the hedgehog is disgusting.\nB: No, in my opinion the hedgehog is cute.\nA: What animals did you see in Estonia?\nB: In Estonia I saw an elk, a fox and a hedgehog. The hare is weaker than the hedgehog, but the hedgehog is cleverer than the hare.",
+  "questions": [
+   {
+    "q": "Missugune inimene on B?",
+    "options": [
+     "jutukas",
+     "vaikne",
+     "laisk",
+     "arg"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida A arvab hundist?",
+    "options": [
+     "Hunt on armas.",
+     "Hunt on kasulik.",
+     "Hunt on ohtlik.",
+     "Hunt on igav."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mida B arvab siilist?",
+    "options": [
+     "Siil on vastik.",
+     "Siil on armas.",
+     "Siil on ohtlik.",
+     "Siil on tüütu."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis loomi B Eestis nägi?",
+    "options": [
+     "karu, hunti ja ilvest",
+     "põtra, rebast ja siili",
+     "hüljest ja jänest",
+     "oravat ja metskitse"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kes on targem?",
+    "options": [
+     "jänes",
+     "siil",
+     "mõlemad on sama targad",
+     "karu"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 22,
+  "title": "Neli piletit (four tickets from the workbook)",
+  "text_et": "1) TULIPUNANE VIHMAVARI. Eesti Noorsooteater, väike saal. Laupäev, 04.12.23 kell 12.00. Ostja: Tõnu Karu. Sektor: väike saal, rida 13, koht 2. Hind: 5.00 €.\n2) Tsirkuseetendus KURVAD KLOUNID. Saku Suurhall. Kolmapäev, 08.09.23 kell 18.00. Ostja: Krõõt Jänes. Sektor 106, rida 4, koht 13. Hind: 17.00 €.\n3) PÄIKE, KUU JA TÄHED. Eesti Noorsooteater, suur saal. Reede, 23.04.23 kell 15.00. Ostja: Õie Rebane. Sektor: suur saal, rida 14, koht 19. Hind: 8.00 €.\n4) Richard Wagneri ooper LENDAV HOLLANDLANE. Rahvusooper Estonia. Neljapäev, 11.11.23 kell 19.00. Ostja: Ülo Põder. Sektor: 2. rõdu, rida 8, koht 23. Hind: 21.00 €.",
+  "text_en": "1) THE BRIGHT RED UMBRELLA. Estonian Youth Theatre, small hall. Saturday, 04.12.23 at 12:00. Buyer: Tõnu Karu. Small hall, row 13, seat 2. Price: €5.00.\n2) Circus show SAD CLOWNS. Saku Suurhall arena. Wednesday, 08.09.23 at 18:00. Buyer: Krõõt Jänes. Sector 106, row 4, seat 13. Price: €17.00.\n3) SUN, MOON AND STARS. Estonian Youth Theatre, big hall. Friday, 23.04.23 at 15:00. Buyer: Õie Rebane. Big hall, row 14, seat 19. Price: €8.00.\n4) Richard Wagner's opera THE FLYING DUTCHMAN. National Opera Estonia. Thursday, 11.11.23 at 19:00. Buyer: Ülo Põder. 2nd balcony, row 8, seat 23. Price: €21.00.",
+  "questions": [
+   {
+    "q": "Mis etendus algab kell 15.00?",
+    "options": [
+     "„Tulipunane vihmavari”",
+     "„Kurvad klounid”",
+     "„Päike, kuu ja tähed”",
+     "„Lendav hollandlane”"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis etendus toimub neljapäeval?",
+    "options": [
+     "„Lendav hollandlane”",
+     "„Kurvad klounid”",
+     "„Tulipunane vihmavari”",
+     "„Päike, kuu ja tähed”"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kui palju maksab pilet etendusele „Kurvad klounid”?",
+    "options": [
+     "5 eurot",
+     "8 eurot",
+     "17 eurot",
+     "21 eurot"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis etendus toimub väikses saalis?",
+    "options": [
+     "„Päike, kuu ja tähed”",
+     "„Tulipunane vihmavari”",
+     "„Lendav hollandlane”",
+     "„Kurvad klounid”"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis reas on Ülo Põdra istekoht?",
+    "options": [
+     "reas number neli",
+     "reas number kaheksa",
+     "reas number kolmteist",
+     "reas number neliteist"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 22,
+  "title": "Eesti rahvatantsude õhtu (event poster)",
+  "text_et": "EESTI RAHVATANTSUDE ÕHTU\nPühapäev, 20. juuni 2022\nEesti Vabaõhumuuseum\nAlgus kell 18.00\nSooduspilet: 5 eurot. Täispilet: 8 eurot.\nLapsed: tasuta.",
+  "text_en": "ESTONIAN FOLK DANCE EVENING\nSunday, 20 June 2022\nEstonian Open Air Museum\nStarts at 6 p.m.\nDiscount ticket: 5 euros. Full ticket: 8 euros.\nChildren: free.",
+  "questions": [
+   {
+    "q": "Mis kuupäeval on rahvatantsude õhtu?",
+    "options": [
+     "20. juunil",
+     "12. juunil",
+     "20. juulil",
+     "2. juunil"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mis kell üritus algab?",
+    "options": [
+     "kell 8.00",
+     "kell 16.00",
+     "kell 18.00",
+     "kell 20.00"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kus üritus toimub?",
+    "options": [
+     "Rahvusooperis Estonia",
+     "Eesti Vabaõhumuuseumis",
+     "Saku Suurhallis",
+     "Eesti Noorsooteatris"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui palju maksab sooduspilet?",
+    "options": [
+     "tasuta",
+     "5 eurot",
+     "8 eurot",
+     "18 eurot"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui palju maksab täispilet?",
+    "options": [
+     "5 eurot",
+     "6 eurot",
+     "8 eurot",
+     "10 eurot"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kui palju maksab lapsepilet?",
+    "options": [
+     "Lapsed ei saa tulla.",
+     "3 eurot",
+     "5 eurot",
+     "Lapsed on tasuta."
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "lesson": 23,
+  "title": "Minu töö: Jaan, Anneli ja Meelis",
+  "text_et": "JAAN: Mina töötan juba viis aastat spordiklubis jalgpallitreenerina. Töötan neli päeva nädalas – esmaspäevast neljapäevani. Töötan pärastlõunal, sest hommikul lapsed on koolis. Hommikul ma magan. Minu tööpäev on lühike, ainult neli tundi. Mulle väga meeldib minu töö, sest lapsed on nii toredad!\n\nANNELI: Mul on juba kuu aega uus töökoht. Töötan nüüd laos komplekteerijana. Ma töötan ainult kolm päeva nädalas: esmaspäeval, kolmapäeval ja reedel. Nädalavahetusel ma ei tööta. Tööpäev on neli tundi, kaheteistkümnest neljani. Minu töö on lihtne. Mulle väga meeldib minu töö!\n\nMEELIS: Minul on perefirma – väike pagariäri. Meie äri on kuus aastat vana. Töötan koos abikaasaga. Mina töötan pagariäris pagarina ja minu naine on raamatupidaja. Mina töötan viis päeva nädalas – kolmapäevast pühapäevani. Esmaspäeval ja teisipäeval ma ei tööta. Töötan öösel, sest inimesed tahavad värsket leiba ja saia hommikul! Minu töö on raske, aga mulle meeldib minu töö!",
+  "text_en": "JAAN: I have been working at a sports club as a football coach for five years already. I work four days a week – from Monday to Thursday. I work in the afternoon, because in the morning the children are at school. In the morning I sleep. My working day is short, only four hours. I really like my job, because the children are so nice!\n\nANNELI: I have had a new job for a month already. I now work in a warehouse as an order picker. I work only three days a week: on Monday, Wednesday and Friday. I don't work at the weekend. The working day is four hours, from twelve to four. My job is easy. I really like my job!\n\nMEELIS: I have a family business – a small bakery. Our business is six years old. I work together with my spouse. I work in the bakery as a baker and my wife is an accountant. I work five days a week – from Wednesday to Sunday. On Monday and Tuesday I don't work. I work at night, because people want fresh bread and white bread in the morning! My job is hard, but I like my job!",
+  "questions": [
+   {
+    "q": "Kellena Jaan töötab?",
+    "options": [
+     "pagarina",
+     "jalgpallitreenerina",
+     "komplekteerijana",
+     "õpetajana"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kui kaua Jaan on töötanud?",
+    "options": [
+     "kuu aega",
+     "kuus aastat",
+     "viis aastat",
+     "neli aastat"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mitu päeva nädalas Anneli töötab?",
+    "options": [
+     "kolm",
+     "neli",
+     "viis",
+     "kuus"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mis kellast mis kellani Anneli töötab?",
+    "options": [
+     "kaheksast kaheteistkümneni",
+     "kaheteistkümnest neljani",
+     "neljast kaheksani",
+     "öösel"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mis päevadel Meelis ei tööta?",
+    "options": [
+     "laupäeval ja pühapäeval",
+     "kolmapäeval ja neljapäeval",
+     "esmaspäeval ja teisipäeval",
+     "reedel"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Miks Meelis töötab öösel?",
+    "options": [
+     "Sest päeval ta magab.",
+     "Sest inimesed tahavad hommikul värsket leiba.",
+     "Sest tema naine töötab päeval.",
+     "Sest lapsed on koolis."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 24,
+  "title": "Curriculum vitae: Maarika Vaarikas",
+  "text_et": "CURRICULUM VITAE\nIsikuandmed\nNimi: Maarika Vaarikas\nSünniaeg: 13.01.1999\nAadress: Karu 6, Tartu\nE-posti aadress: maarika.vaarikas@eesti.ee\nTelefon: 5678 8760\n\nHaridustee\n2007–2015 Palupera põhikool\n2015–2018 Elva gümnaasium\n2018–2021 Tartu Ülikool, bakalaureusekraad, psühholoogia\n\nTäiendkoolitus\n2021 Tartu Ülikool. Positiivne psühholoogia – teooria ja praktika. 16 tundi\n2022 Teatristuudio. Improteater algajatele. 21 tundi\n\nTöökogemus\n2022 Bolt OÜ\nametikoht: kuller\ntööülesanded: teenindasin kliente\n\nKeelteoskus: eesti keel – emakeel; inglise keel – B2; soome keel – A1\nArvutioskus: MS Office (Word, Excel, PowerPoint) – väga hea\nJuhiluba: B kategooria\n\nLisainformatsioon\nMinu positiivsed omadused: olen sõbralik, viisakas. Olen uudishimulik ja emotsionaalne. Mulle meeldib autoga sõita. Räägin vabalt inglise keelt.\nHobid: vabal ajal jooksen, sõidan jalgrattaga, loen raamatuid.\n\nKuupäev: 01.02.2023  Allkiri: /digiallkirjastatud/",
+  "text_en": "CURRICULUM VITAE\nPersonal data\nName: Maarika Vaarikas\nDate of birth: 13.01.1999\nAddress: Karu 6, Tartu\nE-mail: maarika.vaarikas@eesti.ee\nPhone: 5678 8760\n\nEducation\n2007–2015 Palupera basic school\n2015–2018 Elva upper secondary school\n2018–2021 University of Tartu, bachelor's degree, psychology\n\nFurther training\n2021 University of Tartu. Positive psychology – theory and practice. 16 hours\n2022 Theatre studio. Improv theatre for beginners. 21 hours\n\nWork experience\n2022 Bolt OÜ\nposition: courier\nduties: I served customers\n\nLanguages: Estonian – native; English – B2; Finnish – A1\nComputer skills: MS Office (Word, Excel, PowerPoint) – very good\nDriving licence: category B\n\nAdditional information\nMy positive qualities: I am friendly and polite. I am curious and emotional. I like driving. I speak English fluently.\nHobbies: in my free time I run, cycle and read books.\n\nDate: 01.02.2023  Signature: /digitally signed/",
+  "questions": [
+   {
+    "q": "Millal on Maarika sünnipäev?",
+    "options": [
+     "1. veebruaril",
+     "13. jaanuaril",
+     "31. jaanuaril",
+     "13. oktoobril"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida Maarika ülikoolis õppis?",
+    "options": [
+     "inglise keelt",
+     "teatrit",
+     "psühholoogiat",
+     "arvutiteadust"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mis aastal Maarika ülikooli lõpetas?",
+    "options": [
+     "2015",
+     "2018",
+     "2021",
+     "2022"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kus ja kellena Maarika töötas?",
+    "options": [
+     "Boltis kullerina",
+     "teatris näitlejana",
+     "ülikoolis psühholoogina",
+     "koolis õpetajana"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Mis keelt Maarika oskab kõige vähem?",
+    "options": [
+     "eesti keelt",
+     "inglise keelt",
+     "soome keelt",
+     "vene keelt"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Mida Maarika vabal ajal teeb?",
+    "options": [
+     "ujub ja tantsib",
+     "jookseb, sõidab jalgrattaga ja loeb raamatuid",
+     "laulab ja maalib",
+     "teeb süüa"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 25,
+  "title": "Kartulisalat (recipe from exercise 15; the correct verbs filled in)",
+  "text_et": "KARTULISALAT\n10 kartulit, 5 muna, 300 g sinki, 1 õun, 4 kurki, 400 g majoneesi, 400 g hapukoort, soola, pipart\n\n1. Keeda kartulid koos koorega!\n2. Keeda ka munad!\n3. Koori kartulid!\n4. Lõika kartulid tükkideks!\n5. Koori ka munad!\n6. Lõika sink, õun ja kurgid tükkideks!\n7. Pane kõik kaussi!\n8. Sega majonees ja hapukoor!\n9. Lisa soola ja pipart!\n10. Vala majoneesi-hapukoorekaste salatile!\n11. Sega!\n12. Maitse!\n13. Söö!",
+  "text_en": "POTATO SALAD\n10 potatoes, 5 eggs, 300 g ham, 1 apple, 4 cucumbers, 400 g mayonnaise, 400 g sour cream, salt, pepper\n\n1. Boil the potatoes in their skins!\n2. Boil the eggs too!\n3. Peel the potatoes!\n4. Cut the potatoes into pieces!\n5. Peel the eggs too!\n6. Cut the ham, apple and cucumbers into pieces!\n7. Put everything in a bowl!\n8. Mix the mayonnaise and sour cream!\n9. Add salt and pepper!\n10. Pour the mayonnaise and sour cream sauce over the salad!\n11. Stir!\n12. Taste!\n13. Eat!",
+  "questions": [
+   {
+    "q": "Mitu kartulit on salatis?",
+    "options": [
+     "4",
+     "5",
+     "10",
+     "300"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kui palju sinki on salatis?",
+    "options": [
+     "300 grammi",
+     "400 grammi",
+     "üks kilo",
+     "100 grammi"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Kuidas keedetakse kartulid?",
+    "options": [
+     "ilma koorega",
+     "koos koorega",
+     "piimaga",
+     "munadega"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mida segatakse kastmeks?",
+    "options": [
+     "õun ja kurk",
+     "sool ja pipar",
+     "majonees ja hapukoor",
+     "sink ja munad"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kuhu pannakse kõik?",
+    "options": [
+     "potti",
+     "kaussi",
+     "tassi",
+     "panni"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "lesson": 25,
+  "title": "Kama (recipe; steps taken from the exercise word bank and put in order)",
+  "text_et": "Paul: Kas sa oskad kama teha?\nTriinu: Jaa, iga laps oskab kama teha. Vaata:\nVõta tass!\nVala keefir tassi!\nLisa lusikatäis suhkrut!\nLisa lusikatäis kama!\nVõta teelusikas!\nSega!\nMaitse!\nKama juuakse, kama ei sööda.",
+  "text_en": "Paul: Can you make kama?\nTriinu: Yeah, every child can make kama. Look:\nTake a cup!\nPour the kefir into the cup!\nAdd a spoonful of sugar!\nAdd a spoonful of kama!\nTake a teaspoon!\nStir!\nTaste!\nKama is drunk, not eaten.",
+  "questions": [
+   {
+    "q": "Mida valatakse tassi?",
+    "options": [
+     "piima",
+     "keefirit",
+     "vett",
+     "mahla"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Mitu lusikatäit suhkrut lisatakse?",
+    "options": [
+     "üks",
+     "kaks",
+     "kolm",
+     "mitte ühtegi"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Millega kama segatakse?",
+    "options": [
+     "kahvliga",
+     "noaga",
+     "teelusikaga",
+     "supilusikaga"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Kes oskab Triinu arvates kama teha?",
+    "options": [
+     "ainult kokk",
+     "iga laps",
+     "ainult ema",
+     "mitte keegi"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Kas kama süüakse või juuakse?",
+    "options": [
+     "süüakse",
+     "juuakse",
+     "mõlemat",
+     "ei kumbagi"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

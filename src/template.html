@@ -1,0 +1,1188 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Eksamiks valmis</title>
+<meta name="description" content="Estonian A2 (Harno) exam trainer">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#161f28" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Eksamiks">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: sticky header (countdown + tabs) over a single 860px study column; each tab is one view. */
+:root {
+  --bg: #f3f6f5; --surface: #ffffff; --sunk: #e9eeee; --ink: #15212c; --muted: #5a6874; --line: #d8e0e3;
+  --accent: #2c5cb0; --accent-ink: #ffffff; --soft: #e5edf9;
+  --good: #23784a; --good-soft: #e1f2e8; --warn: #a8620c; --warn-soft: #fbefdc; --bad: #b0352d; --bad-soft: #f9e3e1;
+  --display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0e141a; --surface: #161f28; --sunk: #111920; --ink: #e4ebf0; --muted: #94a2ae; --line: #26323d;
+  --accent: #82a6ea; --accent-ink: #0b1220; --soft: #1a2a42;
+  --good: #63c58f; --good-soft: #15291f; --warn: #e3a752; --warn-soft: #2d2213; --bad: #ef8178; --bad-soft: #321a19;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0e141a; --surface: #161f28; --sunk: #111920; --ink: #e4ebf0; --muted: #94a2ae; --line: #26323d;
+  --accent: #82a6ea; --accent-ink: #0b1220; --soft: #1a2a42;
+  --good: #63c58f; --good-soft: #15291f; --warn: #e3a752; --warn-soft: #2d2213; --bad: #ef8178; --bad-soft: #321a19;
+  color-scheme: dark }
+
+* { box-sizing: border-box }
+html { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); -webkit-text-size-adjust: 100% }
+body { margin: 0; -webkit-tap-highlight-color: transparent; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--body); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface) }
+.wrap { max-width: 860px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)) }
+h1, h2, h3 { font-family: var(--display); line-height: 1.15; text-wrap: balance; margin: 0 }
+h2 { font-size: 1.7rem; font-weight: 800; letter-spacing: -.01em }
+h3 { font-size: 1.15rem; font-weight: 700 }
+p { margin: 0 }
+a { color: var(--accent) }
+button, input, select, textarea { font: inherit; color: inherit }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px }
+.num { font-family: var(--mono); font-variant-numeric: tabular-nums }
+.muted { color: var(--muted) }
+.small { font-size: .875rem }
+.label { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 700 }
+
+/* header */
+header.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--surface); border-bottom: 1px solid var(--line) }
+.brand { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-block: 12px 6px; flex-wrap: wrap }
+.brand h1 { font-size: 1.35rem; font-weight: 800; letter-spacing: -.02em }
+.brand h1 span { color: var(--accent) }
+.count { display: flex; align-items: baseline; gap: 8px; font-size: .9rem; color: var(--muted) }
+.count b { font-family: var(--mono); font-size: 1.15rem; color: var(--ink) }
+.sync { font-size: .75rem; color: var(--muted) }
+nav.tabs { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; margin-inline: -6px }
+nav.tabs::-webkit-scrollbar { display: none }
+nav.tabs button { background: none; border: 0; padding: 10px 10px 12px; cursor: pointer; color: var(--muted); font-weight: 700; white-space: nowrap; border-bottom: 3px solid transparent }
+nav.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent) }
+nav.tabs button .pill { margin-left: 4px }
+.timer { display: inline-flex; align-items: center; gap: 8px; background: var(--soft); border-radius: 99px; padding: 3px 4px 3px 12px; font-size: .85rem }
+.timer.low { background: var(--warn-soft) }
+
+main { padding-block: 24px 80px; display: grid; gap: 20px }
+section.view { display: grid; gap: 20px; min-width: 0 }
+section.view > *, main > * { min-width: 0; max-width: 100% }
+.card, details, .stat { overflow-wrap: anywhere }
+.intro { display: grid; gap: 6px }
+
+/* surfaces */
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 18px; display: grid; gap: 12px; min-width: 0 }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center }
+.between { justify-content: space-between }
+.stack { display: grid; gap: 8px }
+
+.btn { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: var(--surface); padding: 8px 14px; border-radius: 8px; cursor: pointer; font-weight: 700; text-decoration: none; color: var(--ink) }
+.btn:hover { border-color: var(--accent) }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent) }
+.btn.good { background: var(--good); color: var(--accent-ink); border-color: var(--good) }
+.btn.bad { background: var(--bad-soft); color: var(--bad); border-color: transparent }
+.btn.ghost { border-color: transparent; background: transparent; color: var(--accent); padding-inline: 6px }
+.btn:disabled { opacity: .5; cursor: default }
+.btn.sm { padding: 4px 10px; font-size: .85rem }
+
+.chip { border: 1px solid var(--line); background: var(--surface); border-radius: 99px; padding: 4px 12px; cursor: pointer; font-size: .875rem; font-weight: 700; color: var(--muted) }
+.chip[aria-pressed="true"] { background: var(--soft); color: var(--accent); border-color: var(--accent) }
+.pill { display: inline-block; border-radius: 99px; padding: 1px 8px; font-size: .75rem; font-weight: 700; background: var(--sunk); color: var(--muted); font-family: var(--mono) }
+.pill.good { background: var(--good-soft); color: var(--good) }
+.pill.warn { background: var(--warn-soft); color: var(--warn) }
+.pill.bad { background: var(--bad-soft); color: var(--bad) }
+.pill.acc { background: var(--soft); color: var(--accent) }
+
+input[type="text"], textarea, select { background: var(--sunk); border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; width: 100%; min-width: 0 }
+textarea { min-height: 160px; resize: vertical; line-height: 1.6 }
+input.right { border-color: var(--good); background: var(--good-soft) }
+input.almost { border-color: var(--warn); background: var(--warn-soft) }
+input.wrong { border-color: var(--bad); background: var(--bad-soft) }
+
+.keys { display: flex; gap: 4px; flex-wrap: wrap }
+.keys button { width: 34px; height: 32px; border: 1px solid var(--line); background: var(--surface); border-radius: 6px; cursor: pointer; font-weight: 700 }
+
+.fb { border-radius: 8px; padding: 10px 12px; font-size: .95rem }
+.fb.right { background: var(--good-soft); color: var(--good) }
+.fb.almost { background: var(--warn-soft); color: var(--warn) }
+.fb.wrong { background: var(--bad-soft); color: var(--bad) }
+.fb b { color: var(--ink) }
+
+/* today */
+.hero { display: grid; grid-template-columns: auto 1fr; gap: 20px; align-items: center }
+.big { font-family: var(--display); font-weight: 800; font-size: 4.5rem; line-height: .9; color: var(--accent); letter-spacing: -.04em }
+.parts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px }
+.part { background: var(--sunk); border-radius: 8px; padding: 8px 10px; display: grid; gap: 2px }
+.part b { font-family: var(--display) }
+.part .num { color: var(--muted); font-size: .8rem }
+.bar { height: 8px; background: var(--sunk); border-radius: 99px; overflow: hidden; position: relative }
+.bar i { display: block; height: 100%; background: var(--accent); border-radius: 99px }
+.bar .mark { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--ink) }
+.days { display: flex; gap: 4px; flex-wrap: wrap }
+.days button { width: 38px; height: 38px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-family: var(--mono); font-weight: 500 }
+.days button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent) }
+.days button.done { border-color: var(--good); color: var(--good) }
+.check { display: flex; gap: 10px; align-items: flex-start; cursor: pointer }
+.check input { margin-top: 5px; width: 18px; height: 18px; accent-color: var(--accent); flex: none }
+.check.done span { color: var(--muted); text-decoration: line-through }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; display: grid; gap: 2px; cursor: pointer; text-align: left }
+.stat b { font-family: var(--display); font-size: 1.8rem; line-height: 1 }
+
+/* flashcard */
+.flash { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 28px 22px; display: grid; gap: 14px; text-align: center; min-height: 260px; align-content: center }
+.flash .word { font-family: var(--display); font-size: 2.3rem; font-weight: 700; line-height: 1.1; overflow-wrap: anywhere }
+.flash .forms { font-family: var(--mono); color: var(--muted) }
+.flash .ex { font-style: italic }
+.progress { display: flex; align-items: center; gap: 10px }
+.progress .bar { flex: 1 }
+
+table.list { width: 100%; border-collapse: collapse; font-size: .95rem }
+table.list td, table.list th { border-bottom: 1px solid var(--line); padding: 7px 8px; text-align: left; vertical-align: top }
+table.list th { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted) }
+.scroll { overflow-x: auto; max-width: 100% }
+.explain table { border-collapse: collapse; margin: 6px 0 }
+.explain td, .explain th { border: 1px solid var(--line); padding: 4px 8px; text-align: left }
+
+/* reading */
+.text { background: var(--sunk); border-radius: 8px; padding: 16px 18px; white-space: pre-wrap; line-height: 1.7; font-size: 1.02rem; overflow-wrap: anywhere }
+.q { display: grid; gap: 8px; padding-block: 12px; border-top: 1px solid var(--line) }
+.q:first-child { border-top: 0 }
+.opts { display: grid; gap: 4px }
+.opt { display: flex; gap: 10px; align-items: flex-start; padding: 6px 10px; border-radius: 8px; cursor: pointer; border: 1px solid transparent }
+.opt:hover { background: var(--sunk) }
+.opt input { margin-top: 5px; accent-color: var(--accent); flex: none }
+.opt.right { background: var(--good-soft); border-color: var(--good) }
+.opt.wrong { background: var(--bad-soft); border-color: var(--bad) }
+.list-item { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 12px 14px; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); cursor: pointer; text-align: left; width: 100% }
+.list-item:hover { border-color: var(--accent) }
+.list-item .t { font-weight: 700 }
+.gloss { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: .9rem }
+.gloss span b { font-weight: 700 }
+
+/* writing: business card */
+.vcard { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 18px 20px; max-width: 360px; box-shadow: 0 1px 0 var(--line), 0 6px 18px -10px rgba(20,33,44,.35); display: grid; gap: 2px; font-size: .95rem }
+.vcard .n { font-family: var(--display); font-weight: 800; font-size: 1.25rem }
+.vcard .r { color: var(--accent); font-weight: 700; margin-bottom: 6px }
+.wc { font-family: var(--mono); font-size: .85rem }
+.model { background: var(--good-soft); border-radius: 8px; padding: 14px 16px; white-space: pre-wrap; line-height: 1.65 }
+.err { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 4px 12px; font-size: .95rem; padding-block: 6px; border-top: 1px solid var(--line) }
+.err s { color: var(--bad) }
+.err ins { color: var(--good); text-decoration: none; font-weight: 700 }
+.err .why { grid-column: 1 / -1; color: var(--muted); font-size: .875rem }
+
+/* chat */
+.chat { display: grid; gap: 10px }
+.msg { max-width: 85%; padding: 10px 14px; border-radius: 12px; display: grid; gap: 6px }
+.msg.ex { background: var(--soft); justify-self: start; border-bottom-left-radius: 4px }
+.msg.me { background: var(--sunk); justify-self: end; border-bottom-right-radius: 4px }
+.msg .fix { font-size: .875rem; color: var(--warn) }
+.msg .q1 { font-weight: 700; font-size: 1.05rem }
+
+details { border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); padding: 12px 16px }
+details summary { cursor: pointer; font-weight: 700; font-family: var(--display) }
+details[open] summary { margin-bottom: 10px }
+.phr { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 4px 14px; font-size: .95rem }
+.phr .e { color: var(--muted) }
+ul.tight { margin: 0; padding-left: 20px; display: grid; gap: 4px }
+.speak { border: 0; background: var(--soft); color: var(--accent); width: 32px; height: 32px; border-radius: 99px; cursor: pointer; display: inline-grid; place-items: center; flex: none }
+.empty { text-align: center; padding: 30px 16px; color: var(--muted); display: grid; gap: 10px; justify-items: center }
+
+@media (max-width: 560px) {
+  h2 { font-size: 1.4rem }
+  .hero { grid-template-columns: 1fr; gap: 8px }
+  .big { font-size: 3.4rem }
+  .parts { grid-template-columns: repeat(2, 1fr) }
+  .flash .word { font-size: 1.8rem }
+  .phr, .err { grid-template-columns: 1fr }
+  .phr .e { margin-bottom: 6px }
+  .count span.long { display: none }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .flash, .fb { animation: rise .18s ease-out }
+  @keyframes rise { from { transform: translateY(4px) } to { transform: none } }
+}
+input[type="password"] { background: var(--sunk); border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; width: 100%; min-width: 0 }
+[hidden] { display: none !important }
+img { max-width: 100% }
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <h1>Eksamiks <span>valmis</span></h1>
+      <div class="row">
+        <div id="timer" hidden></div>
+        <div class="count"><b id="cd">–</b><span class="long">until A2 exam · Sat 7 Nov, 10:00</span></div>
+      </div>
+    </div>
+    <nav class="tabs" id="tabs" role="tablist"></nav>
+  </div>
+</header>
+<main class="wrap" id="main"></main>
+
+<script id="data" type="application/json">/*__DATA__*/</script>
+<script type="module">
+import Anthropic from "https://cdn.jsdelivr.net/npm/@anthropic-ai/sdk@0.133.0/+esm";
+window.Anthropic = Anthropic;
+window.dispatchEvent(new Event("sdk-ready"));
+</script>
+<script>
+"use strict";
+const D = JSON.parse(document.getElementById("data").textContent);
+const EXAM = new Date(2026, 10, 7, 10, 0);
+const PLAN_START = new Date(2026, 9, 26);
+const INTERVALS = [0, 1, 2, 3, 5, 8];
+
+/* ---------- helpers ---------- */
+const $ = (s, r = document) => r.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const dayNum = (d = new Date()) => Math.floor((d.getTime() - d.getTimezoneOffset() * 6e4) / 864e5);
+const TODAY = dayNum();
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]] } return a };
+const norm = s => String(s ?? "").toLowerCase().replace(/[.,!?;:"“”„«»()\[\]]/g, " ").replace(/[–—-]/g, "-").replace(/\s+/g, " ").trim();
+const flat = s => norm(s).normalize("NFD").replace(/[̀-ͯ]/g, "");
+function grade(given, answers) {
+  const g = norm(given);
+  if (!g) return "wrong";
+  const list = answers.filter(a => a != null && String(a).trim() !== "");
+  if (list.some(a => norm(a) === g)) return "right";
+  if (list.some(a => flat(a) === flat(given))) return "almost";
+  return "wrong";
+}
+const altsOf = et => {
+  const base = String(et).replace(/\([^)]*\)/g, "");
+  const parts = base.split(/\s*[\/;]\s*/).map(s => s.trim()).filter(Boolean);
+  return parts.length ? parts : [String(et)];
+};
+const words = s => (String(s).trim().match(/[\p{L}\p{N}][\p{L}\p{N}'’.-]*/gu) || []).length;
+const fmtTime = s => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
+const KEYS = ["õ", "ä", "ö", "ü", "š", "ž"];
+let lastInput = null;
+document.addEventListener("focusin", e => { if (e.target.matches("input[type=text], textarea")) lastInput = e.target });
+const keysHtml = () => `<div class="keys" aria-label="Estonian letters">${KEYS.map(k => `<button type="button" data-key="${k}" tabindex="-1">${k}</button>`).join("")}</div>`;
+document.addEventListener("mousedown", e => { if (e.target.closest("[data-key]")) e.preventDefault() });
+document.addEventListener("click", e => {
+  const k = e.target.closest("[data-key]");
+  if (!k || !lastInput) return;
+  const el = lastInput, s = el.selectionStart ?? el.value.length, en = el.selectionEnd ?? s;
+  el.value = el.value.slice(0, s) + k.dataset.key + el.value.slice(en);
+  el.setSelectionRange(s + 1, s + 1); el.focus(); el.dispatchEvent(new Event("input", { bubbles: true }));
+});
+
+/* ---------- text to speech (only when the device has an Estonian voice) ---------- */
+let etVoice = null;
+function pickVoice() { try { etVoice = speechSynthesis.getVoices().find(v => /^et\b/i.test(v.lang)) || null } catch { etVoice = null } }
+try { pickVoice(); speechSynthesis.onvoiceschanged = () => { pickVoice(); if (etVoice) render() } } catch {}
+const SPK = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4z" fill="currentColor"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></svg>`;
+const clipFor = text => { const k = ["q:", "w:", "g:", "dlg:"].map(p => p + text).find(k => AUDIO[k]); return k ? "audio/" + AUDIO[k] : "" };
+const speakBtn = text => clipFor(text) ? `<button class="speak" type="button" data-clip="${esc(clipFor(text))}" title="Listen" aria-label="Listen">${SPK}</button>` : etVoice ? `<button class="speak" type="button" data-say="${esc(text)}" title="Listen" aria-label="Listen">${SPK}</button>` : "";
+function say(text, rate = 0.85) { try { speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.voice = etVoice; u.lang = "et-EE"; u.rate = rate; speechSynthesis.speak(u) } catch {} }
+document.addEventListener("click", e => { const b = e.target.closest("[data-say]"); if (b) say(b.dataset.say) });
+let clip = null;
+document.addEventListener("click", e => { const b = e.target.closest("[data-clip]"); if (!b) return; try { clip?.pause(); clip = new Audio(b.dataset.clip); clip.play().catch(() => {}) } catch {} });
+
+/* ---------- state: browser copy for speed, account copy (db) to sync devices ---------- */
+const BLANK = () => ({ v: 1, updated: 0, srs: {}, plan: {}, gram: {}, read: {}, mistakes: [], writes: [], intro: "", streak: { last: 0, n: 0 } });
+let S = BLANK();
+const LS = "eksamiks-valmis-v1";
+try { const raw = localStorage.getItem(LS); if (raw) S = Object.assign(BLANK(), JSON.parse(raw)) } catch {}
+let syncMsg = "Progress is saved on this device. Use Settings → Back up to move it to another device.";
+function save() {
+  S.updated = Date.now();
+  if (S.streak.last !== TODAY) { S.streak.n = S.streak.last === TODAY - 1 ? S.streak.n + 1 : 1; S.streak.last = TODAY }
+  try { localStorage.setItem(LS, JSON.stringify(S)) } catch {}
+}
+function setSync(t) { syncMsg = t; const el = $("#sync"); if (el) el.textContent = t }
+/* ---------- AI: Claude via the user's own API key (stored on this device only) ---------- */
+const KEY_LS = "eksamiks-valmis-key";
+const MODEL = "claude-opus-5-5";
+let apiKey = "";
+try { apiKey = localStorage.getItem(KEY_LS) || "" } catch {}
+let sample = null;
+function setupAI() {
+  sample = null;
+  if (!apiKey || !window.Anthropic) return;
+  const client = new window.Anthropic({ apiKey, dangerouslyAllowBrowser: true, maxRetries: 1 });
+  sample = async (input, schema, effort = "low", system) => {
+    const messages = typeof input === "string" ? [{ role: "user", content: input }] : input;
+    const res = await client.beta.messages.create({
+      model: MODEL, max_tokens: 8000, messages,
+      ...(system ? { system } : {}),
+      output_config: { effort, format: { type: "json_schema", schema } },
+      betas: ["server-side-fallback-2026-07-01"], fallbacks: "default",
+    });
+    if (res.stop_reason === "refusal") throw { code: "refused" };
+    if (res.stop_reason === "max_tokens") throw { code: "truncated" };
+    const text = res.content.filter(b => b.type === "text").map(b => b.text).join("");
+    try { return JSON.parse(text) } catch { throw { code: "bad_json" } }
+  };
+}
+window.addEventListener("sdk-ready", () => { setupAI(); render() });
+if (window.Anthropic) setupAI();
+/* Without an API key: hand the task to the Claude app / claude.ai (uses the person's subscription). */
+const claudeUrl = prompt => "https://claude.ai/new?q=" + encodeURIComponent(prompt);
+const PROMPTS = {
+  writing: (t, text) => `You are an examiner for the Estonian state A2 language exam (Harno). Check my answer to this writing task. Explain everything in simple English.
+
+TASK (Estonian): ${t.task}
+${t.card ? "BUSINESS CARD: " + t.card.card.join(" | ") + "\n" : ""}CONTENT POINTS TO COVER: ${t.points.join("; ")}
+MINIMUM WORDS: ${t.min}
+
+MY TEXT:
+${text}
+
+Please give me:
+1. A rough score out of 10 against the Harno A2 criteria (on topic, word count, every content point covered, understandable).
+2. Which content points I covered and which I missed.
+3. My mistakes as a list: wrong → right, with a short reason (name the case or rule).
+4. My text corrected, keeping my ideas and simple A2 language.
+5. One concrete tip for next time.`,
+  intro: text => `I'm preparing for the Estonian A2 oral exam (Harno). The exam starts with me introducing myself. Correct my self-introduction and make it natural but simple A2 Estonian, 6-9 short sentences that are easy to memorise. Keep my personal facts. List my mistakes (wrong → right, short English reason), then give the polished version, then one tip.
+
+MY TEXT:
+${text}`,
+  examiner: topic => `Let's practise the oral part of the Estonian state A2 exam (Harno). You are a friendly examiner. Topic: "${topic.et}" (${topic.en}).
+Rules: ask ONE short, simple A2-level question at a time in Estonian, with the English translation in brackets. After each of my answers: 1) one or two short sentences of feedback in English on my main error, 2) my answer corrected in natural A2 Estonian (skip if it was correct), 3) your next question. Follow up naturally on what I say. Start now with a greeting and your first question.`,
+};
+const claudeBtn = (kind, label) => `<a class="btn primary" href="https://claude.ai/new" target="_blank" rel="noopener" data-claude="${kind}">${label}</a>`;
+document.addEventListener("click", e => {
+  const a = e.target.closest("[data-claude]"); if (!a) return;
+  let prompt = "";
+  if (a.dataset.claude === "writing") { const t = WRITE_TASKS.find(w => w.id === V.x.id); prompt = PROMPTS.writing(t, V.x.text); S.writes.unshift({ id: t.id, title: t.title, text: V.x.text, t: Date.now() }); S.writes = S.writes.slice(0, 30); save() }
+  if (a.dataset.claude === "intro") prompt = PROMPTS.intro(S.intro);
+  if (a.dataset.claude === "examiner") prompt = PROMPTS.examiner(TOPICS[V.s.chatTopic]);
+  a.href = claudeUrl(prompt);
+  try { navigator.clipboard.writeText(prompt).catch(() => {}) } catch {}
+});
+const S_ERR = { type: "object", additionalProperties: false, required: ["wrong", "right", "why"], properties: { wrong: { type: "string" }, right: { type: "string" }, why: { type: "string" } } };
+const SCHEMA = {
+  writing: { type: "object", additionalProperties: false, required: ["score", "points", "errors", "corrected", "tip"], properties: {
+    score: { type: "integer" }, points: { type: "array", items: { type: "object", additionalProperties: false, required: ["point", "covered"], properties: { point: { type: "string" }, covered: { type: "boolean" } } } },
+    errors: { type: "array", items: S_ERR }, corrected: { type: "string" }, tip: { type: "string" } } },
+  intro: { type: "object", additionalProperties: false, required: ["errors", "corrected", "tip"], properties: { errors: { type: "array", items: S_ERR }, corrected: { type: "string" }, tip: { type: "string" } } },
+  examiner: { type: "object", additionalProperties: false, required: ["feedback", "corrected", "question", "question_en"], properties: { feedback: { type: "string" }, corrected: { type: "string" }, question: { type: "string" }, question_en: { type: "string" } } },
+};
+
+function addMistake(kind, prompt, answer, given, extra = "") {
+  S.mistakes = S.mistakes.filter(m => !(m.kind === kind && m.prompt === prompt));
+  S.mistakes.unshift({ kind, prompt, answer, given, extra, t: Date.now() });
+  S.mistakes = S.mistakes.slice(0, 250);
+}
+
+/* ---------- AI (Claude) ---------- */
+function aiError(e) {
+  const A = window.Anthropic;
+  if (A && e instanceof A.AuthenticationError) return "Your API key was rejected. Check it in Settings.";
+  if (A && e instanceof A.PermissionDeniedError) return "This API key isn't allowed to use Claude Opus 5.5. Check your Anthropic Console.";
+  if (A && e instanceof A.RateLimitError) return "Too many requests right now. Wait a minute and try again.";
+  if (A && e instanceof A.APIConnectionError) return "No connection to Claude. Check your internet and try again.";
+  if (A && e instanceof A.APIError && /credit|billing/i.test(e.message || "")) return "Your Anthropic account is out of credit. Add credit in the Anthropic Console.";
+  const c = e?.code;
+  if (c === "refused") return "Claude declined to check this text. Try rephrasing it.";
+  if (c === "truncated" || c === "bad_json") return "The answer came back incomplete. Try again.";
+  if (c === "rate_limited") return "You've hit the AI usage limit for now. Try again later, and use the model answer meanwhile.";
+    return "The AI check didn't complete. Try again in a moment.";
+}
+
+/* ---------- data prep ---------- */
+const AUDIO = D.audio || {};
+const audioFor = key => AUDIO[key] ? "audio/" + AUDIO[key] : "";
+const VOCAB = (D.vocab || []).map(w => ({ ...w, key: w.lesson + "|" + w.et }));
+const LESSONS = [...new Set(VOCAB.map(w => w.lesson))].sort((a, b) => a - b);
+const lessonTopic = {};
+VOCAB.forEach(w => { if (!lessonTopic[w.lesson] && w.topic) lessonTopic[w.lesson] = w.topic });
+const GRAMMAR = D.grammar || [];
+const R = D.research || {};
+const X = D.extra || {};
+const EXT = D.exam_tasks || [];
+
+function normQ(q) {
+  let type = q.type || (q.options && q.options.length ? "mc" : "open");
+  let options = q.options || [];
+  if (type === "tf" && !options.length) options = ["Õige (true)", "Vale (false)"];
+  if (type === "open" && !options.length && String(q.answer ?? "").length > 0 && String(q.answer).length < 30) type = "short";
+  return { ...q, type, options };
+}
+function answerIndex(q) {
+  const a = q.answer, o = q.options;
+  if (typeof a === "number") return a;
+  if (typeof a === "boolean") return a ? 0 : 1;
+  const s = String(a ?? "").trim();
+  if (/^\d+$/.test(s) && +s < o.length) return +s;
+  if (q.type === "tf") { const f = flat(s); if (/^(oige|true|jah|t)$/.test(f)) return 0; if (/^(vale|false|ei|f)$/.test(f)) return 1 }
+  if (/^[A-Ha-h]$/.test(s)) return s.toUpperCase().charCodeAt(0) - 65;
+  let i = o.findIndex(x => norm(x) === norm(s));
+  if (i < 0) i = o.findIndex(x => flat(x).startsWith(flat(s)) || flat(s).startsWith(flat(x)));
+  return i;
+}
+const READ_SETS = [];
+EXT.forEach((t, i) => {
+  if (!/lugemine|kuulamine/.test(t.section || "")) return;
+  READ_SETS.push({ id: "ex" + i, group: "exam", kind: t.section, title: t.title, instr: t.instructions_et, instr_en: t.instructions_en, text: t.text_et, audio: t.audio_url, clip: audioFor("lis:" + t.title), note: t.conversion_note, items: (t.items || []).map(normQ) });
+});
+(D.lesson_dialogs || []).forEach((t, i) => READ_SETS.push({ id: "ld" + i, group: "book", clip: audioFor("dlg:" + t.title), title: t.title, lesson: t.lesson, text: t.text_et, text_en: t.text_en, items: (t.questions || []).map(q => normQ({ ...q, type: q.type || "mc" })) }));
+(D.reader || []).forEach((c, i) => READ_SETS.push({ id: "rd" + i, group: "reader", clip: audioFor("rd:" + c.title), title: c.title, chapter: c.chapter, text: c.text_et, glossary: c.glossary, items: (c.questions || []).map(normQ) }));
+const WRITE_TASKS = [];
+(X.writing_cards || []).forEach((c, i) => WRITE_TASKS.push({ id: "wc" + i, type: "card", title: c.card[0], card: c, task: "Kirjuta visiitkaardi põhjal lühike tekst (vähemalt 25 sõna). Vasta küsimustele.", points: c.prompts, min: 25, minutes: 12, model: c.model }));
+(X.writing_notes || []).forEach((n, i) => WRITE_TASKS.push({ id: "wn" + i, type: "note", title: n.title, en: n.en, task: n.task, points: n.points, min: 30, minutes: 15, model: n.model }));
+EXT.forEach((t, i) => { if ((t.section || "") === "kirjutamine") WRITE_TASKS.push({ id: "wb" + i, type: "booklet", title: t.title, en: t.instructions_en, task: [t.instructions_et, t.text_et].filter(Boolean).join("\n\n"), points: t.checklist_en || [], min: /25/.test(t.instructions_et || "") ? 25 : 30, minutes: 15, model: t.model_answer_et || t.items?.[0]?.answer, learner: t.learner_answer_et, learnerFb: t.items?.[0]?.explanation_en }) });
+
+/* ---------- navigation ---------- */
+const TABS = [["today", "Today"], ["words", "Words"], ["grammar", "Grammar"], ["listening", "Listening"], ["reading", "Reading"], ["writing", "Writing"], ["speaking", "Speaking"], ["mistakes", "Mistakes"], ["guide", "Exam guide"], ["settings", "Settings"]];
+let tab = TABS.some(t => t[0] === location.hash.slice(1)) ? location.hash.slice(1) : "today";
+const V = {}; // per-view UI state
+function go(t) { tab = t; try { history.replaceState(null, "", "#" + t) } catch {} render(); window.scrollTo(0, 0) }
+function renderTabs() {
+  const due = dueWords().length, mis = S.mistakes.length;
+  $("#tabs").innerHTML = TABS.map(([k, l]) => `<button role="tab" aria-selected="${k === tab}" data-tab="${k}">${l}${k === "words" && due ? ` <span class="pill acc">${due}</span>` : ""}${k === "mistakes" && mis ? ` <span class="pill bad">${mis}</span>` : ""}</button>`).join("");
+}
+document.addEventListener("click", e => { const b = e.target.closest("[data-tab]"); if (b) go(b.dataset.tab) });
+function render() {
+  renderTabs();
+  const m = $("#main");
+  m.innerHTML = `<section class="view">${(VIEWS[tab] || VIEWS.today)()}</section>`;
+  (AFTER[tab] || (() => {}))();
+}
+const AFTER = {};
+
+/* ---------- countdown & timer ---------- */
+function tickCountdown() {
+  const ms = EXAM - Date.now();
+  const d = Math.ceil(ms / 864e5);
+  $("#cd").textContent = ms <= 0 ? "Exam day" : d <= 1 ? `${Math.max(0, Math.floor(ms / 36e5))} h` : `${d} days`;
+}
+tickCountdown(); setInterval(tickCountdown, 60000);
+let T = null;
+function startTimer(minutes, label) {
+  stopTimer();
+  T = { end: Date.now() + minutes * 6e4, label, iv: setInterval(drawTimer, 1000) };
+  drawTimer();
+}
+function stopTimer() { if (T) clearInterval(T.iv); T = null; const el = $("#timer"); el.hidden = true; el.innerHTML = "" }
+function drawTimer() {
+  if (!T) return;
+  const left = Math.max(0, Math.round((T.end - Date.now()) / 1000));
+  const el = $("#timer"); el.hidden = false;
+  el.innerHTML = `<span class="timer ${left < 300 ? "low" : ""}">${esc(T.label)} <b class="num">${left ? fmtTime(left) : "Time's up"}</b><button class="btn ghost sm" data-act="stop-timer">Stop</button></span>`;
+  if (!left) clearInterval(T.iv);
+}
+document.addEventListener("click", e => { if (e.target.closest("[data-act=stop-timer]")) stopTimer() });
+
+/* ---------- SRS ---------- */
+const srsOf = w => S.srs[w.key];
+function dueWords(lessons) { return VOCAB.filter(w => { const s = srsOf(w); return s && s[1] <= TODAY && (!lessons || lessons.includes(w.lesson)) }) }
+function learned() { return VOCAB.filter(w => (srsOf(w)?.[0] || 0) >= 3).length }
+function srsAnswer(w, ok) {
+  const s = S.srs[w.key] || [0, TODAY, 0, 0];
+  if (ok) { s[0] = Math.min(5, s[0] + 1); s[1] = TODAY + INTERVALS[s[0]] }
+  else { s[0] = 1; s[1] = TODAY; s[3]++ }
+  s[2]++; S.srs[w.key] = s; save();
+}
+
+/* =================== VIEWS =================== */
+const VIEWS = {};
+
+/* ---------- Today ---------- */
+const PLAN = X.plan || R.twelve_day_plan || [];
+const lname = l => l === 31 ? "Review" : "L" + l;
+const lrange = ls => ls.length ? (ls.length > 1 ? `L${ls[0]}–${ls[ls.length - 1]}` : lname(ls[0])) : "";
+const todayLessons = () => { const p = PLAN.find(x => x.day === planDayToday()); return (p?.lessons || []).filter(l => LESSONS.includes(l)) };
+function planDayToday() { const d = dayNum() - dayNum(PLAN_START) + 1; return Math.min(12, Math.max(1, d)) }
+VIEWS.today = () => {
+  const plan = PLAN;
+  if (V.day == null) V.day = planDayToday();
+  const day = plan.find(p => p.day === V.day) || plan[0];
+  const ms = EXAM - Date.now(), days = Math.max(0, Math.ceil(ms / 864e5));
+  const due = dueWords().length, newLeft = VOCAB.filter(w => !srsOf(w)).length;
+  const parts = (R.exam?.parts || []).slice().sort((a, b) => (a.order || 0) - (b.order || 0));
+  const dayDone = d => { const p = plan.find(x => x.day === d); return p && p.tasks.every((_, i) => S.plan[`${d}-${i}`]) };
+  const gramDone = Object.keys(S.gram).length;
+  const readDone = Object.keys(S.read).length;
+  return `
+  <div class="card">
+    <div class="hero">
+      <div class="big num">${days}</div>
+      <div class="stack">
+        <h2>${days === 1 ? "day" : "days"} until your A2 exam</h2>
+        <p class="muted">Saturday 7 November 2026, 10:00 sharp; late arrivals aren't let in. Bring an ID card, passport or residence permit (not a driving licence) and a blue or black pen.</p>
+      </div>
+    </div>
+    <div class="stack">
+      <div class="row between"><span class="label">How you pass</span><span class="small muted">48 of 80 points, and no part may score 0</span></div>
+      <div class="parts">${parts.map(p => `<div class="part"><b>${esc(p.name_en)}</b><span class="small">${esc(p.name_et)}</span><span class="num">${esc(p.points)} pts · ${esc(p.minutes)} min</span></div>`).join("")}</div>
+    </div>
+  </div>
+
+  <div class="stats">
+    <button class="stat" data-tab="words"><span class="label">Words due now</span><b class="num">${due}</b><span class="small muted">${newLeft} not seen yet</span></button>
+    <button class="stat" data-tab="words"><span class="label">Words learned</span><b class="num">${learned()}</b><span class="small muted">of ${VOCAB.length}, lessons ${LESSONS[0]}–${LESSONS[LESSONS.length - 1]}</span></button>
+    <button class="stat" data-tab="grammar"><span class="label">Grammar topics practised</span><b class="num">${gramDone}</b><span class="small muted">of ${GRAMMAR.length}</span></button>
+    <button class="stat" data-tab="reading"><span class="label">Texts read</span><b class="num">${readDone}</b><span class="small muted">of ${READ_SETS.length}</span></button>
+    <button class="stat" data-tab="writing"><span class="label">Texts written</span><b class="num">${S.writes.length}</b><span class="small muted">streak: ${S.streak.n || 0} day${S.streak.n === 1 ? "" : "s"}</span></button>
+  </div>
+
+  ${day ? `<div class="card">
+    <div class="row between"><span class="label">12-day plan · 2 new lessons a day</span><span class="small muted">Day 1 is Mon 26 Oct; day 12 is the Friday before the exam</span></div>
+    <div class="days">${plan.map(p => `<button data-day="${p.day}" aria-pressed="${p.day === V.day}" class="${dayDone(p.day) ? "done" : ""}" aria-label="Day ${p.day}">${p.day}</button>`).join("")}</div>
+    <div class="stack" style="gap:2px">${day.date ? `<span class="small muted">${esc(day.date)}${day.day === planDayToday() && dayNum() >= dayNum(PLAN_START) ? " · today" : ""}</span>` : ""}<h3>Day ${day.day}: ${esc(day.focus)}</h3></div>
+    ${(day.lessons || []).length ? `<div class="row"><span class="small muted">New lessons ${lrange(day.lessons)}:</span>${day.lessons.some(l => LESSONS.includes(l)) ? `<button class="btn sm primary" data-study="${day.lessons.join(",")}" data-to="words">Learn the words</button>` : ""}<button class="btn sm" data-study="${day.lessons.join(",")}" data-to="grammar">Grammar drills</button><button class="btn sm" data-study="${day.lessons.join(",")}" data-to="reading">Texts</button></div>` : ""}
+    <div class="stack">${day.tasks.map((t, i) => { const k = `${day.day}-${i}`; return `<label class="check ${S.plan[k] ? "done" : ""}"><input type="checkbox" data-plan="${k}" ${S.plan[k] ? "checked" : ""}><span>${esc(t)}</span></label>` }).join("")}</div>
+    <div class="row small"><span class="muted">Every day, also:</span>
+      <button class="btn sm" data-tab="words">Review due words</button>
+      <button class="btn sm" data-tab="speaking">Answer 5 speaking questions aloud</button>
+      <button class="btn sm" data-tab="mistakes">Fix yesterday's mistakes</button></div>
+  </div>` : ""}
+
+  <p class="small muted" id="sync">${esc(syncMsg)}</p>`;
+};
+document.addEventListener("click", e => { const b = e.target.closest("[data-day]"); if (b) { V.day = +b.dataset.day; render() } });
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-study]"); if (!b) return;
+  const ls = b.dataset.study.split(",").map(Number);
+  V.focus = ls;
+  if (b.dataset.to === "words") { V.w.lessons = ls.filter(l => LESSONS.includes(l)); V.w.queue = null; if (V.w.mode === "list") V.w.mode = "flash" }
+  if (b.dataset.to === "grammar") V.g.id = null;
+  if (b.dataset.to === "reading") V.r.id = null;
+  go(b.dataset.to);
+});
+document.addEventListener("change", e => { const c = e.target.closest("[data-plan]"); if (c) { S.plan[c.dataset.plan] = c.checked; save(); render() } });
+
+/* ---------- Words ---------- */
+V.focus = null;
+V.w = { lessons: todayLessons().length ? todayLessons() : LESSONS.slice(), mode: "flash", queue: null, i: 0, shown: false, res: null, given: "", right: 0, wrong: 0, search: "" };
+function buildQueue() {
+  const w = V.w, inL = x => w.lessons.includes(x.lesson);
+  let pool;
+  if (w.mode === "forms") pool = VOCAB.filter(x => inL(x) && x.forms);
+  else pool = VOCAB.filter(inL);
+  const due = shuffle(pool.filter(x => { const s = srsOf(x); return s && s[1] <= TODAY }));
+  const fresh = pool.filter(x => !srsOf(x)).slice(0, 20);
+  let q = due.concat(fresh).slice(0, 40);
+  if (!q.length) q = shuffle(pool).slice(0, 20);
+  w.queue = q; w.i = 0; w.shown = false; w.res = null; w.given = ""; w.right = 0; w.wrong = 0;
+}
+VIEWS.words = () => {
+  const w = V.w;
+  const lessonsHtml = LESSONS.map(l => `<button class="chip" data-wl="${l}" aria-pressed="${w.lessons.includes(l)}" title="${esc(lessonTopic[l] || "")}">${lname(l)}</button>`).join("");
+  const modes = [["flash", "Flashcards"], ["type", "Type the Estonian"], ["forms", "Case & verb forms"], ["list", "Word list"]];
+  const head = `
+  <div class="intro"><h2>Words · ${w.lessons.length === LESSONS.length ? "all lessons" : w.lessons.length ? w.lessons.map(lname).join(", ") : "pick a lesson"}</h2>
+  <p class="muted">Spaced repetition: a word you know comes back after 1, 2, 3, 5, then 8 days. Words you miss come back today. Each session is up to 40 cards: due words first, then up to 20 new ones.</p></div>
+  <div class="card">
+    <div class="row"><span class="label">Lessons</span><button class="btn ghost sm" data-wr="1-10">1–10</button><button class="btn ghost sm" data-wr="11-20">11–20</button><button class="btn ghost sm" data-wr="21-30">21–30</button><button class="btn ghost sm" data-wl="all">All</button>${todayLessons().length ? `<button class="btn ghost sm" data-wr="${todayLessons()[0]}-${todayLessons()[todayLessons().length - 1]}">Today's</button>` : ""}</div>
+    <div class="row">${lessonsHtml}</div>
+    <div class="row">${modes.map(([k, l]) => `<button class="chip" data-wm="${k}" aria-pressed="${w.mode === k}">${l}</button>`).join("")}</div>
+  </div>`;
+  if (!VOCAB.length) return head + `<div class="card empty">No vocabulary loaded.</div>`;
+  if (w.mode === "list") return head + wordList();
+  if (!w.queue) buildQueue();
+  const q = w.queue;
+  if (w.i >= q.length) return head + `<div class="card empty"><h3>Session done</h3><p><b class="num">${w.right}</b> right · <b class="num">${w.wrong}</b> to repeat</p><p>${dueWords(w.lessons).length} words still due in these lessons.</p><button class="btn primary" data-act="w-new">Start another session</button></div>`;
+  const c = q[w.i];
+  const pct = Math.round(w.i / q.length * 100);
+  const prog = `<div class="progress"><span class="small muted num">${w.i + 1}/${q.length}</span><div class="bar"><i style="width:${pct}%"></i></div><span class="pill">L${c.lesson} · box ${srsOf(c)?.[0] ?? "new"}</span></div>`;
+  const back = `<div class="stack">
+      <div class="small muted">${esc(c.en)}${c.pos ? ` · ${esc(c.pos)}` : ""}</div>
+      ${c.forms ? `<div class="forms">${esc(c.forms)}</div>` : ""}
+      ${c.example ? `<div class="ex">${esc(c.example)}${c.example_en ? `<div class="small muted">${esc(c.example_en)}</div>` : ""}</div>` : ""}</div>`;
+  if (w.mode === "flash") {
+    return head + prog + `<div class="flash">
+      <div class="row" style="justify-content:center"><div class="word">${esc(c.et)}</div>${speakBtn(c.et)}</div>
+      ${w.shown ? `<div class="word" style="font-size:1.4rem;color:var(--accent)">${esc(c.en)}</div>${back}
+        <div class="row" style="justify-content:center"><button class="btn bad" data-act="w-no">Didn't know <span class="small">(1)</span></button><button class="btn good" data-act="w-yes">Knew it <span class="small">(2)</span></button></div>`
+      : `<div><button class="btn primary" data-act="w-show">Show meaning <span class="small">(space)</span></button></div>`}
+    </div>`;
+  }
+  const isForms = w.mode === "forms";
+  const target = isForms ? c.forms : altsOf(c.et).join(" / ");
+  const answers = isForms ? [c.forms, c.forms.replace(/\s*,\s*/g, " ")] : altsOf(c.et).concat([c.et]);
+  return head + prog + `<div class="flash">
+    ${isForms ? `<div class="word">${esc(c.et)}</div><div class="muted">${esc(c.en)} · type the ${c.pos === "verb" ? "ma-, da-infinitive and 1st person present (elama, elada, elan)" : "nominative, genitive and partitive (tuba, toa, tuba)"}, separated by commas</div>`
+      : `<div class="word" style="font-size:1.7rem">${esc(c.en)}</div><div class="muted small">${esc(c.pos || "")}${c.example_en ? ` · as in “${esc(c.example_en)}”` : ""}</div>`}
+    <form class="stack" data-form="w-check" style="max-width:420px;margin:0 auto;width:100%">
+      <input type="text" id="w-in" autocomplete="off" autocapitalize="off" spellcheck="false" class="${w.res || ""}" value="${esc(w.given)}" ${w.res ? "readonly" : ""} placeholder="${isForms ? "nimetav, omastav, osastav" : "Eesti keeles…"}">
+      ${w.res ? "" : keysHtml()}
+      ${w.res ? `<div class="fb ${w.res}">${w.res === "right" ? "Correct." : w.res === "almost" ? `Almost: check the letters. It's <b>${esc(target)}</b>` : `The answer is <b>${esc(target)}</b>`}</div>${speakBtn(c.et)}${back}
+        ${w.res === "wrong" ? `<button class="btn ghost sm" type="button" data-act="w-override">I was right, count it</button>` : ""}
+        <button class="btn primary" type="button" data-act="w-next">Next <span class="small">(Enter)</span></button>`
+      : `<div class="row" style="justify-content:center"><button class="btn" type="button" data-act="w-skip">Don't know</button><button class="btn primary">Check</button></div>`}
+    </form>
+  </div>`;
+  void answers;
+};
+function wordList() {
+  const w = V.w, s = flat(w.search);
+  const rows = VOCAB.filter(x => w.lessons.includes(x.lesson) && (!s || flat(x.et).includes(s) || flat(x.en).includes(s)));
+  return `<div class="card"><input type="text" id="w-search" placeholder="Search Estonian or English…" value="${esc(w.search)}">
+  <div class="scroll"><table class="list"><thead><tr><th>L</th><th>Eesti</th><th>English</th><th>Forms</th><th>Box</th></tr></thead><tbody>
+  ${rows.slice(0, 400).map(x => `<tr><td class="num">${x.lesson}</td><td><b>${esc(x.et)}</b></td><td>${esc(x.en)}</td><td class="small muted">${esc(x.forms || "")}</td><td>${srsOf(x) ? `<span class="pill ${srsOf(x)[0] >= 3 ? "good" : "acc"}">${srsOf(x)[0]}</span>` : ""}</td></tr>`).join("")}
+  </tbody></table></div><p class="small muted">${rows.length} words${rows.length > 400 ? ", showing the first 400" : ""}.</p></div>`;
+}
+AFTER.words = () => { const i = $("#w-in"); if (i && !V.w.res) i.focus(); const s = $("#w-search"); if (s) { s.focus(); s.setSelectionRange(s.value.length, s.value.length) } };
+function wordCheck(given, skip) {
+  const w = V.w, c = w.queue[w.i];
+  const answers = w.mode === "forms" ? [c.forms, c.forms.replace(/\s*,\s*/g, " ")] : altsOf(c.et).concat([c.et]);
+  w.given = given;
+  w.res = skip ? "wrong" : grade(given, answers);
+  const ok = w.res !== "wrong";
+  ok ? w.right++ : w.wrong++;
+  srsAnswer(c, ok);
+  if (!ok) { addMistake("word", w.mode === "forms" ? `Forms of ${c.et}` : c.en, w.mode === "forms" ? c.forms : c.et, given || "(skipped)"); save(); w.queue.splice(Math.min(w.i + 4, w.queue.length), 0, c) }
+  render();
+}
+document.addEventListener("click", e => {
+  const a = e.target.closest("[data-act]")?.dataset.act; const w = V.w;
+  const wl = e.target.closest("[data-wl]"); const wm = e.target.closest("[data-wm]");
+  if (wl) { const v = wl.dataset.wl; if (v === "all") w.lessons = w.lessons.length === LESSONS.length ? [] : LESSONS.slice(); else { const n = +v; w.lessons = w.lessons.includes(n) ? w.lessons.filter(x => x !== n) : w.lessons.concat(n) } w.queue = null; render(); return }
+  const wr = e.target.closest("[data-wr]");
+  if (wr) { const [a1, b1] = wr.dataset.wr.split("-").map(Number); w.lessons = LESSONS.filter(l => l >= a1 && l <= b1); w.queue = null; render(); return }
+  if (wm) { w.mode = wm.dataset.wm; w.queue = null; render(); return }
+  if (!a || !a.startsWith("w-")) return;
+  const c = w.queue?.[w.i];
+  if (a === "w-show") { w.shown = true; render() }
+  if (a === "w-yes" || a === "w-no") { const ok = a === "w-yes"; srsAnswer(c, ok); ok ? w.right++ : w.wrong++; if (!ok) { addMistake("word", c.en, c.et, "(didn't know)"); save(); w.queue.splice(Math.min(w.i + 4, w.queue.length), 0, c) } w.i++; w.shown = false; render() }
+  if (a === "w-next") { w.i++; w.res = null; w.given = ""; render() }
+  if (a === "w-skip") wordCheck("", true);
+  if (a === "w-override") { const s = S.srs[c.key]; s[0] = Math.min(5, 1 + 1); s[1] = TODAY + INTERVALS[s[0]]; s[3] = Math.max(0, s[3] - 1); S.mistakes = S.mistakes.filter(m => !(m.kind === "word" && m.answer === c.et)); w.wrong--; w.right++; const j = w.queue.lastIndexOf(c); if (j > w.i) w.queue.splice(j, 1); save(); w.i++; w.res = null; w.given = ""; render() }
+  if (a === "w-new") { buildQueue(); render() }
+});
+document.addEventListener("submit", e => {
+  const f = e.target.closest("[data-form]"); if (!f) return; e.preventDefault();
+  const k = f.dataset.form;
+  if (k === "w-check") { if (V.w.res) { V.w.i++; V.w.res = null; V.w.given = ""; render() } else wordCheck($("#w-in").value) }
+  if (k === "g-check") gramCheck();
+  if (k === "m-check") misCheck();
+});
+document.addEventListener("input", e => { if (e.target.id === "w-search") { V.w.search = e.target.value; render() } });
+document.addEventListener("keydown", e => {
+  if (tab !== "words" || V.w.mode !== "flash" || e.target.matches("input, textarea")) return;
+  if (e.key === " " && !V.w.shown) { e.preventDefault(); $("[data-act=w-show]")?.click() }
+  else if (V.w.shown && e.key === "1") $("[data-act=w-no]")?.click();
+  else if (V.w.shown && e.key === "2") $("[data-act=w-yes]")?.click();
+});
+
+/* ---------- Grammar ---------- */
+V.g = { id: null, queue: [], i: 0, res: null, given: "", right: 0 };
+VIEWS.grammar = () => {
+  const g = V.g;
+  if (!g.id) {
+    const byL = {};
+    GRAMMAR.forEach(t => (byL[t.lesson] = byL[t.lesson] || []).push(t));
+    return `<div class="intro"><h2>Grammar</h2><p class="muted">Each topic has a short explanation and typed gap-fill drills. Wrong answers go to Mistakes so you can drill them again.</p></div>
+    <div class="card"><div class="row between"><div class="stack" style="gap:2px"><h3>More free practice: Keeleklikk</h3><p class="small muted">Short grammar videos and exercises if a topic here doesn't click. Free account.</p></div><a class="btn" href="https://www.keeleklikk.ee/" target="_blank" rel="noopener">Open Keeleklikk</a></div></div>
+    ${Object.keys(byL).sort((a, b) => a - b).map(l => { const open = (V.focus || todayLessons()).includes(+l); const done = byL[l].filter(t => S.gram[t.id]).length;
+      return `<details ${open ? "open" : ""}><summary>${+l === 31 ? "Review (Kordamine)" : `Lesson ${l}`}${lessonTopic[l] ? ` <span class="muted small">· ${esc(lessonTopic[l])}</span>` : ""} <span class="pill ${done === byL[l].length ? "good" : ""}">${done}/${byL[l].length}</span></summary><div class="stack">
+      ${byL[l].map(t => { const st = S.gram[t.id]; const pct = st ? Math.round(st.r / Math.max(1, st.r + st.w) * 100) : null;
+        return `<button class="list-item" data-gopen="${esc(t.id)}"><span class="t">${esc(t.title)}</span><span class="row"><span class="small muted">${(t.drills || []).length} drills</span>${pct != null ? `<span class="pill ${pct >= 80 ? "good" : pct >= 50 ? "warn" : "bad"}">${pct}%</span>` : ""}</span></button>` }).join("")}</div></details>` }).join("")}`;
+  }
+  const t = GRAMMAR.find(x => x.id === g.id);
+  const d = g.queue[g.i];
+  return `<div class="row"><button class="btn ghost" data-act="g-back">← All topics</button></div>
+  <div class="card explain"><span class="label">${t.lesson === 31 ? "Review" : "Lesson " + t.lesson}</span><h2>${esc(t.title)}</h2><div>${t.explanation || ""}</div>
+    ${(t.examples || []).length ? `<div class="stack">${t.examples.map(x => `<div class="row" style="flex-wrap:nowrap;align-items:flex-start">${speakBtn(x.et)}<div><b>${esc(x.et)}</b><div class="small muted">${esc(x.en)}</div></div></div>`).join("")}</div>` : ""}
+  </div>
+  <div class="card">
+    ${d ? `<div class="progress"><span class="small muted num">${g.i + 1}/${g.queue.length}</span><div class="bar"><i style="width:${g.i / g.queue.length * 100}%"></i></div><span class="pill good num">${g.right} right</span></div>
+    <form class="stack" data-form="g-check">
+      <p style="font-size:1.15rem"><b>${esc(d.prompt)}</b></p>${d.en ? `<p class="small muted">${esc(d.en)}</p>` : ""}
+      <input type="text" id="g-in" autocomplete="off" autocapitalize="off" spellcheck="false" class="${g.res || ""}" value="${esc(g.given)}" ${g.res ? "readonly" : ""} placeholder="Type the missing word(s)">
+      ${g.res ? `<div class="fb ${g.res}">${g.res === "right" ? "Correct." : g.res === "almost" ? `Almost: check the letters. It's <b>${esc(d.answer)}</b>` : `The answer is <b>${esc(d.answer)}</b>`}</div>
+        <div class="row"><button class="btn primary" type="button" data-act="g-next">Next <span class="small">(Enter)</span></button></div>`
+      : `${keysHtml()}<div class="row"><button class="btn" type="button" data-act="g-skip">Show answer</button><button class="btn primary">Check</button></div>`}
+    </form>`
+    : `<div class="empty"><h3>Drill complete</h3><p><b class="num">${g.right}</b> of ${g.queue.length} right.</p><button class="btn primary" data-gopen="${esc(t.id)}">Drill again</button></div>`}
+  </div>`;
+};
+AFTER.grammar = () => { const i = $("#g-in"); if (i && !V.g.res) i.focus() };
+function gramCheck(skip) {
+  const g = V.g;
+  if (g.res) { g.i++; g.res = null; g.given = ""; render(); return }
+  const d = g.queue[g.i]; const given = skip ? "" : $("#g-in").value;
+  g.given = given; g.res = skip ? "wrong" : grade(given, [d.answer].concat(d.accept || []));
+  const st = S.gram[g.id] = S.gram[g.id] || { r: 0, w: 0 };
+  if (g.res !== "wrong") { g.right++; st.r++ } else { st.w++; addMistake("grammar", d.prompt, d.answer, given || "(skipped)", d.en || "") }
+  save(); render();
+}
+document.addEventListener("click", e => {
+  const o = e.target.closest("[data-gopen]");
+  if (o) { const t = GRAMMAR.find(x => x.id === o.dataset.gopen); V.g = { id: t.id, queue: shuffle(t.drills || []), i: 0, res: null, given: "", right: 0 }; render(); window.scrollTo(0, 0); return }
+  const a = e.target.closest("[data-act]")?.dataset.act;
+  if (a === "g-back") { V.g.id = null; render() }
+  if (a === "g-next") gramCheck();
+  if (a === "g-skip") gramCheck(true);
+});
+
+/* ---------- Reading ---------- */
+V.r = { id: null, ans: {}, checked: false, showEn: false };
+const GROUPS = [["exam", "Exam-style tasks", "From the Harno A2 konsultatsioonivihik, the official practice booklet"], ["book", "Dialogues from your book", "Tule ja õpi veel! A2, lesson by lesson"], ["reader", "Margus, kass ja õunamoos", "Your A2 reader, chapter by chapter"]];
+VIEWS.reading = () => {
+  const r = V.r;
+  if (!r.id) {
+    return `<div class="intro"><h2>Reading</h2><p class="muted">The exam's reading part is 50 minutes for 5 tasks. Read the questions first, then scan the text for the answers.</p></div>
+    <div class="card"><div class="row between"><div class="stack" style="gap:2px"><h3>Timed practice</h3><p class="small muted">Start a 50-minute clock, then work through the exam-style tasks without stopping.</p></div><button class="btn primary" data-act="r-timed">Start 50:00</button></div></div>
+    ${GROUPS.map(([g, title, sub]) => { const sets = READ_SETS.filter(s => s.group === g); if (!sets.length) return "";
+      return `<div class="stack"><div><h3>${esc(title)}</h3><p class="small muted">${esc(sub)}</p></div>
+      ${(g === "book" ? sets.slice().sort((a, b) => ((V.focus || todayLessons()).includes(b.lesson) - (V.focus || todayLessons()).includes(a.lesson)) || a.lesson - b.lesson) : sets).map(s => { const best = S.read[s.id];
+        return `<button class="list-item" data-ropen="${s.id}"><span class="stack" style="gap:0"><span class="t">${esc(s.title)}</span><span class="small muted">${s.lesson ? `${s.lesson === 31 ? "Review" : "Lesson " + s.lesson}${(V.focus || todayLessons()).includes(s.lesson) ? " · today" : ""} · ` : ""}${s.chapter ? `Chapter ${esc(s.chapter)} · ` : ""}${s.kind === "kuulamine" ? "Listening task, as text · " : ""}${s.items.length} questions</span></span>${best != null ? `<span class="pill ${best >= 0.8 ? "good" : best >= 0.6 ? "warn" : "bad"} num">${Math.round(best * 100)}%</span>` : ""}</button>` }).join("")}</div>` }).join("")}`;
+  }
+  const s = READ_SETS.find(x => x.id === r.id);
+  const idx = READ_SETS.filter(x => x.group === s.group).indexOf(s);
+  const sib = READ_SETS.filter(x => x.group === s.group);
+  let score = 0, scored = 0;
+  const qs = s.items.map((q, qi) => {
+    const k = qi, given = r.ans[k];
+    let body = "", res = null;
+    if (q.options.length) {
+      const ai = answerIndex(q);
+      if (r.checked && ai >= 0) { scored++; if (+given === ai) score++ }
+      body = `<div class="opts">${q.options.map((o, oi) => {
+        const cls = r.checked ? (oi === ai ? "right" : (+given === oi ? "wrong" : "")) : "";
+        return `<label class="opt ${cls}"><input type="radio" name="q${k}" data-rq="${k}" value="${oi}" ${+given === oi && given !== undefined ? "checked" : ""} ${r.checked ? "disabled" : ""}><span>${esc(o)}</span></label>` }).join("")}</div>`;
+    } else if (q.type === "gap" || q.type === "short") {
+      if (r.checked) { scored++; res = grade(given || "", [q.answer].concat(q.accept || [])); if (res !== "wrong") score++ }
+      body = `<input type="text" data-rq="${k}" value="${esc(given || "")}" class="${res || ""}" ${r.checked ? "readonly" : ""} autocomplete="off" spellcheck="false">${r.checked && res !== "right" ? `<div class="fb ${res}">Answer: <b>${esc(q.answer)}</b></div>` : ""}`;
+    } else {
+      body = `<textarea data-rq="${k}" style="min-height:80px" ${r.checked ? "readonly" : ""}>${esc(given || "")}</textarea>${r.checked && q.answer ? `<div class="model">${esc(q.answer)}</div>` : ""}`;
+    }
+    return `<div class="q"><div><b>${qi + 1}. ${esc(q.q)}</b>${q.q_en ? `<div class="small muted">${esc(q.q_en)}</div>` : ""}</div>${body}${r.checked && q.explanation_en ? `<div class="small muted">${esc(q.explanation_en)}</div>` : ""}</div>`;
+  }).join("");
+  const listen = r.listen && s.clip;
+  const textHidden = listen && !r.showText && !r.checked;
+  return `<div class="row between"><button class="btn ghost" data-act="r-back">← All ${listen ? "recordings" : "texts"}</button>
+    <span class="row">${idx > 0 ? `<button class="btn sm" data-ropen="${sib[idx - 1].id}">Previous</button>` : ""}${idx < sib.length - 1 ? `<button class="btn sm" data-ropen="${sib[idx + 1].id}">Next text</button>` : ""}</span></div>
+  <div class="card">
+    <div class="row between"><h2>${esc(s.title)}</h2>${!listen && s.clip ? `<button class="btn sm" data-act="r-listen">Listen instead</button>` : ""}</div>
+    ${listen ? playerHtml(s) : ""}
+    ${s.instr ? `<p><b>${esc(s.instr)}</b>${s.instr_en ? `<br><span class="small muted">${esc(s.instr_en)}</span>` : ""}</p>` : ""}
+    ${s.kind === "kuulamine" && !listen ? `<div class="fb almost small">Listening task. In the exam you hear each recording twice. The text below is a reconstruction that matches the official answers, not the original recording. For real listening practice, play the official MP3 and answer before reading the text.${s.audio ? ` <a href="${esc(s.audio)}" target="_blank" rel="noopener">Official Harno recording (MP3)</a>` : ""}</div>` : ""}
+    ${s.text ? (textHidden ? `<div class="row"><button class="btn ghost sm" data-act="r-showtext">Show transcript</button><span class="small muted">Try answering from the audio first.</span></div>` : `<div class="text">${esc(s.text)}</div>`) : ""}
+    ${s.text_en ? `<div class="row"><button class="btn ghost sm" data-act="r-en">${r.showEn ? "Hide" : "Show"} English translation</button></div>${r.showEn ? `<div class="text muted">${esc(s.text_en)}</div>` : ""}` : ""}
+    ${(s.glossary || []).length ? `<details><summary>Glossary (${s.glossary.length} words)</summary><div class="gloss">${s.glossary.map(x => `<span><b>${esc(x.et)}</b> · ${esc(x.en)}</span>`).join("")}</div></details>` : ""}
+  </div>
+  ${s.items.length ? `<div class="card"><h3>Questions</h3><div>${qs}</div>
+    <div class="row">${r.checked ? `<span class="pill ${score / Math.max(1, scored) >= .8 ? "good" : score / Math.max(1, scored) >= .6 ? "warn" : "bad"} num" style="font-size:.95rem">${score}/${scored}</span><button class="btn" data-act="r-retry">Try again</button>` : `<button class="btn primary" data-act="r-check">Check answers</button>`}</div></div>` : ""}`;
+};
+function readCheck() {
+  const r = V.r, s = READ_SETS.find(x => x.id === r.id);
+  r.checked = true;
+  let score = 0, scored = 0;
+  s.items.forEach((q, k) => {
+    const given = r.ans[k];
+    if (q.options.length) {
+      const ai = answerIndex(q); if (ai < 0) return; scored++;
+      if (+given === ai && given !== undefined) score++; else addMistake("reading", `${s.title}: ${q.q}`, q.options[ai], given !== undefined ? q.options[+given] : "(no answer)", q.explanation_en || "");
+    } else if (q.type === "gap" || q.type === "short") {
+      scored++; if (grade(given || "", [q.answer].concat(q.accept || [])) !== "wrong") score++; else addMistake("reading", `${s.title}: ${q.q}`, q.answer, given || "(no answer)");
+    }
+  });
+  if (scored) S.read[s.id] = Math.max(S.read[s.id] || 0, score / scored); else S.read[s.id] = S.read[s.id] ?? 1;
+  save(); render();
+}
+document.addEventListener("click", e => {
+  const o = e.target.closest("[data-ropen]");
+  if (o) { V.r = { id: o.dataset.ropen, ans: {}, checked: false, showEn: false, listen: tab === "listening", showText: false }; render(); window.scrollTo(0, 0); return }
+  const a = e.target.closest("[data-act]")?.dataset.act;
+  if (a === "r-back") { V.r.id = null; V.l.plays = 0; render() }
+  if (a === "r-check") readCheck();
+  if (a === "r-retry") { V.r.ans = {}; V.r.checked = false; render() }
+  if (a === "r-en") { V.r.showEn = !V.r.showEn; render() }
+  if (a === "r-showtext") { V.r.showText = true; render() }
+  if (a === "r-listen") { V.r.listen = true; V.r.showText = false; go("listening") }
+  if (a === "r-timed") { startTimer(50, "Reading"); const first = READ_SETS.find(x => x.group === "exam") || READ_SETS[0]; if (first) { V.r = { id: first.id, ans: {}, checked: false }; render(); window.scrollTo(0, 0) } }
+});
+document.addEventListener("change", e => { const q = e.target.closest("[data-rq]"); if (q && q.type === "radio") V.r.ans[q.dataset.rq] = q.value });
+document.addEventListener("input", e => { const q = e.target.closest("[data-rq]"); if (q && q.type !== "radio") V.r.ans[q.dataset.rq] = q.value });
+
+/* ---------- Listening ---------- */
+V.l = { qi: null, qShow: false, plays: 0, rate: 1 };
+const LISTEN_Q = TOPICS_ALL().flatMap(t => t.q.filter(q => audioFor("q:" + q)).map(q => ({ q, topic: t })));
+function TOPICS_ALL() { return (D.extra && D.extra.speaking_topics) || [] }
+function playerHtml(s) {
+  return `<div class="card" style="background:var(--soft);border-color:transparent">
+    <audio id="player" src="${esc(s.clip)}" preload="auto" controls style="width:100%"></audio>
+    <div class="row between small"><span>Plays: <b class="num" id="plays">${V.l.plays}</b>${s.group === "exam" ? " · the exam plays each recording twice" : ""}</span>
+    <span class="row"><span class="muted">Speed</span><button class="chip" data-rate="0.8" aria-pressed="${V.l.rate === 0.8}">0.8×</button><button class="chip" data-rate="1" aria-pressed="${V.l.rate === 1}">1×</button></span></div>
+    <p class="small muted">Computer-generated Estonian voices (Neurokõne, University of Tartu)${s.group === "exam" ? `, reading a reconstruction of the recording. For the real one, play the <a href="${esc(s.audio || "#")}" target="_blank" rel="noopener">official Harno MP3</a>` : ""}.</p>
+  </div>`;
+}
+AFTER.listening = AFTER.reading = () => {
+  const a = $("#player"); if (!a) return;
+  a.playbackRate = V.l.rate;
+  a.onplay = () => { if (a.currentTime < 0.5) { V.l.plays++; const p = $("#plays"); if (p) p.textContent = V.l.plays } };
+};
+document.addEventListener("click", e => { const b = e.target.closest("[data-rate]"); if (!b) return; V.l.rate = +b.dataset.rate; const a = $("#player"); if (a) a.playbackRate = V.l.rate; document.querySelectorAll("[data-rate]").forEach(x => x.setAttribute("aria-pressed", x === b)) });
+VIEWS.listening = () => {
+  if (V.r.id && V.r.listen) return VIEWS.reading();
+  const l = V.l;
+  const sets = g => READ_SETS.filter(x => x.group === g && x.clip);
+  const item = x => { const best = S.read[x.id];
+    return `<button class="list-item" data-ropen="${x.id}"><span class="stack" style="gap:0"><span class="t">${esc(x.title)}</span><span class="small muted">${x.lesson ? `${x.lesson === 31 ? "Review" : "Lesson " + x.lesson}${(V.focus || todayLessons()).includes(x.lesson) ? " · today" : ""} · ` : ""}${x.items.length} questions</span></span>${best != null ? `<span class="pill ${best >= .8 ? "good" : best >= .6 ? "warn" : "bad"} num">${Math.round(best * 100)}%</span>` : ""}</button>` };
+  if (l.qi == null && LISTEN_Q.length) l.qi = Math.floor(Math.random() * LISTEN_Q.length);
+  const cur = LISTEN_Q[l.qi];
+  const book = sets("book").sort((a, b) => ((V.focus || todayLessons()).includes(b.lesson) - (V.focus || todayLessons()).includes(a.lesson)) || a.lesson - b.lesson);
+  return `<div class="intro"><h2>Listening</h2><p class="muted">The exam's listening part is about 30 minutes: 4 tasks, 25 questions, and every recording is played twice. Read the questions before you press play, answer during the first play, and check during the second. Don't read the transcript until you've answered.</p></div>
+  ${cur ? `<div class="card"><div class="row between"><h3>Answer what you hear</h3><span class="small muted">${LISTEN_Q.length} examiner questions</span></div>
+    <p class="muted small">Press play, listen without reading, and answer out loud in 2–3 sentences, as in the speaking exam.</p>
+    <div class="row"><button class="btn primary" data-clip="${esc(audioFor("q:" + cur.q))}">${SPK} Play question</button><button class="btn" data-act="l-show">${l.qShow ? "Hide" : "Show"} text</button><button class="btn ghost" data-act="l-next">Next question</button></div>
+    ${l.qShow ? `<p><b>${esc(cur.q)}</b> <span class="small muted">· ${esc(cur.topic.et)}</span></p><ul class="tight small">${cur.topic.starters.slice(0, 3).map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}</div>` : ""}
+  ${`<div class="card"><div class="row between"><div class="stack" style="gap:2px"><h3>More free practice: Keeleklikk</h3><p class="small muted">Animated everyday dialogues with real voices, by the authors of your textbook. Watch one on today's topic without subtitles, then with them. Free account.</p></div><a class="btn" href="https://www.keeleklikk.ee/" target="_blank" rel="noopener">Open Keeleklikk</a></div></div>`}
+  ${sets("exam").length ? `<div class="stack"><div><h3>Exam listening tasks</h3><p class="small muted">The 4 tasks from the Harno practice booklet. Start a 30-minute clock to do them like the exam.</p></div><div class="row"><button class="btn sm" data-act="l-timed">Start 30:00</button></div>${sets("exam").map(item).join("")}</div>` : ""}
+  ${book.length ? `<div class="stack"><div><h3>Dialogues from your book</h3><p class="small muted">Listen, answer the questions, then read the text.</p></div>${book.map(item).join("")}</div>` : ""}
+  ${sets("reader").length ? `<div class="stack"><div><h3>Audiobook: Margus, kass ja õunamoos</h3><p class="small muted">Your A2 reader, read aloud. Good for walks and commutes.</p></div>${sets("reader").map(item).join("")}</div>` : ""}
+  ${!Object.keys(AUDIO).length ? `<div class="card empty">Audio isn't loaded.</div>` : ""}`;
+};
+document.addEventListener("click", e => {
+  const a = e.target.closest("[data-act]")?.dataset.act; if (!a || !a.startsWith("l-")) return;
+  if (a === "l-show") { V.l.qShow = !V.l.qShow; render() }
+  if (a === "l-next") { V.l.qi = Math.floor(Math.random() * LISTEN_Q.length); V.l.qShow = false; render() }
+  if (a === "l-timed") startTimer(30, "Listening");
+});
+
+/* ---------- Writing ---------- */
+V.x = { id: null, text: "", fb: null, busy: false, err: "", showModel: false, ctl: null };
+const PB = R.phrase_bank || {};
+const PB_NAMES = { letter_openings: "Opening a message", letter_closings: "Closing a message", connectors: "Linking words", opinions: "Giving an opinion", speaking_fillers: "Buying time when speaking", asking_for_help: "Asking for help" };
+const phraseBank = keys => `<details><summary>Phrase bank</summary><div class="stack">${keys.filter(k => PB[k]).map(k => `<div class="stack"><span class="label">${esc(PB_NAMES[k] || k)}</span><div class="phr">${PB[k].map(p => `<b>${esc(p.et)}</b><span class="e">${esc(p.en)}</span>`).join("")}</div></div>`).join("")}</div></details>`;
+VIEWS.writing = () => {
+  const x = V.x;
+  const wp = (R.exam?.parts || []).find(p => /kirjut/i.test(p.name_et || ""));
+  if (!x.id) {
+    const sec = (type, title, sub) => { const ts = WRITE_TASKS.filter(t => t.type === type); if (!ts.length) return "";
+      return `<div class="stack"><div><h3>${title}</h3><p class="small muted">${sub}</p></div>${ts.map(t => { const n = S.writes.filter(w => w.id === t.id).length;
+        return `<button class="list-item" data-xopen="${t.id}"><span class="stack" style="gap:0"><span class="t">${esc(t.title)}</span><span class="small muted">${esc(t.en || (t.card ? t.card[1] : ""))}</span></span>${n ? `<span class="pill good">written ×${n}</span>` : ""}</button>` }).join("")}</div>` };
+    return `<div class="intro"><h2>Writing</h2><p class="muted">30 minutes, 2 tasks, 20 points. Harno checks that you stay on topic, reach the word count and cover every point. Simple and complete beats long and fancy.</p></div>
+    ${wp?.tips?.length ? `<div class="card"><span class="label">Writing tips</span><ul class="tight">${wp.tips.map(t => `<li>${esc(t)}</li>`).join("")}</ul></div>` : ""}
+    ${sec("card", "Task 1: business card → sentences", "Turn the card into full sentences that answer 4 questions. At least 25 words.")}
+    ${sec("note", "Task 2: message, invitation or short text", "Cover all 3 points. At least 30 words.")}
+    ${sec("booklet", "Tasks from the Harno booklet", "The official practice tasks.")}
+    ${phraseBank(["letter_openings", "letter_closings", "connectors"])}
+    ${S.writes.length ? `<details><summary>Your past texts (${S.writes.length})</summary><div class="stack">${S.writes.slice(0, 20).map(w => `<div class="stack" style="border-top:1px solid var(--line);padding-top:8px"><span class="small muted">${esc(w.title)} · ${new Date(w.t).toLocaleDateString()}${w.score != null ? ` · ~${w.score}/10` : ""}</span><div class="text" style="padding:10px 12px">${esc(w.text)}</div>${w.corrected ? `<div class="model">${esc(w.corrected)}</div>` : ""}</div>`).join("")}</div></details>` : ""}`;
+  }
+  const t = WRITE_TASKS.find(w => w.id === x.id);
+  const n = words(x.text);
+  const fb = x.fb;
+  return `<div class="row between"><button class="btn ghost" data-act="x-back">← All tasks</button><button class="btn sm" data-act="x-timer">Start ${t.minutes}:00 timer</button></div>
+  <div class="card">
+    <h2>${esc(t.title)}</h2>
+    ${t.card ? `<div class="vcard"><span class="n">${esc(t.card.card[0])}</span><span class="r">${esc(t.card.card[1])}</span>${t.card.card.slice(2).map(l => `<span>${esc(l)}</span>`).join("")}</div>` : ""}
+    <p style="white-space:pre-wrap">${esc(t.task)}</p>
+    ${t.points.length ? `<div class="stack"><span class="label">${t.card ? "Answer these" : "Cover every point"}</span><ul class="tight">${t.points.map(p => `<li>${esc(p)}</li>`).join("")}</ul></div>` : ""}
+  </div>
+  <div class="card">
+    <textarea id="x-text" spellcheck="false" placeholder="Kirjuta siia…">${esc(x.text)}</textarea>
+    <div class="row between">${keysHtml()}<span class="wc ${n >= t.min ? "pill good" : "pill warn"}" id="x-wc">${n} / ${t.min}+ words</span></div>
+    <div class="row">
+      ${sample ? `<button class="btn primary" data-act="x-ai" ${x.busy || n < 5 ? "disabled" : ""}>${x.busy ? "Checking…" : "Check my text with AI"}</button>` : `${claudeBtn("writing", "Check with Claude")}`}
+      <button class="btn" data-act="x-save" ${n < 5 ? "disabled" : ""}>Save text</button>
+      ${t.model ? `<button class="btn ghost" data-act="x-model">${x.showModel ? "Hide" : "Show"} model answer</button>` : ""}
+    </div>
+    ${x.err ? `<div class="fb wrong">${esc(x.err)}</div>` : ""}
+    ${t.learner ? `<details><summary>What you wrote in the booklet${t.learner ? ` (${words(t.learner)} words)` : ""}</summary><div class="stack"><div class="text">${esc(t.learner)}</div>${t.learnerFb ? `<p class="small">${esc(t.learnerFb)}</p>` : ""}</div></details>` : ""}
+    ${x.showModel && t.model ? `<div class="stack"><span class="label">Model answer</span><div class="model">${esc(t.model)}</div></div>` : ""}
+  </div>
+  ${fb ? `<div class="card">
+    <div class="row between"><h3>Feedback</h3><span class="pill ${fb.score >= 7 ? "good" : fb.score >= 5 ? "warn" : "bad"} num" style="font-size:.95rem">~${esc(fb.score)}/10</span></div>
+    ${(fb.points || []).length ? `<div class="stack">${fb.points.map(p => `<div class="row" style="flex-wrap:nowrap;align-items:flex-start"><span class="pill ${p.covered ? "good" : "bad"}">${p.covered ? "covered" : "missing"}</span><span>${esc(p.point)}</span></div>`).join("")}</div>` : ""}
+    ${(fb.errors || []).length ? `<div><span class="label">Corrections</span>${fb.errors.map(er => `<div class="err"><s>${esc(er.wrong)}</s><ins>${esc(er.right)}</ins><span class="why">${esc(er.why)}</span></div>`).join("")}</div>` : `<p class="fb right">No grammar mistakes found.</p>`}
+    ${fb.corrected ? `<div class="stack"><span class="label">Your text, corrected</span><div class="model">${esc(fb.corrected)}</div></div>` : ""}
+    ${fb.tip ? `<p><b>Next time:</b> ${esc(fb.tip)}</p>` : ""}
+    <p class="small muted">AI estimate; the real exam is marked by trained raters.</p>
+  </div>` : ""}
+  ${phraseBank(["letter_openings", "letter_closings", "connectors", "opinions"])}`;
+};
+async function writeAI() {
+  const x = V.x, t = WRITE_TASKS.find(w => w.id === x.id);
+  if (!sample || x.busy) return;
+  x.busy = true; x.err = ""; render();
+  const prompt = `You are an experienced examiner for the Estonian state A2 language exam (Harno). Assess a learner's answer to a writing task. The learner's native language is English; write all explanations in simple English.
+
+TASK (Estonian): ${t.task}
+${t.card ? "BUSINESS CARD: " + t.card.card.join(" | ") + "\n" : ""}CONTENT POINTS TO COVER: ${t.points.join("; ")}
+MINIMUM WORDS: ${t.min}
+
+LEARNER'S TEXT:
+"""${x.text}"""
+
+Harno A2 criteria: on topic, meets the word count, covers every content point, understandable; small A2-level grammar/spelling slips are tolerated.
+Return ONLY JSON:
+{"score": integer 0-10 (rough estimate of this task's quality against the criteria),
+ "points": [{"point": "content point in English", "covered": true|false}],
+ "errors": [{"wrong": "exact wrong fragment", "right": "corrected fragment", "why": "short English reason, name the case/rule"}] (max 8, most important first; only real errors),
+ "corrected": "the learner's text with errors fixed, keeping their ideas and A2 simplicity",
+ "tip": "one concrete tip in English"}`;
+  try {
+    const r = await sample(prompt, SCHEMA.writing, "medium");
+    x.fb = r;
+    S.writes.unshift({ id: t.id, title: t.title, text: x.text, score: r.score, corrected: r.corrected, t: Date.now() });
+    S.writes = S.writes.slice(0, 30);
+    (r.errors || []).slice(0, 5).forEach(er => addMistake("writing", `Fix: “${er.wrong}”`, er.right, er.wrong, er.why));
+    save();
+  } catch (e) { x.err = aiError(e) }
+  x.busy = false; render();
+}
+document.addEventListener("click", e => {
+  const o = e.target.closest("[data-xopen]");
+  if (o) { V.x = { id: o.dataset.xopen, text: "", fb: null, busy: false, err: "", showModel: false }; render(); window.scrollTo(0, 0); return }
+  const a = e.target.closest("[data-act]")?.dataset.act;
+  if (!a || !a.startsWith("x-")) return;
+  const t = WRITE_TASKS.find(w => w.id === V.x.id);
+  if (a === "x-back") { V.x.id = null; render() }
+  if (a === "x-model") { V.x.showModel = !V.x.showModel; render() }
+  if (a === "x-timer") startTimer(t.minutes, "Writing");
+  if (a === "x-ai") writeAI();
+  if (a === "x-save") { S.writes.unshift({ id: t.id, title: t.title, text: V.x.text, t: Date.now() }); S.writes = S.writes.slice(0, 30); save(); V.x.showModel = true; render() }
+});
+document.addEventListener("input", e => {
+  if (e.target.id === "x-text") { V.x.text = e.target.value; const t = WRITE_TASKS.find(w => w.id === V.x.id); const n = words(V.x.text); const wc = $("#x-wc"); wc.textContent = `${n} / ${t.min}+ words`; wc.className = `wc pill ${n >= t.min ? "good" : "warn"}`; $("[data-act=x-save]")?.toggleAttribute("disabled", n < 5); $("[data-act=x-ai]")?.toggleAttribute("disabled", V.x.busy || n < 5) }
+  if (e.target.id === "s-intro") { S.intro = e.target.value; save() }
+  if (e.target.id === "s-chat-in") V.s.draft = e.target.value;
+  if (e.target.matches("[data-rp]")) V.s.rp[e.target.dataset.rp] = e.target.value;
+});
+
+/* ---------- Speaking ---------- */
+const TOPICS = X.speaking_topics || [];
+const CARDS = X.roleplay_cards || [];
+const SPEAK_TASKS = EXT.filter(t => (t.section || "") === "rääkimine");
+V.s = { mode: "questions", topic: 0, qi: 0, showStart: false, card: 0, rp: {}, rpShown: false, chat: [], draft: "", busy: false, err: "", chatTopic: 0, introFb: null };
+VIEWS.speaking = () => {
+  const s = V.s;
+  const sp = (R.exam?.parts || []).find(p => /rääk/i.test(p.name_et || ""));
+  const modes = [["questions", "Topic questions"], ["intro", "Introduce yourself"], ["roleplay", "Ask questions (task 2)"], ["booklet", "Booklet tasks"], ["examiner", "Practice with an AI examiner"]];
+  let body = "";
+  if (s.mode === "questions") {
+    const t = TOPICS[s.topic]; const q = t.q[s.qi % t.q.length];
+    body = `<div class="card"><div class="row">${TOPICS.map((x, i) => `<button class="chip" data-stopic="${i}" aria-pressed="${i === s.topic}">${esc(x.et)}</button>`).join("")}</div></div>
+    <div class="flash"><span class="label">${esc(t.et)} · ${esc(t.en)}</span>
+      <div class="row" style="justify-content:center"><div class="word" style="font-size:1.8rem">${esc(q)}</div>${speakBtn(q)}</div>
+      <p class="muted small">Answer aloud in 2–3 full sentences. Add a reason with <b>sest</b> (because) or an example.</p>
+      ${s.showStart ? `<div class="stack" style="text-align:left;max-width:520px;margin:0 auto"><span class="label">Sentence starters</span><ul class="tight">${t.starters.map(x => `<li>${esc(x)}</li>`).join("")}</ul></div>` : ""}
+      <div class="row" style="justify-content:center"><button class="btn" data-act="s-start">${s.showStart ? "Hide" : "Show"} starters</button><button class="btn primary" data-act="s-next">Next question</button></div>
+    </div>`;
+  } else if (s.mode === "intro") {
+    body = `<div class="card"><h3>Your self-introduction</h3>
+      <p class="muted">The speaking test opens with you introducing yourself. Write 6–8 sentences you can say smoothly in under a minute: name, where you're from, where you live, work, family, hobbies, why you learn Estonian. Then memorise it.</p>
+      <textarea id="s-intro" placeholder="Tere! Minu nimi on … Ma olen pärit … Ma elan …">${esc(S.intro)}</textarea>
+      <div class="row">${keysHtml()}</div>
+      <div class="row">${sample ? `<button class="btn primary" data-act="s-introai" ${s.busy ? "disabled" : ""}>${s.busy ? "Checking…" : "Check with AI"}</button>` : claudeBtn("intro", "Check with Claude")}${S.intro && etVoice ? `<button class="btn" data-say="${esc(S.intro)}">Read it to me</button>` : ""}<span class="small muted">Saved automatically.</span></div>
+      ${s.err ? `<div class="fb wrong">${esc(s.err)}</div>` : ""}
+      ${s.introFb ? `${(s.introFb.errors || []).map(er => `<div class="err"><s>${esc(er.wrong)}</s><ins>${esc(er.right)}</ins><span class="why">${esc(er.why)}</span></div>`).join("")}<div class="stack"><span class="label">Polished version to memorise</span><div class="model">${esc(s.introFb.corrected)}</div></div>${s.introFb.tip ? `<p><b>Tip:</b> ${esc(s.introFb.tip)}</p>` : ""}` : ""}
+    </div>`;
+  } else if (s.mode === "roleplay") {
+    const c = CARDS[s.card % CARDS.length];
+    body = `<div class="card"><span class="label">Card ${s.card % CARDS.length + 1} of ${CARDS.length}</span>
+      <h3>${esc(c.topic)} <span class="muted small">(${esc(c.en)})</span></h3>
+      <p class="muted">In task 2 you get a card with keywords and must ask your partner full questions. Turn each keyword into a question.</p>
+      <div class="stack">${c.keys.map((k, i) => `<div class="stack" style="gap:4px"><span><b>${esc(k)}</b></span><input type="text" data-rp="${i}" value="${esc(s.rp[i] || "")}" autocomplete="off" spellcheck="false" placeholder="Kirjuta küsimus…">${s.rpShown ? `<div class="small" style="color:var(--good)">Model: <b>${esc(c.model[i])}</b></div>` : ""}</div>`).join("")}</div>
+      <div class="row">${keysHtml()}</div>
+      <div class="row"><button class="btn" data-act="s-rpshow">${s.rpShown ? "Hide" : "Compare with"} model questions</button><button class="btn primary" data-act="s-rpnext">Next card</button></div>
+    </div>
+    <div class="card"><span class="label">Question words</span><div class="phr">
+      ${[["Kes?", "Who?"], ["Mis? / Mida?", "What?"], ["Kus?", "Where (at)?"], ["Kuhu?", "Where to?"], ["Kust?", "Where from?"], ["Millal? / Mis kell?", "When? / What time?"], ["Kui kaua?", "How long?"], ["Kui tihti?", "How often?"], ["Kui palju? / Mitu?", "How much? / How many?"], ["Milline? / Missugune?", "What kind?"], ["Miks?", "Why?"], ["Kuidas?", "How?"], ["Kellega? / Millega?", "With whom? / By what?"], ["Kas …?", "yes/no question"]].map(([a, b]) => `<b>${a}</b><span class="e">${b}</span>`).join("")}</div></div>`;
+  } else if (s.mode === "booklet") {
+    body = SPEAK_TASKS.map((t, ti) => `<details><summary>${esc(t.title)}</summary><div class="stack">
+      <p>${esc(t.instructions_et)}</p>${t.instructions_en ? `<p class="small muted">${esc(t.instructions_en)}</p>` : ""}
+      ${t.text_et ? `<div class="text">${esc(t.text_et)}</div>` : ""}
+      ${(t.items || []).filter(q => !/^\(vt/.test(q.answer || "")).map((q, qi) => `<div class="q"><div class="row" style="flex-wrap:nowrap"><b>${esc(q.q)}</b>${speakBtn(q.q.replace(/^[AB]:\s*/, ""))}</div><details style="padding:6px 10px"><summary class="small">Example answer</summary><div class="model">${esc(q.answer)}</div></details></div>`).join("")}
+      ${t.model_answer_et ? `<div class="stack"><span class="label">Model answer</span><div class="model">${esc(t.model_answer_et)}</div></div>` : ""}
+      ${(t.checklist_en || []).length ? `<div class="stack"><span class="label">What examiners listen for</span><ul class="tight small">${t.checklist_en.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>` : ""}
+    </div></details>`).join("") || `<div class="card empty">No booklet speaking tasks loaded.</div>`;
+  } else {
+    body = sample ? examinerView() : `<div class="card"><h3>Practise with Claude as your examiner</h3><p class="muted">Pick a topic, then open Claude. It asks you one question at a time in Estonian and corrects each answer. This uses your Claude subscription. In the Claude app you can also answer by voice.</p>
+      <select id="s-ctopic">${TOPICS.map((t, i) => `<option value="${i}" ${i === V.s.chatTopic ? "selected" : ""}>${esc(t.et)} · ${esc(t.en)}</option>`).join("")}</select>
+      <div class="row">${claudeBtn("examiner", "Start in Claude")}</div></div>`;
+  }
+  return `<div class="intro"><h2>Speaking</h2><p class="muted">15 minutes with an examiner and usually one other candidate: introduce yourself, describe a picture and answer questions on its topic, then ask and answer questions from a card.</p></div>
+  <div class="row">${modes.map(([k, l]) => `<button class="chip" data-smode="${k}" aria-pressed="${s.mode === k}">${l}</button>`).join("")}</div>
+  ${body}
+  ${sp?.tips?.length ? `<details><summary>Speaking tips</summary><ul class="tight">${sp.tips.map(t => `<li>${esc(t)}</li>`).join("")}</ul></details>` : ""}
+  ${phraseBank(["speaking_fillers", "asking_for_help", "opinions"])}`;
+};
+function examinerView() {
+  const s = V.s;
+  return `<div class="card">
+    <div class="row between"><h3>Exam conversation</h3><select id="s-ctopic" style="width:auto">${TOPICS.map((t, i) => `<option value="${i}" ${i === s.chatTopic ? "selected" : ""}>${esc(t.et)}</option>`).join("")}</select></div>
+    <p class="small muted">The examiner asks one question at a time in simple Estonian and corrects your answer in English. Type your answers; on a Mac, press Fn twice to dictate instead.</p>
+    <div class="chat">${s.chat.map(m => m.role === "assistant" ? (() => { let j = {}; try { j = JSON.parse(m.content) } catch { j = { question: m.content } }
+      return `<div class="msg ex">${j.feedback ? `<div class="fix">${esc(j.feedback)}</div>` : ""}${j.corrected ? `<div class="small">Better: <b>${esc(j.corrected)}</b></div>` : ""}<div class="row" style="flex-wrap:nowrap"><span class="q1">${esc(j.question)}</span>${speakBtn(j.question)}</div>${j.question_en ? `<div class="small muted">${esc(j.question_en)}</div>` : ""}</div>` })()
+      : `<div class="msg me">${esc(m.shown)}</div>`).join("")}</div>
+    ${s.chat.length ? `<form class="stack" data-form="s-chat"><textarea id="s-chat-in" style="min-height:70px" placeholder="Vasta eesti keeles…">${esc(s.draft)}</textarea><div class="row between">${keysHtml()}<span class="row"><button class="btn ghost" type="button" data-act="s-reset">Restart</button><button class="btn primary" ${s.busy ? "disabled" : ""}>${s.busy ? "…" : "Answer"}</button></span></div></form>`
+      : `<div class="row"><button class="btn primary" data-act="s-chatstart" ${s.busy ? "disabled" : ""}>${s.busy ? "Starting…" : "Start the conversation"}</button></div>`}
+    ${s.err ? `<div class="fb wrong">${esc(s.err)}</div>` : ""}
+  </div>`;
+}
+const EXAMINER = topic => `You are a friendly examiner in the oral part of the Estonian state A2 language exam (Harno). Topic: "${topic.et}" (${topic.en}). Ask ONE short, simple A2-level question at a time in Estonian, like a real examiner (follow up naturally on the candidate's answers; vary question words). After each candidate answer, give brief feedback.
+Reply ONLY with JSON: {"feedback": "1-2 short sentences in English on the candidate's last answer: praise or the main error (empty string for the first turn)", "corrected": "the candidate's last answer corrected in natural A2 Estonian, or empty if it was already correct or this is the first turn", "question": "your next question in Estonian", "question_en": "English translation of the question"}`;
+async function chatTurn(userText) {
+  const s = V.s; if (!sample || s.busy) return;
+  s.busy = true; s.err = ""; render();
+  const topic = TOPICS[s.chatTopic];
+  if (userText != null) s.chat.push({ role: "user", content: userText, shown: userText });
+  const msgs = [{ role: "user", content: "Alustame. (Start now with a greeting and your first question.)" }].concat(s.chat.map(m => ({ role: m.role, content: m.content })));
+  try {
+    const r = await sample(msgs, SCHEMA.examiner, "low", EXAMINER(topic));
+    s.chat.push({ role: "assistant", content: JSON.stringify(r) });
+    if (userText != null && r.corrected && norm(r.corrected) !== norm(userText)) { addMistake("speaking", r.feedback || "Speaking answer", r.corrected, userText); save() }
+    s.draft = "";
+  } catch (e) { s.err = aiError(e); if (userText != null) { s.chat.pop(); s.draft = userText } }
+  s.busy = false; render();
+  const c = $("#s-chat-in"); if (c) c.focus();
+}
+async function introAI() {
+  const s = V.s; if (!sample || s.busy || !S.intro.trim()) return;
+  s.busy = true; s.err = ""; render();
+  try {
+    s.introFb = await sample(`An English-speaking learner wrote a self-introduction to say aloud at the start of the Estonian A2 oral exam (Harno). Correct it and make it natural but keep it simple A2 Estonian, 6-9 short sentences, easy to memorise. Keep their personal facts.
+TEXT: """${S.intro}"""
+Return JSON: {"errors": [{"wrong": "...", "right": "...", "why": "short English reason"}] (max 8), "corrected": "full polished text", "tip": "one English tip, e.g. a sentence worth adding"}`, SCHEMA.intro, "medium");
+  } catch (e) { s.err = aiError(e) }
+  s.busy = false; render();
+}
+document.addEventListener("click", e => {
+  const m = e.target.closest("[data-smode]"); if (m) { V.s.mode = m.dataset.smode; V.s.err = ""; render(); return }
+  const tp = e.target.closest("[data-stopic]"); if (tp) { V.s.topic = +tp.dataset.stopic; V.s.qi = 0; V.s.showStart = false; render(); return }
+  const a = e.target.closest("[data-act]")?.dataset.act; if (!a || !a.startsWith("s-")) return;
+  const s = V.s;
+  if (a === "s-next") { s.qi++; s.showStart = false; render() }
+  if (a === "s-start") { s.showStart = !s.showStart; render() }
+  if (a === "s-rpshow") { s.rpShown = !s.rpShown; render() }
+  if (a === "s-rpnext") { s.card++; s.rp = {}; s.rpShown = false; render() }
+  if (a === "s-chatstart") chatTurn(null);
+  if (a === "s-reset") { s.chat = []; s.draft = ""; render() }
+  if (a === "s-introai") introAI();
+});
+document.addEventListener("change", e => { if (e.target.id === "s-ctopic") { V.s.chatTopic = +e.target.value; V.s.chat = []; render() } });
+document.addEventListener("submit", e => { if (e.target.dataset.form === "s-chat") { e.preventDefault(); const v = $("#s-chat-in").value.trim(); if (v) chatTurn(v) } });
+document.addEventListener("keydown", e => { if (e.target.id === "s-chat-in" && e.key === "Enter" && !e.shiftKey) { e.preventDefault(); e.target.form.requestSubmit() } });
+
+/* ---------- Mistakes ---------- */
+V.m = { drill: null, i: 0, res: null, given: "" };
+const KIND = { word: "Word", grammar: "Grammar", reading: "Reading", writing: "Writing", speaking: "Speaking" };
+VIEWS.mistakes = () => {
+  const m = V.m;
+  if (m.drill) {
+    const d = m.drill[m.i];
+    if (!d) { m.drill = null; return VIEWS.mistakes() }
+    return `<div class="row"><button class="btn ghost" data-act="m-stop">← Back to the list</button></div>
+    <div class="card"><div class="progress"><span class="small muted num">${m.i + 1}/${m.drill.length}</span><div class="bar"><i style="width:${m.i / m.drill.length * 100}%"></i></div><span class="pill">${KIND[d.kind]}</span></div>
+      <form class="stack" data-form="m-check"><p style="font-size:1.15rem"><b>${esc(d.prompt)}</b></p>${d.extra ? `<p class="small muted">${esc(d.extra)}</p>` : ""}
+      <input type="text" id="m-in" class="${m.res || ""}" value="${esc(m.given)}" ${m.res ? "readonly" : ""} autocomplete="off" spellcheck="false" placeholder="Type the correct answer">
+      ${m.res ? `<div class="fb ${m.res}">${m.res === "wrong" ? `Answer: <b>${esc(d.answer)}</b>. It stays on your list.` : "Correct, so it's off your list."}</div><button class="btn primary" type="button" data-act="m-next">Next</button>` : `${keysHtml()}<button class="btn primary">Check</button>`}
+      </form></div>`;
+  }
+  if (!S.mistakes.length) return `<div class="intro"><h2>Mistakes</h2></div><div class="card empty"><h3>No mistakes saved yet</h3><p>Anything you get wrong in Words, Grammar, Reading, Writing or Speaking lands here so you can drill it until it sticks.</p></div>`;
+  return `<div class="intro"><h2>Mistakes</h2><p class="muted">Everything you got wrong, newest first. Drill them: a correct answer removes the item.</p></div>
+  <div class="row"><button class="btn primary" data-act="m-drill">Drill ${Math.min(20, S.mistakes.length)} mistakes</button><button class="btn ghost" data-act="m-clear">${V.m.confirm ? "Tap again to clear all" : "Clear all"}</button></div>
+  <div class="card"><div class="scroll"><table class="list"><thead><tr><th>Type</th><th>Question</th><th>Correct</th><th>You wrote</th></tr></thead><tbody>
+  ${S.mistakes.slice(0, 120).map(x => `<tr><td><span class="pill">${KIND[x.kind] || x.kind}</span></td><td>${esc(x.prompt)}${x.extra ? `<div class="small muted">${esc(x.extra)}</div>` : ""}</td><td><b style="color:var(--good)">${esc(x.answer)}</b></td><td class="muted">${esc(x.given)}</td></tr>`).join("")}
+  </tbody></table></div></div>`;
+};
+function misCheck() {
+  const m = V.m;
+  if (m.res) { m.i++; m.res = null; m.given = ""; render(); return }
+  const d = m.drill[m.i]; m.given = $("#m-in").value; m.res = grade(m.given, [d.answer]);
+  if (m.res !== "wrong") { S.mistakes = S.mistakes.filter(x => x !== d && !(x.kind === d.kind && x.prompt === d.prompt)); save() }
+  render();
+}
+AFTER.mistakes = () => { const i = $("#m-in"); if (i && !V.m.res) i.focus() };
+document.addEventListener("click", e => {
+  const a = e.target.closest("[data-act]")?.dataset.act; if (!a || !a.startsWith("m-")) return;
+  if (a === "m-drill") { V.m = { drill: shuffle(S.mistakes.filter(x => x.answer)).slice(0, 20), i: 0, res: null, given: "" }; render() }
+  if (a === "m-next") misCheck();
+  if (a === "m-stop") { V.m.drill = null; render() }
+  if (a === "m-clear") { if (V.m.confirm) { S.mistakes = []; V.m.confirm = false; save() } else V.m.confirm = true; render() }
+});
+
+/* ---------- Guide ---------- */
+VIEWS.guide = () => {
+  const ex = R.exam || {};
+  const parts = (ex.parts || []).slice().sort((a, b) => (a.order || 0) - (b.order || 0));
+  return `<div class="intro"><h2>The A2 exam, in short</h2><p class="muted">${esc(ex.date_note || "")}</p></div>
+  <div class="card"><div class="grid2">
+    <div class="stack"><span class="label">To pass</span><p>${esc(ex.pass_rule)}</p></div>
+    <div class="stack"><span class="label">Allowed</span><p>${esc(ex.allowed)}</p></div>
+  </div></div>
+  ${parts.map(p => `<div class="card"><div class="row between"><h3>${esc(p.name_en)} <span class="muted small">${esc(p.name_et)}</span></h3><span class="row"><span class="pill acc num">${esc(p.minutes)} min</span><span class="pill num">${esc(p.points)} pts</span></span></div>
+    <ul class="tight">${(p.tasks || []).map(t => `<li>${esc(t)}</li>`).join("")}</ul>
+    ${(p.tips || []).length ? `<div class="stack"><span class="label">Tips</span><ul class="tight">${p.tips.map(t => `<li>${esc(t)}</li>`).join("")}</ul></div>` : ""}</div>`).join("")}
+  ${ex.speaking_format ? `<div class="card"><span class="label">Speaking format</span><p>${esc(ex.speaking_format)}</p></div>` : ""}
+  ${(ex.topics || []).length ? `<div class="card"><span class="label">The 15 exam topics</span><div class="row">${ex.topics.map(t => `<span class="pill" style="font-family:var(--body);font-size:.85rem">${esc(t)}</span>`).join("")}</div></div>` : ""}
+  ${(R.strategy || []).length ? `<div class="stack"><h3>Strategy</h3><div class="grid2">${R.strategy.map(s => `<div class="card"><b>${esc(s.title)}</b><p class="small">${esc(s.tip)}</p></div>`).join("")}</div></div>` : ""}
+  ${phraseBank(Object.keys(PB))}
+  ${ex.results_and_retakes ? `<div class="card"><span class="label">Results and retakes</span><p>${esc(ex.results_and_retakes)}</p></div>` : ""}
+  ${(R.resources || []).length ? `<div class="card"><span class="label">Free resources</span><div class="stack">${R.resources.map(r => `<div><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.name)}</a><div class="small muted">${esc(r.why)}</div></div>`).join("")}</div></div>` : ""}
+  ${(R.notes || []).length ? `<p class="small muted">${R.notes.map(esc).join(" ")}</p>` : ""}
+  ${(R.sources || []).length ? `<details><summary>Sources</summary><ul class="tight small">${R.sources.map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join("")}</ul></details>` : ""}`;
+};
+
+/* ---------- Settings ---------- */
+V.set = { msg: "", busy: false, backup: "", confirmReset: false };
+VIEWS.settings = () => {
+  const st = V.set;
+  return `<div class="intro"><h2>Settings</h2></div>
+  <div class="card">
+    <h3>AI feedback</h3>
+    <p><b>With a Claude subscription (Pro or Max), you don't need a key.</b> The “Check with Claude” and “Start in Claude” buttons open Claude with your text and the examiner instructions filled in. The prompt is also copied, so if Claude opens empty, paste it in.</p>
+    <p class="muted"><b>Optional, for instant feedback inside this app:</b> writing feedback, the self-introduction check and the AI examiner use Claude (${MODEL}) through your own Anthropic API key. Create one at <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a>. The key is stored only on this device and sent only to Anthropic. A writing check costs roughly 2–5 US cents. API keys are billed separately from a Claude subscription.</p>
+    <input type="password" id="set-key" autocomplete="off" spellcheck="false" placeholder="sk-ant-…" value="${esc(apiKey)}">
+    <div class="row"><button class="btn primary" data-act="set-save" ${st.busy ? "disabled" : ""}>${st.busy ? "Testing…" : "Save and test key"}</button>${apiKey ? `<button class="btn ghost" data-act="set-clear">Remove key</button>` : ""}<span class="pill ${sample ? "good" : ""}">${sample ? "AI on" : apiKey && !window.Anthropic ? "Loading…" : "AI off"}</span></div>
+    ${st.msg ? `<div class="fb ${st.ok ? "right" : "wrong"}">${esc(st.msg)}</div>` : ""}
+  </div>
+  <div class="card">
+    <h3>Back up or move your progress</h3>
+    <p class="muted">Progress lives on this device. To move it, copy the backup here and paste it into Settings on the other device.</p>
+    <div class="row"><button class="btn" data-act="set-export">Copy backup</button><button class="btn" data-act="set-import">Restore from pasted backup</button></div>
+    <textarea id="set-backup" style="min-height:90px" spellcheck="false" placeholder="Paste a backup here to restore it">${esc(st.backup)}</textarea>
+  </div>
+  <div class="card">
+    <h3>Start over</h3>
+    <p class="muted">Deletes all progress on this device: word boxes, plan ticks, mistakes and saved texts.</p>
+    <div class="row"><button class="btn bad" data-act="set-reset">${st.confirmReset ? "Tap again to delete everything" : "Reset progress"}</button></div>
+  </div>
+  <p class="small muted">Eksamiks valmis · works offline once loaded · AI features need internet.</p>`;
+};
+async function testKey(key) {
+  const st = V.set; st.busy = true; st.msg = ""; render();
+  try {
+    if (!window.Anthropic) throw { code: "sdk" };
+    const c = new window.Anthropic({ apiKey: key, dangerouslyAllowBrowser: true, maxRetries: 0 });
+    await c.messages.create({ model: MODEL, max_tokens: 16, output_config: { effort: "low" }, messages: [{ role: "user", content: "Say OK." }] });
+    apiKey = key; try { localStorage.setItem(KEY_LS, key) } catch {}
+    setupAI(); st.ok = true; st.msg = "Key works. AI feedback is on.";
+  } catch (e) { st.ok = false; st.msg = e?.code === "sdk" ? "The Claude library hasn't loaded. Connect to the internet and reopen the app." : aiError(e) }
+  st.busy = false; render();
+}
+document.addEventListener("click", async e => {
+  const a = e.target.closest("[data-act]")?.dataset.act; if (!a || !a.startsWith("set-")) return;
+  const st = V.set;
+  if (a === "set-save") { const k = $("#set-key").value.trim(); if (k) testKey(k) }
+  if (a === "set-clear") { apiKey = ""; try { localStorage.removeItem(KEY_LS) } catch {} setupAI(); st.msg = ""; render() }
+  if (a === "set-export") {
+    st.backup = JSON.stringify(S); render();
+    const ta = $("#set-backup");
+    try { await navigator.clipboard.writeText(st.backup); st.ok = true; st.msg = ""; ta.insertAdjacentHTML("beforebegin", '<div class="fb right">Backup copied. Paste it into Settings on the other device.</div>') }
+    catch { ta.focus(); ta.select() }
+  }
+  if (a === "set-import") {
+    try { const d = JSON.parse($("#set-backup").value); if (!d || typeof d !== "object" || !d.srs) throw 0; S = Object.assign(BLANK(), d); save(); st.backup = ""; $("#set-backup").value = ""; render(); $("#set-backup").insertAdjacentHTML("beforebegin", '<div class="fb right">Progress restored.</div>') }
+    catch { $("#set-backup").insertAdjacentHTML("beforebegin", '<div class="fb wrong">That isn\'t a valid backup. Copy the whole text from the other device and try again.</div>') }
+  }
+  if (a === "set-reset") { if (st.confirmReset) { S = BLANK(); st.confirmReset = false; save(); try { localStorage.removeItem(LS) } catch {} } else st.confirmReset = true; render() }
+});
+document.addEventListener("input", e => { if (e.target.id === "set-backup") V.set.backup = e.target.value });
+
+if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
+render();
+</script>
+</body>
+</html>

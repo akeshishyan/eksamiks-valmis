@@ -1,0 +1,1770 @@
+[
+ {
+  "lesson": 1,
+  "id": "kas-questions-meeldima-oskama",
+  "title": "Yes/no questions, short answers, meeldima and oskama + da-infinitive",
+  "explanation": "A yes/no question starts with <b>Kas</b>: <i>Kas sa oled eestlane?</i><br>Short answers repeat the verb, not just 'yes/no'. <b>Jah, ... küll</b> = yes; <b>Ei, ei ...</b> = no. In the negative the verb loses its personal ending (ei + stem).<br><table><tr><th>Question</th><th>Yes</th><th>No</th></tr><tr><td>Kas sa oled ...?</td><td>Jah, olen küll.</td><td>Ei, ei ole.</td></tr><tr><td>Kas sul on ...?</td><td>Jah, on küll.</td><td>Ei, ei ole.</td></tr><tr><td>Kas sa räägid ...?</td><td>Jah, räägin küll.</td><td>Ei, ei räägi.</td></tr><tr><td>Kas sa oskad ...?</td><td>Jah, oskan küll.</td><td>Ei, ei oska.</td></tr><tr><td>Kas sulle meeldib ...?</td><td>Jah, meeldib küll.</td><td>Ei, ei meeldi.</td></tr></table><b>Mulle meeldib</b> (I like) and <b>ma oskan</b> (I can / know how) are followed by the <b>da-infinitive</b> (the second dictionary form): <i>Mulle meeldib ujuda. Ma oskan laulda.</i> With languages, <b>oskama</b> and <b>rääkima</b> take the partitive: <i>Ma oskan eesti keelt.</i><br><table><tr><th>ma-inf</th><th>da-inf</th></tr><tr><td>käima</td><td>käia</td></tr><tr><td>sööma</td><td>süüa</td></tr><tr><td>jooma</td><td>juua</td></tr><tr><td>tegema</td><td>teha</td></tr><tr><td>vaatama</td><td>vaadata</td></tr><tr><td>laulma</td><td>laulda</td></tr><tr><td>tantsima</td><td>tantsida</td></tr></table>",
+  "examples": [
+   {
+    "et": "Kas sa oskad ujuda? – Jah, oskan küll.",
+    "en": "Can you swim? – Yes, I can."
+   },
+   {
+    "et": "Kas sulle meeldib kinos käia? – Ei, ei meeldi.",
+    "en": "Do you like going to the cinema? – No, I don't."
+   },
+   {
+    "et": "Kas sa räägid vene keelt? – Ei, ei räägi.",
+    "en": "Do you speak Russian? – No, I don't."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Kas sa oled eestlane? – Jah, ___ küll. (olema)",
+    "answer": "olen",
+    "accept": [],
+    "en": "Are you Estonian? – Yes, I am."
+   },
+   {
+    "prompt": "Kas sa räägid vene keelt? – Ei, ei ___. (rääkima)",
+    "answer": "räägi",
+    "accept": [],
+    "en": "Do you speak Russian? – No, I don't."
+   },
+   {
+    "prompt": "Kas sa oskad ujuda? – Jah, ___ küll. (oskama)",
+    "answer": "oskan",
+    "accept": [],
+    "en": "Can you swim? – Yes, I can."
+   },
+   {
+    "prompt": "Kas sa oskad jaapani keelt? – Ei, ei ___. (oskama)",
+    "answer": "oska",
+    "accept": [],
+    "en": "Do you know Japanese? – No, I don't."
+   },
+   {
+    "prompt": "Kas sulle meeldib kohvi juua? – Ei, ei ___. (meeldima)",
+    "answer": "meeldi",
+    "accept": [],
+    "en": "Do you like drinking coffee? – No, I don't."
+   },
+   {
+    "prompt": "Kas sul on auto? – Jah, ___ küll. (olema)",
+    "answer": "on",
+    "accept": [],
+    "en": "Do you have a car? – Yes, I do."
+   },
+   {
+    "prompt": "Kas sulle meeldib kinos ___? (käima)",
+    "answer": "käia",
+    "accept": [],
+    "en": "Do you like going to the cinema?"
+   },
+   {
+    "prompt": "Kas sa oskad tangot ___? (tantsima)",
+    "answer": "tantsida",
+    "accept": [],
+    "en": "Can you dance the tango?"
+   },
+   {
+    "prompt": "Mulle meeldib jäätist ___. (sööma)",
+    "answer": "süüa",
+    "accept": [],
+    "en": "I like eating ice cream."
+   },
+   {
+    "prompt": "Mulle meeldib hommikul kohvi ___. (jooma)",
+    "answer": "juua",
+    "accept": [],
+    "en": "I like drinking coffee in the morning."
+   },
+   {
+    "prompt": "Kas sa oskad autot ___? (juhtima)",
+    "answer": "juhtida",
+    "accept": [],
+    "en": "Can you drive a car?"
+   },
+   {
+    "prompt": "Mulle meeldib klassikalist muusikat ___. (kuulama)",
+    "answer": "kuulata",
+    "accept": [],
+    "en": "I like listening to classical music."
+   },
+   {
+    "prompt": "Kas sulle meeldib süüa ___? (tegema)",
+    "answer": "teha",
+    "accept": [],
+    "en": "Do you like cooking?"
+   },
+   {
+    "prompt": "Kas sa oskad ___? (laulma)",
+    "answer": "laulda",
+    "accept": [],
+    "en": "Can you sing?"
+   },
+   {
+    "prompt": "Kas sulle meeldib õhtul televiisorit ___? (vaatama)",
+    "answer": "vaadata",
+    "accept": [],
+    "en": "Do you like watching TV in the evening?"
+   }
+  ]
+ },
+ {
+  "lesson": 2,
+  "id": "imperative",
+  "title": "Imperative: commands to one person (sina) and to several / polite (teie)",
+  "explanation": "<b>To one person (sina):</b> take the 1st person present (ma-form) and drop <b>-n</b>: kordan → <b>Korda!</b>, ütlen → <b>Ütle!</b>, loen → <b>Loe!</b><br><b>To several people or politely (teie):</b> take the da-infinitive and replace <b>-da</b> with <b>-ge</b> or <b>-ta</b> with <b>-ke</b>: kirjutada → <b>Kirjutage!</b>, korrata → <b>Korrake!</b>. After l, n, r the ending is -ge: tulla → <b>Tulge!</b>, minna → <b>Minge!</b><br><table><tr><th>verb</th><th>sina</th><th>teie</th></tr><tr><td>kordama</td><td>Korda!</td><td>Korrake!</td></tr><tr><td>ütlema</td><td>Ütle!</td><td>Öelge!</td></tr><tr><td>ootama</td><td>Oota!</td><td>Oodake!</td></tr><tr><td>lugema</td><td>Loe!</td><td>Lugege!</td></tr><tr><td>kirjutama</td><td>Kirjuta!</td><td>Kirjutage!</td></tr><tr><td>täitma</td><td>Täida!</td><td>Täitke!</td></tr><tr><td>tulema</td><td>Tule!</td><td>Tulge!</td></tr><tr><td>minema</td><td>Mine!</td><td>Minge!</td></tr></table>In the shop the assistant is polite: <i>Täitke palun see ankeet! Siia kirjutage oma nimi!</i>",
+  "examples": [
+   {
+    "et": "Korda palun!",
+    "en": "Please repeat! (to one person)"
+   },
+   {
+    "et": "Öelge uuesti!",
+    "en": "Say it again! (polite)"
+   },
+   {
+    "et": "Täitke palun see ankeet!",
+    "en": "Please fill in this form!"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma ei saa aru. ___ palun! (kordama, sina)",
+    "answer": "Korda",
+    "accept": [],
+    "en": "I don't understand. Repeat, please!"
+   },
+   {
+    "prompt": "Vabandage, ma ei saa aru. ___ palun! (kordama, teie)",
+    "answer": "Korrake",
+    "accept": [],
+    "en": "Excuse me, I don't understand. Please repeat!"
+   },
+   {
+    "prompt": "___ uuesti! (ütlema, sina)",
+    "answer": "Ütle",
+    "accept": [],
+    "en": "Say it again!"
+   },
+   {
+    "prompt": "___ uuesti! (ütlema, teie)",
+    "answer": "Öelge",
+    "accept": [],
+    "en": "Say it again! (polite)"
+   },
+   {
+    "prompt": "___! Ma tulen kohe. (ootama, sina)",
+    "answer": "Oota",
+    "accept": [],
+    "en": "Wait! I'm coming right away."
+   },
+   {
+    "prompt": "___ palun see ankeet! (täitma, teie)",
+    "answer": "Täitke",
+    "accept": [],
+    "en": "Please fill in this form!"
+   },
+   {
+    "prompt": "Siia ___ oma nimi! (kirjutama, teie)",
+    "answer": "kirjutage",
+    "accept": [],
+    "en": "Write your name here!"
+   },
+   {
+    "prompt": "___ passi! (vaatama, sina)",
+    "answer": "Vaata",
+    "accept": [],
+    "en": "Look at the passport!"
+   },
+   {
+    "prompt": "___ ja vasta! (küsima, sina)",
+    "answer": "Küsi",
+    "accept": [],
+    "en": "Ask and answer!"
+   },
+   {
+    "prompt": "___ teksti! (lugema, teie)",
+    "answer": "Lugege",
+    "accept": [],
+    "en": "Read the text! (plural)"
+   },
+   {
+    "prompt": "___ ja kirjutage! (kuulama, teie)",
+    "answer": "Kuulake",
+    "accept": [],
+    "en": "Listen and write! (plural)"
+   },
+   {
+    "prompt": "___ eesti keelt! (rääkima, sina)",
+    "answer": "Räägi",
+    "accept": [],
+    "en": "Speak Estonian!"
+   },
+   {
+    "prompt": "___ mulle külla! (tulema, sina)",
+    "answer": "Tule",
+    "accept": [],
+    "en": "Come and visit me!"
+   },
+   {
+    "prompt": "___ pilt! (joonistama, teie)",
+    "answer": "Joonistage",
+    "accept": [],
+    "en": "Draw a picture! (plural)"
+   },
+   {
+    "prompt": "___ Quizletisse! (minema, sina)",
+    "answer": "Mine",
+    "accept": [],
+    "en": "Go to Quizlet!"
+   }
+  ]
+ },
+ {
+  "lesson": 3,
+  "id": "ordinals-floors",
+  "title": "Ordinal numbers 1–10 and 'Mitmendal korrusel?' (on which floor)",
+  "explanation": "<b>Mitmes?</b> = which one (in order). The answer is an ordinal in the nominative: <i>See on kolmas korrus.</i><br><b>Mitmendal?</b> = on which one. Take the <b>genitive</b> (II form) of the ordinal and add <b>-l</b>; the noun takes -l too: <i>Ma elan kolmandal korrusel.</i><br><table><tr><th></th><th>Mitmes? (I)</th><th>genitive (II)</th><th>Mitmendal? (II + l)</th></tr><tr><td>1.</td><td>esimene</td><td>esimese</td><td>esimesel</td></tr><tr><td>2.</td><td>teine</td><td>teise</td><td>teisel</td></tr><tr><td>3.</td><td>kolmas</td><td>kolmanda</td><td>kolmandal</td></tr><tr><td>4.</td><td>neljas</td><td>neljanda</td><td>neljandal</td></tr><tr><td>5.</td><td>viies</td><td>viienda</td><td>viiendal</td></tr><tr><td>6.</td><td>kuues</td><td>kuuenda</td><td>kuuendal</td></tr><tr><td>7.</td><td>seitsmes</td><td>seitsmenda</td><td>seitsmendal</td></tr><tr><td>8.</td><td>kaheksas</td><td>kaheksanda</td><td>kaheksandal</td></tr><tr><td>9.</td><td>üheksas</td><td>üheksanda</td><td>üheksandal</td></tr><tr><td>10.</td><td>kümnes</td><td>kümnenda</td><td>kümnendal</td></tr></table>From 3 on, the genitive is built with <b>-nda</b>. After a number (2+), the noun is partitive: <i>Majas on kümme korrust.</i>",
+  "examples": [
+   {
+    "et": "Mitmendal korrusel sa elad? – Ma elan viiendal korrusel.",
+    "en": "Which floor do you live on? – I live on the fifth floor."
+   },
+   {
+    "et": "Kümnendal korrusel on pööning.",
+    "en": "On the tenth floor there is an attic."
+   },
+   {
+    "et": "Selles majas on kümme korrust.",
+    "en": "This building has ten floors."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma elan ___ korrusel. (2.)",
+    "answer": "teisel",
+    "accept": [],
+    "en": "I live on the second floor."
+   },
+   {
+    "prompt": "Uku elab ___ korrusel. (1.)",
+    "answer": "esimesel",
+    "accept": [],
+    "en": "Uku lives on the first floor."
+   },
+   {
+    "prompt": "Riho elab ___ korrusel. (3.)",
+    "answer": "kolmandal",
+    "accept": [],
+    "en": "Riho lives on the third floor."
+   },
+   {
+    "prompt": "Alo elab ___ korrusel. (4.)",
+    "answer": "neljandal",
+    "accept": [],
+    "en": "Alo lives on the fourth floor."
+   },
+   {
+    "prompt": "Maarja elab ___ korrusel. (5.)",
+    "answer": "viiendal",
+    "accept": [],
+    "en": "Maarja lives on the fifth floor."
+   },
+   {
+    "prompt": "Jüri elab ___ korrusel. (6.)",
+    "answer": "kuuendal",
+    "accept": [],
+    "en": "Jüri lives on the sixth floor."
+   },
+   {
+    "prompt": "Tiina elab ___ korrusel. (7.)",
+    "answer": "seitsmendal",
+    "accept": [],
+    "en": "Tiina lives on the seventh floor."
+   },
+   {
+    "prompt": "Anne ja Tõnu elavad ___ korrusel. (8.)",
+    "answer": "kaheksandal",
+    "accept": [],
+    "en": "Anne and Tõnu live on the eighth floor."
+   },
+   {
+    "prompt": "Hasso elab ___ korrusel. (9.)",
+    "answer": "üheksandal",
+    "accept": [],
+    "en": "Hasso lives on the ninth floor."
+   },
+   {
+    "prompt": "___ korrusel on pööning. (10.)",
+    "answer": "Kümnendal",
+    "accept": [],
+    "en": "On the tenth floor there is an attic."
+   },
+   {
+    "prompt": "See on ___ korrus. (3.)",
+    "answer": "kolmas",
+    "accept": [],
+    "en": "This is the third floor."
+   },
+   {
+    "prompt": "Majas on kaks korrust: esimene ja ___ korrus. (2.)",
+    "answer": "teine",
+    "accept": [],
+    "en": "The house has two floors: the first and the second floor."
+   },
+   {
+    "prompt": "___ korrusel sa elad? (which?)",
+    "answer": "Mitmendal",
+    "accept": [],
+    "en": "Which floor do you live on?"
+   },
+   {
+    "prompt": "Raamatupood asub ___ korrusel. (2.)",
+    "answer": "teisel",
+    "accept": [],
+    "en": "The bookshop is on the second floor."
+   },
+   {
+    "prompt": "Selles majas on kümme ___. (korrus)",
+    "answer": "korrust",
+    "accept": [],
+    "en": "This building has ten floors."
+   }
+  ]
+ },
+ {
+  "lesson": 4,
+  "id": "inessive-adessive-kus",
+  "title": "Kus? Where: -s (in) and -l (on/at), built on the genitive",
+  "explanation": "To say <b>where</b> something is, take the <b>genitive (II form)</b> and add <b>-s</b> ('in', inside) or <b>-l</b> ('on', at, open places).<br><table><tr><th>I form</th><th>II form</th><th>Kus?</th></tr><tr><td>maja</td><td>maja</td><td>majas</td></tr><tr><td>korter</td><td>korteri</td><td>korteris</td></tr><tr><td>tuba</td><td>toa</td><td>toas</td></tr><tr><td>köök</td><td>köögi</td><td>köögis</td></tr><tr><td>kelder</td><td>keldri</td><td>keldris</td></tr><tr><td>esik</td><td>esiku</td><td>esikus</td></tr><tr><td>aed</td><td>aia</td><td>aias</td></tr><tr><td>rõdu</td><td>rõdu</td><td><b>rõdul</b></td></tr><tr><td>terrass</td><td>terrassi</td><td><b>terrassil</b></td></tr></table><b>-l</b> is used with balconies, terraces, floors, streets, the countryside: <i>rõdul, terrassil, korrusel, tänaval, maal</i>.<br>An adjective takes the same ending: <i>suur maja → suure maja → <b>suures majas</b></i>; <i>vana maja → vanas majas</i>.<br>Two ways to describe your home: <i>Mul on suur kodu. = Minu kodu on suur.</i>",
+  "examples": [
+   {
+    "et": "Ma pesen nõusid köögis.",
+    "en": "I wash the dishes in the kitchen."
+   },
+   {
+    "et": "Keldris on minu kodukino.",
+    "en": "My home cinema is in the basement."
+   },
+   {
+    "et": "Korter asub vanas majas.",
+    "en": "The flat is in an old building."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma pesen nõusid ___. (köök)",
+    "answer": "köögis",
+    "accept": [],
+    "en": "I wash the dishes in the kitchen."
+   },
+   {
+    "prompt": "Minu kodukino on ___. (kelder)",
+    "answer": "keldris",
+    "accept": [],
+    "en": "My home cinema is in the basement."
+   },
+   {
+    "prompt": "___ on suured õunapuud. (aed)",
+    "answer": "Aias",
+    "accept": [],
+    "en": "There are big apple trees in the garden."
+   },
+   {
+    "prompt": "Mul on ilus rõdu. ___ on lilled. (rõdu)",
+    "answer": "Rõdul",
+    "accept": [],
+    "en": "I have a nice balcony. There are flowers on the balcony."
+   },
+   {
+    "prompt": "Kas sa elad majas või ___? (korter)",
+    "answer": "korteris",
+    "accept": [],
+    "en": "Do you live in a house or a flat?"
+   },
+   {
+    "prompt": "Föön on ___. (vannituba)",
+    "answer": "vannitoas",
+    "accept": [],
+    "en": "The hairdryer is in the bathroom."
+   },
+   {
+    "prompt": "Ma magan ___. (magamistuba)",
+    "answer": "magamistoas",
+    "accept": [],
+    "en": "I sleep in the bedroom."
+   },
+   {
+    "prompt": "Ma elan ___. (suur maja)",
+    "answer": "suures majas",
+    "accept": [],
+    "en": "I live in a big house."
+   },
+   {
+    "prompt": "Korter asub ___. (vana maja)",
+    "answer": "vanas majas",
+    "accept": [],
+    "en": "The flat is in an old building."
+   },
+   {
+    "prompt": "Me istume ___. (terrass)",
+    "answer": "terrassil",
+    "accept": [],
+    "en": "We are sitting on the terrace."
+   },
+   {
+    "prompt": "Nagi on ___. (esik)",
+    "answer": "esikus",
+    "accept": [],
+    "en": "The coat rack is in the hall."
+   },
+   {
+    "prompt": "Ma elan ___. (Tallinn)",
+    "answer": "Tallinnas",
+    "accept": [],
+    "en": "I live in Tallinn."
+   },
+   {
+    "prompt": "Ma elan Kirsi ___. (tänav)",
+    "answer": "tänaval",
+    "accept": [],
+    "en": "I live on Kirsi Street."
+   },
+   {
+    "prompt": "Kas sa elad ___? (kesklinn)",
+    "answer": "kesklinnas",
+    "accept": [],
+    "en": "Do you live in the city centre?"
+   },
+   {
+    "prompt": "Ta töötab ___. (töötuba)",
+    "answer": "töötoas",
+    "accept": [],
+    "en": "He works in the study."
+   },
+   {
+    "prompt": "Ta elab ___. (väike korter)",
+    "answer": "väikeses korteris",
+    "accept": [],
+    "en": "She lives in a small flat."
+   }
+  ]
+ },
+ {
+  "lesson": 5,
+  "id": "partitive-numbers-negation",
+  "title": "Three forms of nouns; partitive after numbers and after 'ei ole'",
+  "explanation": "Every noun has three key forms: <b>I</b> nominative (Mis? Kes?), <b>II</b> genitive (Mille? Kelle?), <b>III</b> partitive (Mida? Keda?).<br><b>Use the partitive (III):</b> after numbers 2 and above (<i>kaks voodit</i>) and in the negative <i>Mul ei ole ...</i> (<i>Mul ei ole tolmuimejat</i>). After <b>üks</b> the noun stays nominative: <i>üks voodi</i>.<br><table><tr><th>I</th><th>II</th><th>III</th></tr><tr><td>voodi</td><td>voodi</td><td>kaks voodit</td></tr><tr><td>riiul</td><td>riiuli</td><td>kaks riiulit</td></tr><tr><td>peegel</td><td>peegli</td><td>kaks peeglit</td></tr><tr><td>kapp</td><td>kapi</td><td>kaks kappi</td></tr><tr><td>lamp</td><td>lambi</td><td>kaks lampi</td></tr><tr><td>laud</td><td>laua</td><td>kaks lauda</td></tr><tr><td>padi</td><td>padja</td><td>kaks patja</td></tr><tr><td>pilt</td><td>pildi</td><td>kaks pilti</td></tr><tr><td>vaip</td><td>vaiba</td><td>kaks vaipa</td></tr><tr><td>tolmuimeja</td><td>tolmuimeja</td><td>kaks tolmuimejat</td></tr></table>Note the 'weak/strong' change: often II is short and III is long (kapp – kapi – kappi; laud – laua – lauda).",
+  "examples": [
+   {
+    "et": "Mul on üks tolmuimeja. Mul on kaks tolmuimejat.",
+    "en": "I have one vacuum cleaner. I have two vacuum cleaners."
+   },
+   {
+    "et": "Mul ei ole tolmuimejat.",
+    "en": "I don't have a vacuum cleaner."
+   },
+   {
+    "et": "Ei, mul ei ole fööni.",
+    "en": "No, I don't have a hairdryer."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Mul on kaks ___. (voodi)",
+    "answer": "voodit",
+    "accept": [],
+    "en": "I have two beds."
+   },
+   {
+    "prompt": "Mul on kaks ___. (riiul)",
+    "answer": "riiulit",
+    "accept": [],
+    "en": "I have two shelves."
+   },
+   {
+    "prompt": "Köögis on kaks ___. (kapp)",
+    "answer": "kappi",
+    "accept": [],
+    "en": "There are two cupboards in the kitchen."
+   },
+   {
+    "prompt": "Vannitoas on kaks ___. (peegel)",
+    "answer": "peeglit",
+    "accept": [],
+    "en": "There are two mirrors in the bathroom."
+   },
+   {
+    "prompt": "Mul on kaks ___. (padi)",
+    "answer": "patja",
+    "accept": [],
+    "en": "I have two pillows."
+   },
+   {
+    "prompt": "Toas on kaks ___. (lamp)",
+    "answer": "lampi",
+    "accept": [],
+    "en": "There are two lamps in the room."
+   },
+   {
+    "prompt": "Mul ei ole ___. (tolmuimeja)",
+    "answer": "tolmuimejat",
+    "accept": [],
+    "en": "I don't have a vacuum cleaner."
+   },
+   {
+    "prompt": "Ei, mul ei ole ___. (föön)",
+    "answer": "fööni",
+    "accept": [],
+    "en": "No, I don't have a hairdryer."
+   },
+   {
+    "prompt": "Mul ei ole ___. (auto)",
+    "answer": "autot",
+    "accept": [],
+    "en": "I don't have a car."
+   },
+   {
+    "prompt": "Elutoas on kolm ___. (pilt)",
+    "answer": "pilti",
+    "accept": [],
+    "en": "There are three pictures in the living room."
+   },
+   {
+    "prompt": "Köögis on kaks ___. (laud)",
+    "answer": "lauda",
+    "accept": [],
+    "en": "There are two tables in the kitchen."
+   },
+   {
+    "prompt": "Vannitoas on üks ___. (kraanikauss)",
+    "answer": "kraanikauss",
+    "accept": [],
+    "en": "There is one sink in the bathroom."
+   },
+   {
+    "prompt": "Majas ei ole ___. (lift)",
+    "answer": "lifti",
+    "accept": [],
+    "en": "There is no lift in the building."
+   },
+   {
+    "prompt": "Mul on kaks ___. (triikraud)",
+    "answer": "triikrauda",
+    "accept": [],
+    "en": "I have two irons."
+   },
+   {
+    "prompt": "Põrandal on kaks ___. (vaip)",
+    "answer": "vaipa",
+    "accept": [],
+    "en": "There are two rugs on the floor."
+   },
+   {
+    "prompt": "Magamistoas on kaks ___. (tekk)",
+    "answer": "tekki",
+    "accept": [],
+    "en": "There are two blankets in the bedroom."
+   }
+  ]
+ },
+ {
+  "lesson": 5,
+  "id": "postpositions-genitive",
+  "title": "Where is it? Postpositions with the genitive (all, peal, taga, ees, kõrval, kohal, vahel)",
+  "explanation": "Words like <b>all</b> (under), <b>peal</b> (on), <b>taga</b> (behind), <b>ees</b> (in front of), <b>kõrval</b> (next to), <b>kohal</b> (above), <b>vahel</b> (between), <b>juures</b> (by), <b>keskel</b> (in the middle) come <b>after</b> the noun, and the noun is in the <b>genitive (II form)</b>.<br><table><tr><th>I form</th><th>II form + postposition</th></tr><tr><td>tugitool</td><td>tugitooli all</td></tr><tr><td>diivan</td><td>diivani peal</td></tr><tr><td>laud</td><td>laua all</td></tr><tr><td>külmkapp</td><td>külmkapi kõrval</td></tr><tr><td>kraanikauss</td><td>kraanikausi kohal</td></tr><tr><td>aken</td><td>akna all</td></tr><tr><td>uks</td><td>ukse juures</td></tr><tr><td>tuba</td><td>toa keskel</td></tr></table><b>vahel</b>: both nouns in the genitive: <i>diivani ja tugitooli vahel</i>.<br>Also: <i>seinal</i> (on the wall), <i>põrandal</i> (on the floor), <i>nurgas</i> (in the corner), <i>laes</i> (on the ceiling).",
+  "examples": [
+   {
+    "et": "Liblikas on tugitooli all.",
+    "en": "The butterfly is under the armchair."
+   },
+   {
+    "et": "Akna all on jalgratas.",
+    "en": "There is a bicycle under the window."
+   },
+   {
+    "et": "Ukse juures on nagi.",
+    "en": "There is a coat rack by the door."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Liblikas on ___ all. (tugitool)",
+    "answer": "tugitooli",
+    "accept": [],
+    "en": "The butterfly is under the armchair."
+   },
+   {
+    "prompt": "Kass on ___ peal. (diivan)",
+    "answer": "diivani",
+    "accept": [],
+    "en": "The cat is on the sofa."
+   },
+   {
+    "prompt": "Raamat on ___ kõrval. (arvuti)",
+    "answer": "arvuti",
+    "accept": [],
+    "en": "The book is next to the computer."
+   },
+   {
+    "prompt": "Peegel on ___ kohal. (kraanikauss)",
+    "answer": "kraanikausi",
+    "accept": [],
+    "en": "The mirror is above the sink."
+   },
+   {
+    "prompt": "Tool on ___ ees. (laud)",
+    "answer": "laua",
+    "accept": [],
+    "en": "The chair is in front of the table."
+   },
+   {
+    "prompt": "Õhupall on diivani ja ___ vahel. (tugitool)",
+    "answer": "tugitooli",
+    "accept": [],
+    "en": "The balloon is between the sofa and the armchair."
+   },
+   {
+    "prompt": "Jalgratas on ___ all. (aken)",
+    "answer": "akna",
+    "accept": [],
+    "en": "The bicycle is under the window."
+   },
+   {
+    "prompt": "Nagi on ___ juures. (uks)",
+    "answer": "ukse",
+    "accept": [],
+    "en": "The coat rack is by the door."
+   },
+   {
+    "prompt": "Voodi on ___ keskel. (tuba)",
+    "answer": "toa",
+    "accept": [],
+    "en": "The bed is in the middle of the room."
+   },
+   {
+    "prompt": "Kass on ___ taga. (külmkapp)",
+    "answer": "külmkapi",
+    "accept": [],
+    "en": "The cat is behind the fridge."
+   },
+   {
+    "prompt": "Lamp on ___ peal. (riiul)",
+    "answer": "riiuli",
+    "accept": [],
+    "en": "The lamp is on the shelf."
+   },
+   {
+    "prompt": "Prügikast on ___ kõrval. (pliit)",
+    "answer": "pliidi",
+    "accept": [],
+    "en": "The bin is next to the stove."
+   },
+   {
+    "prompt": "Pilt on ___ kohal. (voodi)",
+    "answer": "voodi",
+    "accept": [],
+    "en": "The picture is above the bed."
+   },
+   {
+    "prompt": "Vaip on ___ ees. (diivan)",
+    "answer": "diivani",
+    "accept": [],
+    "en": "The rug is in front of the sofa."
+   },
+   {
+    "prompt": "Kohvitass on ___ peal. (diivanilaud)",
+    "answer": "diivanilaua",
+    "accept": [],
+    "en": "The coffee cup is on the coffee table."
+   }
+  ]
+ },
+ {
+  "lesson": 6,
+  "id": "adjective-plural",
+  "title": "Plural of adjectives (and nouns): genitive + -d",
+  "explanation": "The nominative plural = <b>genitive (II form) + -d</b>. With a plural subject (me, te, nad) the adjective is plural: <i>Me oleme sõbralikud.</i><br><table><tr><th>I form</th><th>II form</th><th>plural</th></tr><tr><td>sõbralik</td><td>sõbraliku</td><td>sõbralikud</td></tr><tr><td>tavaline</td><td>tavalise</td><td>tavalised</td></tr><tr><td>vaikne</td><td>vaikse</td><td>vaiksed</td></tr><tr><td>rumal</td><td>rumala</td><td>rumalad</td></tr><tr><td>töökas</td><td>tööka</td><td>töökad</td></tr><tr><td>tark</td><td>targa</td><td>targad</td></tr><tr><td>kurb</td><td>kurva</td><td>kurvad</td></tr><tr><td>arg</td><td>ara</td><td>arad</td></tr><tr><td>laisk</td><td>laisa</td><td>laisad</td></tr><tr><td>rõõmus</td><td>rõõmsa</td><td>rõõmsad</td></tr><tr><td>abivalmis</td><td>abivalmi</td><td>abivalmid</td></tr><tr><td>rahutu</td><td>rahutu</td><td>rahutud</td></tr></table>Know the genitive and the plural is easy. <b>mõlemad</b> = both: <i>Me mõlemad oleme lahked.</i>",
+  "examples": [
+   {
+    "et": "Me oleme sõbralikud ja lahked.",
+    "en": "We are friendly and kind."
+   },
+   {
+    "et": "Mina olen töökas, aga Paul on sportlik.",
+    "en": "I am hard-working, but Paul is sporty."
+   },
+   {
+    "et": "Me mõlemad oleme sõbralikud.",
+    "en": "We are both friendly."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Me oleme ___. (sõbralik)",
+    "answer": "sõbralikud",
+    "accept": [],
+    "en": "We are friendly."
+   },
+   {
+    "prompt": "Me oleme ___. (tark)",
+    "answer": "targad",
+    "accept": [],
+    "en": "We are clever."
+   },
+   {
+    "prompt": "Nad on ___. (laisk)",
+    "answer": "laisad",
+    "accept": [],
+    "en": "They are lazy."
+   },
+   {
+    "prompt": "Me oleme ___. (rõõmus)",
+    "answer": "rõõmsad",
+    "accept": [],
+    "en": "We are cheerful."
+   },
+   {
+    "prompt": "Te olete ___. (kurb)",
+    "answer": "kurvad",
+    "accept": [],
+    "en": "You are sad."
+   },
+   {
+    "prompt": "Nad on ___. (töökas)",
+    "answer": "töökad",
+    "accept": [],
+    "en": "They are hard-working."
+   },
+   {
+    "prompt": "Me oleme ___. (vaikne)",
+    "answer": "vaiksed",
+    "accept": [],
+    "en": "We are quiet."
+   },
+   {
+    "prompt": "Nad on ___. (tavaline)",
+    "answer": "tavalised",
+    "accept": [],
+    "en": "They are ordinary."
+   },
+   {
+    "prompt": "Me oleme ___. (arg)",
+    "answer": "arad",
+    "accept": [],
+    "en": "We are timid."
+   },
+   {
+    "prompt": "Nad on ___. (abivalmis)",
+    "answer": "abivalmid",
+    "accept": [],
+    "en": "They are helpful."
+   },
+   {
+    "prompt": "Me oleme ___. (julge)",
+    "answer": "julged",
+    "accept": [],
+    "en": "We are brave."
+   },
+   {
+    "prompt": "Nad on ___. (rahutu)",
+    "answer": "rahutud",
+    "accept": [],
+    "en": "They are restless."
+   },
+   {
+    "prompt": "Me mõlemad oleme ___. (viisakas)",
+    "answer": "viisakad",
+    "accept": [],
+    "en": "We are both polite."
+   },
+   {
+    "prompt": "Te olete ___. (tugev)",
+    "answer": "tugevad",
+    "accept": [],
+    "en": "You are strong."
+   },
+   {
+    "prompt": "Nad on ___. (intelligentne)",
+    "answer": "intelligentsed",
+    "accept": [],
+    "en": "They are intelligent."
+   }
+  ]
+ },
+ {
+  "lesson": 6,
+  "id": "comparative-superlative",
+  "title": "Comparative (-m) and superlative (kõige + -m)",
+  "explanation": "<b>Comparative</b> = genitive (II form) + <b>-m</b>: sõbralik → sõbraliku → <b>sõbralikum</b> (friendlier). 'than' = <b>kui</b>.<br><b>Superlative</b> = <b>kõige</b> + comparative: <i>kõige sõbralikum</i> (the friendliest).<br><table><tr><th>I</th><th>II</th><th>comparative</th></tr><tr><td>sõbralik</td><td>sõbraliku</td><td>sõbralikum</td></tr><tr><td>viisakas</td><td>viisaka</td><td>viisakam</td></tr><tr><td>vaikne</td><td>vaikse</td><td>vaiksem</td></tr><tr><td>julge</td><td>julge</td><td>julgem</td></tr><tr><td>rõõmus</td><td>rõõmsa</td><td>rõõmsam</td></tr><tr><td>intelligentne</td><td>intelligentse</td><td>intelligentsem</td></tr></table>Short words with a two-syllable genitive in <b>-a</b> change it to <b>-e</b>: vana → <b>vanem</b>, noor → <b>noorem</b>, pikk → <b>pikem</b>, tark → <b>targem</b>, suur → <b>suurem</b>. Irregular: hea → <b>parem</b>.<br>In lesson 7 you meet <b>vanem</b> (older) and <b>noorem</b> (younger): <i>Mul on vanem õde.</i>",
+  "examples": [
+   {
+    "et": "Kes on kõige sõbralikum?",
+    "en": "Who is the friendliest?"
+   },
+   {
+    "et": "Minu vend on pikem kui mina.",
+    "en": "My brother is taller than me."
+   },
+   {
+    "et": "Mul on üks vanem õde.",
+    "en": "I have one older sister."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Kes on kõige ___? (sõbralik)",
+    "answer": "sõbralikum",
+    "accept": [],
+    "en": "Who is the friendliest?"
+   },
+   {
+    "prompt": "Ta on kõige ___. (sportlik)",
+    "answer": "sportlikum",
+    "accept": [],
+    "en": "He is the sportiest."
+   },
+   {
+    "prompt": "Paul on kõige ___. (jutukas)",
+    "answer": "jutukam",
+    "accept": [],
+    "en": "Paul is the most talkative."
+   },
+   {
+    "prompt": "Anna on kõige ___. (viisakas)",
+    "answer": "viisakam",
+    "accept": [],
+    "en": "Anna is the most polite."
+   },
+   {
+    "prompt": "Ta on kõige ___. (vaikne)",
+    "answer": "vaiksem",
+    "accept": [],
+    "en": "She is the quietest."
+   },
+   {
+    "prompt": "Ta on kõige ___. (julge)",
+    "answer": "julgem",
+    "accept": [],
+    "en": "He is the bravest."
+   },
+   {
+    "prompt": "Kes on kõige ___? (rõõmus)",
+    "answer": "rõõmsam",
+    "accept": [],
+    "en": "Who is the most cheerful?"
+   },
+   {
+    "prompt": "Ta on kõige ___. (karismaatiline)",
+    "answer": "karismaatilisem",
+    "accept": [],
+    "en": "He is the most charismatic."
+   },
+   {
+    "prompt": "Kes on kõige ___? (intelligentne)",
+    "answer": "intelligentsem",
+    "accept": [],
+    "en": "Who is the most intelligent?"
+   },
+   {
+    "prompt": "Ta on kõige ___. (töökas)",
+    "answer": "töökam",
+    "accept": [],
+    "en": "She is the most hard-working."
+   },
+   {
+    "prompt": "Ta on kõige ___. (rahulik)",
+    "answer": "rahulikum",
+    "accept": [],
+    "en": "He is the calmest."
+   },
+   {
+    "prompt": "Kes on kõige ___? (tark)",
+    "answer": "targem",
+    "accept": [],
+    "en": "Who is the cleverest?"
+   },
+   {
+    "prompt": "Mul on üks ___ õde. (vana → older)",
+    "answer": "vanem",
+    "accept": [],
+    "en": "I have one older sister."
+   },
+   {
+    "prompt": "Mul on ___ vend. (noor → younger)",
+    "answer": "noorem",
+    "accept": [],
+    "en": "I have a younger brother."
+   },
+   {
+    "prompt": "Minu vend on ___ kui mina. (pikk)",
+    "answer": "pikem",
+    "accept": [],
+    "en": "My brother is taller than me."
+   }
+  ]
+ },
+ {
+  "lesson": 7,
+  "id": "olema-pronouns-possession",
+  "title": "olema (to be), my/your (minu/mu), and 'Mul on' (I have)",
+  "explanation": "<table><tr><th>olema</th><th>negative</th><th>possessive</th><th>to have</th><th>not to have (+ partitive)</th></tr><tr><td>mina/ma olen</td><td>ma ei ole</td><td>minu/mu</td><td>minul/mul on</td><td>mul ei ole</td></tr><tr><td>sina/sa oled</td><td>sa ei ole</td><td>sinu/su</td><td>sinul/sul on</td><td>sul ei ole</td></tr><tr><td>tema/ta on</td><td>ta ei ole</td><td>tema/ta</td><td>temal/tal on</td><td>tal ei ole</td></tr><tr><td>meie/me oleme</td><td>me ei ole</td><td>meie/me</td><td>meil on</td><td>meil ei ole</td></tr><tr><td>teie/te olete</td><td>te ei ole</td><td>teie/te</td><td>teil on</td><td>teil ei ole</td></tr><tr><td>nemad/nad on</td><td>nad ei ole</td><td>nende</td><td>nendel/neil on</td><td>neil ei ole</td></tr></table>The negative is the same for every person: <b>ei ole</b>.<br>Estonian has no verb 'to have': it says 'at me is': <b>Mul on koer.</b> In the negative the thing goes into the partitive: <b>Mul ei ole kassi.</b><br>Long forms (minu, minul) are for emphasis, short forms (mu, mul) are everyday.",
+  "examples": [
+   {
+    "et": "Mina olen abielus. Ma ei ole lahutatud.",
+    "en": "I am married. I am not divorced."
+   },
+   {
+    "et": "Minul on koer. Mul ei ole kassi.",
+    "en": "I have a dog. I don't have a cat."
+   },
+   {
+    "et": "Nende perekonnanimi on Kukk.",
+    "en": "Their surname is Kukk."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Mina ___ abielus. (olema)",
+    "answer": "olen",
+    "accept": [],
+    "en": "I am married."
+   },
+   {
+    "prompt": "Sina ___ abielus. (olema)",
+    "answer": "oled",
+    "accept": [],
+    "en": "You are married."
+   },
+   {
+    "prompt": "Meie ___ abielus. (olema)",
+    "answer": "oleme",
+    "accept": [],
+    "en": "We are married."
+   },
+   {
+    "prompt": "Teie ___ abielus. (olema)",
+    "answer": "olete",
+    "accept": [],
+    "en": "You (pl) are married."
+   },
+   {
+    "prompt": "Nemad ___ abielus. (olema)",
+    "answer": "on",
+    "accept": [],
+    "en": "They are married."
+   },
+   {
+    "prompt": "Ma ___ lahutatud. (olema, negative)",
+    "answer": "ei ole",
+    "accept": [],
+    "en": "I am not divorced."
+   },
+   {
+    "prompt": "Kas sa oled abielus? – Ei, ___. (olema, negative)",
+    "answer": "ei ole",
+    "accept": [],
+    "en": "Are you married? – No, I'm not."
+   },
+   {
+    "prompt": "___ on koer. (mina, short form)",
+    "answer": "Mul",
+    "accept": [
+     "Minul"
+    ],
+    "en": "I have a dog."
+   },
+   {
+    "prompt": "___ ei ole kassi. (tema, short form)",
+    "answer": "Tal",
+    "accept": [
+     "Temal"
+    ],
+    "en": "He/She doesn't have a cat."
+   },
+   {
+    "prompt": "Meil ei ole ___. (kass)",
+    "answer": "kassi",
+    "accept": [],
+    "en": "We don't have a cat."
+   },
+   {
+    "prompt": "___ on kaks last. (nemad)",
+    "answer": "Neil",
+    "accept": [
+     "Nendel"
+    ],
+    "en": "They have two children."
+   },
+   {
+    "prompt": "Kas ___ on vend? (sina, short form)",
+    "answer": "sul",
+    "accept": [
+     "sinul"
+    ],
+    "en": "Do you have a brother?"
+   },
+   {
+    "prompt": "Teil ei ole ___. (auto)",
+    "answer": "autot",
+    "accept": [],
+    "en": "You don't have a car."
+   },
+   {
+    "prompt": "___ perekonnanimi on Kukk. (meie, long form)",
+    "answer": "Meie",
+    "accept": [],
+    "en": "Our surname is Kukk."
+   },
+   {
+    "prompt": "___ perekonnanimi on Kukk. (nemad)",
+    "answer": "Nende",
+    "accept": [],
+    "en": "Their surname is Kukk."
+   },
+   {
+    "prompt": "Mis ___ naise nimi on? (sina, short form)",
+    "answer": "su",
+    "accept": [
+     "sinu"
+    ],
+    "en": "What is your wife's name?"
+   }
+  ]
+ },
+ {
+  "lesson": 7,
+  "id": "family-three-forms",
+  "title": "Family words in three forms: Mul on vend / Minu venna nimi / Mul on kaks venda",
+  "explanation": "<b>I form</b> (nominative): <i>Mul on üks vend. Minu vend on arst.</i><br><b>II form</b> (genitive) = 'of', before another noun: <i>Minu <b>venna</b> nimi on Leo.</i> (my brother's name)<br><b>III form</b> (partitive): after numbers 2+ and after <i>ei ole</i>: <i>Mul on kaks <b>venda</b>. Leal ei ole <b>venda</b>.</i><br><table><tr><th>I</th><th>II</th><th>III</th></tr><tr><td>õde</td><td>õe</td><td>õde</td></tr><tr><td>vend</td><td>venna</td><td>venda</td></tr><tr><td>poeg</td><td>poja</td><td>poega</td></tr><tr><td>tütar</td><td>tütre</td><td>tütart</td></tr><tr><td>laps</td><td>lapse</td><td>last</td></tr><tr><td>mees</td><td>mehe</td><td>meest</td></tr><tr><td>naine</td><td>naise</td><td>naist</td></tr><tr><td>elukaaslane</td><td>elukaaslase</td><td>elukaaslast</td></tr><tr><td>tüdruksõber</td><td>tüdruksõbra</td><td>tüdruksõpra</td></tr><tr><td>abikaasa</td><td>abikaasa</td><td>abikaasat</td></tr><tr><td>vanem (older)</td><td>vanema</td><td>vanemat</td></tr><tr><td>noorem (younger)</td><td>noorema</td><td>nooremat</td></tr></table>The adjective agrees: <i>Minu vanema õe nimi on Malle. Tarmol ei ole vanemat õde.</i>",
+  "examples": [
+   {
+    "et": "Mul on üks vend. Minu venna nimi on Leo.",
+    "en": "I have one brother. My brother's name is Leo."
+   },
+   {
+    "et": "Mul on kolm last: kaks tütart ja üks poeg.",
+    "en": "I have three children: two daughters and one son."
+   },
+   {
+    "et": "Minu vennal ei ole naist.",
+    "en": "My brother doesn't have a wife."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Minu ___ nimi on Leo. (vend)",
+    "answer": "venna",
+    "accept": [],
+    "en": "My brother's name is Leo."
+   },
+   {
+    "prompt": "Mul on kaks ___. (vend)",
+    "answer": "venda",
+    "accept": [],
+    "en": "I have two brothers."
+   },
+   {
+    "prompt": "Minu ___ nimi on Liis. (õde)",
+    "answer": "õe",
+    "accept": [],
+    "en": "My sister's name is Liis."
+   },
+   {
+    "prompt": "Mul on kaks ___. (tütar)",
+    "answer": "tütart",
+    "accept": [],
+    "en": "I have two daughters."
+   },
+   {
+    "prompt": "Minu ___ nimi on Helmi. (tütar)",
+    "answer": "tütre",
+    "accept": [],
+    "en": "My daughter's name is Helmi."
+   },
+   {
+    "prompt": "Minu ___ nimi on Villem. (poeg)",
+    "answer": "poja",
+    "accept": [],
+    "en": "My son's name is Villem."
+   },
+   {
+    "prompt": "Mul ei ole ___. (poeg)",
+    "answer": "poega",
+    "accept": [],
+    "en": "I don't have a son."
+   },
+   {
+    "prompt": "Mul on kolm ___. (laps)",
+    "answer": "last",
+    "accept": [],
+    "en": "I have three children."
+   },
+   {
+    "prompt": "Minu ___ nimi on Kris. (laps)",
+    "answer": "lapse",
+    "accept": [],
+    "en": "My child's name is Kris."
+   },
+   {
+    "prompt": "Minu ___ nimi on Arvo. (mees)",
+    "answer": "mehe",
+    "accept": [],
+    "en": "My husband's name is Arvo."
+   },
+   {
+    "prompt": "Minu vennal ei ole ___. (naine)",
+    "answer": "naist",
+    "accept": [],
+    "en": "My brother doesn't have a wife."
+   },
+   {
+    "prompt": "Minu ___ nimi on Mirja. (naine)",
+    "answer": "naise",
+    "accept": [],
+    "en": "My wife's name is Mirja."
+   },
+   {
+    "prompt": "Mul ei ole ___. (tüdruksõber)",
+    "answer": "tüdruksõpra",
+    "accept": [],
+    "en": "I don't have a girlfriend."
+   },
+   {
+    "prompt": "Mis su ___ nimi on? (poiss-sõber)",
+    "answer": "poiss-sõbra",
+    "accept": [],
+    "en": "What is your boyfriend's name?"
+   },
+   {
+    "prompt": "Minu ___ õe nimi on Malle. (vanem)",
+    "answer": "vanema",
+    "accept": [],
+    "en": "My older sister's name is Malle."
+   },
+   {
+    "prompt": "Tarmol ei ole ___ õde. (vanem)",
+    "answer": "vanemat",
+    "accept": [],
+    "en": "Tarmo doesn't have an older sister."
+   },
+   {
+    "prompt": "Minu ___ nimi on Kai. (elukaaslane)",
+    "answer": "elukaaslase",
+    "accept": [],
+    "en": "My partner's name is Kai."
+   }
+  ]
+ },
+ {
+  "lesson": 8,
+  "id": "dates-mitmendal",
+  "title": "Dates: 'Täna on esimene mai' and 'esimesel mail' (on the 1st of May)",
+  "explanation": "<b>What date is it?</b> Ordinal in the nominative + month: <i>Täna on <b>esimene</b> mai.</i><br><b>On which date? (Millal? Mitmendal?)</b> Ordinal genitive + <b>-l</b>, and the month also gets <b>-l</b>: <i>Minu sünnipäev on <b>kolmandal märtsil</b>.</i> (3.03)<br><table><tr><th>No.</th><th>nominative</th><th>Mitmendal?</th></tr><tr><td>1.</td><td>esimene</td><td>esimesel</td></tr><tr><td>2.</td><td>teine</td><td>teisel</td></tr><tr><td>11.</td><td>üheteistkümnes</td><td>üheteistkümnendal</td></tr><tr><td>12.</td><td>kaheteistkümnes</td><td>kaheteistkümnendal</td></tr><tr><td>16.</td><td>kuueteistkümnes</td><td>kuueteistkümnendal</td></tr><tr><td>20.</td><td>kahekümnes</td><td>kahekümnendal</td></tr><tr><td>21.</td><td>kahekümne esimene</td><td>kahekümne esimesel</td></tr><tr><td>24.</td><td>kahekümne neljas</td><td>kahekümne neljandal</td></tr><tr><td>30.</td><td>kolmekümnes</td><td>kolmekümnendal</td></tr><tr><td>31.</td><td>kolmekümne esimene</td><td>kolmekümne esimesel</td></tr></table>In compound numbers only the <b>last</b> part is an ordinal: <i>kahekümne neljas</i> (24th).<br>Months + l: jaanuaril, veebruaril, märtsil, aprillil, mail, juunil, juulil, augustil, septembril, oktoobril, novembril, detsembril.<br>'In' a month (no date) uses -s: <i>Detsembris on jõulud.</i> Seasons: talvel, kevadel, suvel, sügisel.",
+  "examples": [
+   {
+    "et": "Minu sünnipäev on kolmekümne esimesel detsembril.",
+    "en": "My birthday is on the 31st of December."
+   },
+   {
+    "et": "Eesti iseseisvuspäev on kahekümne neljandal veebruaril.",
+    "en": "Estonia's Independence Day is on the 24th of February."
+   },
+   {
+    "et": "Täna on kümnes mai.",
+    "en": "Today is the 10th of May."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Minu sünnipäev on ___ jaanuaril. (1.)",
+    "answer": "esimesel",
+    "accept": [],
+    "en": "My birthday is on the 1st of January."
+   },
+   {
+    "prompt": "Eesti iseseisvuspäev on ___ veebruaril. (24.)",
+    "answer": "kahekümne neljandal",
+    "accept": [],
+    "en": "Estonia's Independence Day is on the 24th of February."
+   },
+   {
+    "prompt": "Soome iseseisvuspäev on kuuendal ___. (detsember)",
+    "answer": "detsembril",
+    "accept": [],
+    "en": "Finland's Independence Day is on the 6th of December."
+   },
+   {
+    "prompt": "Minu sünnipäev on ___ märtsil. (3.)",
+    "answer": "kolmandal",
+    "accept": [],
+    "en": "My birthday is on the 3rd of March."
+   },
+   {
+    "prompt": "Läti iseseisvuspäev on ___ novembril. (18.)",
+    "answer": "kaheksateistkümnendal",
+    "accept": [],
+    "en": "Latvia's Independence Day is on the 18th of November."
+   },
+   {
+    "prompt": "USA iseseisvuspäev on neljandal ___. (juuli)",
+    "answer": "juulil",
+    "accept": [],
+    "en": "The USA's Independence Day is on the 4th of July."
+   },
+   {
+    "prompt": "Minu sünnipäev on ___ detsembril. (31.)",
+    "answer": "kolmekümne esimesel",
+    "accept": [],
+    "en": "My birthday is on the 31st of December."
+   },
+   {
+    "prompt": "Täna on ___ mai. (1.)",
+    "answer": "esimene",
+    "accept": [],
+    "en": "Today is the 1st of May."
+   },
+   {
+    "prompt": "Täna on ___ mai. (10.)",
+    "answer": "kümnes",
+    "accept": [],
+    "en": "Today is the 10th of May."
+   },
+   {
+    "prompt": "Minu sünnipäev on kahekümne teisel ___. (november)",
+    "answer": "novembril",
+    "accept": [],
+    "en": "My birthday is on the 22nd of November."
+   },
+   {
+    "prompt": "Leedu iseseisvuspäev on ___ veebruaril. (16.)",
+    "answer": "kuueteistkümnendal",
+    "accept": [],
+    "en": "Lithuania's Independence Day is on the 16th of February."
+   },
+   {
+    "prompt": "Minu sünnipäev on ___ augustil. (8.)",
+    "answer": "kaheksandal",
+    "accept": [],
+    "en": "My birthday is on the 8th of August."
+   },
+   {
+    "prompt": "Mehhiko iseseisvuspäev on kuueteistkümnendal ___. (september)",
+    "answer": "septembril",
+    "accept": [],
+    "en": "Mexico's Independence Day is on the 16th of September."
+   },
+   {
+    "prompt": "Minu sünnipäev on viiendal ___. (mai)",
+    "answer": "mail",
+    "accept": [],
+    "en": "My birthday is on the 5th of May."
+   },
+   {
+    "prompt": "Minu sünnipäev on ___ oktoobril. (12.)",
+    "answer": "kaheteistkümnendal",
+    "accept": [],
+    "en": "My birthday is on the 12th of October."
+   },
+   {
+    "prompt": "Minu sünnipäev on ___ juunil. (20.)",
+    "answer": "kahekümnendal",
+    "accept": [],
+    "en": "My birthday is on the 20th of June."
+   },
+   {
+    "prompt": "___ on sinu sünnipäev? (when?)",
+    "answer": "Millal",
+    "accept": [],
+    "en": "When is your birthday?"
+   }
+  ]
+ },
+ {
+  "lesson": 8,
+  "id": "present-tense",
+  "title": "Present tense: personal endings and the negative",
+  "explanation": "Take the stem from the 1st person (laulan → laula-) and add the endings:<br><table><tr><th>person</th><th>ending</th><th>laulma</th><th>käima</th><th>minema</th></tr><tr><td>mina/ma</td><td>-n</td><td>laulan</td><td>käin</td><td>lähen</td></tr><tr><td>sina/sa</td><td>-d</td><td>laulad</td><td>käid</td><td>lähed</td></tr><tr><td>tema/ta</td><td>-b</td><td>laulab</td><td>käib</td><td>läheb</td></tr><tr><td>meie/me</td><td>-me</td><td>laulame</td><td>käime</td><td>läheme</td></tr><tr><td>teie/te</td><td>-te</td><td>laulate</td><td>käite</td><td>lähete</td></tr><tr><td>nemad/nad</td><td>-vad</td><td>laulavad</td><td>käivad</td><td>lähevad</td></tr><tr><td>negative (all persons)</td><td>ei + stem</td><td>ei laula</td><td>ei käi</td><td>ei lähe</td></tr></table>Some verbs change: <b>sööma</b> → söön, sööb; <b>jooma</b> → joon; <b>tegema</b> → teen, teeb; <b>lugema</b> → loen.",
+  "examples": [
+   {
+    "et": "Ma laulan hümni. Ta ei laula hümni.",
+    "en": "I sing the anthem. He doesn't sing the anthem."
+   },
+   {
+    "et": "Me vaatame paraadi.",
+    "en": "We watch the parade."
+   },
+   {
+    "et": "Nad käivad toidupoes.",
+    "en": "They go to the grocery store."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma ___ paraadi. (vaatama)",
+    "answer": "vaatan",
+    "accept": [],
+    "en": "I watch the parade."
+   },
+   {
+    "prompt": "Sa ___ paraadi. (vaatama)",
+    "answer": "vaatad",
+    "accept": [],
+    "en": "You watch the parade."
+   },
+   {
+    "prompt": "Ta ___ hümni. (laulma)",
+    "answer": "laulab",
+    "accept": [],
+    "en": "He sings the anthem."
+   },
+   {
+    "prompt": "Me ___ hümni. (laulma)",
+    "answer": "laulame",
+    "accept": [],
+    "en": "We sing the anthem."
+   },
+   {
+    "prompt": "Te ___ toidupoes. (käima)",
+    "answer": "käite",
+    "accept": [],
+    "en": "You (pl) go to the grocery store."
+   },
+   {
+    "prompt": "Nad ___ toidupoes. (käima)",
+    "answer": "käivad",
+    "accept": [],
+    "en": "They go to the grocery store."
+   },
+   {
+    "prompt": "Ma ei ___ paraadi. (vaatama)",
+    "answer": "vaata",
+    "accept": [],
+    "en": "I don't watch the parade."
+   },
+   {
+    "prompt": "Nad ka ei ___ toidupoes. (käima)",
+    "answer": "käi",
+    "accept": [],
+    "en": "They don't go to the grocery store either."
+   },
+   {
+    "prompt": "Kas sa ___ toidupoes? (käima)",
+    "answer": "käid",
+    "accept": [],
+    "en": "Do you go to the grocery store?"
+   },
+   {
+    "prompt": "Ma ___ emale. (helistama)",
+    "answer": "helistan",
+    "accept": [],
+    "en": "I call my mother."
+   },
+   {
+    "prompt": "Ta ___ hernesuppi. (sööma)",
+    "answer": "sööb",
+    "accept": [],
+    "en": "He eats pea soup."
+   },
+   {
+    "prompt": "Ma ___ šampust. (jooma)",
+    "answer": "joon",
+    "accept": [],
+    "en": "I drink champagne."
+   },
+   {
+    "prompt": "Ma ___ hommikul Toompeale. (minema)",
+    "answer": "lähen",
+    "accept": [],
+    "en": "In the morning I go to Toompea."
+   },
+   {
+    "prompt": "Õhtul me ___ emale külla. (minema)",
+    "answer": "läheme",
+    "accept": [],
+    "en": "In the evening we go to visit mother."
+   },
+   {
+    "prompt": "Ma ei ___, sest on pidupäev! (koristama)",
+    "answer": "korista",
+    "accept": [],
+    "en": "I don't clean, because it's a holiday!"
+   },
+   {
+    "prompt": "Nad ___ Tallinnas. (elama)",
+    "answer": "elavad",
+    "accept": [],
+    "en": "They live in Tallinn."
+   },
+   {
+    "prompt": "Kodus ma ___ süüa. (tegema)",
+    "answer": "teen",
+    "accept": [],
+    "en": "At home I cook."
+   }
+  ]
+ },
+ {
+  "lesson": 8,
+  "id": "allative-kellele",
+  "title": "Kellele? To whom: the -le ending",
+  "explanation": "To whom you call, send, give, wish something: <b>genitive (II form) + -le</b>.<br><table><tr><th>I</th><th>II</th><th>Kellele?</th></tr><tr><td>ema</td><td>ema</td><td>emale</td></tr><tr><td>abikaasa</td><td>abikaasa</td><td>abikaasale</td></tr><tr><td>sõber</td><td>sõbra</td><td>sõbrale</td></tr><tr><td>tuttav</td><td>tuttava</td><td>tuttavale</td></tr><tr><td>kolleeg</td><td>kolleegi</td><td>kolleegile</td></tr><tr><td>naaber</td><td>naabri</td><td>naabrile</td></tr><tr><td>sugulane</td><td>sugulase</td><td>sugulasele</td></tr><tr><td>laps</td><td>lapse</td><td>lapsele</td></tr><tr><td>vend</td><td>venna</td><td>vennale</td></tr><tr><td>õde</td><td>õe</td><td>õele</td></tr></table>Typical verbs: <i>helistama</i> (call), <i>saatma</i> (send), <i>kinkima</i> (give a gift), <i>soovima</i> (wish), <i>kirjutama</i> (write), <i>külla minema</i> (go to visit).<br>Question word: <b>Kes? → Kellele?</b>",
+  "examples": [
+   {
+    "et": "Sünnipäeva hommikul me helistame emale.",
+    "en": "On the morning of her birthday we call mother."
+   },
+   {
+    "et": "Jõulude ajal saadame vanaemale jõulukaardi.",
+    "en": "At Christmas we send grandmother a Christmas card."
+   },
+   {
+    "et": "Õhtul läheme emale külla.",
+    "en": "In the evening we go to visit mother."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Ma helistan ___. (ema)",
+    "answer": "emale",
+    "accept": [],
+    "en": "I call my mother."
+   },
+   {
+    "prompt": "Ma kirjutan ___ sünnipäevakaardi. (kolleeg)",
+    "answer": "kolleegile",
+    "accept": [],
+    "en": "I write a birthday card to a colleague."
+   },
+   {
+    "prompt": "Me saadame ___ jõulukaardi. (vanaema)",
+    "answer": "vanaemale",
+    "accept": [],
+    "en": "We send grandmother a Christmas card."
+   },
+   {
+    "prompt": "Ma helistan ___. (sõber)",
+    "answer": "sõbrale",
+    "accept": [],
+    "en": "I call a friend."
+   },
+   {
+    "prompt": "Ma kingin ___ lilli. (naaber)",
+    "answer": "naabrile",
+    "accept": [],
+    "en": "I give flowers to the neighbour."
+   },
+   {
+    "prompt": "Ma soovin ___ head uut aastat. (tuttav)",
+    "answer": "tuttavale",
+    "accept": [],
+    "en": "I wish an acquaintance a happy New Year."
+   },
+   {
+    "prompt": "Ma lähen ___ külla. (sugulane)",
+    "answer": "sugulasele",
+    "accept": [],
+    "en": "I go to visit a relative."
+   },
+   {
+    "prompt": "Ma laulan ___ unelaulu. (laps)",
+    "answer": "lapsele",
+    "accept": [],
+    "en": "I sing a lullaby to the child."
+   },
+   {
+    "prompt": "Ma kingin ___ šokolaadi. (abikaasa)",
+    "answer": "abikaasale",
+    "accept": [],
+    "en": "I give my spouse chocolate."
+   },
+   {
+    "prompt": "Ma saadan ___ SMS-i. (õpetaja)",
+    "answer": "õpetajale",
+    "accept": [],
+    "en": "I send a text message to the teacher."
+   },
+   {
+    "prompt": "Ma helistan ___. (vend)",
+    "answer": "vennale",
+    "accept": [],
+    "en": "I call my brother."
+   },
+   {
+    "prompt": "Ma kirjutan ___. (õde)",
+    "answer": "õele",
+    "accept": [],
+    "en": "I write to my sister."
+   },
+   {
+    "prompt": "Ma kingin ___ raamatu. (isa)",
+    "answer": "isale",
+    "accept": [],
+    "en": "I give my father a book."
+   },
+   {
+    "prompt": "Ma soovin ___ häid pühi. (sõbranna)",
+    "answer": "sõbrannale",
+    "accept": [],
+    "en": "I wish my (female) friend happy holidays."
+   },
+   {
+    "prompt": "___ sa helistad? (kes)",
+    "answer": "Kellele",
+    "accept": [],
+    "en": "Who are you calling?"
+   }
+  ]
+ },
+ {
+  "lesson": 9,
+  "id": "appearance-plural",
+  "title": "Describing appearance: 'Tal on pruunid silmad', 'Ta on pikka kasvu'",
+  "explanation": "<b>Mul/Tal on</b> + adjective + noun. Eyes (<i>silmad</i>) and hair (<i>juuksed</i>) are plural, so the adjective is plural too (genitive + -d):<br><table><tr><th>I</th><th>II</th><th>plural</th></tr><tr><td>punane</td><td>punase</td><td>punased</td></tr><tr><td>sinine</td><td>sinise</td><td>sinised</td></tr><tr><td>roheline</td><td>rohelise</td><td>rohelised</td></tr><tr><td>must</td><td>musta</td><td>mustad</td></tr><tr><td>pruun</td><td>pruuni</td><td>pruunid</td></tr><tr><td>hall</td><td>halli</td><td>hallid</td></tr><tr><td>pikk</td><td>pika</td><td>pikad</td></tr><tr><td>lühike</td><td>lühikese</td><td>lühikesed</td></tr><tr><td>hele</td><td>heleda</td><td>heledad</td></tr><tr><td>tume</td><td>tumeda</td><td>tumedad</td></tr></table><b>lokkis</b> (curly) never changes: <i>mustad lokkis juuksed</i>.<br>Height uses the partitive: <b>Ta on pikka / keskmist / lühikest kasvu.</b><br>Single items: <i>Tal on habe. Tal on vuntsid. Tal on prillid. Ta on kiilakas.</i>",
+  "examples": [
+   {
+    "et": "Mul on mustad lokkis juuksed.",
+    "en": "I have black curly hair."
+   },
+   {
+    "et": "Tal on sinised silmad ja lühikesed hallid juuksed.",
+    "en": "He has blue eyes and short grey hair."
+   },
+   {
+    "et": "Ta on pikka kasvu ja sale.",
+    "en": "She is tall and slim."
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Tal on ___ silmad. (sinine)",
+    "answer": "sinised",
+    "accept": [],
+    "en": "He has blue eyes."
+   },
+   {
+    "prompt": "Tal on ___ juuksed. (pikk)",
+    "answer": "pikad",
+    "accept": [],
+    "en": "She has long hair."
+   },
+   {
+    "prompt": "Mul on ___ lokkis juuksed. (must)",
+    "answer": "mustad",
+    "accept": [],
+    "en": "I have black curly hair."
+   },
+   {
+    "prompt": "Tal on ___ juuksed. (lühike)",
+    "answer": "lühikesed",
+    "accept": [],
+    "en": "He has short hair."
+   },
+   {
+    "prompt": "Tal on ___ silmad. (pruun)",
+    "answer": "pruunid",
+    "accept": [],
+    "en": "She has brown eyes."
+   },
+   {
+    "prompt": "Tal on ___ juuksed. (hall)",
+    "answer": "hallid",
+    "accept": [],
+    "en": "He has grey hair."
+   },
+   {
+    "prompt": "Tal on ___ juuksed. (hele)",
+    "answer": "heledad",
+    "accept": [],
+    "en": "She has fair hair."
+   },
+   {
+    "prompt": "Tal on ___ juuksed. (tume)",
+    "answer": "tumedad",
+    "accept": [],
+    "en": "He has dark hair."
+   },
+   {
+    "prompt": "Tal on ___ silmad. (roheline)",
+    "answer": "rohelised",
+    "accept": [],
+    "en": "She has green eyes."
+   },
+   {
+    "prompt": "Tal on ___ juuksed. (punane)",
+    "answer": "punased",
+    "accept": [],
+    "en": "She has red hair."
+   },
+   {
+    "prompt": "Tal on ___ juuksed. (poolpikk)",
+    "answer": "poolpikad",
+    "accept": [],
+    "en": "She has medium-length hair."
+   },
+   {
+    "prompt": "Tal on ___ juuksed. (sirge)",
+    "answer": "sirged",
+    "accept": [],
+    "en": "She has straight hair."
+   },
+   {
+    "prompt": "Minu silmad on ___. (hall)",
+    "answer": "hallid",
+    "accept": [],
+    "en": "My eyes are grey."
+   },
+   {
+    "prompt": "Ta on ___ kasvu. (pikk)",
+    "answer": "pikka",
+    "accept": [],
+    "en": "He is tall."
+   },
+   {
+    "prompt": "Ta on ___ kasvu. (lühike)",
+    "answer": "lühikest",
+    "accept": [],
+    "en": "She is short."
+   },
+   {
+    "prompt": "Ta on ___ kasvu. (keskmine)",
+    "answer": "keskmist",
+    "accept": [],
+    "en": "He is of medium height."
+   },
+   {
+    "prompt": "Sul on nii ilusad ___ silmad! (sinine)",
+    "answer": "sinised",
+    "accept": [],
+    "en": "You have such beautiful blue eyes!"
+   }
+  ]
+ },
+ {
+  "lesson": 10,
+  "id": "from-to-st-ni",
+  "title": "From ... to ...: -st and -ni (esmaspäevast reedeni, kümnest kuueni)",
+  "explanation": "<b>From</b> = genitive (II form) + <b>-st</b>; <b>until / to</b> = genitive + <b>-ni</b>. <b>kuni</b> (until) can be added before the -ni word.<br>Days: <i>Pood on avatud esmaspäevast reedeni.</i> (E–R). <i>Pood on avatud esmaspäevast kuni kolmapäevani.</i><br>Hours: <i>Pood on avatud kümnest kuueni.</i> (10–18). Question: <b>Mis kellast mis kellani?</b> / <b>Mis päevast mis päevani?</b><br><table><tr><th>number</th><th>II form</th><th>from</th><th>until</th></tr><tr><td>üks</td><td>ühe</td><td>ühest</td><td>üheni</td></tr><tr><td>kaks</td><td>kahe</td><td>kahest</td><td>kaheni</td></tr><tr><td>kolm</td><td>kolme</td><td>kolmest</td><td>kolmeni</td></tr><tr><td>neli</td><td>nelja</td><td>neljast</td><td>neljani</td></tr><tr><td>viis</td><td>viie</td><td>viiest</td><td>viieni</td></tr><tr><td>kuus</td><td>kuue</td><td>kuuest</td><td>kuueni</td></tr><tr><td>seitse</td><td>seitsme</td><td>seitsmest</td><td>seitsmeni</td></tr><tr><td>kaheksa</td><td>kaheksa</td><td>kaheksast</td><td>kaheksani</td></tr><tr><td>üheksa</td><td>üheksa</td><td>üheksast</td><td>üheksani</td></tr><tr><td>kümme</td><td>kümne</td><td>kümnest</td><td>kümneni</td></tr><tr><td>üksteist</td><td>üheteistkümne</td><td>üheteistkümnest</td><td>üheteistkümneni</td></tr><tr><td>kaksteist</td><td>kaheteistkümne</td><td>kaheteistkümnest</td><td>kaheteistkümneni</td></tr></table>Shop hours use the 12-hour way of speaking: 10–18 = <i>kümnest kuueni</i>.<br>On a single day: day + <b>-l</b>: <i>esmaspäeval, laupäeval ja pühapäeval</i>.",
+  "examples": [
+   {
+    "et": "Pood on avatud esmaspäevast reedeni kümnest kuueni.",
+    "en": "The shop is open Monday to Friday from ten to six."
+   },
+   {
+    "et": "Laupäeval ja pühapäeval on pood suletud.",
+    "en": "On Saturday and Sunday the shop is closed."
+   },
+   {
+    "et": "Mis kellast mis kellani pood avatud on?",
+    "en": "From what time to what time is the shop open?"
+   }
+  ],
+  "drills": [
+   {
+    "prompt": "Pood on avatud ___ reedeni. (esmaspäev)",
+    "answer": "esmaspäevast",
+    "accept": [],
+    "en": "The shop is open from Monday to Friday."
+   },
+   {
+    "prompt": "Pood on avatud esmaspäevast ___. (reede)",
+    "answer": "reedeni",
+    "accept": [],
+    "en": "The shop is open from Monday to Friday."
+   },
+   {
+    "prompt": "Pood on avatud ___ kuueni. (kümme)",
+    "answer": "kümnest",
+    "accept": [],
+    "en": "The shop is open from ten to six."
+   },
+   {
+    "prompt": "Pood on avatud kümnest ___. (kuus)",
+    "answer": "kuueni",
+    "accept": [],
+    "en": "The shop is open from ten to six."
+   },
+   {
+    "prompt": "Pood on avatud ___ viieni. (üheksa)",
+    "answer": "üheksast",
+    "accept": [],
+    "en": "The shop is open from nine to five."
+   },
+   {
+    "prompt": "Pood on avatud kaheksast ___. (seitse)",
+    "answer": "seitsmeni",
+    "accept": [],
+    "en": "The shop is open from eight to seven."
+   },
+   {
+    "prompt": "Pood on avatud kümnest ___. (kolm)",
+    "answer": "kolmeni",
+    "accept": [],
+    "en": "The shop is open from ten to three."
+   },
+   {
+    "prompt": "Pood on avatud kümnest ___. (neli)",
+    "answer": "neljani",
+    "accept": [],
+    "en": "The shop is open from ten to four."
+   },
+   {
+    "prompt": "Pood on avatud kümnest ___. (kaks)",
+    "answer": "kaheni",
+    "accept": [],
+    "en": "The shop is open from ten to two."
+   },
+   {
+    "prompt": "Pood on avatud ___ kaheksani. (viis)",
+    "answer": "viiest",
+    "accept": [],
+    "en": "The shop is open from five to eight."
+   },
+   {
+    "prompt": "Kohvik on avatud ___ üheni. (üksteist)",
+    "answer": "üheteistkümnest",
+    "accept": [],
+    "en": "The café is open from eleven to one."
+   },
+   {
+    "prompt": "Pood on avatud ___ kümneni. (kaheksa)",
+    "answer": "kaheksast",
+    "accept": [],
+    "en": "The shop is open from eight to ten."
+   },
+   {
+    "prompt": "Pood on avatud ___ pühapäevani. (teisipäev)",
+    "answer": "teisipäevast",
+    "accept": [],
+    "en": "The shop is open from Tuesday to Sunday."
+   },
+   {
+    "prompt": "Pood on avatud reedest ___. (esmaspäev)",
+    "answer": "esmaspäevani",
+    "accept": [],
+    "en": "The shop is open from Friday to Monday."
+   },
+   {
+    "prompt": "Pood on avatud ___ kuni neljapäevani. (kolmapäev)",
+    "answer": "kolmapäevast",
+    "accept": [],
+    "en": "The shop is open from Wednesday until Thursday."
+   },
+   {
+    "prompt": "___ on pood suletud. (laupäev, on which day?)",
+    "answer": "Laupäeval",
+    "accept": [],
+    "en": "On Saturday the shop is closed."
+   },
+   {
+    "prompt": "Mis ___ mis kellani on pood avatud? (kell)",
+    "answer": "kellast",
+    "accept": [],
+    "en": "From what time to what time is the shop open?"
+   }
+  ]
+ }
+]
