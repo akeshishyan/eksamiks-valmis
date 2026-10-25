@@ -1,5 +1,5 @@
 // Offline cache: serve from cache, refresh in the background (stale-while-revalidate).
-const CACHE = "eksamiks-v1";
+const CACHE = "eksamiks-v2";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 const CDN = ["https://cdn.jsdelivr.net/", "https://fonts.googleapis.com/", "https://fonts.gstatic.com/"];
 
@@ -12,6 +12,8 @@ self.addEventListener("activate", e => {
 self.addEventListener("fetch", e => {
   const req = e.request;
   if (req.method !== "GET") return;
+  // Audio is streamed with Range requests; let the network handle it.
+  if (req.headers.has("range") || new URL(req.url).pathname.includes("/audio/")) return;
   const sameOrigin = new URL(req.url).origin === self.location.origin;
   if (!sameOrigin && !CDN.some(p => req.url.startsWith(p))) return;
   e.respondWith(caches.open(CACHE).then(async cache => {
