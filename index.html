@@ -327,6 +327,41 @@ function setupAI() {
 }
 window.addEventListener("sdk-ready", () => { setupAI(); render() });
 if (window.Anthropic) setupAI();
+/* Without an API key: hand the task to the Claude app / claude.ai (uses the person's subscription). */
+const claudeUrl = prompt => "https://claude.ai/new?q=" + encodeURIComponent(prompt);
+const PROMPTS = {
+  writing: (t, text) => `You are an examiner for the Estonian state A2 language exam (Harno). Check my answer to this writing task. Explain everything in simple English.
+
+TASK (Estonian): ${t.task}
+${t.card ? "BUSINESS CARD: " + t.card.card.join(" | ") + "\n" : ""}CONTENT POINTS TO COVER: ${t.points.join("; ")}
+MINIMUM WORDS: ${t.min}
+
+MY TEXT:
+${text}
+
+Please give me:
+1. A rough score out of 10 against the Harno A2 criteria (on topic, word count, every content point covered, understandable).
+2. Which content points I covered and which I missed.
+3. My mistakes as a list: wrong → right, with a short reason (name the case or rule).
+4. My text corrected, keeping my ideas and simple A2 language.
+5. One concrete tip for next time.`,
+  intro: text => `I'm preparing for the Estonian A2 oral exam (Harno). The exam starts with me introducing myself. Correct my self-introduction and make it natural but simple A2 Estonian, 6-9 short sentences that are easy to memorise. Keep my personal facts. List my mistakes (wrong → right, short English reason), then give the polished version, then one tip.
+
+MY TEXT:
+${text}`,
+  examiner: topic => `Let's practise the oral part of the Estonian state A2 exam (Harno). You are a friendly examiner. Topic: "${topic.et}" (${topic.en}).
+Rules: ask ONE short, simple A2-level question at a time in Estonian, with the English translation in brackets. After each of my answers: 1) one or two short sentences of feedback in English on my main error, 2) my answer corrected in natural A2 Estonian (skip if it was correct), 3) your next question. Follow up naturally on what I say. Start now with a greeting and your first question.`,
+};
+const claudeBtn = (kind, label) => `<a class="btn primary" href="https://claude.ai/new" target="_blank" rel="noopener" data-claude="${kind}">${label}</a>`;
+document.addEventListener("click", e => {
+  const a = e.target.closest("[data-claude]"); if (!a) return;
+  let prompt = "";
+  if (a.dataset.claude === "writing") { const t = WRITE_TASKS.find(w => w.id === V.x.id); prompt = PROMPTS.writing(t, V.x.text); S.writes.unshift({ id: t.id, title: t.title, text: V.x.text, t: Date.now() }); S.writes = S.writes.slice(0, 30); save() }
+  if (a.dataset.claude === "intro") prompt = PROMPTS.intro(S.intro);
+  if (a.dataset.claude === "examiner") prompt = PROMPTS.examiner(TOPICS[V.s.chatTopic]);
+  a.href = claudeUrl(prompt);
+  try { navigator.clipboard.writeText(prompt).catch(() => {}) } catch {}
+});
 const S_ERR = { type: "object", additionalProperties: false, required: ["wrong", "right", "why"], properties: { wrong: { type: "string" }, right: { type: "string" }, why: { type: "string" } } };
 const SCHEMA = {
   writing: { type: "object", additionalProperties: false, required: ["score", "points", "errors", "corrected", "tip"], properties: {
@@ -792,7 +827,7 @@ VIEWS.writing = () => {
     <textarea id="x-text" spellcheck="false" placeholder="Kirjuta siia…">${esc(x.text)}</textarea>
     <div class="row between">${keysHtml()}<span class="wc ${n >= t.min ? "pill good" : "pill warn"}" id="x-wc">${n} / ${t.min}+ words</span></div>
     <div class="row">
-      ${sample ? `<button class="btn primary" data-act="x-ai" ${x.busy || n < 5 ? "disabled" : ""}>${x.busy ? "Checking…" : "Check my text with AI"}</button>` : `<button class="btn" data-tab="settings">Set up AI feedback</button>`}
+      ${sample ? `<button class="btn primary" data-act="x-ai" ${x.busy || n < 5 ? "disabled" : ""}>${x.busy ? "Checking…" : "Check my text with AI"}</button>` : `${claudeBtn("writing", "Check with Claude")}`}
       <button class="btn" data-act="x-save" ${n < 5 ? "disabled" : ""}>Save text</button>
       ${t.model ? `<button class="btn ghost" data-act="x-model">${x.showModel ? "Hide" : "Show"} model answer</button>` : ""}
     </div>
@@ -883,7 +918,7 @@ VIEWS.speaking = () => {
       <p class="muted">The speaking test opens with you introducing yourself. Write 6–8 sentences you can say smoothly in under a minute: name, where you're from, where you live, work, family, hobbies, why you learn Estonian. Then memorise it.</p>
       <textarea id="s-intro" placeholder="Tere! Minu nimi on … Ma olen pärit … Ma elan …">${esc(S.intro)}</textarea>
       <div class="row">${keysHtml()}</div>
-      <div class="row">${sample ? `<button class="btn primary" data-act="s-introai" ${s.busy ? "disabled" : ""}>${s.busy ? "Checking…" : "Check with AI"}</button>` : ""}${S.intro && etVoice ? `<button class="btn" data-say="${esc(S.intro)}">Read it to me</button>` : ""}<span class="small muted">Saved automatically.</span></div>
+      <div class="row">${sample ? `<button class="btn primary" data-act="s-introai" ${s.busy ? "disabled" : ""}>${s.busy ? "Checking…" : "Check with AI"}</button>` : claudeBtn("intro", "Check with Claude")}${S.intro && etVoice ? `<button class="btn" data-say="${esc(S.intro)}">Read it to me</button>` : ""}<span class="small muted">Saved automatically.</span></div>
       ${s.err ? `<div class="fb wrong">${esc(s.err)}</div>` : ""}
       ${s.introFb ? `${(s.introFb.errors || []).map(er => `<div class="err"><s>${esc(er.wrong)}</s><ins>${esc(er.right)}</ins><span class="why">${esc(er.why)}</span></div>`).join("")}<div class="stack"><span class="label">Polished version to memorise</span><div class="model">${esc(s.introFb.corrected)}</div></div>${s.introFb.tip ? `<p><b>Tip:</b> ${esc(s.introFb.tip)}</p>` : ""}` : ""}
     </div>`;
@@ -907,7 +942,9 @@ VIEWS.speaking = () => {
       ${(t.checklist_en || []).length ? `<div class="stack"><span class="label">What examiners listen for</span><ul class="tight small">${t.checklist_en.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>` : ""}
     </div></details>`).join("") || `<div class="card empty">No booklet speaking tasks loaded.</div>`;
   } else {
-    body = sample ? examinerView() : `<div class="card empty"><h3>Add your Claude API key to use the AI examiner</h3><p>The key is stored only on this device. Meanwhile, use Topic questions.</p><button class="btn primary" data-tab="settings">Open Settings</button></div>`;
+    body = sample ? examinerView() : `<div class="card"><h3>Practise with Claude as your examiner</h3><p class="muted">Pick a topic, then open Claude. It asks you one question at a time in Estonian and corrects each answer. This uses your Claude subscription. In the Claude app you can also answer by voice.</p>
+      <select id="s-ctopic">${TOPICS.map((t, i) => `<option value="${i}" ${i === V.s.chatTopic ? "selected" : ""}>${esc(t.et)} · ${esc(t.en)}</option>`).join("")}</select>
+      <div class="row">${claudeBtn("examiner", "Start in Claude")}</div></div>`;
   }
   return `<div class="intro"><h2>Speaking</h2><p class="muted">15 minutes with an examiner and usually one other candidate: introduce yourself, describe a picture and answer questions on its topic, then ask and answer questions from a card.</p></div>
   <div class="row">${modes.map(([k, l]) => `<button class="chip" data-smode="${k}" aria-pressed="${s.mode === k}">${l}</button>`).join("")}</div>
@@ -1039,7 +1076,8 @@ VIEWS.settings = () => {
   return `<div class="intro"><h2>Settings</h2></div>
   <div class="card">
     <h3>AI feedback</h3>
-    <p class="muted">Writing feedback, the self-introduction check and the AI examiner use Claude (${MODEL}) through your own Anthropic API key. Create one at <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a>. The key is stored only on this device and sent only to Anthropic. A writing check costs roughly 2–5 US cents.</p>
+    <p><b>With a Claude subscription (Pro or Max), you don't need a key.</b> The “Check with Claude” and “Start in Claude” buttons open Claude with your text and the examiner instructions filled in. The prompt is also copied, so if Claude opens empty, paste it in.</p>
+    <p class="muted"><b>Optional, for instant feedback inside this app:</b> writing feedback, the self-introduction check and the AI examiner use Claude (${MODEL}) through your own Anthropic API key. Create one at <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a>. The key is stored only on this device and sent only to Anthropic. A writing check costs roughly 2–5 US cents. API keys are billed separately from a Claude subscription.</p>
     <input type="password" id="set-key" autocomplete="off" spellcheck="false" placeholder="sk-ant-…" value="${esc(apiKey)}">
     <div class="row"><button class="btn primary" data-act="set-save" ${st.busy ? "disabled" : ""}>${st.busy ? "Testing…" : "Save and test key"}</button>${apiKey ? `<button class="btn ghost" data-act="set-clear">Remove key</button>` : ""}<span class="pill ${sample ? "good" : ""}">${sample ? "AI on" : apiKey && !window.Anthropic ? "Loading…" : "AI off"}</span></div>
     ${st.msg ? `<div class="fb ${st.ok ? "right" : "wrong"}">${esc(st.msg)}</div>` : ""}
