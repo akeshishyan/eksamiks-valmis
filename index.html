@@ -767,7 +767,7 @@ VIEWS.reading = () => {
     ${s.instr ? `<p><b>${esc(s.instr)}</b>${s.instr_en ? `<br><span class="small muted">${esc(s.instr_en)}</span>` : ""}</p>` : ""}
     ${s.kind === "kuulamine" && !listen ? `<div class="fb almost small">Listening task. In the exam you hear each recording twice. The text below is a reconstruction that matches the official answers, not the original recording. For real listening practice, play the official MP3 and answer before reading the text.${s.audio ? ` <a href="${esc(s.audio)}" target="_blank" rel="noopener">Official Harno recording (MP3)</a>` : ""}</div>` : ""}
     ${s.text ? (textHidden ? `<div class="row"><button class="btn ghost sm" data-act="r-showtext">Show transcript</button><span class="small muted">Try answering from the audio first.</span></div>` : `<div class="text">${esc(s.text)}</div>`) : ""}
-    ${s.text_en ? `<div class="row"><button class="btn ghost sm" data-act="r-en">${r.showEn ? "Hide" : "Show"} English translation</button></div>${r.showEn ? `<div class="text muted">${esc(s.text_en)}</div>` : ""}` : ""}
+    ${s.text_en && !textHidden ? `<div class="row"><button class="btn ghost sm" data-act="r-en">${r.showEn ? "Hide" : "Show"} English translation</button></div>${r.showEn ? `<div class="text muted">${esc(s.text_en)}</div>` : ""}` : ""}
     ${(s.glossary || []).length ? `<details><summary>Glossary (${s.glossary.length} words)</summary><div class="gloss">${s.glossary.map(x => `<span><b>${esc(x.et)}</b> · ${esc(x.en)}</span>`).join("")}</div></details>` : ""}
   </div>
   ${s.items.length ? `<div class="card"><h3>Questions</h3><div>${qs}</div>
